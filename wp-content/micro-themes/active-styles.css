@@ -1,0 +1,106 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= Geral ===================== */
+
+/** Geral >> Post 5 uagb rm title wrap **/
+#post-5 .uagb-rm__title-wrap {
+	
+}
+
+
+/*= Conteúdo ================= */
+
+/** Conteúdo >> Titulo Cardápio Home **/
+.cardapioHome .uagb-rm__title-wrap {
+	width: 270px !important;
+}
+
+/** Conteúdo >> preço cardapio home **/
+.cardapioHome .uagb-rm__price-wrap {
+	width: 80px !important;
+}
+
+/** Conteúdo >> preco div cardapio home **/
+.cardapioHome .uagb-rm__price {
+	color: #c66300 !important;
+	font-size: 30px !important;
+}
+
+/** Conteúdo >> Botão do cardapio Home **/
+.btnCardapioHome .uagb-buttons-repeater {
+	font-family: "Josefin Sans" !important;
+	color: #ffffff !important;
+	background-color: #f6820a !important;
+	padding: 10px 80px 10px 80px !important;
+	border-width: medium !important;
+	border-style: none !important;
+	border-radius: 50px !important;
+}
+.btnCardapioHome .uagb-buttons-repeater:hover {
+	background-color: #c66300 !important;
+}
+
+/** Conteúdo >> preços do cardapio - page cardapio **/
+.cardapioPage .uagb-rm__price {
+	color: #ff8800 !important;
+	font-weight: 600 !important;
+}
+
+
+/*= Rodapé =================== */
+
+/** Rodapé >> redes sociais footer **/
+footer .ast-builder-social-element {
+	width: 100% !important;
+}
+
+/** Rodapé >> barra de copy - footer **/
+#colophon > .ast-builder-grid-row-tablet-full {
+	padding-top: 0 !important;
+	padding-bottom: 8px !important;
+}
+
+
+/*( Celular )*/
+@media (max-width: 480px) {
+
+	/*= Conteúdo ================= */
+
+	/** Conteúdo >> secao bem vindo  - mobile **/
+	.uagb-block-81334dcc .uagb-ifb-title {
+	font-size: 55px !important;
+	line-height: 70px !important;
+}
+
+	/** Conteúdo >> secao bem vindo - descricao - mobile **/
+	.uagb-block-81334dcc .uagb-ifb-desc {
+	font-size: 28px !important;
+	line-height: 35px !important;
+}
+
+	/** Conteúdo >> Titulo Cardápio Home **/
+	.cardapioHome .uagb-rm__title-wrap {
+	width: 200px !important;
+}
+
+	/** Conteúdo >> cardapioHome - divider **/
+	.cardapioHome .uagb-rest_menu_repeater {
+	border-bottom: 1px solid #ede8e8 !important;
+}
+
+	/** Conteúdo >> Botão do cardapio Home **/
+	.btnCardapioHome .uagb-buttons-repeater {
+	font-size: 10px !important;
+}
+
+	/** Conteúdo >> BtnCardapioHome - text **/
+	.btnCardapioHome .uagb-button__link {
+	font-size: 15px !important;
+	margin-right: -60px !important;
+	margin-left: -60px !important;
+}
+
+
+}
+

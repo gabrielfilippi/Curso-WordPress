@@ -1,0 +1,157 @@
+# Translation of Plugins - WP Telegram (Auto Post and Notifications) - Stable (latest release) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - WP Telegram (Auto Post and Notifications) - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-11-27 11:59:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - WP Telegram (Auto Post and Notifications) - Stable (latest release)\n"
+
+#: admin/Admin.php:77
+msgid "Settings"
+msgstr "Configurações"
+
+#: languages/wptelegram-js-translations.php:575
+msgid "Notifications to Users"
+msgstr "Notificações aos usuários"
+
+#: languages/wptelegram-js-translations.php:152
+msgid "Miscellaneous"
+msgstr "Diversos"
+
+#: languages/wptelegram-js-translations.php:667
+msgid "Success"
+msgstr "Sucesso"
+
+#: languages/wptelegram-js-translations.php:602
+msgid "Need help?"
+msgstr "Preciso de ajuda?"
+
+#: languages/wptelegram-js-translations.php:521
+msgid "Disable Web Page Preview"
+msgstr "Desativar visualização da página da Web"
+
+#: languages/wptelegram-js-translations.php:512
+msgid "Chat ID"
+msgstr "ID do Chat"
+
+#: languages/wptelegram-js-translations.php:360
+msgid "Username must start with %s"
+msgstr "O nome de usuário deve começar com %s"
+
+#: languages/wptelegram-js-translations.php:108
+msgid "Save Changes"
+msgstr "Salvar alterações"
+
+#: languages/wptelegram-js-translations.php:590
+msgid "INSTRUCTIONS!"
+msgstr "INSTRUÇÕES!"
+
+#: languages/wptelegram-js-translations.php:515
+msgid "Remove settings on uninstall"
+msgstr "Remova as configurações na desinstalação"
+
+#: languages/wptelegram-js-translations.php:118
+msgid "Notification Settings"
+msgstr "Configurações de notificação"
+
+#: languages/wptelegram-js-translations.php:533
+msgid "Excerpt Source"
+msgstr "Trecho da fonte"
+
+#: languages/wptelegram-js-translations.php:281
+msgid "Post Content"
+msgstr "Conteúdo do post"
+
+#: languages/wptelegram-js-translations.php:287
+msgid "Post Excerpt"
+msgstr "Trecho do post"
+
+#: languages/wptelegram-js-translations.php:527
+msgid "Excerpt Length"
+msgstr "Comprimento do trecho"
+
+#: languages/wptelegram-js-translations.php:539
+msgid "Image Position"
+msgstr "Posição da imagem"
+
+#: languages/wptelegram-js-translations.php:299
+msgid "Before the Text"
+msgstr "Antes do Texto"
+
+#: languages/wptelegram-js-translations.php:303
+msgid "After the Text"
+msgstr "Depois do texto"
+
+#: languages/wptelegram-js-translations.php:415
+msgid "Learn more"
+msgstr "Saber mais"
+
+#: languages/wptelegram-js-translations.php:227 modules/p2tg/Admin.php:413
+msgid "Send to"
+msgstr "Enviar para"
+
+#: languages/wptelegram-js-translations.php:149
+msgid "Message Settings"
+msgstr "Configurações da mensagem"
+
+#: languages/wptelegram-js-translations.php:500
+msgid "Bot Token"
+msgstr "Bot Token"
+
+#: languages/wptelegram-js-translations.php:71
+msgid "Test Token"
+msgstr "Testar Token"
+
+#: languages/wptelegram-js-translations.php:649
+msgid "Send Test"
+msgstr "Enviar teste"
+
+#: languages/wptelegram-js-translations.php:240 modules/p2tg/Admin.php:463
+msgid "Message Template"
+msgstr "Modelo de mensagem"
+
+#: languages/wptelegram-js-translations.php:405
+msgid "None"
+msgstr "Nenhum"
+
+#: languages/wptelegram-js-translations.php:408
+msgid "Markdown style"
+msgstr "Estilo Markdown"
+
+#: languages/wptelegram-js-translations.php:411
+msgid "HTML style"
+msgstr "Estilo HTML"
+
+#: languages/wptelegram-js-translations.php:566
+msgid "Featured Image"
+msgstr "Imagem em destaque"
+
+#: languages/wptelegram-js-translations.php:247 modules/p2tg/Admin.php:425
+msgid "Disable Notifications"
+msgstr "Desativar as notificações"
+
+#: languages/wptelegram-js-translations.php:78
+msgid "After completing the steps %s will provide you the Bot Token."
+msgstr "Depois de completar as etapas %s irá fornecer o token do bot."
+
+#: languages/wptelegram-js-translations.php:81
+msgid "Copy the token and paste into the Bot Token field below."
+msgstr "Copie o token e cole no campo (Bot Token) abaixo."
+
+#: languages/wptelegram-js-translations.php:605
+msgid "Members Count:"
+msgstr "Contagem de membros:"
+
+#. Plugin Name of the plugin
+#: includes/Main.php:335
+msgid "WP Telegram"
+msgstr "WP Telegram"
+
+#: languages/wptelegram-js-translations.php:664
+msgid "This is a test message"
+msgstr "Esta é uma mensagem de teste"
