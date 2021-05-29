@@ -1,0 +1,13 @@
+�J�`<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:14;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2021-05-24 14:37:31";s:13:"post_date_gmt";s:19:"2021-05-24 17:37:31";s:12:"post_content";s:1778:"<!-- wp:uagb/section {"classMigrate":true,"block_id":"b5840f03","contentWidth":"full_width","themeWidth":true} -->
+<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-b5840f03"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:uagb/advanced-heading {"block_id":"b7adbb9b","classMigrate":true,"headingTag":"h1","level":1,"headFontSize":90} -->
+<div class="wp-block-uagb-advanced-heading uagb-block-b7adbb9b"><h1 class="uagb-heading-text">Notícias</h1><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
+<!-- /wp:uagb/advanced-heading -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div></section>
+<!-- /wp:uagb/section -->
+
+<!-- wp:uagb/section {"classMigrate":true,"block_id":"75a80db8","contentWidth":"full_width","themeWidth":true} -->
+<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-75a80db8"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:uagb/post-grid {"block_id":"d022f144","postDisplaytext":"Ainda não existem posts, aguarde!","postsToShow":12,"displayPostAuthor":false,"displayPostTaxonomy":true,"imgPosition":"background","linkBox":true,"overlayOpacity":70,"displayPostLink":false,"titleColor":"#000000","titleTag":"h2","titleFontSize":25,"titleFontFamily":"Josefin Sans","titleFontWeight":"400","titleFontSubset":"latin","titleLineHeightType":"px","titleLineHeight":30,"titleLoadGoogleFonts":true,"metaColor":"#000000","excerptColor":"#000000","postPagination":true,"paginationAlignment":"right","paginationPrevText":"« Anterior","paginationNextText":"Próximo »"} /--></div></section>
+<!-- /wp:uagb/section -->";s:10:"post_title";s:9:"Notícias";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:8:"noticias";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2021-05-26 16:26:08";s:17:"post_modified_gmt";s:19:"2021-05-26 19:26:08";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:37:"http://localhost/curso-wp/?page_id=14";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}
