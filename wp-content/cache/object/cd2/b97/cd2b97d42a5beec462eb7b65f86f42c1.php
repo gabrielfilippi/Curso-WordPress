@@ -1,4 +1,4 @@
-�D�`<?php exit; ?>a:1:{s:7:"content";s:172556:"a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
+���`<?php exit; ?>a:1:{s:7:"content";s:182283:"a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 
 
 ";s:7:"attribs";a:1:{s:0:"";a:1:{s:7:"version";s:3:"2.0";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:1:{s:7:"channel";a:1:{i:0;a:6:{s:4:"data";s:49:"
@@ -21,7 +21,225 @@
 		
 		
 		
-	";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:3:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:20:"Blog | WordPress.org";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:24:"https://br.wordpress.org";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:13:"lastBuildDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 13 May 2021 11:45:16 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"language";a:1:{i:0;a:5:{s:4:"data";s:5:"pt-BR";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"generator";a:1:{i:0;a:5:{s:4:"data";s:40:"https://wordpress.org/?v=5.8-alpha-51042";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"item";a:10:{i:0;a:6:{s:4:"data";s:60:"
+	";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:3:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:20:"Blog | WordPress.org";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:24:"https://br.wordpress.org";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:13:"lastBuildDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Tue, 15 Jun 2021 20:01:36 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"language";a:1:{i:0;a:5:{s:4:"data";s:5:"pt-BR";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"generator";a:1:{i:0;a:5:{s:4:"data";s:40:"https://wordpress.org/?v=5.8-beta2-51167";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"item";a:10:{i:0;a:6:{s:4:"data";s:60:"
+		
+		
+		
+		
+		
+				
+		
+		
+
+					
+										
+					
+		
+		
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:3:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:20:"WordPress 5.8 Beta 2";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:57:"https://br.wordpress.org/2021/06/15/wordpress-5-8-beta-2/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Tue, 15 Jun 2021 20:01:36 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:2:{i:0;a:5:{s:4:"data";s:12:"Lançamentos";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:3:"5.8";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:32:"https://br.wordpress.org/?p=2256";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:341:"O WordPress 5.8 Beta 2 já está disponível para testes! Esta versão ainda está em desenvolvimento, portanto, não é recomendado executá-la em um site de produção. Em vez disso, recomendamos que você crie um site de testes para avaliá-la. Você pode testar o WordPress 5.8 Beta 2 de duas maneiras: Instale e ative o plugin [&#8230;]";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Andre Ribeiro";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:40:"http://purl.org/rss/1.0/modules/content/";a:1:{s:7:"encoded";a:1:{i:0;a:5:{s:4:"data";s:5654:"
+<p>O WordPress 5.8 Beta 2 já está disponível para testes!</p>
+
+
+
+<p><strong>Esta versão ainda está em desenvolvimento</strong>, portanto, não é recomendado executá-la em um site de produção. Em vez disso, recomendamos que você crie um site de testes para avaliá-la.</p>
+
+
+
+<p>Você pode testar o WordPress 5.8 Beta 2 de duas maneiras:</p>
+
+
+
+<ul><li>Instale e ative o plugin <a href="https://br.wordpress.org/plugins/wordpress-beta-tester/">WordPress Beta Tester</a> (selecione o canal “Bleeding edge” e “Beta / RC Only”).</li><li>Baixe diretamente a <a href="https://wordpress.org/wordpress-5.8-beta2.zip">versão beta aqui</a>.</li></ul>
+
+
+
+<p>A meta atual para o lançamento final é 20 de julho de 2021. Faltam apenas cinco semanas, então sua ajuda é vital para garantir que o lançamento seja o melhor possível.</p>
+
+
+
+<h2>Algumas novidades:</h2>
+
+
+
+<p>Desde a versão <a href="https://br.wordpress.org/2021/06/09/wordpress-5-8-beta-1/">Beta 1</a>, <a href="https://core.trac.wordpress.org/query?status=closed&amp;changetime=06%2F09%2F2021..06%2F15%2F2021&amp;milestone=5.8&amp;group=component&amp;max=500&amp;col=id&amp;col=summary&amp;col=owner&amp;col=type&amp;col=priority&amp;col=component&amp;col=version&amp;order=priority">26 erros</a> foram corrigidos. Aqui está um resumo de algumas das alterações incluídas:</p>
+
+
+
+<ul><li>Editor de blocos: Removido os padrões de bloco agrupados e incluído suporte ao diretório de padrões (<a href="https://core.trac.wordpress.org/ticket/53246">#53246</a>).</li><li>Editor de blocos: Adicionada uma propriedade de tipo para permitir que o núcleo identifique a origem dos estilos do editor (<a href="https://core.trac.wordpress.org/ticket/53175">#53175</a>).</li><li>Ferramentas de construção/teste: Adiciona alguns testes para a seção Rascunho rápido no painel (<a href="https://core.trac.wordpress.org/ticket/52905">#52905</a>).</li><li>Ferramentas de construção/teste: <code>@babel/polyfill</code> substituído por <code>core-js/stable</code> (<a href="https://core.trac.wordpress.org/ticket/52941">#52941</a>).</li><li>Padrões de código: Atualizado o código para exclusão de itens de menu em massa para seguir melhor os padrões de </li><li>código do WordPress (<a href="https://core.trac.wordpress.org/ticket/21603">#21603</a>).</li><li>Bibliotecas externas: atualizado o Underscore para a versão 1.13.1(<a href="https://core.trac.wordpress.org/ticket/45785">#45785</a>).</li><li>Geral: Uma série de editores, modelos e correções relacionadas a tela de widget (<a href="https://core.trac.wordpress.org/changeset/51149">#51149</a>).</li><li>Acesso e registro: Melhoria na mensagem de erro de nome de usuário desconhecido (<a href="https://core.trac.wordpress.org/ticket/52915">#52915</a>).</li><li>Mídia: Restauração do formato de dados de respostas AJAX na biblioteca de mídia (<a href="https://core.trac.wordpress.org/ticket/50105">#50105</a>).</li><li>Diagnóstico: Exibição de uma lista de formatos de arquivo com suporte pela biblioteca GD (<a href="https://core.trac.wordpress.org/ticket/53022">#53022</a>).</li><li>Twemoji: Nova versão! (<a href="https://core.trac.wordpress.org/ticket/52852">#52852</a>).</li></ul>
+
+
+
+<h2>Como ajudar?</h2>
+
+
+
+<p>Acompanhe o blog <a href="https://make.wordpress.org/core/">Make WordPress Core</a> para ver as <a href="https://make.wordpress.org/core/tag/5-8+dev-notes/">notas do desenvolvedor relacionadas a versão 5.8</a> nas próximas semanas, que detalharão essas e outras mudanças.</p>
+
+
+
+<p>Até agora, os contribuidores atuaram em <a href="https://core.trac.wordpress.org/query?status=closed&amp;changetime=..06%2F15%2F2021&amp;milestone=5.8&amp;group=component&amp;max=500&amp;col=id&amp;col=summary&amp;col=owner&amp;col=type&amp;col=priority&amp;col=component&amp;col=version&amp;order=priority">214 tickets no WordPress 5.8</a>, incluindo <a href="https://core.trac.wordpress.org/query?status=closed&amp;status=reopened&amp;changetime=..06%2F15%2F2021&amp;type=enhancement&amp;type=feature+request&amp;milestone=5.8&amp;group=component&amp;col=id&amp;col=summary&amp;col=type&amp;col=status&amp;col=milestone&amp;col=changetime&amp;col=owner&amp;col=priority&amp;col=keywords&amp;order=changetime">87 novos recursos e aprimoramentos</a>, e mais correções de erros estão a caminho.</p>
+
+
+
+<h3>Faça seus testes!</h3>
+
+
+
+<p>O <a href="https://make.wordpress.org/core/handbook/testing/beta-testing/">teste de erros</a> é uma parte vital do aperfeiçoamento do lançamento durante o estágio beta e uma ótima maneira de contribuir.</p>
+
+
+
+<p>Se você acha que encontrou um erro, publique na área <a href="https://wordpress.org/support/forum/alphabeta/">alfa/beta</a> dos fóruns de suporte. Gostaríamos muito de ouvir de você! Se você se sentir confortável em escrever um <a href="https://make.wordpress.org/core/reports/">relatório de erro</a> reproduzível, envie um para o <a href="https://core.trac.wordpress.org/newticket">WordPress Trac</a>. Aqui também é onde você pode encontrar uma lista de <a href="https://core.trac.wordpress.org/tickets/major">erros conhecidos</a>.</p>
+
+
+
+<p>Agradecemos a <a href="https://profiles.wordpress.org/chanthaboune/">@chanthaboune</a> pela revisão, a <a href="https://profiles.wordpress.org/webcommsat/">@webcommsat</a>, <a href="https://profiles.wordpress.org/youknowriad/">@youknowriad</a>, <a href="https://profiles.wordpress.org/jorbin/">@jorbin</a> e <a href="https://profiles.wordpress.org/jeffpaul/">@jeffpaul</a> pela leitura final, e a <a href="https://profiles.wordpress.org/cbringmann/">@cbringmann</a> pela edição final!</p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:1;a:6:{s:4:"data";s:60:"
+		
+		
+		
+		
+		
+				
+		
+		
+
+					
+										
+					
+		
+		
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:3:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:20:"WordPress 5.8 Beta 1";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:57:"https://br.wordpress.org/2021/06/09/wordpress-5-8-beta-1/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 09 Jun 2021 13:27:19 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:2:{i:0;a:5:{s:4:"data";s:12:"Lançamentos";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:3:"5.8";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:32:"https://br.wordpress.org/?p=2248";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:332:"O WordPress 5.8 Beta 1 já está disponível para teste! Este software ainda está em desenvolvimento, portanto, não é recomendado executar esta versão em um site de produção. Em vez disso, recomendamos que você execute isso em um site de teste para jogar com a nova versão. Você pode testar o WordPress 5.8 Beta 1 [&#8230;]";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Andre Ribeiro";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:40:"http://purl.org/rss/1.0/modules/content/";a:1:{s:7:"encoded";a:1:{i:0;a:5:{s:4:"data";s:10643:"
+<p>O WordPress 5.8 Beta 1 já está disponível para teste!</p>
+
+
+
+<p><strong>Este software ainda está em desenvolvimento</strong>, portanto, não é recomendado executar esta versão em um site de produção. Em vez disso, recomendamos que você execute isso em um site de teste para jogar com a nova versão.</p>
+
+
+
+<p>Você pode testar o WordPress 5.8 Beta 1 de duas maneiras:</p>
+
+
+
+<ul><li>Instale e ative o plugin <a href="https://wordpress.org/plugins/wordpress-beta-tester/">WordPress Beta Tester</a> (selecione o canal “Bleeding edge” e “Beta / RC Only”).</li><li>Baixe diretamente a <a href="https://wordpress.org/wordpress-5.8-beta1.zip">versão beta aqui</a>.</li></ul>
+
+
+
+<p>A meta atual para o lançamento final é 20 de julho de 2021. <strong>Faltam apenas seis semanas</strong>, então sua ajuda é vital para garantir que este lançamento seja testado adequadamente e tão bem quanto possível.</p>
+
+
+
+<p>Fique de olho no blog <a href="https://make.wordpress.org/core/">Make WordPress Core</a> para ver as <a href="https://make.wordpress.org/core/tag/5-8+dev-notes/">notas do desenvolvedor relacionadas a versão 5.8</a> nas próximas semanas, detalhando essas e outras mudanças.</p>
+
+
+
+<p>Então, o que há de novo nesta versão 5.8? Vamos começar com alguns destaques.</p>
+
+
+
+<h2>Novidades</h2>
+
+
+
+<h3 id="tw-target-text">Blocos poderosos</h3>
+
+
+
+<ul><li>Descubra vários novos blocos e ferramentas expressivas, incluindo blocos para listas de páginas, título do site, logotipo e slogan. Um poderoso bloco Query Loop oferece várias maneiras de exibir listas de publicações e vem com novos padrões de bloco que tiram proveito de sua flexibilidade e possibilidades criativas.</li><li>A interação com blocos aninhados ficou mais fácil com um botão permanente da barra de ferramentas para selecionar elemento ascendente. Os contornos dos blocos são mostrados ao passar o mouse ou focar nos botões de diferentes tipos de blocos. Alças de bloco agora também estão presentes para arrastar e soltar quando no modo “selecionar”.</li><li>Apresentamos a Visualização de lista, um painel que pode ser alternado e ajuda a navegar por blocos e padrões complexos.</li><li>Os blocos reutilizáveis ​​têm um fluxo de criação aprimorado e suporte para revisões de histórico.</li><li>Um novo bloco de tom duplo legal adiciona efeitos de imagem que podem ser usados ​​em blocos de mídia ou suportados em blocos de terceiros. As predefinições de cores também podem ser personalizadas de acordo com o tema.</li></ul>
+
+
+
+<h3>Padrões escolhidos a dedo</h3>
+
+
+
+<p>Os padrões agora também podem ser recomendados e selecionados durante a configuração do bloco, oferecendo novos fluxos poderosos. As transformações de padrões também são possíveis e permitem converter um bloco ou uma coleção de blocos em diferentes padrões.</p>
+
+
+
+<p>Nova coleção de padrões e uma integração inicial com o próximo diretório de padrões no WordPress.org.</p>
+
+
+
+<h3 id="tw-target-text">Melhores ferramentas</h3>
+
+
+
+<ul><li>Novo editor de modelos que permite criar novos modelos personalizados para uma página usando blocos.</li><li>Os temas agora podem controlar e configurar o estilo com um arquivo theme.json, incluindo configuração de layout, suportes de bloco, paletas de cores e muito mais.</li><li>Novas ferramentas de design e aprimoramentos para blocos existentes, incluindo mais cores, tipografia e opções de espaçamento, arrastar e soltar para fundos de capa, adições nas opções de transformação de bloco, capacidade de incorporar PDFs no bloco de arquivo e muito mais.</li><li>Inclui melhorias em como o editor é renderizado para se parecer com o front-end com mais precisão.</li></ul>
+
+
+
+<h3>Internet Explorer 11</h3>
+
+
+
+<p id="tw-target-text">O suporte para Internet Explorer 11 está terminando no WordPress este ano. Nesta versão, a maioria dessas alterações está sendo mesclada, portanto, use os períodos Beta e RC para testar!</p>
+
+
+
+<h3>Áreas de blocos em widgets</h3>
+
+
+
+<ul><li>Agora você pode usar qualquer bloco nas áreas de widget do seu tema usando a nova tela de widgets e o Personalizar atualizado.</li><li>Os widgets existentes de terceiros continuam a funcionar por meio do<a href="https://developer.wordpress.org/block-editor/how-to-guides/widgets/legacy-widget-block/"> bloco Legacy Widget</a>.</li><li>Ainda não está pronto para uma troca completa? Para facilitar a transição, os usuários podem usar o <a href="https://wordpress.org/plugins/classic-widgets/">plugin Classic Widgets</a> e os temas podem usar a função <a href="https://developer.wordpress.org/block-editor/how-to-guides/widgets/opting-out/">remove_theme_support (&#8216;widgets-block-editor&#8217;)</a>.</li></ul>
+
+
+
+<p id="tw-target-text"><em>Procurando uma mudança e não consegue encontrá-la? Existem mais melhorias.</em></p>
+
+
+
+<h2><strong>Como você pode ajudar</strong></h2>
+
+
+
+<h3 id="tw-target-text">Faça alguns testes!</h3>
+
+
+
+<p>O teste de erros é uma parte importante do aprimoramento do lançamento durante o estágio beta e uma ótima maneira de contribuir.</p>
+
+
+
+<p>Se você acha que encontrou um erro, poste na <a href="https://wordpress.org/support/forum/alphabeta/">área de alfa/beta</a> dos fóruns de suporte. Gostaríamos muito de ouvir você! Se você se sentir confortável em escrever um relatório de erro reproduzível, <a href="https://core.trac.wordpress.org/newticket">envie um no WordPress Trac</a>. Também é onde você pode encontrar uma lista de <a href="https://core.trac.wordpress.org/tickets/major">erros conhecidos</a>.</p>
+
+
+
+<p>Agradecemos por se juntar a nós e feliz teste!</p>
+
+
+
+<p id="tw-target-text">Agradecemos a <a href="https://profiles.wordpress.org/audrasjb/"><em>@audrasjb</em></a>, <a href="https://profiles.wordpress.org/cbringmann/"><em>@cbringmann</em></a>, <a href="https://profiles.wordpress.org/youknowriad/"><em>@youknowriad</em></a>, <a href="https://profiles.wordpress.org/annezazu/">@annezazu</a>, <a href="https://profiles.wordpress.org/matveb/">@matveb</a> e <a href="https://profiles.wordpress.org/desrosj/">@desrosj</a> por editar e revisar este artigo, e <a href="https://profiles.wordpress.org/chanthaboune/">@chanthaboune</a> para a revisão final.</p>
+
+
+
+<hr class="wp-block-separator" />
+
+
+
+<p><em>Edição completa do site</em></p>
+
+
+
+<p><em>Chegando no final do ano</em></p>
+
+
+
+<p><em>Mas primeiro, Beta 1</em></p>
+
+
+
+<h2 id="tw-target-text">Melhorias nesta versão</h2>
+
+
+
+<ul><li>Melhorias em blocos reutilizáveis, bloco de capa, bloco de tabela, exibição de lista, espaço reservado para rich text, modo de edição de modelo, inserção de bloco e barra de ferramentas superior.</li><li>Bloco de loop de consulta que usa uma consulta / filtro para criar uma lista de postagens flexível com base em modelos. Melhor usado com padrões.</li><li>Refinamento de paridade entre editor e front-end e padronização para bloquear a organização de barras de ferramentas.</li><li>Blocos de widgets no Personalizar.</li><li>Apresentando as APIs de Estilos Globais e Configurações Globais: controle as configurações do editor e as ferramentas de personalização disponíveis e os blocos de estilo usando um arquivo theme.json. O editor de modelo é aberto dentro de um iframe para se parecer mais com o front-end.</li><li>Capacidade de transformar mídia e texto em colunas.</li><li>PDFs incorporados no bloco de arquivo.</li><li>Opções de espaçamento para botões e links sociais e ajustes de largura do bloco do espaçador.</li><li>Twemoji foi atualizado para a versão 13.1, trazendo muitos novos emojis.</li><li>Melhorias de desempenho do editor.</li><li>Esconder a solicitação de escrita dos parágrafos vazios.</li><li>Interface de publicação mais descritiva.</li><li>Adicionada capacidade para definir o formato padrão para sub-tamanhos de imagem, bem como suporte WebP.</li><li>Adicionado editor de bloco de widgets ao arquivo widgets.php e customize.php.</li><li>Adicionados padrões de bloco aos temas padrão.</li><li>Adicionada a capacidade de marcar um plugin como não gerenciado.</li><li>Permite revisões para o tipo de postagem personalizada de bloco reutilizável.</li><li>Capacidade de enfileirar scripts e recursos de estilo apenas para os blocos presentes na página.</li><li>Configuração do editor de bloco removida ao remover os filtros existentes e introduzir substituições que reconhecem o contexto.</li><li>Novas barras laterais, widget e pontos de extremidade da API REST dos tipos widget.</li><li>Adicionado suporte para modificar a relação do termo ao consultar postagens na API REST.</li><li>A integridade do site agora oferece suporte a submenus e páginas personalizadas.</li><li>Os temas agora exibem o número de atualizações de temas disponíveis no menu de administração.</li><li>Aceleradas as chamadas da função <code>get_pages()</code> em cache.</li><li>Atualizações de 1.8.3 para 1.9.</li></ul>
+
+
+
+<p>Para ver todos os recursos do lançamento do Gutenberg em detalhes, confira essas postagens: <a href="https://make.wordpress.org/core/2021/02/17/whats-new-in-gutenberg-10-0-february/">10.0</a>, <a href="https://make.wordpress.org/core/2021/03/02/whats-new-in-gutenberg-10-1-3-march/">10.1</a>, <a href="https://make.wordpress.org/core/2021/03/17/whats-new-in-gutenberg-10-2-17-march/">10.2</a>, <a href="https://make.wordpress.org/core/2021/04/02/whats-new-in-gutenberg-10-3-31-march/">10.3</a>, <a href="https://make.wordpress.org/core/2021/04/14/whats-new-in-gutenberg-10-4-14-april/">10.4</a>, <a href="https://make.wordpress.org/core/2021/04/30/whats-new-in-gutenberg-10-5-28-april/">10.5</a>, <a href="https://make.wordpress.org/core/2021/05/14/whats-new-in-gutenberg-10-6-12-may/">10.6</a>, e <a href="https://make.wordpress.org/core/2021/05/27/whats-new-in-gutenberg-10-7-26-may/">10.7</a>. Além dessas mudanças, os contribuidores corrigiram&nbsp;<a href="https://core.trac.wordpress.org/query?status=closed&amp;milestone=5.8&amp;group=component&amp;max=500&amp;col=id&amp;col=summary&amp;col=owner&amp;col=type&amp;col=priority&amp;col=component&amp;col=version&amp;order=priority">215 tickets no WordPress 5.8</a>, incluindo&nbsp;<a href="https://core.trac.wordpress.org/query?status=closed&amp;status=reopened&amp;type=enhancement&amp;type=feature+request&amp;milestone=5.8&amp;col=id&amp;col=summary&amp;col=type&amp;col=status&amp;col=milestone&amp;col=owner&amp;col=priority&amp;col=changetime&amp;col=keywords&amp;order=changetime">88 novos recursos e melhorias</a>, com mais correções de erros a caminho.</p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:2;a:6:{s:4:"data";s:60:"
 		
 		
 		
@@ -86,7 +304,7 @@
 
 
 <p>Agradecemos a todos que ajudaram a fazer o WordPress 5.7.2 acontecer: <a href="https://profiles.wordpress.org/audrasjb">@audrasjb</a>, <a href="https://profiles.wordpress.org/ayeshrajans">@ayeshrajans</a>, <a href="https://profiles.wordpress.org/desrosj">@desrosj</a>, <a href="https://profiles.wordpress.org/dd32">@dd32</a>, <a href="https://profiles.wordpress.org/peterwilsoncc">@peterwilsoncc</a>, <a href="https://profiles.wordpress.org/SergeyBiryukov">@SergeyBiryukov</a> e <a href="https://profiles.wordpress.org/xknown">@xknown</a>.</p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:1;a:6:{s:4:"data";s:60:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:3;a:6:{s:4:"data";s:60:"
 		
 		
 		
@@ -159,7 +377,7 @@
 
 
 <p><a href="https://profiles.wordpress.org/ninetyninew/">99w</a>, <a href="https://profiles.wordpress.org/adamsilverstein/">Adam Silverstein</a>, <a href="https://profiles.wordpress.org/azaozz/">Andrew Ozz</a>, <a href="https://profiles.wordpress.org/annalamprou/">annalamprou</a>, <a href="https://profiles.wordpress.org/anotherdave/">anotherdave</a>, <a href="https://profiles.wordpress.org/aristath/">Ari Stathopoulos</a>, <a href="https://profiles.wordpress.org/ayeshrajans/">Ayesh Karunaratne</a>, <a href="https://profiles.wordpress.org/bobbingwide/">bobbingwide</a>, <a href="https://profiles.wordpress.org/brechtvds/">Brecht</a>, <a href="https://profiles.wordpress.org/talldanwp/">Daniel Richards</a>, <a href="https://profiles.wordpress.org/davidbaumwald/">David Baumwald</a>, <a href="https://profiles.wordpress.org/dkoo/">dkoo</a>, <a href="https://profiles.wordpress.org/ocean90/">Dominik Schilling</a>, <a href="https://profiles.wordpress.org/dragongate/">dragongate</a>, <a href="https://profiles.wordpress.org/eatsleepcode/">eatsleepcode</a>, <a href="https://profiles.wordpress.org/ellatrix/">Ella van Durpe</a>, <a href="https://profiles.wordpress.org/kebbet/">Erik</a>, <a href="https://profiles.wordpress.org/fabianpimminger/">Fabian Pimminger</a>, <a href="https://profiles.wordpress.org/flixos90/">Felix Arntz</a>, <a href="https://profiles.wordpress.org/mista-flo/">Florian TIAR</a>, <a href="https://profiles.wordpress.org/gab81/">gab81</a>, <a href="https://profiles.wordpress.org/galbaras/">Gal Baras</a>, <a href="https://profiles.wordpress.org/geoffrey1963/">Geoffrey</a>, <a href="https://profiles.wordpress.org/mamaduka/">George Mamadashvili</a>, <a href="https://profiles.wordpress.org/glendaviesnz/">Glen Davies</a>, <a href="https://profiles.wordpress.org/gziolo/">Greg Ziółkowski</a>, <a href="https://profiles.wordpress.org/grzim/">grzim</a>, <a href="https://profiles.wordpress.org/ipstenu/">Ipstenu (Mika Epstein)</a>, <a href="https://profiles.wordpress.org/whyisjake/">Jake Spurlock</a>, <a href="https://profiles.wordpress.org/jaymanpandya/">Jayman Pandya</a>, <a href="https://profiles.wordpress.org/audrasjb/">Jb Audras</a>, <a href="https://profiles.wordpress.org/joen/">Joen A.</a>, <a href="https://profiles.wordpress.org/jonkastonka/">Johan Jonk Stenström</a>, <a href="https://profiles.wordpress.org/goaroundagain/">Johannes Kinast</a>, <a href="https://profiles.wordpress.org/johnbillion/">John Blackbourn</a>, <a href="https://profiles.wordpress.org/johnjamesjacoby/">John James Jacoby</a>, <a href="https://profiles.wordpress.org/desrosj/">Jonathan Desrosiers</a>, <a href="https://profiles.wordpress.org/joseeyoast/">Josee Wouters</a>, <a href="https://profiles.wordpress.org/joyously/">Joy</a>, <a href="https://profiles.wordpress.org/k3nsai/">k3nsai</a>, <a href="https://profiles.wordpress.org/ryelle/">Kelly Choyce-Dwan</a>, <a href="https://profiles.wordpress.org/gwwar/">Kerry Liu</a>, <a href="https://profiles.wordpress.org/clorith/">Marius L. J.</a>, <a href="https://profiles.wordpress.org/melchoyce/">Mel Choyce-Dwan</a>, <a href="https://profiles.wordpress.org/mihdan/">Mikhail Kobzarev</a>, <a href="https://profiles.wordpress.org/mmuyskens/">mmuyskens</a>, <a href="https://profiles.wordpress.org/mukesh27/">Mukesh Panchal</a>, <a href="https://profiles.wordpress.org/nicegamer7/">nicegamer7</a>, <a href="https://profiles.wordpress.org/otshelnik-fm/">Otshelnik-Fm</a>, <a href="https://profiles.wordpress.org/paaljoachim/">Paal Joachim Romdahl</a>, <a href="https://profiles.wordpress.org/palmiak/">palmiak</a>, <a href="https://profiles.wordpress.org/swissspidy/">Pascal Birchler</a>, <a href="https://profiles.wordpress.org/peterwilsoncc/">Peter Wilson</a>, <a href="https://profiles.wordpress.org/pwallner/">pwallner</a>, <a href="https://profiles.wordpress.org/rachelbaker/">Rachel Baker</a>, <a href="https://profiles.wordpress.org/youknowriad/">Riad Benguella</a>, <a href="https://profiles.wordpress.org/rinatkhaziev/">Rinat Khaziev</a>, <a href="https://profiles.wordpress.org/noisysocks/">Robert Anderson</a>, <a href="https://profiles.wordpress.org/rogertheriault/">Roger Theriault</a>, <a href="https://profiles.wordpress.org/sergeybiryukov/">Sergey Biryukov</a>, <a href="https://profiles.wordpress.org/yakimun/">Sergey Yakimov</a>, <a href="https://profiles.wordpress.org/sirstuey/">SirStuey</a>, <a href="https://profiles.wordpress.org/stefanjoebstl/">stefanjoebstl</a>, <a href="https://profiles.wordpress.org/sabernhardt/">Stephen Bernhardt</a>, <a href="https://profiles.wordpress.org/sumitsingh/">Sumit Singh</a>, <a href="https://profiles.wordpress.org/cybr/">Sybre Waaijer</a>, <a href="https://profiles.wordpress.org/synchro/">Synchro</a>, <a href="https://profiles.wordpress.org/terriann/">Terri Ann</a>, <a href="https://profiles.wordpress.org/tigertech/">tigertech</a>, <a href="https://profiles.wordpress.org/timothyblynjacobs/">Timothy Jacobs</a>, <a href="https://profiles.wordpress.org/tmatsuur/">tmatsuur</a>, <a href="https://profiles.wordpress.org/tobiasbg/">TobiasBg</a>, <a href="https://profiles.wordpress.org/hellofromtonya/">Tonya Mork</a>, <a href="https://profiles.wordpress.org/toru/">Toru Miki</a>, <a href="https://profiles.wordpress.org/grapplerulrich/">Ulrich</a> e <a href="https://profiles.wordpress.org/vladytimy/">Vlad T</a>.</p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:2;a:6:{s:4:"data";s:61:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:4;a:6:{s:4:"data";s:61:"
 		
 		
 		
@@ -313,7 +531,7 @@
 <div class="wp-block-cover has-background-dim" style="background-color:#0a5b89;min-height:100px"><div class="wp-block-cover__inner-container">
 <p class="has-text-align-center has-large-font-size"><strong>Codigo é poesia.</strong></p>
 </div></div>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:3;a:6:{s:4:"data";s:60:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:5;a:6:{s:4:"data";s:60:"
 		
 		
 		
@@ -386,7 +604,7 @@
 
 
 <p id="tw-target-text">Agradecimentos especiais para <a href="https://profiles.wordpress.org/audrasjb/">@audrasjb</a> pelas sugestões e <a href="https://profiles.wordpress.org/davidbaumwald/">@davidbaumwald</a> pela revisão final.</p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:4;a:6:{s:4:"data";s:60:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:6;a:6:{s:4:"data";s:60:"
 		
 		
 		
@@ -435,7 +653,7 @@
 
 
 <p><a href="https://profiles.wordpress.org/aaronrobertshaw/">aaronrobertshaw</a>, <a href="https://profiles.wordpress.org/addiestavlo/">Addie</a>, <a href="https://profiles.wordpress.org/nosolosw/">André Maneiro</a>, <a href="https://profiles.wordpress.org/archon810/">archon810</a>, <a href="https://profiles.wordpress.org/aristath/">Ari Stathopoulos</a>, <a href="https://profiles.wordpress.org/bartosz777/">bartosz777</a>, <a href="https://profiles.wordpress.org/bernhard-reiter/">Bernhard Reiter</a>, <a href="https://profiles.wordpress.org/talldanwp/">Daniel Richards</a>, <a href="https://profiles.wordpress.org/davidanderson/">David Anderson</a>, <a href="https://profiles.wordpress.org/dbtedg/">dbtedg</a>, <a href="https://profiles.wordpress.org/glendaviesnz/">glendaviesnz</a>, <a href="https://profiles.wordpress.org/hmabpera/">hmabpera</a>, <a href="https://profiles.wordpress.org/ibiza69/">ibiza69</a>, <a href="https://profiles.wordpress.org/isabel_brison/">Isabel Brison</a>, <a href="https://profiles.wordpress.org/viablethought/">Jason Ryan</a>, <a href="https://profiles.wordpress.org/audrasjb/">Jb Audras</a>, <a href="https://profiles.wordpress.org/jrf/">Juliette Reinders Folmer</a>, <a href="https://profiles.wordpress.org/kevin940726/">Kai Hao</a>, <a href="https://profiles.wordpress.org/gwwar/">Kerry Liu</a>, <a href="https://profiles.wordpress.org/hwk-fr/">Konrad Chmielewski</a>, <a href="https://profiles.wordpress.org/jorgefilipecosta/">Jorge Costa</a>, <a href="https://profiles.wordpress.org/magnuswebdesign/">magnuswebdesign</a>, <a href="https://profiles.wordpress.org/clorith/">Marius L. J.</a>, <a href="https://profiles.wordpress.org/mattwiebe/">Matt Wiebe</a>, <a href="https://profiles.wordpress.org/mukesh27/">Mukesh Panchal</a>, <a href="https://profiles.wordpress.org/paaljoachim/">Paal Joachim Romdahl</a>, <a href="https://profiles.wordpress.org/freewebmentor/">Prem Tiwari</a>, <a href="https://profiles.wordpress.org/itsjonq/">Q</a>, <a href="https://profiles.wordpress.org/youknowriad/">Riad Benguella</a>, <a href="https://profiles.wordpress.org/noisysocks/">Robert Anderson</a>, <a href="https://profiles.wordpress.org/roger995/">roger995</a>, <a href="https://profiles.wordpress.org/sergeybiryukov/">Sergey Biryukov</a>, <a href="https://profiles.wordpress.org/yakimun/">Sergey Yakimov</a>, <a href="https://profiles.wordpress.org/sterndata/">Steven Stern (sterndata)</a>, <a href="https://profiles.wordpress.org/inc2734/">Takashi Kitajima</a>, <a href="https://profiles.wordpress.org/tonysandwich/">tonysandwich</a>, <a href="https://profiles.wordpress.org/worldedu/">worldedu</a> e <a href="https://profiles.wordpress.org/fierevere/">Yui</a>.</p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:5;a:6:{s:4:"data";s:76:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:7;a:6:{s:4:"data";s:76:"
 		
 		
 					
@@ -499,7 +717,7 @@
 
 
 <p>Originalmente escrito por <a href='https://profiles.wordpress.org/audrasjb/' class='mention'><span class='mentions-prefix'>@</span>audrasjb</a> em <a href="https://wordpress.org/news/2021/02/wordpress-5-6-1-maintenance-release/">WordPress 5.6.1 Maintenance Release</a>.</p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:36:"http://wellformedweb.org/CommentAPI/";a:1:{s:10:"commentRss";a:1:{i:0;a:5:{s:4:"data";s:83:"https://br.wordpress.org/2021/02/12/wordpress-5-6-1-atualizacao-de-manutencao/feed/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:38:"http://purl.org/rss/1.0/modules/slash/";a:1:{s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:1:"0";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:6;a:6:{s:4:"data";s:57:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:36:"http://wellformedweb.org/CommentAPI/";a:1:{s:10:"commentRss";a:1:{i:0;a:5:{s:4:"data";s:83:"https://br.wordpress.org/2021/02/12/wordpress-5-6-1-atualizacao-de-manutencao/feed/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:38:"http://purl.org/rss/1.0/modules/slash/";a:1:{s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:1:"0";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:8;a:6:{s:4:"data";s:57:"
 		
 		
 		
@@ -601,7 +819,7 @@
 
 
 <p><a href="https://learn.wordpress.org/tag/learnwordpress">#LearnWordPress</a> <a href="https://learn.wordpress.org/tag/learnwp">#LearnWP</a></p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:7;a:6:{s:4:"data";s:60:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:9;a:6:{s:4:"data";s:60:"
 		
 		
 		
@@ -814,136 +1032,6 @@
 
 
 <p>Finalmente, agradecemos a todos os tradutores da comunidade que ajudaram a fazer o WordPress 5.6 disponível em 38 idiomas no momento do lançamento. Os tradutores da nossa comunidade estão trabalhando arduamente para garantir que mais idiomas estejam a caminho (70 já são 90%). Se contribuir para o WordPress é do seu interesse, é fácil aprender mais. Confira o <a href="https://make.wordpress.org/">Make do WordPress</a> ou o <a href="https://make.wordpress.org/core/">blog de desenvolvimento do núcleo</a>.</p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:8;a:6:{s:4:"data";s:60:"
-		
-		
-		
-		
-		
-				
-		
-		
-
-					
-										
-					
-		
-		
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:3:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:33:"WordPress 5.6 Release Candidate 2";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:70:"https://br.wordpress.org/2020/12/02/wordpress-5-6-release-candidate-2/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 02 Dec 2020 01:06:30 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:2:{i:0;a:5:{s:4:"data";s:12:"Lançamentos";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:3:"5.6";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:32:"https://br.wordpress.org/?p=2140";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:343:"O segundo release candidate (versão candidata, em tradução livre) do WordPress 5.6 já está disponível! O WordPress 5.6 está programado para lançamento em 8 de dezembro de 2020, e precisamos da sua ajuda para chegar lá — se você ainda não experimentou a versão 5.6, agora é a hora! Você pode testar o release candidate [&#8230;]";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Andre Ribeiro";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:40:"http://purl.org/rss/1.0/modules/content/";a:1:{s:7:"encoded";a:1:{i:0;a:5:{s:4:"data";s:2807:"
-<p>O segundo <em>release candidate</em> (versão candidata, em tradução livre) do WordPress 5.6 já está disponível!</p>
-
-
-
-<p id="tw-target-text">O WordPress 5.6 está programado para lançamento em<strong> 8 de dezembro de 2020</strong>, e precisamos da sua ajuda para chegar lá — se você ainda não experimentou a versão 5.6, agora é a hora!</p>
-
-
-
-<p id="tw-target-text">Você pode testar o release candidate 2 do WordPress 5.6 de duas maneiras:</p>
-
-
-
-<ul><li>Experimente o plugin <a href="https://wordpress.org/plugins/wordpress-beta-tester/">WordPress Beta Tester</a> (escolha a opção “bleeding edge nightlies”) ou</li><li><a href="https://wordpress.org/wordpress-5.6-RC2.zip">Baixe a versão release candidate aqui</a> (zip).</li></ul>
-
-
-
-<p>Agradecemos a todos os colaboradores que testaram as versões Beta e compartilharam seus comentários. O teste de erros é uma parte importante do aprimoramento de cada versão e uma ótima maneira de contribuir com o WordPress.</p>
-
-
-
-<h2 id="tw-target-text">Desenvolvedores de plugins e temas</h2>
-
-
-
-<p>Teste seus plugins e temas com o WordPress 5.6 e atualize para 5.6 a versão no campo&nbsp;<em>Tested up to</em>&nbsp;do arquivo readme. Se encontrar problemas de compatibilidade, tenha certeza de publicar no&nbsp;<a href="https://wordpress.org/support/forum/alphabeta/">fórum</a>&nbsp;para que possamos agir antes do lançamento final.</p>
-
-
-
-<p id="tw-target-text">Para uma análise mais detalhada das mudanças incluídas no WordPress 5.6, confira o a publicação do <a href="https://br.wordpress.org/2020/10/21/wordpress-5-6-beta-1/">WordPress 5.6 Beta 1</a>. O <a href="https://make.wordpress.org/core/2020/11/20/wordpress-5-6-field-guide/">Guia final do WordPress 5.6</a> também foi lançado! É a sua fonte para obter detalhes sobre todas as principais mudanças.</p>
-
-
-
-<h2>Como ajudar</h2>
-
-
-
-<p>Ajude a tradução em Português!&nbsp;<a href="https://translate.wordpress.org/projects/wp/dev">Ajude-nos a traduzir o WordPress para o português!</a>&nbsp;O lançamento dessa versão também significa que&nbsp;<a href="https://make.wordpress.org/polyglots/handbook/glossary/#hard-freeze">novas strings para a tradução</a>&nbsp;da versão 5.6 serão evitadas.</p>
-
-
-
-<p><em><strong>Se acha que encontrou um erro</strong>, você pode publicá-lo na&nbsp;<a href="https://wordpress.org/support/forum/alphabeta">área Alpha/Beta</a>&nbsp;nos fóruns de suporte (em inglês). Nós vamos adorar ouvir você! Se você se sente confortável para escrever um relatório de como reproduzir o erro,&nbsp;<a href="https://make.wordpress.org/core/reports/">envie para o Trac do WordPress</a>, onde também é possível encontrar uma&nbsp;<a href="https://core.trac.wordpress.org/tickets/major">lista de erros conhecidos</a>.</em></p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:9;a:6:{s:4:"data";s:60:"
-		
-		
-		
-		
-		
-				
-		
-		
-
-					
-										
-					
-		
-		
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:3:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:31:"WordPress 5.6 Release Candidate";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:68:"https://br.wordpress.org/2020/11/18/wordpress-5-6-release-candidate/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 18 Nov 2020 00:11:04 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:2:{i:0;a:5:{s:4:"data";s:12:"Lançamentos";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:3:"5.6";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:32:"https://br.wordpress.org/?p=2134";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:374:"O primeiro release candidate (versão candidata, em tradução livre) do WordPress 5.6 já está disponível! Este é um marco importante no progresso da comunidade em direção ao lançamento final do WordPress 5.6. “Release Candidate” significa que a nova versão está pronta para lançamento, mas com milhões de usuários e milhares de plugins e temas, é [&#8230;]";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Andre Ribeiro";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:40:"http://purl.org/rss/1.0/modules/content/";a:1:{s:7:"encoded";a:1:{i:0;a:5:{s:4:"data";s:3672:"
-<p id="tw-target-text">O primeiro <em>release candidate</em> (versão candidata, em tradução livre) do WordPress 5.6 já está disponível!</p>
-
-
-
-<p id="tw-target-text">Este é um marco importante no progresso da comunidade em direção ao lançamento final do WordPress 5.6.</p>
-
-
-
-<p id="tw-target-text">“Release Candidate” significa que a nova versão está pronta para lançamento, mas com milhões de usuários e milhares de plugins e temas, é possível que algo tenha sido esquecido. O WordPress 5.6 está programado para lançamento em <strong>8 de dezembro de 2020</strong>, mas precisamos da sua ajuda para que isso aconteca. Se você ainda não testou a versão 5.6, <strong>a hora é essa</strong>!</p>
-
-
-
-<p>Existem duas formas de testar o WordPress 5.6 release candidate:</p>
-
-
-
-<ul><li>Experimente o plugin <a href="https://wordpress.org/plugins/wordpress-beta-tester/">WordPress Beta Tester</a> (escolha a opção “bleeding edge nightlies” em conjunto com &#8220;Beta/RC Only&#8221;) ou</li><li><a href="https://wordpress.org/wordpress-5.6-RC1.zip">Baixe a versão release candidate aqui</a> (zip).</li></ul>
-
-
-
-<p>Agradecemos a todos os colaboradores que testaram as versões Beta e compartilharam seus comentários. O teste de erros é uma parte importante do aprimoramento de cada versão e uma ótima maneira de contribuir com o WordPress.</p>
-
-
-
-<h2>O que há de novo no WordPress 5.6?</h2>
-
-
-
-<p id="tw-target-text">O lançamento final de 2020 continua a tradição anual de um novo tema padrão que é personalizado para mostrar os novos recursos e funcionalidades da versão. O progresso contínuo no editor de blocos é especialmente claro nesta versão, que traz mais blocos para mais lugares e menos cliques para implementar suas páginas.</p>
-
-
-
-<p id="tw-target-text">O WordPress 5.6 possui muitas novidades para aprimorar a experiência do desenvolvedor. Para acompanhar, assine o <a href="https://make.wordpress.org/core/">blog do Core do WordPress</a> e fique atento especialmente às <a href="https://make.wordpress.org/core/tag/5-6+dev-notes/">notas dos desenvolvedor</a> para obter atualizações sobre essas e outras alterações que podem afetar seus produtos.</p>
-
-
-
-<h2 id="tw-target-text">Desenvolvedores de plugins e temas</h2>
-
-
-
-<p>Teste seus plugins e temas com o WordPress 5.6 e atualize para 5.6 a versão no campo <em>Tested up to</em> do arquivo readme. Se encontrar problemas de compatibilidade, tenha certeza de publicar no <a href="https://wordpress.org/support/forum/alphabeta/">fórum</a> para que possamos agir antes do lançamento final.</p>
-
-
-
-<p>O guia final do WordPress 5.6 será publicado em breve e irá fornecer dados mais detalhados sobre as principais mudanças.</p>
-
-
-
-<h2>Como ajudar</h2>
-
-
-
-<p>Ajude a tradução em Português! <a href="https://translate.wordpress.org/projects/wp/dev">Ajude-nos a traduzir o WordPress para o português!</a> O lançamento dessa versão também significa que <a href="https://make.wordpress.org/polyglots/handbook/glossary/#hard-freeze">novas strings para a tradução</a> da versão 5.6 serão evitadas.</p>
-
-
-
-<p><em><strong>Se acha que encontrou um erro</strong>, você pode publicá-lo na <a href="https://wordpress.org/support/forum/alphabeta">área Alpha/Beta</a> nos fóruns de suporte (em inglês). Nós vamos adorar ouvir você! Se você se sente confortável para escrever um relatório de como reproduzir o erro, <a href="https://make.wordpress.org/core/reports/">envie para o Trac do WordPress</a>, onde também é possível encontrar uma <a href="https://core.trac.wordpress.org/tickets/major">lista de erros conhecidos</a>.</em></p>
 ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"href";s:35:"https://br.wordpress.org/news/feed/";s:3:"rel";s:4:"self";s:4:"type";s:19:"application/rss+xml";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:44:"http://purl.org/rss/1.0/modules/syndication/";a:2:{s:12:"updatePeriod";a:1:{i:0;a:5:{s:4:"data";s:9:"
 	hourly	";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:15:"updateFrequency";a:1:{i:0;a:5:{s:4:"data";s:4:"
-	1	";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";O:42:"Requests_Utility_CaseInsensitiveDictionary":1:{s:7:" * data";a:8:{s:6:"server";s:5:"nginx";s:4:"date";s:29:"Sat, 29 May 2021 13:40:21 GMT";s:12:"content-type";s:34:"application/rss+xml; charset=UTF-8";s:6:"x-olaf";s:3:"⛄";s:13:"last-modified";s:29:"Wed, 06 Sep 2017 19:17:40 GMT";s:4:"link";s:61:"<https://br.wordpress.org/wp-json/>; rel="https://api.w.org/"";s:15:"x-frame-options";s:10:"SAMEORIGIN";s:4:"x-nc";s:9:"HIT ord 1";}}s:5:"build";s:14:"20201016172007";}";}
+	1	";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";O:42:"Requests_Utility_CaseInsensitiveDictionary":1:{s:7:" * data";a:8:{s:6:"server";s:5:"nginx";s:4:"date";s:29:"Thu, 17 Jun 2021 00:50:16 GMT";s:12:"content-type";s:34:"application/rss+xml; charset=UTF-8";s:6:"x-olaf";s:3:"⛄";s:13:"last-modified";s:29:"Wed, 06 Sep 2017 19:17:40 GMT";s:4:"link";s:61:"<https://br.wordpress.org/wp-json/>; rel="https://api.w.org/"";s:15:"x-frame-options";s:10:"SAMEORIGIN";s:4:"x-nc";s:9:"HIT ord 2";}}s:5:"build";s:14:"20201016172007";}";}

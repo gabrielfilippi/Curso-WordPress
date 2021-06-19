@@ -1,4 +1,5 @@
-��`<?php exit; ?>a:1:{s:7:"content";a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
+
+E�`<?php exit; ?>a:1:{s:7:"content";a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 
 
 ";s:7:"attribs";a:1:{s:0:"";a:1:{s:7:"version";s:3:"2.0";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:1:{s:7:"channel";a:1:{i:0;a:6:{s:4:"data";s:61:"
@@ -59,6 +60,4687 @@
 
 
 ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:16:"WordPress Planet";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:28:"http://planet.wordpress.org/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"language";a:1:{i:0;a:5:{s:4:"data";s:2:"en";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:47:"WordPress Planet - http://planet.wordpress.org/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"item";a:50:{i:0;a:6:{s:4:"data";s:13:"
+	
+	
+	
+	
+	
+	
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:106:"WPTavern: Alex Denning and Iain Poulson Launch FlipWP, an Acquisitions Marketplace for WordPress Companies";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=118501";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:255:"https://wptavern.com/alex-denning-and-iain-poulson-launch-flipwp-an-acquisitions-marketplace-for-wordpress-companies?utm_source=rss&utm_medium=rss&utm_campaign=alex-denning-and-iain-poulson-launch-flipwp-an-acquisitions-marketplace-for-wordpress-companies";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:5525:"<p>Alex Denning and Iain Poulson launched <a href="https://flipwp.co/">FlipWP</a> today, a private marketplace  to facilitate acquisitions for WordPress companies. WP Engine&rsquo;s recent published research, which estimates the <a href="https://wpengine.com/wordpress-economy/">WordPress economy at $596.7B</a>, has inspired confidence in the ecosystem. An increasing number of acquisitions announced over the past month is also reinforcing the need for a more centralized marketplace for these opportunities.</p>
+
+
+
+<p>&ldquo;Iain and I started talking a lot more regularly a year ago, when he started Plugin Rank,&rdquo; Denning said. &ldquo;He was getting people asking him for acquisition opportunities, and with Ellipsis I was getting clients asking for help evaluating acquisitions and with sales. There was no go-to marketplace, so in March we started talking about working together on solving the problem.&rdquo;</p>
+
+
+
+<p>Sellers can list on FlipWP privately for free and buyers handle their own sales, with no exclusivity obligation. The site doesn&rsquo;t charge for listings and it doesn&rsquo;t take commission from any sales. The $299 membership for buyers opened today, which offers access to FlipWP&rsquo;s email list of acquisition opportunities. </p>
+
+
+
+<p>Listings include business data, such as ARR and monthly profit, the asking price, and commentary about the opportunity from FlipWP. Buyers can reach out directly to sellers with no middleman involved.</p>
+
+
+
+<p>In the past, finding a buyer for a WordPress company required having a wide network, knowing the right people, or posting on various marketplaces like Flippa and MicroAcquire.</p>
+
+
+
+<p>&ldquo;Every week I was hearing about another acquisition, getting an email from someone looking to buy a plugin business, or emails from developers asking the best way to sell,&rdquo; Poulson said. &ldquo;The need for a WordPress specific acquisition marketplace became more and more apparent.&rdquo;</p>
+
+
+
+<h2>The Acceleration of Acquisitions in the WordPress Ecosystem</h2>
+
+
+
+<p>There is a lot of buzz on Twitter lately, questioning whether an active acquisition market is a healthy development. Some have expressed concern about small, independent tools getting bought up by larger companies and worry that consolidation will lead to lack of competition. </p>
+
+
+
+<p>Eric Karkovack wrote in a <a href="https://speckyboy.com/wordpress-plugin-acquisitions/?mc_cid=fbd013f171&mc_eid=ad602f9b49">post</a> speculating on the future of plugin acquisitions, entertaining the possibility that &ldquo;a few big players simply set the rules for everyone else to follow:&rdquo;</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Frankly, it&rsquo;s becoming a lot harder for solo entrepreneurs or small development shops to manage a popular plugin. Supporting a large userbase while also focusing on the future could become overwhelming.</p><p>Thus, it&rsquo;s not surprising to see that some of these products are being sold off to larger firms. We saw something similar happen with internet providers back in the early 2000s. The more mature the market, the harder it became for a small company to carry out its mission. Pretty soon, they were just about all bought up by corporate interests.</p><p>While that may not fully reflect the case here, it seems to at least be trending in that direction&hellip;</p><p>It will take some time. But there might come a day when a typical business website runs plugins from perhaps only a few big development houses.</p></blockquote>
+
+
+
+<p>Not everyone shares this same bleak outlook on the potential effects of consolidation. During Matt Mullenweg&rsquo;s Q&amp;A at WordCamp Europe, Brian Krogsgard asked what these acquisitions mean for the health of the WordPress economy. Mullenweg sees it as a positive development that should spur more creation:</p>
+
+
+
+<blockquote class="wp-block-quote"><p>It&rsquo;s a really exciting time because it feels so robust and healthy. The fact that these exits are happening then creates more incentives for something new to be created, either from the alumni of these companies or by people that know that they can get something to a certain point and sell it to one of these companies. It&rsquo;s actually not very different from Google and Yahoo and all of these companies that buy up lots of startups. Guess what, that created way more startups, some of which became Airbnb and Uber and challenged the tech giants. That&rsquo;s the beauty of how the ecosystem works.</p></blockquote>
+
+
+
+<p>Poulson and Denning are also optimistic that FlipWP will open up more opportunities for business owners to get connected and accelerate the process for all parties involved.</p>
+
+
+
+<p>&ldquo;The acquisition trend is indicative of WordPress maturing,&rdquo; Denning said. &ldquo;If WP Engine thinks the WordPress economy is <a href="https://wpengine.com/wordpress-economy/">worth $597 billion dollars</a> and the biggest public companies in WordPress are worth ~$20bn, we&rsquo;re about $577bn short. A lot of that number will be made up through the small businesses we see getting sold, and until now they&rsquo;ve not had a way of selling other than &lsquo;post it on Slack.&rsquo; If that study is right, then the one-most-weeks rate of acquisitions might actually be significantly too low, and those businesses are being undervalued, too. We can make it much easier for buyers to find quality WordPress listings, and we can make it much easier for sellers to get the best price.&rdquo;</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 16 Jun 2021 21:29:56 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Sarah Gooding";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:1;a:6:{s:4:"data";s:13:"
+	
+	
+	
+	
+	
+	
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:70:"WPTavern: #4 – Dan Maby on the Importance of the WordPress Community";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:48:"https://wptavern.com/?post_type=podcast&p=118113";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:183:"https://wptavern.com/podcast/4-dan-maby-on-the-importance-of-the-wordpress-community?utm_source=rss&utm_medium=rss&utm_campaign=4-dan-maby-on-the-importance-of-the-wordpress-community";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:58344:"<h2>About this episode.</h2>
+
+
+
+<p>On the podcast today we have Dan Maby.</p>
+
+
+
+<p>Dan has been a user of WordPress for many years. As an agency owner he&rsquo;s used it to build client websites, but, as is so often the case, he came for the software and got caught up in the community.</p>
+
+
+
+<p>Starting out by attending some local WordPress meetups, he engaged with his fellow WordPressers and enjoying the events he was attending. Attendance turned into organising and over time Dan became the lead of four WordPress Meetups spread all over the UK.</p>
+
+
+
+<p>Meetups led to an interest in WordCamps, where he again stepped up to take on leadership roles at WordCamp London.</p>
+
+
+
+<p>In the podcast today we talk about the importance of the WordPress community, not just to him as an individual, but to the future of the project as a whole. After all, it&rsquo;s software created by people, and the health of that community will have a direct impact upon the contributions they make.</p>
+
+
+
+<p>We recorded this podcast at a time unlike any other. In person events have had to stop; the WordCamps and Meetups have all gone virtual. Perhaps there&rsquo;s light at the end of that tunnel, but it&rsquo;s a perfect time to look back and see how the community has adapted to these new circumstances.</p>
+
+
+
+<p>We get into whether hybrid WordPress events should be the new norm, what lessons the community can learn from the past year, and what Dan and his colleagues have done to stay connected and part of a vibrant community. They&rsquo;ve built a platform to enable events and plan on releasing it as a WordPress plugin soon.</p>
+
+
+
+<p>We also discuss an event which Dan has been a key player in organising &ndash; <a href="https://www.wordfest.live/">WordFest Live</a>, a 24-hour online event with a focus upon learning and positive mental health.&nbsp;</p>
+
+
+
+<p>It&rsquo;s a lovely episode with a member of the community who has been giving back for many, many years.</p>
+
+
+
+<h2>Useful links.</h2>
+
+
+
+<p><a href="https://www.wordfest.live/">WordFest Live</a></p>
+
+
+
+<p><a href="https://www.bigorangeheart.org/">Big Orange Heart</a></p>
+
+
+
+<p><a href="https://www.meetup.com/topics/wordpress/">WordPress Meetups</a></p>
+
+
+
+<p><a href="https://central.wordcamp.org/">WordCamp Central</a></p>
+
+
+Transcript<div><div class="chat-transcript"><div class="chat-stanza chat-row chat-speaker-1"><div class="chat-author chat-author-nathanwrigley vcard"><cite class="fn">Nathan Wrigley</cite> [00:00:00]</div> <div class="chat-text"><p>Welcome to the fourth edition of the Jukebox Podcast from WP Tavern. My name is Nathan Wrigley. Jukebox is a podcast for the WordPress community. Each month, we bring you someone who is part of that community to give you an insight into a topic or person who you might not be familiar with. If you enjoy the podcast, you can subscribe to future episodes by going to wptavern dot com forward slash feed forward slash podcast.</p>
+</div></div><div class="chat-stanza chat-row chat-speaker-1"> <div class="chat-text"><p>If you&rsquo;ve got any feedback about the podcast, which could be a suggestion of a potential guest or a subject, then head over to wptavern dot com forward slash contact forward slash jukebox. There&rsquo;s a contact form there for you to complete, and we&rsquo;d certainly welcome your input. Thanks in advance. If you reach out.</p>
+</div></div><div class="chat-stanza chat-row chat-speaker-1"> <div class="chat-text"><p>Okay, so on the podcast today, we have Dan Maby. Dan has been a user of WordPress for many years. As an agency owner, he&rsquo;s used it to build client websites, but as is often the case, he came for the software and got caught up in the community. Starting out by attending some local WordPress meetups, he engaged with his fellow WordPressers and enjoyed the events he was attending. Attendance turned into organizing, and over time, Dan became the lead for four WordPress meetups spread all over the UK. Meetups led to an interest in WordCamps, where he again stepped up to take on leadership roles at WordCamp London. In the podcast today, we talk about the importance of the WordPress community, not just to him as an individual, but to the future of the project as a whole. After all it&rsquo;s software created by people, and the health of that community will have a direct impact upon the contributions they make. We recorded this podcast at a time unlike any other. In-person events have had to stop the; WordCamps and meet-ups have all gone virtual. Perhaps there&rsquo;s a little light at the end of the tunnel, but it&rsquo;s a perfect time to look back and see how the community has adapted to these new circumstances.</p>
+</div></div><div class="chat-stanza chat-row chat-speaker-1"> <div class="chat-text"><p>We get into whether hybrid WordPress events should be the new norm. What lessons the community can learn from the past year, and what Dan and his colleagues have done to stay connected and part of a vibrant community. They&rsquo;ve built a platform to enable events and plan on releasing it as a WordPress plugin soon.</p>
+</div></div><div class="chat-stanza chat-row chat-speaker-1"> <div class="chat-text"><p>We also discuss an event which Dan has been a key player in organizing, WordFest Live. It&rsquo;s a 24 hour online event with a focus upon learning and positive mental health. It&rsquo;s a lovely episode with a member of the community who has been giving back for many, many years.</p>
+</div></div><div class="chat-stanza chat-row chat-speaker-1"> <div class="chat-text"><p>If any of the points raised here, resonate with you, be sure to head over and find the post at wptavern dot com forward slash podcast, and leave a comment there.</p>
+</div></div><div class="chat-stanza chat-row chat-speaker-1"> <div class="chat-text"><p>And so without further delay, I bring you Dan Maby.</p>
+</div></div><div class="chat-stanza chat-row chat-speaker-1"> <div class="chat-text"><p>Am joined on the podcast today by Dan Maby. Hello, Dan.</p>
+</div></div><div class="chat-stanza chat-row chat-speaker-2"><div class="chat-author chat-author-danmaby vcard"><cite class="fn">Dan Maby</cite> [00:03:46]</div> <div class="chat-text"><p>Good. Speak to you.</p>
+</div></div><div class="chat-stanza chat-row chat-speaker-1"><div class="chat-author chat-author-nathanwrigley vcard"><cite class="fn">Nathan Wrigley</cite> [00:03:46]</div> <div class="chat-text"><p>Yeah, it&rsquo;s really nice to have you on the podcast today. Dan and I have a long history of chatting with each other, so this may end up being quite informal at times, but nevertheless, we&rsquo;re going to talk today about the WordPress community and events in general.</p>
+</div></div><div class="chat-stanza chat-row chat-speaker-1"> <div class="chat-text"><p>To paint some context into that, I wonder Dan, if you wouldn&rsquo;t mind spending just a couple of moments, introducing yourself and perhaps explain your history. Not just with WordPress, the software, but also your history with WordPress as a community.</p>
+</div></div><div class="chat-stanza chat-row chat-speaker-2"><div class="chat-author chat-author-danmaby vcard"><cite class="fn">Dan Maby</cite> [00:04:17]</div> <div class="chat-text"><p>Yeah, absolutely. I guess my journey started 15 years ago with WordPress. Funnily enough, we had obviously the 18th birthday quite recently of WordPress, and I was looking back at my history, trying to figure out what had been doing with it. And I realized that I&rsquo;d started with version 1.5, which at the time was really quite a major introduction. Lots of features in that 1.5 update that we still recognize today in the platform. And it&rsquo;s been, an interesting journey with WordPress and the community. One that I&rsquo;ve absolutely loved over that 15 year journey. But really the journey for me with the community started, I think it was around 2012. I was looking for a way to connect with people that were working with and were interested using WordPress. I was working in London at the time in the UK, looked at a meetup. I came across, there was a WordPress meetup that was being run by Keith Devon at the time, the WordPress London meetup. So I went, I headed over to the meetup, came from my day job at the time, which means I was suited and booted. Wandered into this, a room with a bunch of WordPress developers and users. And felt entirely out of place in that in that first meeting. I was the only person there in a suit. Everybody else was nice and casual, but the welcome that I received in that meetup was second to none. It was really an incredible experience, a first experience of the, the wider WordPress community.</p>
+</div></div><div class="chat-stanza chat-row chat-speaker-2"> <div class="chat-text"><p>And it was actually at that event that Keith had asked if anybody was looking to get involved and support in the delivery of the event and that having been there literally for my first time, stuck my hand up, and that&rsquo;s really where it all started. And very quickly moved into a situation where Keith decided to step away from the event to focus on other things, focus on his agency, et cetera. I&rsquo;ve been running the event ever since. And the WordPress London meetup has been a key aspect to everything that I&rsquo;ve been doing within the community. It&rsquo;s been a real pleasure to be able to be a custodian of a that event.</p>
+</div></div><div class="chat-stanza chat-row chat-speaker-1"><div class="chat-author chat-author-nathanwrigley vcard"><cite class="fn">Nathan Wrigley</cite> [00:06:16]</div> <div class="chat-text"><p>You have a lot more strings to your bow than just the WordPress London meetup. Do you want to tell us a little bit more about some of the other things that you&rsquo;re, well, were involved in? We&rsquo;ll get onto that a little bit later, about the way that things have had to cease, but tell us apart from the WordPress London meetup, tell us about the other things that you were doing on a monthly basis.</p>
+</div></div><div class="chat-stanza chat-row chat-speaker-2"><div class="chat-author chat-author-danmaby vcard"><cite class="fn">Dan Maby</cite> [00:06:37]</div> <div class="chat-text"><p>Sure, so, for me the community was really the important bit, the people within the community. I really grew to develop a, a passion for the people that we were connecting with. And from that point from the running of the WPLDN event, I realized that actually there were other areas that were lacking in meetups across the UK. There were plenty of people running, plenty of meetups, and I was really enjoying being part of that kind of organizers community, if you like a meetup organizers community. But as I said, I noticed that there were areas that were lacking events, even in my local area, as well as further a field, I actually got to the point where I was organizing and leading four meetups a month across the UK, which saw me traveling quite substantial miles on a monthly basis, just to enable these communities to grow and develop.</p>
+</div></div><div class="chat-stanza chat-row chat-speaker-2"> <div class="chat-text"><p>And it was a real pleasure to be able to work with local communities. I always encouraged community members within the local area to come on board as co-hosts and enable them to take the lead and to sow the seed and then move on and help that community thrive. And it was going fantastically well. You know we had, as I say, we have four meetups running across the UK, and then suddenly, obviously we&rsquo;re thrown into the situation where we couldn&rsquo;t physically come together in person.</p>
+</div></div><div class="chat-stanza chat-row chat-speaker-1"><div class="chat-author chat-author-nathanwrigley vcard"><cite class="fn">Nathan Wrigley</cite> [00:07:56]</div> <div class="chat-text"><p>Before we move on to that, perhaps we could paint a little picture about the importance of WordPress in your life, because it strikes me that many people, they may use WordPress as a piece of software. And that&rsquo;s the end of it. They have really no understanding that there is a community which can support you in your WordPress knowledge, but also it can be much more than that. And I think it&rsquo;s fair to say that in your case, many of the people that you&rsquo;ve met through WordPress have become actual friends who you actually socialize with. Enjoy their company and stray into non WordPress things as well. So I&rsquo;m just wondering if you could tell us how it has helped you, but perhaps get into the stuff that&rsquo;s not to do with WordPress. Have you met people that you&rsquo;ve really jelled with and found camaraderie with.</p>
+</div></div><div class="chat-stanza chat-row chat-speaker-2"><div class="chat-author chat-author-danmaby vcard"><cite class="fn">Dan Maby</cite> [00:08:41]</div> <div class="chat-text"><p>I think this is the the beauty of the WordPress community. It&rsquo;s so much more than just the technology. I found it to be quite a unique community as well, in that the way people are open, the way people will communicate and discuss and talk about topics, which, by all rights where we attended an event together, we&rsquo;re essentially often competing with one another. I run an agency which focuses on design and development services, and I will go and speak with many other people that also run agencies. And essentially we are competitors, but that level of competition doesn&rsquo;t really surface too much in the WordPress community. It&rsquo;s predominantly a community that&rsquo;s very supportive and people are very open to discussing issues. Myself, I was seeking out connection, I wanted to be around like-minded individuals because I was in a situation where I was very isolated. I was looking for people to connect with that had an understanding of what I was experiencing. And that&rsquo;s really what the community has been about for me. It has been about this idea of having similar experiences, having, understanding of the challenges that we can face if we&rsquo;re working alone. And my company has run with distributed team members, so I don&rsquo;t have a central office with a team that all works together. We work in our home offices. You miss out on that ability to be able to have those conversations that you would have, potentially in-person. That for me was where I was seeking out the community, and as I did that, I realized that this community really was very open to discussing many issues and very open to sharing experiences and knowledge, which was unique for me at the time. And as you say, that&rsquo;s then led on to building of relationships and those relationships have gone further afield outside your outside of specifically WordPress related. Very happily, I&rsquo;ve got some wonderful friends across the community now, and they are friends and the people that I will hopefully have the pleasure of knowing for the rest of my life. Nathan, I count you in amongst that I can remember a conversation you and I had in a car park post a meetup many years ago and, it&rsquo;s been wonderful to watch the journey that you as an individual have gone on through your experiences of WordPress and podcasting, et cetera, and the many branches and tendrils that we have within the community. It&rsquo;s a very rich experience. I would say being part of the WordPress community.</p>
+</div></div><div class="chat-stanza chat-row chat-speaker-1"><div class="chat-author chat-author-nathanwrigley vcard"><cite class="fn">Nathan Wrigley</cite> [00:11:04]</div> <div class="chat-text"><p>Yeah, I would completely agree. And for those people who perhaps listening to this podcast, obviously this audio will go on in perpetuity, it may be that they&rsquo;re listening to this and the world has become more normal. Shall we say? Perhaps we&rsquo;re allowed to meet up in person again. If that were the case, what would be your best advice for digging into that community? What would your best search be? What would be the best way to go about finding where your local events are taking place?</p>
+</div></div><div class="chat-stanza chat-row chat-speaker-2"><div class="chat-author chat-author-danmaby vcard"><cite class="fn">Dan Maby</cite> [00:11:32]</div> <div class="chat-text"><p>First off is look for meetups. There are thousands of meetups across the globe that are run by local communities, and I really would encourage anybody if you haven&rsquo;t previously. Take a look head over to you know, there are various sites, whether it&rsquo;s meetup dot com, Eventbrite, et cetera, all those kinds of events websites. Do a search for your local area for WordPress meetup event. Sign yourself up and head over. My personal experience and something that I&rsquo;ve spoken about many times historically is simply getting involved in these events. We have this wonderful ecosystem of WordCamps across the WordPress space. And these WordCamps are, you&rsquo;re basically taking a meetup onto a grander scale, again, encouraging local communities to try and run those WordCamps and larger events, but that can sometimes feel quite daunting, just simply turning up to an event. So if you can get yourself embedded in some way, and volunteering is by far and away, the simplest and best way to do that. Every single one of these meetups and WordCamps are run by teams of volunteers. So signing up as a volunteer, simply putting your hand up and saying, yes, I&rsquo;ll get involved in some way. It gives you a purpose within the event. So you&rsquo;re not simply having to be there and trying to figure out where you fit within it. You&rsquo;re there and you have a role. And this was certainly my experience of getting into the WordCamps space. I&rsquo;ve volunteered. I can remember experience at WordCamp Europe, or I was doing some meeting and greeting as people were arriving, and it just opened up so many interesting and wonderful conversations with people that I still have very interesting, wonderful conversations with today. And it&rsquo;s just that embedding yourself in it and enabling yourself to be part of that community. First step I&rsquo;d say, check meetup, look for an event. Sign yourself up, head over there. And if there&rsquo;s any way that you can get involved, do. Most meetup organizers are so grateful for anybody putting their hand up and say, yeah, look, I&rsquo;ll get involved or stepping forward and saying look, do you need any help with this at all? And that help can vary in so many ways. As a meetup organizer, there&rsquo;s an awful lot often goes on behind the scenes that maybe attendees aren&rsquo;t always aware of that really go into delivering these events.</p>
+</div></div><div class="chat-stanza chat-row chat-speaker-1"><div class="chat-author chat-author-nathanwrigley vcard"><cite class="fn">Nathan Wrigley</cite> [00:13:45]</div> <div class="chat-text"><p>What is the difference between a meetup and a WordCamp? Probably, if you&rsquo;ve attended, either of those you&rsquo;ll know the difference, but if you&rsquo;re new to this whole WordPress community thing, it might be good to paint a bit of clear blue sky between those two different things.</p>
+</div></div><div class="chat-stanza chat-row chat-speaker-2"><div class="chat-author chat-author-danmaby vcard"><cite class="fn">Dan Maby</cite> [00:14:01]</div> <div class="chat-text"><p>So if I use London as an example. Our WordPress London meetup, when we were in person delivering these events, we were seeing the, of an average of a hundred people in attendance every month. So this would run every once a month in our local environment. So the focus for both WordCamps and meetups really are about encouraging local organizers to run them. So our meetup, we feature between two and three speakers on a night. It&rsquo;s usually around two, two and a half hours long. And then post that within, have a bit of a social gathering. Where we continue doing a bit of networking, et cetera. The meetup is a really a trimmed down version, should we say? Or that&rsquo;s probably negative, a negative way of putting it to be honest. The WordCamp is an enlarged version of meetup. Probably the best way of putting it and WordCamps are essentially that. We&rsquo;re taking the concept of a meetup, but on a much, much grander scale. And they don&rsquo;t have to be enormous. I&rsquo;ve attended some you know, a hundred attendee WordCamps and they&rsquo;ve been absolutely spectacular, really personal. And I really enjoy the kind of smaller hundred, hundred and fifty attendee WordCamps, but equally we also have some much, much larger ones. So again, if I look at WordCamp London, the last event we ran we had around 650, I believe was 650 attendees at that event. If we then look at the regional WordCamps. So the likes of WordCamp US, WordCamp Europe or WordCamp Asia. Yeah, WordCamp Europe. I believe there&rsquo;s three and a half thousand attendees at the last event, the last in-person event. So they&rsquo;re often spread across multiple days as well, but not always often there&rsquo;s a, a single day WordCamp as well, but the one telling difference between a WordCamp and a meetup is the WordCamps often have what we call a contributor day associated with them as well, which is a day focused entirely on contributing to WordPress in some way, shape or form. And there are so many ways to contribute. We&rsquo;re not just simply talking about writing code and contributing in that way. There&rsquo;s documentation, there&rsquo;s marketing, there&rsquo;s the multi-lingual there&rsquo;s many ways to get involved. So I really, again, would encourage anybody that&rsquo;s thinking about attending a WordCamp, once we are back to a situation where we are safe to be able to return to in-person events. And obviously some of the virtual events I really would encourage joining the, contributor day in any way that you can.</p>
+</div></div><div class="chat-stanza chat-row chat-speaker-1"><div class="chat-author chat-author-nathanwrigley vcard"><cite class="fn">Nathan Wrigley</cite> [00:16:15]</div> <div class="chat-text"><p>So with all of these events going on, obviously we&rsquo;ve got a thriving piece of software, which is turning out to be widely used over 40% of the web. We have the statistic now using WordPress. So the software is one side, but obviously we&rsquo;ve also, as you&rsquo;ve just painted a picture that we&rsquo;ve got this thriving community as well. An awful lot of the project perhaps was going on, at these community events, a lot of things were being organized, so contributor days, possibly different teams meeting up at various times at these events. And then sometime last year, the world paused and is still in a state of pause. I&rsquo;m wondering if you have any thoughts on whether the project as a whole has been stifled. I know that we&rsquo;ve gone online and we&rsquo;ll come onto that in a moment, but I&rsquo;m just wondering if you&rsquo;ve got any thoughts about the impact that the world pausing and not being able to meet up in person. If the project itself has been stymied by that.</p>
+</div></div><div class="chat-stanza chat-row chat-speaker-2"><div class="chat-author chat-author-danmaby vcard"><cite class="fn">Dan Maby</cite> [00:17:14]</div> <div class="chat-text"><p>I think this is a really interesting discussion. I can sit on both sides of the fence here. I think there is definitely an element of fatigue within the community at this stage. And I think that fatigue is being born out of the fact that potentially we are not having those in-person connections, the wonderful conversations that can be born out of the hallway track, you know it&rsquo;s spectacular, what can happen, and by hallway track, you&rsquo;re simply wandering around the event itself and not necessarily being in a session, but there&rsquo;s, the people are mingling around and the conversations that can be born out of those chance meetings, really are spectacular. Many times I&rsquo;ve run into individuals in the hallway, or we&rsquo;ve just started the conversation and then somebody else has jumped in, somebody else has jumped in and before we know it, there&rsquo;s, there&rsquo;s a really interesting round table conversation going on about the future of the project. Because as an open-source project, we all have the potential to influence them the potential to participate in the project in some way, shape or form. I think in this virtual environment that we&rsquo;re currently in, on a personal level, I believe that we&rsquo;ve lost some of that. We&rsquo;ve lost that ability in many ways. And it&rsquo;s created this fatigue where we&rsquo;re not necessarily having the opportunity to have those discussions and those new ideas, those new thoughts, or those alternative ways of looking at a problem. I think the project has possibly suffered for that, in some respects, I think is partly why WordPress as the software has been so successful is because of WordPress the community has had that really strong in-person connection and that really strong coming together as a community. Having said that equally, there are many benefits to the concept of the virtual environment that we&rsquo;re in. But yes. I certainly think there are some challenges that we have come up against and we&rsquo;ve tried to work towards resolving to some degree as a community in this virtual environment.</p>
+</div></div><div class="chat-stanza chat-row chat-speaker-1"><div class="chat-author chat-author-nathanwrigley vcard"><cite class="fn">Nathan Wrigley</cite> [00:19:07]</div> <div class="chat-text"><p>We&rsquo;re in a strange dichotomy in that we were probably better prepared than almost any industry to move everything online at the drop of a hat, because the WordPress community is online. We understand how to put websites together and turn those websites into virtual events and all of that kind of stuff. Conversely, and perhaps somewhat unexpectedly. We were also a community, that needed to be offline in order to push the project forward. And so in some sense, we were not prepared for that. Two sides of one coin, very well prepared from the technological point of view. But perhaps we didn&rsquo;t really understand that these in-person events, the interactions, the little coincidental meetings that might&rsquo;ve happened, that pushed things forward. The fact that the contributor days, they were a great way of pushing the project forward. All of these little things that required us to be in-person well, they just evaporated and we weren&rsquo;t really prepared for that and that&rsquo;s kinda my take on it. It feels like from the tech point of view, everything&rsquo;s a-okay. We can manage that side really well, but the unexpected consequences from the community going away have become slightly more obvious. And I feel it&rsquo;s not really in any way, catastrophic, it&rsquo;s just little paper cuts. Things haven&rsquo;t perhaps worked as fluidly, perhaps interactions haven&rsquo;t been made, perhaps people have become fatigued, logging onto their computer and so on. And of course, there&rsquo;s the fact that there&rsquo;s a great deal of excitement around turning up to one of these events and whether that&rsquo;s a meetup and you just show up for the evening or you go somewhere further afield. You might need to get in the car or get on a train or get on a plane and you may have booked a hotel and your almost seeing it as a little bit of a vacation, something a little bit outside of the normal experience, all of that side has gone. And so there&rsquo;s less be excited about. And perhaps as you described it fatigue, I&rsquo;m describing it more as a lack of excitement, perhaps that has had a bit of an impact.</p>
+</div></div><div class="chat-stanza chat-row chat-speaker-2"><div class="chat-author chat-author-danmaby vcard"><cite class="fn">Dan Maby</cite> [00:21:10]</div> <div class="chat-text"><p>I think you&rsquo;re absolutely right. There&rsquo;s an excitement when you&rsquo;re coming together in personnel, there&rsquo;s excitement. You don&rsquo;t always know what to expect. You don&rsquo;t always know what&rsquo;s going to come in those conversations. You may have a good idea, but the ability to come together in person and really thrive off that energy of one another, it really can be quite special, but equally there are many people that don&rsquo;t thrive off of that there are many people that really struggle with the idea of being in large groups of people, there&rsquo;s absolutely pros and cons to all of this. And it&rsquo;s something that we were in our events, in the in-person events, we were trying to be aware of, be mindful of that experience for people. Some people, as I say will thrive off that environment of being around lots of people, but those that need their own space sometimes. The idea of delivering quiet rooms at in-person events is really important because some people do just need that time away from the crowd to be able to re-energize themselves, by being by themselves. This idea of enabling all walks of life, all the variations of people that build up our community to be able to participate. And I think this is really where we&rsquo;ve got a huge positive in the virtual environment at the moment we&rsquo;ve brought down so many barriers. For a far greater, far more diverse mix of individuals, whether we&rsquo;re talking about speakers or attendees, we&rsquo;ve got some wonderful opportunities right now in the virtual environment. We&rsquo;re not having to consider visas. We&rsquo;re not having to consider travel expenses. The limitation that we&rsquo;re running on right now in terms of attendance of an event is the bandwidth to be able to connect to that event. We were looking at the positive side of this. There are some really good things I think we need to be very mindful of as we move forward. As we move into, as we start to move into a situation where we, if we&rsquo;re in a safe environment, to be able to return to the in-person events, we also need to be mindful of how do we continue to encourage that very open and very inclusive model that the virtual environment has created.</p>
+</div></div><div class="chat-stanza chat-row chat-speaker-1"><div class="chat-author chat-author-nathanwrigley vcard"><cite class="fn">Nathan Wrigley</cite> [00:23:16]</div> <div class="chat-text"><p>Do you see in the future, and we&rsquo;ll talk more in a moment about specifically what it is that you and your events have done to move online over the last year or so, but just for now, do you see in the future then a model where, let&rsquo;s say that we all go back and the world returns to how it was in 2018. Everybody&rsquo;s allowed to get on planes and trains and everybody can move freely once more. Do you think that we have reached a point where hybrid events and by that I mean, many people will come and be present in the room, but also perhaps we need to provide the internet access so the people from further afield who don&rsquo;t wish to attend, or perhaps they&rsquo;re literally on the other side of the world and they only want to see two or three of the variety of sessions that are on offer that week. It&rsquo;s really not worth them getting on a plane for that, but they could log in and watch them online. So do you feel that there&rsquo;s a hybrid or will we just consign the online events to the realms of history?</p>
+</div></div><div class="chat-stanza chat-row chat-speaker-2"><div class="chat-author chat-author-danmaby vcard"><cite class="fn">Dan Maby</cite> [00:24:12]</div> <div class="chat-text"><p>So I&rsquo;m very hopeful that as a community, we will adopt the hybrid model. However, having said that, I also appreciate that we need to also figure out what this hybrid model looks like. As a meetup organizer, again, the WordPress London meets up. We were taking quite a considerable amounts of kit into the event to deliver the events. And by kit I&rsquo;m talking about cameras, microphones, tripods, sound equipment, all sorts of stuff, which isn&rsquo;t that common in the meetup space. And as a meet-up organizer, you don&rsquo;t need to be thinking about, or how do I get low cameras, et cetera. But what it meant for us is we were pre pandemic we were already in an environment where we were live streaming the sessions. We were accepting questions coming in from the virtual audience that were consuming the content live whilst the in-person community were also consuming that content. That put us in a very strong model as we move forward, which I can get into in a moment. But the issue that I see is, are we going to try and force the experience where we&rsquo;ve got the in-person and the virtual, combined together at the same time, are we actually going to create a situation where we create the worst of both worlds? So the in-person deteriorates because there&rsquo;s a need for more equipment, there&rsquo;s a need for more organizing and there&rsquo;s need for just a very different experience where you&rsquo;ve got a lot more things needing to happen from an organizer&rsquo;s perspective. And then have you then got the virtual side, is their experience going to deteriorate because the organizers are having to focus on the in person. It&rsquo;s an awful lot to deliver, as an organizer: an event. But to then take that event and say now I need to do at the same time, a hybrid of in-person and live, particularly on the meetup side, I think it&rsquo;s something we&rsquo;re going to have to be very careful of and figure out how do we do that? Are we better to have, I don&rsquo;t know, for example, an in-person event and a virtual event, twice a month. Again, I&rsquo;m not advocating for this for every single meetup because I appreciate every meetup is run by volunteers. It&rsquo;s about the capacity for those organizers. I think when we start to look at WordCamps, it gets a little more interesting because obviously WordCamps do have a slightly larger team often, and there is often some funding supported through sponsorship, et cetera, to enable that. But again, we&rsquo;ve got to look at how do we make sure that the experience is optimal for both the in-person and the virtual. And I&rsquo;m not sure I have the, certainly I don&rsquo;t have the answers to that at this stage, but it&rsquo;s certainly something we&rsquo;ve been having a lot of discussion around internally. And the platform that we&rsquo;ve developed for our virtual events at the moment is something that we&rsquo;re looking to roll into our hybrid model. But again, that we don&rsquo;t have the answers at this stage.</p>
+</div></div><div class="chat-stanza chat-row chat-speaker-1"><div class="chat-author chat-author-nathanwrigley vcard"><cite class="fn">Nathan Wrigley</cite> [00:26:57]</div> <div class="chat-text"><p>I&rsquo;m also conscious that perhaps if everything becomes available online, it may persuade people who are almost going to attend live to not attend live. It may dwindle the audience that turn up to the live event, if you know what I mean, which would be a kind of an unexpected consequence, but those people who were flip-flopping and maybe I&rsquo;ll go, maybe I won&rsquo;t, oh, I&rsquo;ll just watch it on the screen, which is fine. But obviously you don&rsquo;t want to get to the point where the in-person event is attended by just a couple of people, because everybody else is just tuning in online because the sort of sense and the purpose of that event and the camaraderie, all the good stuff that you want to happen, in-person disappears.</p>
+</div></div><div class="chat-stanza chat-row chat-speaker-2"><div class="chat-author chat-author-danmaby vcard"><cite class="fn">Dan Maby</cite> [00:27:38]</div> <div class="chat-text"><p>So this was something that we discussed, a number of times pre pandemic, when we made the decision to start live streaming, the WPLDN events, and we have that exact concern and it&rsquo;s a genuine concern. Are you going to deteriorate the experience by somebody has the option to just simply watch it online? It never happened. Our numbers, stayed consistent and we saw a numbers of in-person stay consistent and we saw our numbers online, grow and grow. And that really demonstrates to us that people want that in person connection, as you just said, there&rsquo;s so much more to the event than simply consuming the the section that&rsquo;s being delivered. So it is those conversations are happening in hallway tracks. It&rsquo;s the, all the other elements to the event that you often can&rsquo;t gain from a virtual environment.</p>
+</div></div><div class="chat-stanza chat-row chat-speaker-1"><div class="chat-author chat-author-nathanwrigley vcard"><cite class="fn">Nathan Wrigley</cite> [00:28:24]</div> <div class="chat-text"><p>Okay. So let&rsquo;s move the conversation a little bit. It was staying on more or less the exact same topic, but I&rsquo;m curious to know what it is technically that you have done since March last year in the UK, March was the moment where everything ground to a halt, and we were unable to see each other. So I just wondered if you could run us through what challenges you faced, how you&rsquo;ve overcome them. And I know that you spent a lot of time trying to build a platform and shape a platform, to make this work in your situation. Perhaps explaining that might encourage other people who would like to take their events online, to reach out to you and see if you can lend them a hand.</p>
+</div></div><div class="chat-stanza chat-row chat-speaker-2"><div class="chat-author chat-author-danmaby vcard"><cite class="fn">Dan Maby</cite> [00:29:00]</div> <div class="chat-text"><p>Sure. Absolutely. Just to give a bit of context before I get into this, the WPLDN events, along with several other events that we deliver, now come under the umbrella of Big Orange Heart, which is a registered nonprofit with a mission to support, promote positive mental health within remote working communities. So a big focus for us is about continuing ways to help reduce social isolation and the delivery of events do that. Now the reason I&rsquo;m saying that is because there&rsquo;s a team of volunteers within Big Orange Heart, that have donated time into helping us deliver them. So what I wouldn&rsquo;t want to portray is yeah I&rsquo;m sitting here on my own and it built this platform that enabled the community to continue to do its thing. It&rsquo;s taken a small village of people to continue to do this. And I appreciate not every meetup has that ability to be able to tap into that. But what we did, we actually back, as I said, previously, we were already live streaming. So we had a pretty good idea of, the, kind of the technical aspects of live streaming content and very fortunate, we&rsquo;ve got a fantastic team on WPLDN, specifically Leo Mindel, Paul Smart and Diane Wallace and myself come together. Leo comes in with some fantastic technical knowledge to help support the live streaming side of it. And we took the decision back in February, so prior to the government making any announcement here in the UK, we took the decision that was going to be our last event until we had more information in relation to the pandemic. Little did we know that would obviously continue on as it is right now, but we took what we were doing in terms of our live streaming; so we did our final in-person event in February. We jumped straight into trying to do a virtual event in our next event in March. So we delivered one event a month through WPLDN. The first thing we did in March was jumped straight into Zoom and said, yep, let&rsquo;s get everybody in. Within minutes, we recognize that Zoom was entirely the wrong platform for us to deliver an event on. It&rsquo;s a great platform, for the purpose of meetings one-to-one or one to many meetings, but it really isn&rsquo;t a good platform for any kind of event. Because if in an event you want the ability for people to freely move around. And we&rsquo;ve seen many events that have used Zoom, used multiple Zoom rooms to enable the attendees to jump into different conversations. The problem with that is you don&rsquo;t know what you&rsquo;re jumping into. We often refer to it as Zoom roulette because you&rsquo;ll be jumping into a Zoom call and you don&rsquo;t know who&rsquo;s in that Zoom call. You don&rsquo;t know what you&rsquo;re jumping into, and it adds a huge cognitive load to the attendees of an event, because not only are they having to figure out where the different Zoom links are, they&rsquo;re also then having to figure out once they&rsquo;ve got in who it is that they&rsquo;re communicating with in that conversation, which it just simply didn&rsquo;t work for us. So we very quickly started to work on a solution that would enable us to have that ability to have freedom of movement within a virtual environment. Now, this led us on to looking, we&rsquo;re huge open-source advocates. And we wanted to continue to deliver, we wanted to build something that would tie in and fit with that ethos of the open source projects that we support. So we quickly discovered Jitsi as source video conferencing solution. Ran into many challenges along the way, in terms of building out the platform. But what we ultimately ended up with was a platform that enabled us to use our existing registration process. So all of our attendees are on meetup. So we wanted for people to be able to obviously log in with their meetup credentials. So register for an event on meetup, if they&rsquo;ve registered, be able to then access the event online. So we built a WordPress site, built a custom app that wrapped around a Jitsi instance, which then enabled us to have this concept of tables within the platform. So attendees would register for the event, jump in. We would be able to stream content into that platform as well as then have this idea of tables where people could freely move around and see exactly who&rsquo;s on what table before they were jumping in. We delivered that I believe that was around May time of that year. So two months following the decision to go to virtual and we continue to iterate and evolve that platform from that point on, which has been, it&rsquo;s been a phenomenal experience, the development of this solution. I just wanted to give a shout out to Louis Cowles, who has been doing an incredible job. Taking what I had originally put together, which was this app wrapped around Jitsi and he has turned it into something far more spectacular, which we are now, almost at the stage of being able to deliver as a WordPress plugin. So if anybody has attended any of the Big Orange Heart events or any of the events, the Big Orange Heart supports, have experienced the platform, which includes WordFest. The whole platform that we have developed there will soon be available as a WordPress plugin as well, which we&rsquo;re really excited about.</p>
+</div></div><div class="chat-stanza chat-row chat-speaker-1"><div class="chat-author chat-author-nathanwrigley vcard"><cite class="fn">Nathan Wrigley</cite> [00:33:56]</div> <div class="chat-text"><p>I have to say from my part, it is now feeling incredibly mature and the fact that it will soon be a WordPress plugin is remarkable. Will that be something that anybody can access and therefore use at their own meetups? Presumably there&rsquo;s some sort of burden of setting up things outside of WordPress. Maybe there&rsquo;s other containers with the Jitsi software that needs to be done, or does it all get rolled into just the plugin and you&rsquo;re good to go.</p>
+</div></div><div class="chat-stanza chat-row chat-speaker-2"><div class="chat-author chat-author-danmaby vcard"><cite class="fn">Dan Maby</cite> [00:34:22]</div> <div class="chat-text"><p>So there&rsquo;s still work that we&rsquo;re working through, how to enable that within the community. Really, what we&rsquo;re trying to do here is build something that is enabling communities to have the experience that we&rsquo;ve had with WPLDN, and also, we&rsquo;re not just simply talking in this current particular space where we&rsquo;ve got the, just virtual again, referring back to the hybrid model. As a platform would work particularly well for the hybrid model, but yes, there are definitely additional technical elements to it, which we will obviously be looking at how we can mitigate that technical challenge that comes with it. There are hosted versions of Jitsi, which you can simply plug into it as it is right now. So again, we&rsquo;ll be able to share more information as we move forward with that. We&rsquo;re really, it&rsquo;s about enabling the community to be able to continue to have that very broad reach. Even as we, as we move back into the in-person.</p>
+</div></div><div class="chat-stanza chat-row chat-speaker-1"><div class="chat-author chat-author-nathanwrigley vcard"><cite class="fn">Nathan Wrigley</cite> [00:35:11]</div> <div class="chat-text"><p>You being you, you weren&rsquo;t content to rest on your laurels and carry on just doing the WPLDN event. You&rsquo;ve obviously got this platform and you decided at some point last year, that you wanted to manage and organize an event which spanned the entire globe. And so WordFest was born. I don&rsquo;t know if WordFest was born, basically out of the fact the world was on pause or whether you&rsquo;d have plans for this prior to that. But perhaps you could spend a few minutes just outlining what WordFest is and by good coincidence, there is actually a WordFest, if you&rsquo;re listening to this podcast episode, soon after it was released, there is actually a WordFest event coming up really soon. So perhaps tell us why you started it and then get onto what&rsquo;s going on in the next few weeks.</p>
+</div></div><div class="chat-stanza chat-row chat-speaker-2"><div class="chat-author chat-author-danmaby vcard"><cite class="fn">Dan Maby</cite> [00:35:59]</div> <div class="chat-text"><p>Sure. So as a charity, we always intended to have some form of larger in-person event. Events have been something that&rsquo;s had a real passion for a very long time. The ethos of bringing people together, helping reduce social isolation of lone workers is something that really fits well with everything that we&rsquo;re doing in terms of Big Orange Heart. So we wanted to enable people to come together. That had always been on the cards from the very early stages of Big Orange Heart. Of course, when we got thrown into this situation with the pandemic, as I say, we moved into the virtual environment for our monthly events, that platform that I&rsquo;ve been discussing, we actually opened up to other communities. So we&rsquo;ve enabled other communities to be able to run their events through our platform, without any charge to them. We just simply wants to be able to create a solution for those communities to continue to come together when they couldn&rsquo;t deliver them in person. What that actually meant was that we, in the first 12 months that we were delivering events through our live dot Big Orange Heart dot org site, we&rsquo;d had over 12,000 attendees come through that platform, which has meant that we&rsquo;d obviously had a huge amount of feedback and we&rsquo;d been able to iterate very quickly across that solution to get to a point where we actually decided that we want to deliver a larger scale event. It&rsquo;s always been on the cards. Why not do that as a virtual conference or virtual festival? That&rsquo;s really where the concept of WordFest was born. And I want to, again, when we give a huge shout out to Brian Richards, particularly of WordSesh. WordSesh has been around, you know, as a virtual WordPress focused virtual event for many years, I can remember way back in the early days of the first WordSesh, the first few WordSesh&rsquo;s, which were 24 hour events and had a lot of fun attending those. And I remember attending my first one and actually attending for the full 24 hours. So this wasn&rsquo;t something that was new in our space. We were very aware that there was a desire for it, but we wanted to wrap together the two elements of what we do. Our hearts really are in WordPress, but our focus is really around wellbeing and mental health, positive mental health. So this concept of WordFest was about bringing those elements together. So if you attend WordFest, you will find content that focuses on both WordPress and our individual wellbeing as remote workers. It really was about this concept of a global celebration of our community. We talked about different ways of delivering it. We talked about do we do over multiple days because we appreciate time zones, how do we, how do we factor in a way of enabling anybody that wants to attend to be able to attend? But we didn&rsquo;t want to just say here&rsquo;s a set time on this day, here&rsquo;s six hours that would deliver it or, over a period of days, we&rsquo;ll do, it was a real challenge. So we, we kept coming back to this 24 hour concept because it would end up, if somebody wants to attend over that one day, there was some point in the day that hopefully they would be able to join us. And it has mushroomed. It&rsquo;s grown and grown. We set out to deliver the first one back in January, this year, 2021, we set a target of 2000 attendees to the event we had just over two and a half thousand attend. So it was, we completely smashed all our expectations in terms of people attending the event. But also we completely smashed our expectations in terms of the number of sessions that we were delivering. We initially set out a wanting to deliver 24 sessions over the 24 hours. That turned into 36 sessions actually ended up being 48 sessions through the first event. I&rsquo;m really happy. I&rsquo;m not sure it&rsquo;s the right word, but I&rsquo;m really happy to say that this time around we&rsquo;ve actually got 66 sessions that are going to be delivered in the 24 hours. It&rsquo;s been a phenomenal experience, delivering this as again, as a wonderful team of volunteers, sitting behind this people like Michelle, Cate, Hauwa, Paul, just wonderful people that are really enabling us to be able to continue to grow this event into a much larger scale event than it ever was initially. So the next WordFest live is taking place on the 23rd of July. So we&rsquo;ll be featuring 66 sessions over a 24 hour period. And it is, I think one of the most wonderful things I took away from the last WordFest was, as an organizer, having organized many in-person events, there&rsquo;s always a connection with your co-organizers. Certainly if you&rsquo;re running a larger event, such as a WordCamp, for example, you build up this rapport and you build up this relationship that on the day of delivering the event often it&rsquo;s, it&rsquo;s, it&rsquo;s tiring. There are, yeah, there are moments of challenges, but there are just wonderful moments as well. But you experience all of those things together as a team. What I took away from WordFest live, which was a genuine surprise to me was we managed to create that same experience. We managed to create that same shared experience as we were delivering the event. I&rsquo;ll never forget sitting here, I think I was in about hour 36 of because I&rsquo;d been up some time before the event and I was sitting there and just the silence that was actually happening as a bunch of organizers, we all knew how, what we were experiencing in that moment. And it was just a real special time. We use various tools to deliver it. And one of the key secret ingredients for us as organizers was Discord. So having an open audio Discord channel for us to be able to just simply be able to speak to one another as we needed in that moment, it worked incredibly well for us.</p>
+</div></div><div class="chat-stanza chat-row chat-speaker-1"><div class="chat-author chat-author-nathanwrigley vcard"><cite class="fn">Nathan Wrigley</cite> [00:41:40]</div> <div class="chat-text"><p>So the event, just tell us one last time. What are the dates and where do we go if we wish to sign up and perhaps importantly, tell us how much does it cost?</p>
+</div></div><div class="chat-stanza chat-row chat-speaker-2"><div class="chat-author chat-author-danmaby vcard"><cite class="fn">Dan Maby</cite> [00:41:53]</div> <div class="chat-text"><p>I&rsquo;m laughing because it costs you absolutely nothing. WordFest Live is a free event, the next event is taking place on the 23rd of July where we&rsquo;ll be starting at midnight UTC. So time zones are always fun in an event like this. So we base it around UTC. So midnight UTC on the 23rd of July running for 24 hours. So that&rsquo;s the Friday 23rd. You can join us at any point over that 24 hour period, we will be running across six continents. Our time zone starts off in the Australia, Australian time zones. We&rsquo;ll move on to Asia, Africa, Europe, south America, and ending up in North America. And then we&rsquo;ve got Antarctica. You can chill out in our community tent all day long. So over that period, we would love to see you join us. As I say, registration is entirely free. There is an optional $10 donation that you can make when registering, all funds go directly into Big Orange Heart, which was the say is a registered nonprofit. There is also an option there to sign up as a micro sponsor. Should you choose to. Micro sponsorship is charged at $250. And for that, we will obviously get some exposure of your company. And it&rsquo;s really a more a reflection of what it actually costs for us to put this together, in terms of the attendees tickets.</p>
+</div></div><div class="chat-stanza chat-row chat-speaker-1"><div class="chat-author chat-author-nathanwrigley vcard"><cite class="fn">Nathan Wrigley</cite> [00:43:13]</div> <div class="chat-text"><p>This podcast episode, you could probably sum it up with one word and that word would probably be community. If I was to show up to WordFest live and I had ambitions to socialize with other people. That kind of thing is possible? It&rsquo;s not just about show up to the event, watch the speakers and then wait for the next speaker to start. You&rsquo;ve provided opportunities to socialize. So maybe as a final thing, just explain how that works. What&rsquo;s the provision for meeting up with other people and breaking out into different groups and so on.</p>
+</div></div><div class="chat-stanza chat-row chat-speaker-2"><div class="chat-author chat-author-danmaby vcard"><cite class="fn">Dan Maby</cite> [00:43:42]</div> <div class="chat-text"><p>So this was as equally important as finding fantastic speakers. We also needed to make sure that the ability for people to be able to connect, the community, to be able to come together has been a focus for us. So this is where the custom solution that we&rsquo;ve been developing comes into play. So if you are attending WordFest, you can obviously consume, we&rsquo;ve got two tracks running over the 24 hour period. So at any point you have a choice of at least two sessions to choose from. I say at least because there&rsquo;s also some evergreen content that will be available for you to consume through the events as well. And then you can head over to our community tent which we are nicknaming Antarctica this time round, where you can connect with the sponsors. So you will see all the sponsors tables, you can jump in and have conversations, discuss with them for whatever reason you need to to connect with the sponsors, highly encourage you to do that. But in the same space, you can also spin up your own community table. And this is, we try to liken it to a sponsors hall at an in-person event. You might wander into the sponsors hall. You&rsquo;ll have conversations with the sponsors, but equally you might have conversations with your peers, friends, colleagues, in and around the community. So we&rsquo;ve really tried to, as best we can in the virtual environment, replicates that hallway track experience where you&rsquo;re not bound to specific calls, you&rsquo;re not bound to specific tables. You have freedom of movement within that platform to connect with those that you want to connect with. Equally, you also have your own profile within the platform and your own profile then has your own meeting room. So should you want to break out and have you a slightly more private conversation discussion away from the community tent, then again, you have that facility. So it&rsquo;s really about trying to enable people to come together and have the conversations that are so important.</p>
+</div></div><div class="chat-stanza chat-row chat-speaker-1"><div class="chat-author chat-author-nathanwrigley vcard"><cite class="fn">Nathan Wrigley</cite> [00:45:29]</div> <div class="chat-text"><p>Thank you so much, Dan, for putting an event like this on, I know that as you&rsquo;ve said, it&rsquo;s not just you, there&rsquo;s a great large community of people in the background as well. So thank you to them equally and during the last 18 months or so, thanks for being there and making sure that the communities can keep meeting and you&rsquo;ve endeavored to to keep all of that going. And I fear that unless it was for people like you who&rsquo;ve really gone the extra mile, perhaps things wouldn&rsquo;t be quite so bright going forward. From the bottom of my heart. Thank you very much, Dan, for coming on the podcast and for everything that you do.</p>
+</div></div><div class="chat-stanza chat-row chat-speaker-2"><div class="chat-author chat-author-danmaby vcard"><cite class="fn">Dan Maby</cite> [00:46:01]</div> <div class="chat-text"><p>Oh I&rsquo;m deeply appreciate. I thank you. Thank you very much, and likewise. Thank you for all that you do across the community. I appreciate it. I&rsquo;ll see, you spent a lot of time chatting with people like me sharing some wonderful stories.</p>
+</div></div><div class="chat-stanza chat-row chat-speaker-1"><div class="chat-author chat-author-nathanwrigley vcard"><cite class="fn">Nathan Wrigley</cite> [00:46:11]</div> <div class="chat-text"><p>Thank you so much.</p>
+</div></div></div></div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 16 Jun 2021 14:00:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:14:"Nathan Wrigley";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:2;a:6:{s:4:"data";s:13:"
+	
+	
+	
+	
+	
+	
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:42:"HeroPress: Changing The World, Changing Me";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:56:"https://heropress.com/?post_type=heropress-essays&p=3902";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:134:"https://heropress.com/essays/changing-the-world-changing-me/#utm_source=rss&utm_medium=rss&utm_campaign=changing-the-world-changing-me";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:8049:"<img width="1024" height="512" src="https://heropress.com/wp-content/uploads/2021/06/061421-min.jpg" class="attachment-large size-large wp-post-image" alt="Pull Quote: WordPress has fundamentally changed who I am. I don’t say that lightly." /><p>WordPress was created when I was 10 years old. I try to imagine myself at 10 and the only images I can conjure up are ones of anxiety. My world both felt so small and was so small yet what I felt seemed so big. I don’t look back fondly on those years. I was a ball of competitive anxiety who was just coming out of being made fun of for years for my speech impediments and finally starting to figure out who I might be. My 10 year old self didn’t like change and didn’t know how to cope. My 10 year old self had no concept of what was being created during these strange years and I’m filled with gratitude thinking about those who were paving the way before I could even conceptualize what a website was.</p>
+<p>WordPress has fundamentally changed who I am. I don’t say that lightly. I have an urge to jump into a monologue of, “How do I love thee? Let me count the ways” when I think about WordPress.</p>
+<h3>Finding My Creativity</h3>
+<p>The most profound change started in awakening a sense of creativity and belief in myself. I work hard at things but my earlier black and white point of view often limited any amount of creativity I might have had. I’ll never forget in college working for <a href="http://web.unc.edu/">web.unc.edu</a>, UNC Chapel Hill’s WordPress multisite installation, and discovering that I could create as many sites as I wanted. The ease of use and the unlimited possibilities led me to create site after site. This still happens now with <a href="https://letslifechat.com/">https://letslifechat.com/</a> born this year out of my desire to share my love of questions and deeply connecting with others, especially during a year of profound disconnection. Along the way at UNC, I got to work with brilliant and kind coworkers who believed in me to the point of encouraging me to apply to Automattic after I had to graduate a year early.</p>
+<blockquote><p>Knowing they believed in me helped me apply and the case of redbull they sent me for my trial helped me get the job!</p></blockquote>
+<p>I never saw myself as creative since creativity was defined for so many years as being art focused (poetry, painting, etc) and I have absolutely no artistic abilities. Being able to make an idea come to life online has changed how I view myself – I now see myself as creative and capable. This shift in how I view myself led me to create initiatives like <a href="https://accelerate.lgbt/">accelerate.lgbt</a> and <a href="https://mentoreverywhere.com/">Mentor Everywhere</a> at Automattic in my free time. I never realized that my handwriting and drawing abilities could be terrible yet, at the same time, my creativity could be powerful. The results of my creative actions have solidified a sense of belief in myself that is deeply profound. It’s something I fall back on during tough days of self doubt and tough problems.</p>
+<h3>Finding The World</h3>
+<p>Because of WordPress’ global and distributed nature, I have been afforded the opportunity to travel to far away lands and to be there for meaningful moments with dear loved ones. Being a “nomad” is something I never thought I’d be. Being connected to people all over the world felt unfathomable and still feels like more of a dream than a reality. It’s challenged every aspect of who I am and I am better for it. Combined with the ability to see the world, I get to work with folks from all over the world every single day thanks to WordPress. This has given me the honor of having a global mindset that I carry with me no matter where I go. I feel I have traveled enough for many lifetimes over. Once you begin thinking at that scale, whether due to a global mindset or due to the percentage of the web powered by WordPress, you can’t go back. Something in you changes for the better.</p>
+<h3>Finding Who I Am</h3>
+<p>I think often of LGBTQ+ people of years past and how many likely never would have had the chance at a life that I have. This rings particularly true during Pride Month. On top of everything else, WordPress has given me a platform and a job where I can be my truest self whether that’s sharing my mental health struggles, talking about my evolving thoughts <a href="https://surrogacy-stories.com/">on being born through surrogacy</a>, or imagining a different way of existing <a href="https://nomad.blog/2020/01/16/little-homes/">with many little homes rather than one</a>. With WordPress, I can share my words and I can be heard. I can fiercely be myself and be amplified rather than silenced. I can join community meetings and proudly share a rainbow emoji as I say hi. WordPress has emboldened me and has given me so many opportunities to use my newfound creativity to lead in various spaces.</p>
+<p>None of the above gets to the root of why I LOVE what I do and love what WordPress is to me. Beyond any personal change, WordPress has allowed me to help others and to increase my own impact on this world. Whether it was working with department sites during my time at UNC or helping a local non profit set up a brand new website to bring theirs out of the 90s, I am thrilled to have a job and a passion that centers on helping others succeed.</p>
+<blockquote><p>It’s such a privilege to work with folks during different stages of their sites – it’s always so personal and so sacred.</p></blockquote>
+<p>I can vividly remember the first time this gripped me. I was helping a professor at UNC set up a site and when we finally published it, he couldn’t believe it was “live”. He kept asking me whether other researchers, students, professors, etc. could find him. As I began to explain how everything worked, he was nearly brought to tears.</p>
+<p>“I can’t believe my life’s work can be found by anyone in the world.”</p>
+<p>I was just a freshman at this point and didn’t quite understand what I had stumbled upon with WordPress. I couldn’t have imagined that this would be my life. I had a friend a few years ago say to me, “You are the last person I ever expected to work in technology.” I grew quiet and nodded solemnly, “Me too”. This great adventure and great chance is truly due to those who helped me patiently over the years. It’s also due to those who enabled WordPress to be what it is today and what it will be tomorrow. I don’t take this for granted.</p>
+<h3>Finding My Joy</h3>
+<p>There’s a concept I am stuck on these days. It’s centered on this quote:</p>
+<blockquote><p>“The true meaning of life is to plant trees, under whose shade you do not expect to sit.” – Nelson Henderson</p></blockquote>
+<p>When I was 10, so many were working so immensely hard to create the shade in which I currently sit. This gorgeous, remarkable, world expanding shade that I can’t believe I ever found and that I hardly have the words to describe. I send a tearful “thank you” from my soul into the ether for all of you out there who made this precious life of mine possible.</p>
+<p><a href="https://nomad.blog/2021/04/17/one-year-in-devrel/">Just over a year ago</a>, I switched into a Developer Relations Wrangler position at Automattic as a full time contributor to the WordPress project and my hope now is that I can pay forward what has been given to me through planting trees of my own. To have the chance to give back to something that has given me so much is something I wake up everyday thankful for, even on the tough days. Even better, I now get to play a role in encouraging, supporting, and believing in other people as a core part of my job in the same way so many have done for me.</p>
+<p>The post <a rel="nofollow" href="https://heropress.com/essays/changing-the-world-changing-me/">Changing The World, Changing Me</a> appeared first on <a rel="nofollow" href="https://heropress.com">HeroPress</a>.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 16 Jun 2021 12:00:48 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Anne McCarthy";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:3;a:6:{s:4:"data";s:13:"
+	
+	
+	
+	
+	
+	
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:52:"WPTavern: Automattic Acquires Day One Journaling App";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=118457";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:149:"https://wptavern.com/automattic-acquires-day-one-journaling-app?utm_source=rss&utm_medium=rss&utm_campaign=automattic-acquires-day-one-journaling-app";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:7835:"<img />
+
+
+
+<p>Automattic has <a href="https://wordpress.com/blog/2021/06/14/day-one-the-journaling-app-joins-automattic/">acquired Day One</a>, a journaling app available on iPhone, Android, iPad, Mac, and Apple Watch. The app makes it easy to create journal entries on the go, offers end-to-end encryption for privacy on its paid tier, and has offline capabilities. While most users compose private entries, Automattic&rsquo;s acquisition announcement promises integrations for publishing to the web:</p>
+
+
+
+<p><em>That doesn&rsquo;t mean that everything you journal has to stay private, though. When you want to share specific entries &ndash; or even entire journals with the world &ndash; you can expect seamless integrations with both WordPress.com and Tumblr to do just that. On the flip side of that, importing your favorite content from WordPress.com and Tumblr into Day One is on the near-term roadmap.&nbsp;</em></p>
+
+
+
+<p>In a <a href="https://ma.tt/2021/06/day-one-at-automattic/">post</a> on his personal blog, Automattic CEO Matt Mullenweg said he has been a user of Day One since 2016 and spoke highly of the app&rsquo;s infrastructure: </p>
+
+
+
+<p><em>Day One not only nails the experience of a local blog (or journal as they call it) in an app, but also has (built) a great technical infrastructure &mdash;&nbsp;<s>i</s>t works fantastic (when) offline and has a&nbsp;<a href="https://help.dayoneapp.com/en/articles/840428-end-to-end-encryption-faq">fully encrypted sync</a>&nbsp;mechanism, so the data that&rsquo;s in the cloud is secured in a way that even someone with access to their database couldn&rsquo;t decode your entries, it&rsquo;s only decrypted on your local device. Combining encryption and sync in a truly secure way is tricky, but they&rsquo;ve done it.</em></p>
+
+
+
+<p>A journaling app is a surprising acquisition for Automattic, which has traditionally gravitated towards snapping up publishing-related companies and tools. WordPress is capable of powering nearly every kind of public-facing website, but private publishing has never been its strong suit. Though many have used WordPress in a sort of &ldquo;private&rdquo; mode for journaling, or set up local installations, the software is not streamlined for this particular use case. Day One expertly handles this niche that has remained relatively untouched in the WordPress ecosystem.</p>
+
+
+
+<p>In explaining the acquisition, Mullenweg also touched on his &ldquo;vision of making Automattic the Berkshire Hathaway of the internet,&rdquo; a notion <a href="https://awilkinson.medium.com/the-berkshire-hathaway-of-the-internet-391a8ee83db">shared by Tiny Capital</a> and often applied to Alphabet and its diverse holdings. One distinction is that Automattic&rsquo;s acquisitions tend to complement one another technologically, often introducing the potential for improvements that can be shared with other products through open source software.</p>
+
+
+
+<h2>Day One Community Remains Trepidatious About the Acquisition</h2>
+
+
+
+<p>Why did Automattic buy the company? Day One customers are curious, as some of them perceive Automattic to be another &ldquo;corporate giant&rdquo; gobbling up a scrappy startup, ready to squeeze every possible drop of revenue out of the app&rsquo;s loyal customers. </p>
+
+
+
+<p>Many long-time Day One users have never heard of Automattic and they are understandably leery of seeing their beloved app change hands. Perusing the comments on the <a href="https://twitter.com/dayoneapp/status/1404544058693931012">Twitter announcement</a> and in the app&rsquo;s <a href="https://www.facebook.com/groups/DayOneCommunity/">community on Facebook</a>, the news has precipitated a stream of cancellations and exports as users explore alternatives. Numerous customers were disheartened by one particular ambiguous statement in Day One&rsquo;s <a href="https://dayoneapp.com/blog/day-one-at-automattic">announcement</a>, which left the door open for future changes to the privacy of the app:</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Rest assured there are no current plans to change the privacy of Day One; safely protecting memories and creating a 100% personal space is the foundation upon which this company was built.</p></blockquote>
+
+
+
+<p>The statement has since been updated to be more reassuring to users, although it still doesn&rsquo;t explicitly promise no changes. It does contain a hint at why Automattic was interested in acquiring the app:</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Rest assured that Day One&rsquo;s commitment to protecting your privacy remains unchanged. Safely protecting memories and creating a 100% personal space is the foundation upon which this company was built. (In fact, our technical capabilities around privacy are a large part of what Automattic finds valuable in our company).</p></blockquote>
+
+
+
+<p>I have never seen a more engaged community with such a strong reaction following an acquisition. Many are deeply invested, having poured years of their lives and private memories into Day One.</p>
+
+
+
+<p>&ldquo;Oh, great. I find a journaling app I really like and have 10 years of entries invested, and they get gobbled up by a bigger fish,&rdquo; one user <a href="https://www.facebook.com/groups/DayOneCommunity/permalink/4349118571799031/?comment_id=4349151848462370&__cft__%5B0%5D=AZWO-PD5BkU0Im_Ul_AnDXTjKt3zxfrG01C6D63pV2eE2wbMb18YOS1sjNEx5BHzE2F84C27ZAvdZAOoAdu1EjSqPBnqFUe5AcJs8NJAPLWbPEmjajQAbHdqHjXz5wIpAqeciIm_ogE6bnV_nSoBeZfBpT1jOCDH5o3i9P1MwCzUCUuB4f273tuokE2AbPstgPY&__tn__=R%5D-R">commented</a> in the app&rsquo;s Facebook community. &ldquo;What will become of our beloved app? Will the safety, security, and integrity of our data be assured? Time to back up all of my data local.&rdquo;</p>
+
+
+
+<p>Users have <a href="https://www.facebook.com/groups/DayOneCommunity/permalink/4349118571799031/?comment_id=4350115481699340&__cft__%5B0%5D=AZWO-PD5BkU0Im_Ul_AnDXTjKt3zxfrG01C6D63pV2eE2wbMb18YOS1sjNEx5BHzE2F84C27ZAvdZAOoAdu1EjSqPBnqFUe5AcJs8NJAPLWbPEmjajQAbHdqHjXz5wIpAqeciIm_ogE6bnV_nSoBeZfBpT1jOCDH5o3i9P1MwCzUCUuB4f273tuokE2AbPstgPY&__tn__=R%5D-R">concerns</a> about Day One&rsquo;s updated privacy policy&nbsp;and whether the company might share data with affiliates. Many embraced the app because it was free of any ties with social media platforms. They have sewn themselves into this app in the most vulnerable way, and they are worried about how their private data will be handled in the future. Automattic may have a long road ahead in easing customers&rsquo; concerns so that they don&rsquo;t feel the pressure to export and look for alternatives.</p>
+
+
+
+<p>As someone who considered using Day One years ago, I think I would be more likely to use it now, knowing that Automattic is usually in it for the long haul. I passed on Day On at the time because apps come and go and it&rsquo;s not always easy to predict which ones have the right business model to stay afloat. One of my worst recurring nightmares is that I accidentally throw away my paper journals or that my house burns down with my journals inside. Putting trust in a company to keep your electronic data safe and private is an intensely personal decision.</p>
+
+
+
+<p>Knowing that a larger company with more resources is behind Day One, along with leadership that bears a genuine appreciation for its underlying tech, it seems like a safer pick for a journaling app that will be around for the next ten years. The company&rsquo;s founder and CEO Paul Mayne will continue to lead his same team at Automattic and is convinced that the move will be beneficial for &ldquo;the preservation and longevity&rdquo; of the app. Given how passionate Day One&rsquo;s user base is about protecting the app&rsquo;s future, I&rsquo;m eager to how Automattic handles the challenge of winning their confidence.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 16 Jun 2021 05:30:24 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Sarah Gooding";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:4;a:6:{s:4:"data";s:13:"
+	
+	
+	
+	
+	
+	
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:101:"WPTavern: Ask the Bartender: Is It OK To Provide WordPress Admin Credentials to Plugin Support Staff?";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=118497";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:243:"https://wptavern.com/ask-the-bartender-is-it-ok-to-provide-wordpress-admin-credentials-to-plugin-support-staff?utm_source=rss&utm_medium=rss&utm_campaign=ask-the-bartender-is-it-ok-to-provide-wordpress-admin-credentials-to-plugin-support-staff";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:8410:"<p class="has-drop-cap"><em>No. Nada. Nah. Nope. That&rsquo;s a negative. Under no circumstances. My mama didn&rsquo;t raise no fool. Heck naw. Not on your life.</em> And, the other thousands of ways to tell anyone asking for site credentials to bugger off, even plugin support staff of a &ldquo;trusted&rdquo; WordPress development company.</p>
+
+
+
+<p>That is my way of saying that I do not trust anyone. Neither should you. However, there are cases where it is necessary to provide admin permissions to a plugin&rsquo;s support staff.</p>
+
+
+
+<p>Today&rsquo;s installment of the <a href="https://wptavern.com/tag/ask-the-bartender">Ask the Bartender</a> series comes courtesy of a reader named Niko. Because the entire text is over 1,000 words, I will simply link to the <a href="https://wptavern.com/wp-content/uploads/2021/06/is-it-ok-to-provide-plugin-support-credentials.txt">transcript via a .txt file</a> for those who want to read it in full. Here in the post, I will stick to the vital bits. Or at least the parts that I want to address.</p>
+
+
+
+<p>One of Niko&rsquo;s Facebook group members kicked the discussion off.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>&lsquo;Is it okay to send FTP details for a plugin developer to troubleshoot the issue we are having with WooCommerce. We have already provided WordPress Admin credentials.&rsquo;</p><p>This is pretty normal practice in the WordPress world, right? Plugin developers helping out on issues, and if they can&rsquo;t replicate an issue, they need the access so they can check if it is a plugin issue or a server issue and fix things?</p></blockquote>
+
+
+
+<p>Over the years, I have seen this become more of a common practice. However, it is not a practice that I recommend from either the user or developer end. Any site owner should ask whether they trust the person to whom they are giving credentials. If the answer to that question is no, you have the answer to the first question.</p>
+
+
+
+<p>In over a decade of running a theme and plugin shop, I never needed admin or FTP access to deal with a support question. It did not matter if it was a large and complex plugin or a small one. Because I was the sole person at the company, I also personally answered hundreds of thousands of support questions over the years. Still, not once did I log into a user&rsquo;s site to help them. That always seemed like a liability issue for me, but I also used such scenarios as teaching moments about trust and security.</p>
+
+
+
+<p>Users sometimes provided credentials to me without me asking. Often they posted them in plain text in forums, email, or Slack (also, you should never do that). If on-site code needed changing, my users performed the task themselves or installed a bug-free version of the theme/plugin I handed over.</p>
+
+
+
+<p>If they did not know how to perform a task via the admin, FTP, or otherwise, I took the time to teach them. Yes, that required more energy on both ends, but I believe we were the better for it. More than once, those moments led some users down the path of becoming developers themselves, or it was at least a tiny stepping stone for them. I remain friends with many of them today and am proud that they started with my little solo WordPress shop.</p>
+
+
+
+<p>Some cases were rougher than others. Many times, I would replicate their setup (plugins, theme, etc.) on my machine. The majority of the time, this led me to the solution &mdash; <em>I was using <a href="https://developer.wordpress.org/reference/functions/_doing_it_wrong/"><code>__doing_it_wrong()</code></a> long before WordPress introduced the idea.</em> In the long run, I was able to pass countless bug fixes upstream to other developers. I made a lot of developer friends this way too.</p>
+
+
+
+<p>I have no doubts that the road I traveled was the longer of the two. There were times when I spent an hour, two, or even more addressing one user&rsquo;s needs. Popping into some of their WordPress admins would have been a quicker course.</p>
+
+
+
+<p>However, my theme and plugin users never needed to worry about whether they trusted me enough to provide that level of access. Plus, I had no chance of accidentally breaking their site by making custom changes.</p>
+
+
+
+<p>Are there times when a plugin&rsquo;s support staff <em>really</em> needs access? Probably.</p>
+
+
+
+<p>The original question was regarding WooCommerce. It is one of the most technically advanced plugins in existence for WordPress. Replicating a user&rsquo;s setup off-site for it is trickier than most others. There may be <em><strong>rare</strong></em> times when you need to provide some access, but you should never trust anyone.</p>
+
+
+
+<p>The second part of Niko&rsquo;s question revolves around the European Union&rsquo;s General Data Protection Regulation (GDPR) and user data. It is a vital part of dealing with those times when you decide to hand over the keys to your website.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Alright so here comes the issue after we think about GDPR. If this developer happens to be outside the EU, then you would need to anonymize customer data and make an NDA agreement with that exact dev or company that is behind the plugin so they can come around and fix things.</p></blockquote>
+
+
+
+<p>I will preface this with the usual <em>I am not a lawyer</em>. However, protecting user data is always a legal and ethical priority on any site you run, regardless of what jurisdiction you fall under.</p>
+
+
+
+<p>In those &mdash; again, rare &mdash; cases where you need to provide access to your WordPress admin, there are steps you could take to better protect your site and its data. Regardless of the trustworthiness of a developer or a support staff member, there is always one rule of thumb when dealing with website security: trust no one and trust nothing.</p>
+
+
+
+<p>The first step should always be having a backup system in place. On the off chance that the support staff breaks something, you will want to revert the site back to its previous state.</p>
+
+
+
+<p>Never provide complete admin-level access. I recommend installing and activating a role and capability management plugin. This will allow you to create a custom role for support help and limit the areas of the site they have access to. You would then create a user account for them with this role. Once they have completed their work, delete their account.</p>
+
+
+
+<p>If you do not want them to see registered users or do anything with user data at all, make sure their user role does not have the following capabilities:</p>
+
+
+
+<ul><li><code>create_users</code></li><li><code>delete_users</code></li><li><code>edit_users</code></li><li><code>list_users</code></li><li><code>promote_users</code></li><li><code>remove_users</code></li></ul>
+
+
+
+<p>There are many other admin-level capabilities like <code>edit_files</code>, <code>edit_plugins</code>, and <code>edit_themes</code> that you should also avoid. Essentially, disallow most of the caps from the <a href="https://wordpress.org/support/article/roles-and-capabilities/#administrator">Administrator list in the WordPress documentation</a>.</p>
+
+
+
+<p>Most likely, plugin teams might need access to the <code>manage_options</code> capability and any that are custom to their plugin. Even those can be dangerous, but that backup you put in place should mitigate any potential issues.</p>
+
+
+
+<p>As for an FTP password? I trust very few people with that level of access.</p>
+
+
+
+<p>This reply probably sounds like I do not think any plugin shops or developers are trustworthy. Honestly, I do not know of any that have breached user trust using login or FTP credentials in this way. On the other hand, I have no way of knowing whether the staff member I am talking to plans to rage quit his job in the afternoon and is willing to burn everything down in the morning.</p>
+
+
+
+<p>I have also seen a handful of cases where a developer dropped in to fix something but ended up breaking the site along the way. Backups were crucial in addressing those issues.</p>
+
+
+
+<p>This post is not meant to make plugin developers or companies appear untrustworthy. Most are good people just trying to make an honest living. However, not trusting anything is website security 101. It is merely the baseline in which users should operate. If you go into any interaction with this mindset, it should help you make smarter decisions on a case-by-case basis.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Tue, 15 Jun 2021 23:26:26 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:14:"Justin Tadlock";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:5;a:6:{s:4:"data";s:13:"
+	
+	
+	
+	
+	
+	
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:40:"WordPress.org blog: WordPress 5.8 Beta 2";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:35:"https://wordpress.org/news/?p=10808";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:56:"https://wordpress.org/news/2021/06/wordpress-5-8-beta-2/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:5909:"<p>WordPress 5.8 Beta 2 is now available for testing!</p>
+
+
+
+<p><strong>This software is still in development,</strong>&nbsp;so it’s not recommended to run this version on a production site. Consider setting up a test site to play with it.</p>
+
+
+
+<p>You can test the WordPress 5.8 Beta 2 in two ways:</p>
+
+
+
+<ul><li>Install/activate the <a href="https://wordpress.org/plugins/wordpress-beta-tester/">WordPress Beta Tester</a> plugin (select the <code>Bleeding edge</code> channel and the <code>Beta/RC Only</code> stream)</li><li>Direct download the beta version here (<a href="https://wordpress.org/wordpress-5.8-beta2.zip">zip</a>).</li></ul>
+
+
+
+<p>The current target for the final release is July 20, 2021. That’s just <strong>five weeks away</strong>, so your help is vital to ensure that the final release is as good as it can be.</p>
+
+
+
+<h2><strong>Some Highlights</strong></h2>
+
+
+
+<p>Since <a href="https://wordpress.org/news/2021/06/wordpress-5-8-beta-1/">Beta 1</a>, <a href="https://core.trac.wordpress.org/query?status=closed&changetime=06%2F09%2F2021..06%2F15%2F2021&milestone=5.8&group=component&max=500&col=id&col=summary&col=owner&col=type&col=priority&col=component&col=version&order=priority">26</a> bugs have been fixed. Here is a summary of some of the included changes:</p>
+
+
+
+<ul><li>Block Editor: Remove bundled block patterns and support the patterns directory. (<a href="https://core.trac.wordpress.org/ticket/53246">#53246</a>)</li><li>Block Editor: Add a type property to allow Core to identify the source of the editor styles. (<a href="https://core.trac.wordpress.org/ticket/53175">#53175</a>)</li><li>Build/Test Tools: Adds some tests for Quick Draft section in Dashboard. (<a href="https://core.trac.wordpress.org/ticket/52905">#52905</a>)</li><li>Build/Test Tools: Replaced <code>@babel/polyfill</code> with <code>core-js/stable</code>. (<a href="https://core.trac.wordpress.org/ticket/52941">#52941</a>)</li><li>Coding Standards: Further update the code for bulk menu items deletion to better follow WordPress coding standards. (<a href="https://core.trac.wordpress.org/ticket/21603">#21603</a>)</li><li>External Libraries: Update Underscore to version 1.13.1. (<a href="https://core.trac.wordpress.org/ticket/45785">#45785</a>)</li><li>General: A number of block editor, template mode and widget screen related fixes. (<a href="https://core.trac.wordpress.org/changeset/51149">#51149</a>)</li><li>Login and Registration: Improve the unknown username error message. (<a href="https://core.trac.wordpress.org/ticket/52915">#52915</a>)</li><li>Media: Restore AJAX response data shape in media library. (<a href="https://core.trac.wordpress.org/ticket/50105">#50105</a>)</li><li>Site Health: Display a list of file formats supported by the GD library. (<a href="https://core.trac.wordpress.org/ticket/53022">#53022</a>)</li><li><span>Twemoji: It&#8217;s the new one! (</span><a href="https://core.trac.wordpress.org/ticket/52852">#52852</a>)</li></ul>
+
+
+
+<h2><strong>How You Can Help</strong></h2>
+
+
+
+<p>Watch the <a href="https://make.wordpress.org/core/">Make WordPress Core blog</a> for <a href="https://make.wordpress.org/core/tag/5-8+dev-notes/">5.8-related developer notes</a> in the coming weeks, which will break down these and other changes in greater detail.</p>
+
+
+
+<p>So far, contributors have fixed <a href="https://core.trac.wordpress.org/query?status=closed&changetime=..06%2F15%2F2021&milestone=5.8&group=component&max=500&col=id&col=summary&col=owner&col=type&col=priority&col=component&col=version&order=priority">214 tickets in WordPress 5.8</a>, including <a href="https://core.trac.wordpress.org/query?status=closed&status=reopened&changetime=..06%2F15%2F2021&type=enhancement&type=feature+request&milestone=5.8&group=component&col=id&col=summary&col=type&col=status&col=milestone&col=changetime&col=owner&col=priority&col=keywords&order=changetime">87 new features and enhancements</a>, and more bug fixes are on the way.</p>
+
+
+
+<p><strong>Do some testing!</strong></p>
+
+
+
+<p><a href="https://make.wordpress.org/core/handbook/testing/beta-testing/">Testing for bugs</a> is a vital part of polishing the release during the beta stage and a great way to contribute. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2728.png" alt="✨" class="wp-smiley" /></p>
+
+
+
+<p>If you think you’ve found a bug, please post to the <a href="https://wordpress.org/support/forum/alphabeta/">Alpha/Beta</a> area in the support forums. We would love to hear from you! If you’re comfortable writing a reproducible <a href="https://make.wordpress.org/core/reports/">bug report</a>, file one on <a href="https://core.trac.wordpress.org/newticket">WordPress Trac</a>. That’s also where you can find a list of <a href="https://core.trac.wordpress.org/tickets/major">known bugs</a>.</p>
+
+
+
+<p><em>Props to <a href="https://profiles.wordpress.org/chanthaboune/" class="mention"><span class="mentions-prefix">@</span>chanthaboune</a> for revision, <a href="https://profiles.wordpress.org/webcommsat/" class="mention"><span class="mentions-prefix">@</span>webcommsat</a>, <a href="https://profiles.wordpress.org/youknowriad/" class="mention"><span class="mentions-prefix">@</span>youknowriad</a>, <a href="https://profiles.wordpress.org/jorbin/" class="mention"><span class="mentions-prefix">@</span>jorbin</a>, <a href="https://profiles.wordpress.org/felipeelia/" class="mention"><span class="mentions-prefix">@</span>felipeelia</a> , and <a href="https://profiles.wordpress.org/jeffpaul/" class="mention"><span class="mentions-prefix">@</span>jeffpaul</a> for proofreading, and <a href="https://profiles.wordpress.org/cbringmann/" class="mention"><span class="mentions-prefix">@</span>cbringmann</a> for final edits!</em></p>
+
+
+
+<hr class="wp-block-separator" />
+
+
+
+<p><em>Install won’t you please<br />WordPress 5-8 Beta 2?<br />We need your help: test!</em></p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Tue, 15 Jun 2021 18:34:31 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:19:"Jonathan Desrosiers";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:6;a:6:{s:4:"data";s:13:"
+	
+	
+	
+	
+	
+	
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:72:"WPTavern: Toolbelt Tidies WordPress Plugin and Theme Admin Notifications";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=118423";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:189:"https://wptavern.com/toolbelt-tidies-wordpress-plugin-and-theme-admin-notifications?utm_source=rss&utm_medium=rss&utm_campaign=toolbelt-tidies-wordpress-plugin-and-theme-admin-notifications";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:5635:"<p class="has-drop-cap"><em>It&rsquo;s a tale as old as</em>, well, WordPress. Ben Gillbanks noticed a conversation where someone thought that admin notices were getting out of hand. Enter another developer&rsquo;s attempt to address this problem. With a few code additions to his <a href="https://wordpress.org/plugins/wp-toolbelt/">Toolbelt plugin</a>, he had a working solution to stop the madness: <a href="https://www.binarymoon.co.uk/2021/06/take-control-of-wordpress-plugin-and-theme-notifications/">the Tidy Notifications module</a>.</p>
+
+
+
+<p>Despite the <a href="https://wptavern.com/is-wp-notify-the-silver-bullet-wordpress-needs-to-end-admin-notification-spam">early promise</a> of the WP Notify project last year, it still feels like we are no closer to addressing the overuse of the current admin notice system in WordPress. In reality, it is not so much a system as a hook that developers can use for literally anything. It is the Wild West of the WordPress admin. No rules. No order. And no proper API for standardizing how notices work.</p>
+
+
+
+<p><a href="https://github.com/WordPress/wp-notify">WP Notify still exists on GitHub</a> and continues to move along at its own pace, but there is no guarantee that it will ever land in the core platform. Sometimes, the best thing a developer can do is solve the existing problem and hope that WordPress follows along down the road with a better solution.</p>
+
+
+
+<p>I am already tidying admin notifications with Toolbelt on my development install. My primary use case is to hide the non-dismissible notice from the Gutenberg plugin that I have a Full Site Editing theme installed &mdash; <em>is there not a guideline against such notices?</em> I did not suddenly forget that I was using such a theme between the 999th and 1,000th time the reminder appeared on every admin screen of my installation.</p>
+
+
+
+<img />Notifications expand when clicking on the bell icon in the toolbar.
+
+
+
+<p>The Tidy Notifications system in Toolbelt neatly tucks all admin notices under a bell icon in the admin toolbar. It also displays the number of notifications.</p>
+
+
+
+<p>It makes the WordPress admin so clutter-free that I do not know how I have lived without it before. I cannot imagine going back.</p>
+
+
+
+<p>The only problem with Toolbelt&rsquo;s solution is that there is no way to distinguish between essential notices and those that should be tucked away. WordPress letting you know that your post was successfully updated is an important notice that should not be hidden. However, a plugin author drumming up five-star reviews, yeah, that should not be front and center.</p>
+
+
+
+<p>Having two systems would be beneficial. The existing <code>admin_notices</code> hook in WordPress should be used for letting users know the outcome of their actions or actions that they should take. The post editor, which does not use page reloads or make the hook available, has replaced this with the snackbar popup system. These necessary notices have their place.</p>
+
+
+
+<p>However, WordPress has no built-in system for non-essential notices. This leaves plugin and theme authors with two options: bundle an entirely custom notification apparatus with each extension or just use the <code>admin_notices</code> hook. The latter is the more efficient use of developer resources.</p>
+
+
+
+<p>Of course, we have had this conversation before. Just shy of a year ago, I wrote a post titled <a href="https://wptavern.com/are-plugin-authors-to-blame-for-the-poor-admin-notices-experience">Are Plugin Authors to Blame for the Poor Admin Notices Experience?</a> In the comments, WordPress project lead Matt Mullenweg <a href="https://wptavern.com/are-plugin-authors-to-blame-for-the-poor-admin-notices-experience#comment-335886">posited that the solution</a> to unwanted notifications is not to build an inbox, comparing WordPress to cell phones. He said that app store guidelines were likely more impactful to user happiness. In general, I agree with that concept. Setting down a few directory UI and UX rules would not hurt.</p>
+
+
+
+<p>Given the more recent <a href="https://wptavern.com/upcoming-changes-and-steps-for-an-overhauled-wordpress-theme-review-system">push to loosen guidelines</a> for the theme directory, that does not seem to be in the cards. Admin notices were not one of the guardrails, the safety net of &ldquo;must-haves&rdquo; from the Themes Team.</p>
+
+
+
+<p>The admin notice spam WordPress users see today most commonly comes from plugins and not themes. <em>Why?</em> It is not because theme authors care more about user happiness levels. It is because the theme review guidelines over the years have been strict. Anything too flamboyant gets the hammer.</p>
+
+
+
+<p>The WordPress Themes Team even has a custom guideline-friendly, <a href="https://github.com/WPTT/admin-notices/">drop-in class</a> that themers can use.</p>
+
+
+
+<p>The plugin and theme directories have taken far different stances on admin notices, and it shows. When the Themes Team moves to minimal checks, there may not be anything to stop themers from competing for the most obnoxious admin notice award. <em>Game on, plugin authors.</em></p>
+
+
+
+<p>&ldquo;Unwanted&rdquo; notifications may even be the wrong terminology. Often, they are &ldquo;unwanted right now.&rdquo; Sometimes, folks might want to read a message &mdash; just later. I am still holding out hope that we will have a notifications/messages inbox in WordPress one day. One that is entirely controlled by the user.</p>
+
+
+
+<p>Until then, I may just stick with the Tidy Notifications module in Toolbelt. There are many other handy components in it too.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Mon, 14 Jun 2021 22:54:33 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:14:"Justin Tadlock";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:7;a:6:{s:4:"data";s:13:"
+	
+	
+	
+	
+	
+	
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:63:"WPTavern: Wordfence Now Authorized as a CVE Numbering Authority";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=118413";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:171:"https://wptavern.com/wordfence-now-authorized-as-a-cve-numbering-authority?utm_source=rss&utm_medium=rss&utm_campaign=wordfence-now-authorized-as-a-cve-numbering-authority";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:4968:"<p>Wordfence has been <a href="https://www.wordfence.com/blog/2021/06/wordfence-is-now-a-cve-numbering-authority-cna/">authorized</a> by the Common Vulnerabilities and Exposures (CVE&reg;) Program as a CNA (CVE Numbering Authority), which allows the company to directly assign CVE numbers for new vulnerabilities in WordPress core, plugins, and themes. The authority is granted by <a href="https://www.mitre.org/">Mitre Corporation</a>, a federally-funded US non-profit that manages research and development centers. Wordfence anticipates that the ability to create CVE assignments will expedite its security research.</p>
+
+
+
+<p>&ldquo;As the Wordfence Threat Intelligence team continues to produce groundbreaking WordPress security research, Wordfence can more efficiently assign CVE IDs prior to publicly disclosing any vulnerabilities that our team discovers,&rdquo; Wordfence threat analyst Chloe Chamberland said. &ldquo;This means that a CVE ID will be immediately assigned with every vulnerability we discover rather than waiting for an assignment from an external CNA.&rdquo;</p>
+
+
+
+<p>Not having to wait on a CVE ID is a major advantage for the company, especially when working with enterprise installations where WordPress is used in combination with other software. It also helps security personnel prioritize and act based on the potential severity of threats. </p>
+
+
+
+<p>&ldquo;Our efforts to become a CNA had these individuals, institutions, and enterprise personnel in mind, as well as WordPress&rsquo; reputation as a whole,&rdquo; Chamberland said. &ldquo;Now, those tasked with securing WordPress will be able to quickly reference the CVE ID from our blog posts when reporting vulnerabilities throughout their organization and handling security update prioritization. We also hope that by being a CNA, Wordfence will receive even more direct reports from security researchers.&rdquo;</p>
+
+
+
+<p>Becoming a CNA simplifies a security company&rsquo;s process of submitting vulnerabilities. Wordfence is the second company to become one, operating within the scope of WordPress and related vulnerabilities. In January 2021, <a href="https://wptavern.com/wpscan-can-now-assign-cve-numbers-for-wordpress-core-plugin-and-theme-vulnerabilities">WPScan was granted CVE Numbering Authority status</a>. Prior to becoming a CNA, assigning CVEs for every vulnerability in WPScan&rsquo;s database would have been too time consuming.</p>
+
+
+
+<p>&ldquo;Becoming a CNA has allowed us to help security researchers to verify and triage their vulnerabilities,&rdquo; WPScan founder and CEO Ryan Dewhurst said. &ldquo;This has helped grow our WordPress vulnerability database and keep WordPress users secure. But it is just one source of vulnerabilities among many others that we use.&rdquo;</p>
+
+
+
+<p>The process for Wordfence to become a CNA was surprisingly simple. Chamberland said the company filled out a registration form with a few questions. </p>
+
+
+
+<p>&ldquo;Once we were approved and agreed upon a scope, you are required to watch a series of onboarding videos that explain the processes required of a CNA,&rdquo; she said. &ldquo;After that, we had an onboarding meeting to ensure our team was fully trained on CVE Program protocols. It took Wordfence about a month to get authorized as a CNA once they received our registration form.&rdquo;</p>
+
+
+
+<p>Historically, the WordPress ecosystem has been a magnet for those looking to exploit vulnerabilities, due to its large footprint on the web. That trend is likely to continue. Chamberland believes there is room for multiple CNA&rsquo;s in the WordPress space.</p>
+
+
+
+<p>&ldquo;We&rsquo;ve had a great working relationship with WPScan over the years, and we expect that this relationship will continue as we have a similar mission in helping secure the WordPress community,&rdquo; she said.</p>
+
+
+
+<p>&ldquo;As WordPress grows, it becomes a larger and more attractive target for malicious actors. The more hands we have on deck, and the better we collaborate and adhere to industry standard security practices, the safer WordPress will be.&rdquo;</p>
+
+
+
+<p>Attracting more researchers to report vulnerabilities is a major benefit to security companies that gain CNA status, since they are essentially in the business of selling vulnerability protection data. They give their paid customers early access to patches that are not yet available to the general public. Becoming a CNA has the potential to increase the value their businesses can provide. </p>
+
+
+
+<p>&ldquo;With this growth in WordPress, we expect to see more security researchers in the WordPress space,&rdquo; Chamberland said.&nbsp;&ldquo;As such, we are bound to see an increase in CVE ID requests. Having multiple CNA&rsquo;s that can assign CVE IDs to WordPress core, plugins and themes make sense to improve the speed in which security researchers can obtain CVE IDs, and provides researchers with multiple sources for CVE IDs.&rdquo;<br /></p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Mon, 14 Jun 2021 21:44:12 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Sarah Gooding";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:8;a:6:{s:4:"data";s:13:"
+	
+	
+	
+	
+	
+	
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:27:"Matt: Day One at Automattic";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:22:"https://ma.tt/?p=54355";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:44:"https://ma.tt/2021/06/day-one-at-automattic/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:2939:"<p>I&#8217;m not sure when I first came across the <a href="https://dayoneapp.com/">critically acclaimed Day One product</a>, which is the best private blogging and journaling app out there, but I began seriously using it daily in 2016 when my father was in the ICU and <a href="https://ma.tt/2016/04/in-memoriam-chuck-mullenweg/">later passed</a>. Having a private, safe place to write what I was going through kept me sane and helped me process everything.</p>
+
+
+
+<p>Writing has always been a salve for me, and I&#8217;ve had local or private WordPress installations pretty much since 2003 to capture and archive writing that wasn&#8217;t fit for the public web.</p>
+
+
+
+<p>Day One not only nails the experience of a local blog (or journal as they call it) in an app, but also has (built) a great technical infrastructure — <s>i</s>t works fantastic (when) offline and has a <a href="https://help.dayoneapp.com/en/articles/840428-end-to-end-encryption-faq">fully encrypted sync</a> mechanism, so the data that&#8217;s in the cloud is secured in a way that even someone with access to their database couldn&#8217;t decode your entries, it&#8217;s only decrypted on your local device. Combining encryption and sync in a truly secure way is tricky, but they&#8217;ve done it.</p>
+
+
+
+<p>This is a long intro to say, as you can read from <a href="https://dayoneapp.com/blog/day-one-at-automattic">Day One&#8217;s founder and CEO Paul Mayne</a>, <a href="https://wordpress.com/blog/2021/06/14/day-one-the-journaling-app-joins-automattic/">from Eli at WordPress.com</a>, and <a href="https://staff.tumblr.com/post/653995690228400128/private-blogging-its-a-vibe-but-some-innermost">on Tumblr</a>, that Paul and the team are joining the team at <a href="https://automattic.com/">Automattic</a>. For many years I&#8217;ve talked to anyone who will listen about my vision of making Automattic the <a href="https://www.berkshirehathaway.com/">Berkshire Hathaway</a> of the internet, and Paul&#8217;s decision to continue to grow his amazing business as part of Automattic is a great validation of the way we&#8217;ve been building our culture and long-term orientation in our business. Day One is a beloved product, and bringing it into the fold is a responsibility I take very seriously and comes from a deep respect for what&#8217;s been built and a belief that working together we can create something for users better than we could working apart.</p>
+
+
+
+<p>Great software takes time, and the Day One team has been at it for <a href="https://dayoneapp.com/about/">about a decade now</a>, I can&#8217;t wait to see what they accomplish in the coming decade and beyond. If you haven&#8217;t tried out Day One yet, please check it out in the <a href="https://apps.apple.com/us/app/day-one-2-journal-notes/id1044867788">Apple</a> or <a href="https://play.google.com/store/apps/details?id=com.dayoneapp.dayone&hl=en">Google&#8217;s</a> app store.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Mon, 14 Jun 2021 20:53:06 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:4:"Matt";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:9;a:6:{s:4:"data";s:13:"
+	
+	
+	
+	
+	
+	
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:102:"WPTavern: WordPress 5.8 Beta 1 Released: New Blocks, New Widgets Screen, and Pattern Directory on Deck";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=118227";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:243:"https://wptavern.com/wordpress-5-8-beta-1-released-new-blocks-new-widgets-screen-and-pattern-directory-on-deck?utm_source=rss&utm_medium=rss&utm_campaign=wordpress-5-8-beta-1-released-new-blocks-new-widgets-screen-and-pattern-directory-on-deck";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:7429:"<p><a href="https://wordpress.org/news/2021/06/wordpress-5-8-beta-1/">WordPress 5.8 beta 1</a> is ready for testing. This upcoming release makes major strides towards solidifying WordPress&rsquo; site building capabilities, along with improvements to features users have enjoyed since the launch of the block editor. It is one of the most feature-packed releases in recent history and as such requires all hands on deck for testing. </p>
+
+
+
+<p>New blocks in 5.8 include Page List, Site Title, Logo, Tagline, Query Loop, and Duotone. I decided to take each one for a spin this weekend on a test site, putting myself in the shoes of someone trying these blocks for the first time.</p>
+
+
+
+<p>I was surprised to learn that the template editor will be available to sites using any WordPress theme, since all the previous FSE testing rounds have called on testers to use the latest version of the&nbsp;<a rel="noreferrer noopener" href="https://wordpress.org/themes/tt1-blocks/" target="_blank">TT1 Blocks Theme</a>. It will be interesting to see how users respond to this and if it works well with older themes. Users can now create and edit custom templates for pages and posts using blocks. </p>
+
+
+
+<div class="wp-block-image"><img /></div>
+
+
+
+<p>The template editor includes the new List View panel that gives an overview of all the sections and blocks in the template.</p>
+
+
+
+<div class="wp-block-image"><img /></div>
+
+
+
+<p>Most of the new blocks in 5.8 are intended to work within the context of the template editor, but they also work in the post editor.</p>
+
+
+
+<p>The Page List block magically populates a list of all the pages on a site as soon as it is inserted. Unfortunately, there isn&rsquo;t a way to delete a single page from the list. If you try to delete a page the entire block disappears. This seems like a bug and is a frustrating experience in the context of the post editor. It may be more useful in terms of building navigation but this seems like a rough first pass.</p>
+
+
+
+<div class="wp-block-image"><img /></div>
+
+
+
+<p>The Query Loop block comes with some different designs for how the loop could be displayed. Once a basic layout is chosen for a starting point, users can further customize the blocks within the loop, including typography, color, length of excerpt, and more.</p>
+
+
+
+<div class="wp-block-image"><img /></div>
+
+
+
+<p>The Site Title, Tagline, and Logo blocks all seem to work as expected but I found previews to be unreliable for things like alignment and spacing. At this point in time, it seems like template editing will be better suited to users who are more adventurous and experimental when it comes to new features.</p>
+
+
+
+<p>Duotone is a fun new core block that you can see in action below, demonstrated by WordPress documentation contributor Milana Cap. The block adds images effects that can be used in media blocks. Theme and plugin developers can also employ and customize the effects for their own particular use cases.</p>
+
+
+
+<div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Oh. My. Gutenberg.<br /><br />Imagine images in duotone on your website &#129327; <br /><br />And now that you imagined it, you want it, right? Right?<br /><br />It's coming up in <a href="https://twitter.com/hashtag/WordPress?src=hash&ref_src=twsrc%5Etfw">#WordPress</a> 5.8 &#128525; stay tuned &#128522; <a href="https://t.co/t5JHBcTEOV">pic.twitter.com/t5JHBcTEOV</a></p>&mdash; Milana Cap (@DjevaLoperka) <a href="https://twitter.com/DjevaLoperka/status/1402552814174457856?ref_src=twsrc%5Etfw">June 9, 2021</a></blockquote>
+</div>
+
+
+
+<h2>Hello New Widgets Screen!</h2>
+
+
+
+<p>WordPress users will be greeted with a new block-based widgets screen in 5.8. It allows you to use blocks in any widgetized area. It wasn&rsquo;t until I saw how this works that I realized how rigid our old widgets system was. Whatever functionality you were trying to insert had to be readily available as a widget or shortcode. Now any block from the vast world of blocks can be added to widgetized areas. </p>
+
+
+
+<p>Justin Tadlock wrote a post about <a href="https://wptavern.com/classic-widgets-plugin-disables-wordpress-5-8s-upcoming-block-based-widgets-system">how users can disable it with the Classic Widgets plugin</a>. Should you disable it? Not unless you are forced to because of using a theme that doesn&rsquo;t support it very well. Using blocks in widget areas is going to give you much more flexibility for what you can insert. You can even continue to use the old style widgets via the&nbsp;<a href="https://developer.wordpress.org/block-editor/how-to-guides/widgets/legacy-widget-block/">Legacy Widget block</a>. Users may need a little time to adapt to the new interface but it&rsquo;s worth it to have access to the growing world of innovative blocks.</p>
+
+
+
+<div class="wp-block-image"><img /></div>
+
+
+
+<h2>Pattern Directory Will Be Integrated with WordPress 5.8</h2>
+
+
+
+<p>The new Pattern Directory will launch on WordPress.org along with the 5.8 release. Justin Tadlock recently <a href="https://wptavern.com/open-invitation-to-contribute-to-the-wordpress-block-pattern-directory">amplified the Design Team&rsquo;s call for pattern contributions</a> that would be available to users right away. Several have already been <a href="https://github.com/WordPress/pattern-directory/issues">submitted via GitHub issues</a> for the directory and the creativity here is energizing. In addition to introducing an exciting new avenue for designers to put their work out into the ecosystem, the Pattern Directory stands to become a valuable resource and inspiration to users who are designing their own websites.</p>
+
+
+
+<img />A &ldquo;<a href="https://github.com/WordPress/pattern-directory/issues/178">How It Works</a>&rdquo; pattern submitted by <a href="https://github.com/laxmariappan">Lax Mariappan</a>
+
+
+
+<p>At launch the directory will only contain patterns that use core blocks but using blocks from WordPress.org may also be a possibility in the future.</p>
+
+
+
+<p>&ldquo;There have definitely been some discussion of allowing any blocks from the&nbsp;Block&nbsp;Directory to be used and that they would be auto-installed if someone inserted the pattern,&rdquo; Shaun Andrews <a href="https://make.wordpress.org/design/2021/06/08/initial-patterns-for-the-wordpress-org-patterns-directory/#comment-26330">commented</a> in response to a theme studio inquiring about submitting their own patterns that use free blocks. &ldquo;I believe this is possible, and something we should do, but there simply hasn&rsquo;t been any work done to enable it yet.</p>
+
+
+
+<p>&ldquo;We&rsquo;re focused on getting the first iteration of the Pattern Directory launched, and then we plan to continue improving things.&rdquo;</p>
+
+
+
+<p>Pattern transformation is a new feature launching with the new directory, which allows users to convert a block or collection of blocks into different patterns. Patterns can also be recommended and selected during block setup, which should make product onboarding easier.</p>
+
+
+
+<p>These are just a few features coming in WordPress 5.8 that need testing. Check out the <a href="https://wordpress.org/news/2021/06/wordpress-5-8-beta-1/">5.8 beta 1 release post</a> for a more comprehensive list of all the improvements that are on deck. The official release is scheduled for <a href="https://make.wordpress.org/core/5-8/">July 20, 2021</a>. </p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Sun, 13 Jun 2021 02:07:24 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Sarah Gooding";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:10;a:6:{s:4:"data";s:13:"
+	
+	
+	
+	
+	
+	
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:126:"Gutenberg Times: Over 50 Patterns in the  Pattern Directory, Learn Full-site editing, WordCamp Europe – Weekend Edition #173";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:35:"https://gutenbergtimes.com/?p=18121";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:129:"https://gutenbergtimes.com/over-50-patterns-in-the-pattern-directory-learn-full-site-editing-wordcamp-europe-weekend-edition-173/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:19222:"<p>Howdy, </p>
+
+
+
+<p>After three and a half years, it was time to replace the WordPress theme on the Gutenberg Times. The trigger: I wrote about <a href="https://web.dev/measure/">Core Web Vitals</a> for a different project and used the Gutenberg Times as a test project, using <a href="https://developers.google.com/web/tools/lighthouse">Google&#8217;s Lighthouse</a> via an incognito browser window. The desktop version performed very well, all circles in the green range, but the mobile version really crawled over the Internet, ranking in the low 40ties. </p>
+
+
+
+<p><a href="https://searchengineland.com/google-postpones-page-experience-update-rollout-347862">Google announced</a> earlier this year that they start rolling out new page experience update in this month, and start using Web Vitals as another ranking factor for organic search results. I also noticed that GT had a very high number of visitors via the desktop, but not many on mobile, which I found odd. Now I know why. </p>
+
+
+
+<p><a href="https://andersnoren.se/introducing-eksell/">Anders Noren&#8217;s Eksell</a> is our new theme. I love the typography, the clean design. and its graphics. I just started exploring it. Nothing gets things done faster than working on the live site. 😊</p>
+
+
+
+<p>The content mostly converted well, except there are no widget areas, so I would need to add the widget via the Legacy widget block. It was hit-and-miss. This exercise turned out to be a great test for the new block-based Widget screen, which will come to a WordPress instance near you in the 5.8 release on July 20th, 2021. </p>
+
+
+
+<p>From the discussions, I learned that the Gutenberg team is leaning towards an opt-out rather than an opt-in implementation. Testing sites with this week&#8217;s <a href="https://wordpress.org/news/2021/06/wordpress-5-8-beta-1/">WordPress 5.8 Beta 1</a>, is definitely recommended. If you don&#8217;t have time to test all the site you are working on, rest easy, there is a <a href="https://wordpress.org/plugins/classic-widgets/">Classic Widget plugin</a> you can install to keep the old Widget screen.  </p>
+
+
+
+<p>What else happened this week? <strong>WordCamp Europe! </strong>It was a great virtual conference. Kudos to the organizers, speakers, sponsors and attendees! If you missed it, you can watch the <a href="https://www.youtube.com/channel/UCaYQGYDpXpU4A17kxN-AgJQ">recordings on YouTube.</a></p>
+
+
+
+<p>The video with the <a href="https://wordpress.org/news/2021/06/gutenberg-highlights/"><strong>Gutenberg Highlights</strong></a> is available for those of use who missed the Conversation with Matt Mullenweg. <strong>Matias Ventura</strong> wrote: &#8220;The video is wonderfully narrated by&nbsp;<strong>Beatriz Fialho</strong>, and it was a great opportunity to celebrate all the incredible work that contributors are doing around the globe to improve the editing and customization experience of WordPress&#8221;. I will <a href="https://gutenbergtimes.com/wordcamp-europe-2021-starts-monday/">update my earlier WCEU post </a>with links to videos and resources over the course of next week. </p>
+
+
+
+<p>As always, I am so glad you are here, reading the eNews every week. Thank you! </p>
+
+
+
+<p>Yours, 💕<br />Birgit</p>
+
+
+
+
+
+<div class="wp-block-group has-primary-color has-light-background-background-color has-text-color has-background"><div class="wp-block-group__inner-container">
+<p class="has-normal-font-size"><strong><a href="https://us02web.zoom.us/webinar/register/8816229019893/WN_gyOVb1h4S4iO_UZi1GMQaA">Join us for our next Live Q &amp; A</a> </strong>on <strong>June 24, 2021, at 11am EDT / 15:00 UTC</strong></p>
+
+
+
+<a href="https://us02web.zoom.us/webinar/register/8816229019893/WN_gyOVb1h4S4iO_UZi1GMQaA"><img /></a>
+
+
+
+<p><strong><a href="https://us02web.zoom.us/webinar/register/8816229019893/WN_gyOVb1h4S4iO_UZi1GMQaA">Theme.json for Theme Authors or building themes for full-site editing in WordPress.</a></strong><br /><strong>Host</strong>: Birgit Pauli-Haack<br /><strong>Panel:</strong>&nbsp;Daily Olson, Tammie Lister and Jeff Ong           <span class="has-inline-color"><strong><a href="https://us02web.zoom.us/webinar/register/8816229019893/WN_gyOVb1h4S4iO_UZi1GMQaA">Register Now</a></strong></span></p>
+</div></div>
+
+
+
+<hr class="wp-block-separator is-style-wide" />
+
+
+
+<h2>WordPress 5.8 Release Cycle</h2>
+
+
+
+<p><a href="https://wordpress.org/news/2021/06/wordpress-5-8-beta-1/">WordPress 5.8 Beta 1</a> was release on Tuesday. You can use the official  <a href="https://wordpress.org/plugins/wordpress-beta-tester/">Beta Tester Plugin </a>to test this version. If you haven&#8217;t used it before, the Core Team share information and <a href="https://make.wordpress.org/core/handbook/testing/beta-testing/">instructions in their handbook</a>.</p>
+
+
+
+<p>You can read more about the <a href="https://make.wordpress.org/core/5-8/">development cycle of WordPress 5.8 here</a>. Feature Freeze for this upcoming version was May 25. We are right now in the beta phase of the cycle. It will be used for testing and to fix bugs. That is to last until June 29, 2021, when the first Release Candidate will be released.  That&#8217;s also the deadline for Dev Notes and Field Guide. It also comes with a hard-string freeze. That&#8217;s the moment the Polyglots team starts with translations. </p>
+
+
+
+<h3>Features and updates for WordPress 5.8</h3>
+
+
+
+<p>Speaking of <strong>DevNotes</strong>, the Gutenberg team tracks their progress on the  DevNotes via <a href="https://github.com/WordPress/gutenberg/issues/32365">this GitHub issue.</a>  You can get a head start on <a href="https://gist.github.com/gziolo/cbea77500316a243e445d509ced3c231"><strong>&#8220;Block API Enhancements&#8221;</strong></a> by <strong>Grzegorz Ziolkowski</strong> or <strong><a href="https://github.com/WordPress/gutenberg/issues/32365#issuecomment-853726663">&#8220;Contextual patterns for easier creation and block transformations&#8221;</a> </strong>by <strong>Nik Tsekouras</strong> before they are published on the Make Core blog. </p>
+
+
+
+<p><strong>Anne McCarthy</strong> posted about other <strong>Block Editor Enhancements:</strong> </p>
+
+
+
+<ul><li><a href="https://make.wordpress.org/core/2021/05/20/core-editor-improvement-contextual-patterns-for-easier-creation/">Contextual patterns for easier creation</a>  and </li><li>How to <a href="https://make.wordpress.org/core/2021/06/09/core-editor-improvement-improve-your-workflow-with-list-view/">improve your workflow with List View</a>, the former Block Navigator feature. </li></ul>
+
+
+
+<p>On the WordPress News Blog, you found earlier: <a href="https://wordpress.org/news/2021/05/coloring-your-images-with-duotone-filters/"><strong>Coloring Your Images With Duotone Filters</strong></a> by <strong>Alex Lende</strong>. Yes, I am in love with it, that&#8217;s why I mentioned it again. Gutenberg 10.7 also brought the methods to <strong>disable  duotone </strong>via the theme.json file. <a href="https://github.com/WordPress/gutenberg/pull/32002">The details are in this Lende&#8217;s PR</a>. </p>
+
+
+
+<p><strong>Adam Silverstein</strong> published <a href="https://make.wordpress.org/core/2021/06/07/wordpress-5-8-adds-webp-support/">WordPress 5.8 adds WebP support</a> dev note. It&#8217;s not directly a block editor update but crucial for content creators and developers alike, especially in context of the Core Web Vitals when speed is becomes of the essence. </p>
+
+
+
+<hr class="wp-block-separator is-style-wide" />
+
+
+
+<h2>Gutenberg Changelog</h2>
+
+
+
+<p>It&#8217;s been two years since Mark Uraine and I started the <a href="https://gutenbergtimes.com/podcast">Gutenberg Changelog</a> podcast, and he was my co-host for the first 40 episodes. Grzegorz Ziolkowski joined me as co-host with episode 41. In February 2021, we celebrated the first 10,000 downloads. Now four months later, we passed the 26,000 mark of downloads. For such a narrow niche show, these are mind-boggling numbers.  It is very humbling.  We are very grateful for our faithful listeners! Thank you all very much. </p>
+
+
+
+<p><strong>Grzegorz Ziolkowski</strong> is back from vacation, and we recorded episode 45. We covered Gutenberg 10.7 and 10.8 releases, WordCamp Europe and WordPress 5.8.  It will be published later this weekend. The similar t-shirts? Mere coincidence! </p>
+
+
+
+<img />
+
+
+
+<h2>Gutenberg 10.8</h2>
+
+
+
+<p><strong>Gutenberg 10.8</strong> was released this week. It had quite a few enhancements, and a ton of bug fixes and underlying code change for quality and tooling. <strong>Sandip Mondal</strong> work on his first release and published the release notes: <a href="https://make.wordpress.org/core/2021/06/10/whats-new-in-gutenberg-10-8-9-june/"><strong>What’s new in Gutenberg 10.8? (9 June)</strong></a>. </p>
+
+
+
+<p>Justin Tadlock has more details <strong><a href="https://wptavern.com/gutenberg-10-8-adds-new-typography-controls-and-block-previews">Gutenberg 10.8 Adds New Typography Controls and Block Previews</a></strong></p>
+
+
+
+<p>The enhancements for full-site editing and theme design controls are already for the next WordPress release (5.9) in December and require more testing before they are available for WordPress Core. </p>
+
+
+
+<h2>Block Patterns</h2>
+
+
+
+<p><strong>Kjell Reigstad</strong> posted an invitation for the WordPress community to submit Block Patterns to the official WordPress directory. In his post <a href="https://make.wordpress.org/design/2021/06/08/initial-patterns-for-the-wordpress-org-patterns-directory/"><strong>Initial Patterns for the WordPress.org Patterns Directory</strong></a>, he explained the details of the submission process.  </p>
+
+
+
+<p><strong>Justin Tadlock</strong>, a big fan of block patterns, wrote about the invitation on the <a href="https://wptavern.com/open-invitation-to-contribute-to-the-wordpress-block-pattern-directory">WordPress Tavern </a>and showcased some of his creations. <strong>Ana Segota, </strong>co-founder of <a href="https://www.anarieldesign.com/">Anariel Design</a> shared <a href="https://twitter.com/Ana_Segota/status/1402688373421187080">her submissions via Twitter.</a> </p>
+
+
+
+<p>You can <a href="https://github.com/WordPress/pattern-directory/issues?q=is%3Aissue+label%3A%22%5BType%5D+Pattern+Submission%22+is%3Aclosed"><strong>review the list of submissions on GitHub</strong></a> and learn from the comments on by the design team. Brian Gardner, Tammie Lister, Mel Choyce, Kjell Reigstad and Beatriz Fialho also contributed patterns to the directory. </p>
+
+
+
+<a href="https://wordpress.org/patterns"><img /></a><a href="https://wordpress.org/patterns">Block Patterns on WordPress.org</a> submitted by members of the design team and from the WordPress community. 
+
+
+
+<p class="is-style-default">In total, I counted 54 block patterns available to WordPress users. What a great start! </p>
+
+
+
+<hr class="wp-block-separator is-style-wide" />
+
+
+
+<h2>Full Site Editing</h2>
+
+
+
+<p>At WordCamp Europe 2021, the Panelist <strong>Danielle Zarcaro, Grzegorz Ziółkowski, Koen Van den Wijngaert and Milana Cap</strong> discussed Full Site editing and what it means for the broader WordPress community. <a href="https://gutenbergtimes.com/wordcamp-europe-full-site-editing-panel-discussion/"><strong>We have the recording and the transcript for you</strong></a></p>
+
+
+
+<hr class="wp-block-separator" />
+
+
+
+<p>We added the Blockbase Theme to the list of<a href="https://gutenbergtimes.com/themes-for-full-site-editing-and-getting-ready-for-wordpress-5-8-weekend-edition-172/#fsethemes"> available FSE themes</a> last week. <strong>Kjell Reigstad</strong> published <a href="https://themeshaper.com/2021/06/07/using-blockbase-for-a-theme-experiment/">Using Blockbase for a theme&nbsp;experiment</a> on the ThemeShaper blog and take you on a journey on creating a child theme of Blockbase. He wrote &#8220;Overall, I found that the benefit to using Blockbase was peace of mind. Compared to starting fresh or using&nbsp;<code>emptytheme</code>, Blockbase ensured that I had a fully functional block theme immediately.&#8221; Kjell also shared his code on GitHub.</p>
+
+
+
+<hr class="wp-block-separator" />
+
+
+
+<p>The <strong>WPMarmite Team</strong> publish the results of their <a href="https://wpmarmite.com/en/fse-study/"><strong>Full Site Editing Study: Will WordPress theme shops embrace this new paradigm?</strong></a> They studied the involvement in the current FSE development of 127 Theme shops.  </p>
+
+
+
+<p>At first glance, these seemed to be a little premature, considering that only architecture for themes supporting FSE is coming to WordPress at the end of July. It certainly sets the base numbers to see what will happen until December. These are the numbers to watch changing in the next half year, and it will answer the original questions. </p>
+
+
+
+<ul><li><strong>57%</strong>&nbsp;of theme shops&nbsp;<strong>feature their Gutenberg compatibility</strong>.</li><li>Only&nbsp;<strong>17%</strong>&nbsp;of theme shops&nbsp;<strong>offer custom Gutenberg blocks</strong>.</li><li><strong>3%</strong>&nbsp;of theme shops&nbsp;<strong>provide block patterns</strong>.</li></ul>
+
+
+
+<p>The team also talked to 22 theme shops about their intentions regards full-site editing.  <a href="https://wpmarmite.com/en/fse-study/">You need to read the article to learn more</a>.  </p>
+
+
+
+<hr class="wp-block-separator" />
+
+
+
+<p><strong>Fränk Klein</strong> at WPDeveloper Courses, released his new course: <a href="https://wpdevelopment.courses/courses/building-block-based-themes/"><strong>Building Block-Based Themes</strong></a>. If you want to learn how to build a real-life example theme and all the ins and outs for a theme using the full-site editing capabilities and theme.json.  </p>
+
+
+
+<p>On Fullsiteediting.com, <strong>Carolina Nymark</strong> has been offering her <a href="https://fullsiteediting.com/courses/full-site-editing-for-theme-developers/">Full Site editing course</a> for free, but that might change soon. </p>
+
+
+
+<p><strong>Joe Casabona</strong> at <a href="https://creatorcourses.com/">CreatorCourses </a>is also working on an update of his Gutenberg Theme course. </p>
+
+
+
+<p>My take-away from the acquisitions of Atomic Blocks, Co Blocks etc. is that early adopters found it quite worth their while to deal with the ever-moving goal posts while developing along site Gutenberg developers.  The future is yours! </p>
+
+
+
+<hr class="wp-block-separator" />
+
+
+
+<h2 id="events">Upcoming WordPress Events</h2>
+
+
+
+<p><strong>June 6, 2021</strong> <strong>7:00 pm EDT / 23:00 UTC</strong><br /><strong><a href="https://www.meetup.com/Philadelphia-WordPress-Meetup-Group/events/278507419/">WordPress Meetup Philadelphia</a></strong><br />Full Site Editing Review and Test-a-thon</p>
+
+
+
+<p><strong>June 7 &#8211; 9th, 2021</strong><br /><strong><a href="https://europe.wordcamp.org/2021/">WordCamp Europe</a></strong><br />A virtual event and contributor day. <a href="https://europe.wordcamp.org/2021/call-for-sponsors/">Call for sponsors is open.</a></p>
+
+
+
+<p><strong>🎉</strong>  Gutenberg Times is a media partner of WordCamp Europe 2021 </p>
+
+
+
+<p><strong>June 10th, 2021</strong><br /><strong><a href="https://www.meetup.com/SF-WordPress-Users/events/278491308">WordPress &#8220;Mega Meetup&#8221;: Plugins That Keep Websites Running</a></strong></p>
+
+
+
+<p><strong>June 20 &#8211; 26, 2021</strong><br /><strong><a href="https://japan.wordcamp.org/2021/">WordCamp Japan</a></strong><br /><em>The schedule has been posted. Most sessions will be in Japanese, with exceptions, I think&#8230; </em></p>
+
+
+
+<p><strong>June 24, 2021 </strong><br /><strong><a href="https://attend.wpengine.com/summit-us-2021/">WPEngine Summit 2021</a></strong><br /><em>The digital breakthrough conference</em> <a href="https://events.wpengine.com/event/fd217870-fc78-46d2-8c5e-96c85e6e371c/websitePage:645d57e4-75eb-4769-b2c0-f201a0bfc6ce?environment=P2&tm=nSwmA1-ZyLXwe2wM80Vzve3wDjKBWeqKrHbJFivPV4o&locale=en-US">released their schedule</a>. Personally, I am very much looking forward to the Keynote talk with <strong>Reshma Saujani</strong>, founder of Girls Who Code and Marshall Plan for Moms at 12:55 EDT / 16:55 UTC.  I also hope to see talks with Rob Stinson, Carrie Dils and Chris Wiegman. There are also deep dive talks listed into Headless WordPress. Enterprise WordPress is definitely heading down that route. </p>
+
+
+
+<p><strong>June 24 &#8211; 26, 2021</strong><br /><strong><a href="https://cochabamba.wordcamp.org/2021/">WordCamp Cochabama</a></strong> (Colombia) </p>
+
+
+
+<p><strong>July 17 + 18th, 2021</strong><br /><strong><a href="https://santaclarita.wordcamp.org/2021/">WordCamp Santa Clarita</a></strong><br />Calls for speakers ends TODAY! </p>
+
+
+
+<p><strong>July 23, 2021</strong><br /><a href="https://www.wordfest.live/"><strong>WordFest Live </strong></a>&#8211; <em>The&nbsp;</em>festival of WordPress</p>
+
+
+
+<p>A<strong>ugust 6 + 7, 2021</strong><br /><a href="https://nicaragua.wordcamp.org/2021/"><strong>WordCamp Nicaragua</strong></a></p>
+
+
+
+<p><strong>September 21 + 22, 2021</strong><br /><a href="https://2021.wpcampus.org/"><strong>WPCampus 2021 Online</strong></a><br />&#8220;A free online conference for web accessibility and WordPress in higher education.&#8221;</p>
+
+
+
+<hr class="wp-block-separator" id="block-ee0670b9-9b56-410a-a5c8-1febc106dca5" />
+
+
+
+<p id="block-8c56f083-3d78-42e0-84ec-62ea90a2afa5">On the<a href="https://wpcalendar.io/online/"> <strong>Calendar for WordPress Online Events</strong> </a>you can browse a list of the upcoming WordPress Meetups, around the world, including WooCommerce, Elementor, Divi Builder and Beaver Builder meetups.</p>
+
+
+
+
+<hr class="wp-block-separator is-style-wide" />
+
+
+
+<p class="has-text-align-center"><strong>Don&#8217;t want to miss the next Weekend Edition? </strong></p>
+
+
+
+<form class="wp-block-newsletterglue-form ngl-form ngl-portrait" action="https://gutenbergtimes.com/feed/" method="post"><div class="ngl-form-container"><div class="ngl-form-field"><label class="ngl-form-label" for="ngl_email">Type in your Email address to subscribe.</label><div class="ngl-form-input"><input type="email" class="ngl-form-input-text" name="ngl_email" id="ngl_email" /></div></div><button class="ngl-form-button">Subscribe</button><p class="ngl-form-text">We hate spam, too and won&#8217;t give your email address to anyone except Mailchimp to send out our Weekend Edition</p></div><div class="ngl-message-overlay"><div class="ngl-message-svg-wrap"></div><div class="ngl-message-overlay-text">Thanks for subscribing.</div></div><input type="hidden" name="ngl_list_id" id="ngl_list_id" value="26f81bd8ae" /><input type="hidden" name="ngl_double_optin" id="ngl_double_optin" value="yes" /></form>
+
+
+
+<hr class="wp-block-separator is-style-wide" />
+
+
+
+
+<p>Featured Image: <a href="https://unsplash.com/@xavi_cabrera?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Photo by&nbsp;</a><a href="https://unsplash.com/@pawel_czerwinski?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Pawel Czerwinski</a>&nbsp;on&nbsp;<a href="https://unsplash.com/s/photos/blocks-of-flats?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Sat, 12 Jun 2021 18:39:08 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:18:"Birgit Pauli-Haack";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:11;a:6:{s:4:"data";s:13:"
+	
+	
+	
+	
+	
+	
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:68:"Gutenberg Times: WordCamp Europe: Full-Site Editing Panel discussion";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:35:"https://gutenbergtimes.com/?p=18145";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:78:"https://gutenbergtimes.com/wordcamp-europe-full-site-editing-panel-discussion/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:43875:"<p>It was announced as a discussion panel about the present and future of WordPress with Full Site Editing.</p>
+
+
+
+<p>The panelists, highly involved in this new feature, discussed many topics about FSE and how it is going to be a new revolution in the WordPress ecosystem.</p>
+
+
+
+<p>The Panelist were <a href="https://europe.wordcamp.org/2021/speaker/danielle-zarcaro/">Danielle Zarcaro</a>, <a href="https://europe.wordcamp.org/2021/speaker/grzegorz-ziolkowsk/">Grzegorz Ziółkowski</a>, <a href="https://europe.wordcamp.org/2021/speaker/koen-van-den-wijngaert/">Koen Van den Wijngaert</a> and <a href="https://europe.wordcamp.org/2021/speaker/milana-cap/">Milana Cap</a></p>
+
+
+
+<p>Jose Ramon Padron and Lesley Molecke moderated the discussion. </p>
+
+
+
+<div class="wp-block-embed__wrapper">
+<div class="toolbelt-video-wrapper"></div>
+</div>
+
+
+
+<p>Torque Magazine did an outstanding job live tweeting. </p>
+
+
+
+<div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">"With FSE a theme developer can develop with a more solid foundation. More of their time and energy can be spent building things that have more value for their customers" <a href="https://twitter.com/vdwijngaert?ref_src=twsrc%5Etfw">@vdwijngaert</a></p>&mdash; Torque (@TheTorqueMag) <a href="https://twitter.com/TheTorqueMag/status/1401945858598338562?ref_src=twsrc%5Etfw">June 7, 2021</a></blockquote>
+</div>
+
+
+
+<p class="has-large-font-size" id="0-the-transcript-and-table-of-contents"><strong>The transcript and table of contents</strong></p>
+
+
+
+<div class="wp-block-sortabrilliant-guidepost"><ul><li><a href="https://gutenbergtimes.com/feed/#0-introduction-of-the-topic-and-the-panelists">Introduction of the topic and the panelists</a></li><li><a href="https://gutenbergtimes.com/feed/#1-what-is-full-site-editing-and-where-did-it-come-from-nbsp">What is full site editing and where did it come from?</a></li><li><a href="https://gutenbergtimes.com/feed/#2-what-problem-does-full-site-editing-solve">What problem does Full-Site Editing solve?</a></li><li><a href="https://gutenbergtimes.com/feed/#3-what-happens-to-websites-that-are-live-in-production-when-word-press-5-8-is-released">What happens to websites that are live (in production) when WordPress 5.8 is released?</a></li><li><a href="https://gutenbergtimes.com/feed/#4-what-does-full-site-editing-change-for-the-various-word-press-stakeholders">What does Full Site Editing change for the various WordPress stakeholders </a></li><li><a href="https://gutenbergtimes.com/feed/#5-why">Why will Full-Site Editing be in Core and not a plugin?</a></li><li><a href="https://gutenbergtimes.com/feed/#6-w">What will be the role of existing page builders?</a></li><li><a href="https://gutenbergtimes.com/feed/#7-what-is-going-to-happen-with-the-rest-of-the-open-source-solutions-like-joomla-drupal">What is going to happen with the rest of the open-source solutions like Joomla, Drupal?</a></li></ul></div>
+
+
+
+<hr class="wp-block-separator is-style-wide" />
+
+
+
+<p><em>José Ramón Padron:</em> Hello, Lesley.</p>
+
+
+
+<p><em>Lesley Molecke:</em> Hey, Moncho.</p>
+
+
+
+<p><em>José Ramón Padron:</em> I&#8217;m laughing, because this is the moment my neighbor started to do this at home. I don&#8217;t know. I hope it doesn&#8217;t sound through the microphone, but I&#8217;m hearing a hammer quite hard on that building. I hope it&#8217;s not-</p>
+
+
+
+<p><em>Lesley Molecke:</em> I can&#8217;t hear anything, but listen, I&#8217;m ready for this next session. I can&#8217;t believe that we&#8217;re already here. It&#8217;s already the final session of the day, and it&#8217;s going to be a good one.&nbsp;</p>
+
+
+
+<h2 id="0-introduction-of-the-topic-and-the-panelists">Introduction of the topic and the panelists</h2>
+
+
+
+<p><em>José Ramón Padron:</em> Yes, it&#8217;s true. It&#8217;s going to be a good one, because we have a lot of good people talking about a quite good and hot topic inside the WordPress community. One of the things we are going to have, really near in, I don&#8217;t know, in 5.8, in the next version of WordPress, full site editing?</p>
+
+
+
+<p><em>Lesley Molecke:</em> Yes. We would like to welcome our panelists. This is a panel presentation, so it should be a good conversation with a number of experts speaking. So they will join us here on stage in just a moment. Hello, hello. Hi, everybody.&nbsp;</p>
+
+
+
+<p><em>Grzegorz Ziółkowski:</em> Hello.</p>
+
+
+
+<p><em>Koen Van den Wijngaert:</em> Hello, there.&nbsp;</p>
+
+
+
+<p><em>Lesley Molecke:</em> Will you please introduce yourselves?&nbsp;</p>
+
+
+
+<p><em>Milana Cap:</em> Which order?</p>
+
+
+
+<p><em>Lesley Molecke:</em> As you wish.&nbsp;</p>
+
+
+
+<div class="wp-block-image is-style-rounded"><img />Milana Cap</div>
+
+
+
+<p><em>José Ramón Padron:</em> So let&#8217;s start with Milana, just for talking.</p>
+
+
+
+<p><em>Milana Cap: </em>Because I&#8217;m the loudest. Well, you said expert. I&#8217;m here just for the cookies and to bribe contributors to come to documentation. Also, I&#8217;m here as documentation team co-rep. And I&#8217;m the docs focus lead for a new release, 5.8. I should be knowing what&#8217;s happening, hopefully soon. I&#8217;m Milana from Serbia.&nbsp;</p>
+
+
+
+<p><em>Lesley Molecke:</em> How about you, Danielle?</p>
+
+
+
+<p><em>José Ramón Padron:</em> Thank you so much.</p>
+
+
+
+<p><em>Danielle Zarcaro:</em> Sure. I&#8217;m having an issue too. I don&#8217;t know whether he&#8217;s blowing leaves or mowing the lawn? I don&#8217;t know what&#8217;s happening.&nbsp;</p>
+
+
+
+<div class="wp-block-image is-style-rounded"><img />Danielle Zarcaro</div>
+
+
+
+<p><em>Lesley Molecke:</em> We can&#8217;t hear it, it&#8217;s okay.</p>
+
+
+
+<p><em>Danielle Zarcaro:</em> Good. I&#8217;m Danielle. I&#8217;m from the US. I am the head of paperback web development. We build custom WordPress websites and maintain them, and maintain existing websites, and all that that comes with. We just launched overnightwebsite.com. So that&#8217;s mostly what I deal with is the old and the new of WordPress. So it&#8217;s the whole range.</p>
+
+
+
+<p><em>José Ramón Padron:</em> Thanks, Danielle. Let&#8217;s go with Koen.</p>
+
+
+
+<div class="wp-block-image is-style-rounded"><img /><em>Koen Van den Wijngaert</em></div>
+
+
+
+<p><em>Koen Van den Wijngaert:</em> Hey, hi, there. Is this thing on? Hey, Good evening. I&#8217;m Koen. I&#8217;m a WordCamp and meetup organizer from Belgium. I run my own company called NEOK IT, where I provide software consultancy, partly around WordPress. I&#8217;ve been working with WordPress for a few years now. I like to learn things, as well as challenge myself while doing it.&nbsp;</p>
+
+
+
+<p>So for a while now, I&#8217;ve been casually contributing to Gutenberg, as a way of giving back and mostly getting more accustomed to the ins and outs of the project. So that&#8217;s me.&nbsp;</p>
+
+
+
+<div class="wp-block-image is-style-rounded"><img src="https://i1.wp.com/pbs.twimg.com/profile_images/1047874472403845121/ckX4uiBZ_400x400.jpg?resize=203%2C203&ssl=1" alt="Image" width="203" height="203" /><em>Grzegorz Ziółkowsk</em></div>
+
+
+
+<p><em>Grzegorz Ziółkowski:</em> It looks like it&#8217;s me now. So my name is Grzegorz Ziółkowski. I live in Oleśnica, Poland, and I work at Automatic, where I spend all time contributing to the WordPress core. My main focus is Gutenberg. I was helping to merge changes from the plugin, Gutenberg plugin to the WordPress core for the upcoming WordPress 5.8 release, which won&#8217;t contain all the necessary pieces of the full site editing. However, there is a lot of new goodies coming that will be ready to use on the site.&nbsp;</p>
+
+
+
+<p><em>Lesley Molecke:</em> Excellent. So Moncho and I have come up with a bunch of questions for you. They go from really basic, and then they work up and get more and more exciting and interesting. So we&#8217;re going to start with the first one, which is actually, this is my question, because I don&#8217;t know the answer to it yet and hopefully you will educate me. What is full site editing and where did it come from?&nbsp;</p>
+
+
+
+<h2 id="1-what-is-full-site-editing-and-where-did-it-come-from-nbsp">What is full site editing and where did it come from?</h2>
+
+
+
+<p><em>Koen Van den Wijngaert:</em> Maybe if I can start, maybe the best thing to say at first is that full site editing is not just a big monolithic heap of a big function. It&#8217;s better to think of it as a collection of a lot of features that come with Gutenberg, as part of the second phase of the Gutenberg roadmap. Maybe someone else can pitch in now, so I don&#8217;t do a monologue.</p>
+
+
+
+<p><em>Grzegorz Ziółkowski:</em> If you don&#8217;t take a bigger picture, so full site editing is part of the Gutenberg project, there are four phases. And we are reaching this year, the end of phase two. The first one was introducing the building blocks for editing content. Now, we will be editing a full canvas of the sites. And the next two phases are collaborative editing. So to let people collaborate when they are changing websites or writing content. And the fourth one is multilingual support.</p>
+
+
+
+<p><em>Koen Van den Wijngaert:</em> What everyone is waiting for, I believe. That&#8217;s going to be a big one.&nbsp;</p>
+
+
+
+<h2 id="2-what-problem-does-full-site-editing-solve">What problem does Full-Site Editing solve?</h2>
+
+
+
+<p><em>José Ramón Padron:</em> Anything else? Anything else? Because one of the things inside of Lesley&#8217;s question is, what problem does it solve? Which is, I think, very interesting. What do you think?</p>
+
+
+
+<p><em>Milana Cap:</em> I think that the problem it&#8217;s trying to solve is to give the user one unique workflow to edit everything. Because at this moment, you have post, you have page, and you go to block editor. Or if you are not brave enough, you&#8217;re still using classic editor and you edit your content there.&nbsp;</p>
+
+
+
+<p>But then you want to change your logo, then you have to go to customizer. But then you have some theme options. And it depends on theme from theme, what will you edit and where? I believe the idea is to release end user from need to know everything about the theme, you just go there and you just edit.&nbsp;</p>
+
+
+
+<p>And if you want to edit footer, and you&#8217;re on the post and you&#8217;re editing post, and then you realize the menu is not correct, you edit menu. You don&#8217;t need to know, because nobody cares is it customizer or whatever? People care to know where it is. And it&#8217;s a good thing that you can see how it looks on the front end, which I think was the initial idea for Gutenberg. But who knows? Maybe I&#8217;m wrong.</p>
+
+
+
+<p>I think that&#8217;s a huge problem that will be fixed, and solved with full site editing. For us who are building websites, I know that for every website, I have to create a ton of tutorials and everything, to show clients how to use it. And this will solve all that. So we will be out of job.</p>
+
+
+
+<p><em>Koen Van den Wijngaert:</em> I also like to think that it brings a lot of power and more freedom and flexibility to end users of a website. Because in the traditional way of doing things, there&#8217;s a few ways one can have a WordPress website. He can have an agency, have a website built for him. Or he could be using some sort of a theme builder, or he could have installed a theme from the theme directory or maybe it&#8217;s even a custom theme.</p>
+
+
+
+<p>But now end users are able to have so much more power about editing templates, and editing all sorts of aspects of their website. I think that&#8217;s really exciting to look forward to.&nbsp;</p>
+
+
+
+<p><em>Danielle Zarcaro:</em> I think it solves a couple of problems, to add to that. It takes away some of the ambiguity around how to edit each individual thing. So WordPress&#8217;s whole thing is to democratize publishing. There were areas of the websites that were just not available to edit to anyone who doesn&#8217;t know code.&nbsp;</p>
+
+
+
+<p>So there&#8217;s the ease of use gap that came about, that you can&#8217;t edit the 404 page, you can&#8217;t edit the header or footer, unless an option is available. Is the theme using the site logo that you upload in WordPress, or you&#8217;re going to upload the image and then theme isn&#8217;t going to show it. It gets rid of those, however the theme developer decided to do it that day, and it streamlines a lot of that process to do some expected behavior to make it easier for anyone to hop into a site and edit it, and it democratizes publishing on a whole new level.&nbsp;</p>
+
+
+
+<p><em>Koen Van den Wijngaert:</em> That&#8217;s a nice way of saying it. Yes. Because right now there&#8217;s this huge fragmented world of all different ways of themes that came up with our own way of editing site features and headers and customizing things. But there&#8217;s no real standard way of doing that. So it just makes it harder to step out of that particular ecosystem, I think. I&#8217;m looking forward to the standardized way of doing theming in WordPress.</p>
+
+
+
+<p><em>José Ramón Padron</em>: Grzegorz, I think you had something. Yes.</p>
+
+
+
+<p><em>Grzegorz Ziółkowski:</em> I wanted to add some more to it. Because I think it&#8217;s important to note that it&#8217;s not only about unifying everything, but it&#8217;s also to giving the power to users to change those little bits that annoy them, like the color of the header, or the font size.&nbsp;</p>
+
+
+
+<p>Before, you would have, or either learn CSS or learn HTML just to edit that. But now you will have tools that will allow that, and you won&#8217;t have to call your site administrator to do a simple change. So maybe you could tell that, remove the job from those people who maintain those sites, but on the other hand, they will have more time to work on expanding their offering and improving their own products or services, just to use the time.</p>
+
+
+
+<p>So this is something that sounds scary, but on the other hand, it opens a lot of possibilities. Because the idea of blocks also gives you the power that you can create your own blocks that you can use in several websites, and give additional functionality out of the box for your customers.</p>
+
+
+
+<h2 id="3-what-happens-to-websites-that-are-live-in-production-when-word-press-5-8-is-released">What happens to websites that are live (in production) when WordPress 5.8 is released?</h2>
+
+
+
+<p><em>José Ramón Padron:</em> So regarding that this is something new, something is going to happen from 5.8, as far as I know, what happens to the WordPress websites that are already live and in production? Must they be rebuilt in order to use full site editing? Or they&#8217;re going to work in the way they are?&nbsp;</p>
+
+
+
+<p><em>Milana Cap:</em> They have to be rebuilt completely. It will crash. No, it won&#8217;t.</p>
+
+
+
+<p><em>Koen Van den Wijngaert</em>: It will just crash when you update.&nbsp;</p>
+
+
+
+<p><em>Milana Cap:</em> No, it won&#8217;t.</p>
+
+
+
+<p><em>Lesley Molecke:</em>That&#8217;s big news.&nbsp;</p>
+
+
+
+<p><em>Koen Van den Wijngaert:</em> Oh, we were not supposed to say that, sorry.</p>
+
+
+
+<p><em>Milana Cap:</em> No, they will not be crashed, they will not have to be rebuilt completely. As you all know, WordPress always build in mind with what is already out there, not to crash anything. And in 5.8, not everything will get in. So if I&#8217;m wrong, please correct me, but I think that in 5.8, you will have to install a Gutenberg plugin to actually use full site editing. So not everything will be there, but it will be foundation for the next releases when everything else will come in.&nbsp;</p>
+
+
+
+<p>But still, we will have some nice things coming in and nothing will break. You can go part by part and rebuilding it and adapting for a complete editing experience.&nbsp;</p>
+
+
+
+<p><em>José Ramón Padron:</em> Thanks, Milana. Anything to add ?</p>
+
+
+
+<p><em>Koen Van den Wijngaert:</em> Maybe Grzegorz can do it.&nbsp;</p>
+
+
+
+<p><em>Grzegorz Ziółkowski:</em> You can go.&nbsp;</p>
+
+
+
+<p><em>Koen Van den Wijngaert:</em> Okay, but you can just&#8230; Well, some of the full site editing features will be added to 5.8, I think, but Grzegorz will probably be able to say which one exactly. I&#8217;m hearing feedback.&nbsp;</p>
+
+
+
+<p><em>José Ramón Padron:</em> An echo. There is an echo.</p>
+
+
+
+<p><em>Koen Van den Wijngaert:</em> So it&#8217;s not some monolithic feature, like we said before, but it&#8217;s more like a collection of features and they won&#8217;t be turned off all at once by default, by just upgrading to WordPress 5.8. You do need to have a full site editing team to enable all features, but some of them will also be available for non-block based themes.&nbsp;</p>
+
+
+
+<p>Things like the template editor blocks, the site logo, the tagline, the query blocks, posts, posts related blocks, like post title, post [inaudible 00:14:45], they will all be made available in the post editor. And as well as that, I think it was also possible to also not edit, but with add new templates to a normal theme and edit those in the template editor. It&#8217;s pretty awesome.&nbsp;</p>
+
+
+
+<p><em>Grzegorz Ziółkowski:</em> So the first step is to allow people to change, use the block-based paradigm on a single page. So think about that, about previously you would have to create a PHP file to change a single page view. And now you will be able to do that to through UI, and that will create an override that you would be able to delete later. But as a user, so it&#8217;s more like empowering people who have access to the sites, rather that&#8217;s a feature for the team designer.</p>
+
+
+
+<p>So that&#8217;s one thing. And everything like that is optional, so there will be a flag to disable that. So site owners or theme authors we will say that, &#8220;I don&#8217;t want that,&#8221; and they can remove that.&nbsp;</p>
+
+
+
+<p>The one big change is that not necessarily related to full site editing, but is somehow in the same area is the widget editor, which will be&#8230; I don&#8217;t know what&#8217;s the final decision, but it will be depending on the feedback from the testing, either an opt-in or opt-out.</p>
+
+
+
+<p>So the idea would be that you will be able to use the same blogs you use in your content to use also in site, when you would previously use widgets. So that&#8217;s a nice change. If you have your own custom blocks, you would be able to put there as well, which will open those new possibilities, and also somehow unify the interface.&nbsp;</p>
+
+
+
+<p>But as you could hear, there is a lot of new blocks coming. But it&#8217;s just addition, it&#8217;s not something that you have to use. It&#8217;s just there if you want to try them out, that will be perfect time to do that after 5.8 is out. And there is a-</p>
+
+
+
+<p><em>Koen Van den Wijngaert:</em> That will be released tomorrow, by the way. So if you want to test it, please do so. It&#8217;s by a lot of users that can test and provide feedback on the new update that we can improve upon those things, and decide what can be added and what should be skipped. So go install it tomorrow.</p>
+
+
+
+<p><em>Lesley Molecke:</em>Yes, we should acknowledge that, that everyone here is actually working really hard right now to create the new release, while also attending WordCamp Europe and being here on this panel and contributing on track too, and y&#8217;all are everywhere. Thank you, thank you, thank you for your time.&nbsp;</p>
+
+
+
+<h2 id="4-what-does-full-site-editing-change-for-the-various-word-press-stakeholders">What does Full Site Editing change for the various WordPress stakeholders </h2>
+
+
+
+<p>My next question has to do with stakeholders. So obviously, a big change like this to WordPress has multiple stakeholder groups. It has the end users, the users of WordPress websites down the road. It has the editors of WordPress websites. It has the companies who build themes and the companies who build plugins, and the people who contribute, all of these different groups.&nbsp;</p>
+
+
+
+<p>I&#8217;m interested in talking about the theme creators who currently primarily rely on offering block patterns with their own header and footer and sidebar management. So how does that work with full site editing?</p>
+
+
+
+<p><em>Danielle Zarcaro:</em> Well, it works the same way. You can offer whatever you want. I think it&#8217;s a misconception that by giving the users the ability to do what they want means that they&#8217;ll be able to do anything they want. If you are someone like me who&#8217;s creating custom sites, you can actually more easy put options and make it so that you don&#8217;t have to install a whole extra plugin to add a couple of extra options. You reserve that for the bigger projects that you&#8217;re doing.</p>
+
+
+
+<p>And it&#8217;s up to the theme creators, if they&#8217;re creating a theme on a wider scale, instead of just an individual client, that&#8217;s up to them to decide how they want it to work. They just opt into stuff, they add stuff, they add their custom options, but it&#8217;s all working within the same ecosystem, and we&#8217;re all speaking the same language now instead.</p>
+
+
+
+<p>So if you don&#8217;t want to make it so that your header and your footer and your sidebars are manageable in the block editor or in full site editing, then I guess you don&#8217;t have to. You can hard code whatever you want, you can do that now, you don&#8217;t have to make any options available.&nbsp;</p>
+
+
+
+<p>But then at some point, you&#8217;re going to start to fall behind, in terms of what you&#8217;re able to do. So it&#8217;s going to work the same way, just with more possibilities. That&#8217;s how I go about looking at it.&nbsp;</p>
+
+
+
+<p><em>Koen Van den Wijngaert:</em> You&#8217;ll be able to turn off or on, or even tweak some of the configuration options just by providing a single JSON file for those things. But also, I like to think that with full site editing, a theme developer or theme designer can benefit from a more solid foundation that is standardized and optimized for things like accessibility, usability and performance.&nbsp;</p>
+
+
+
+<p>That way more of their time and energy can be spent into building things that actually add value to their customers, all the while benefiting from the existing full site editing features and even tweaking them to their liking. So that&#8217;s a big plus, I think. So they don&#8217;t have to go and reinvent the wheel every time they build a new website.</p>
+
+
+
+<p><em>José Ramón Padron:</em> There is something related to the last major change we saw in WordPress, when Gutenberg appears, when Gutenberg finally was born in 5.0. And now you can see that there is a plugin that is the old editor. And at this moment, we this kind of legacy, we can call it legacy, but it&#8217;s still available there.&nbsp;</p>
+
+
+
+<h2 id="5-why">Why will Full-Site Editing be in Core and not a plugin?</h2>
+
+
+
+<p>My question is about why there are things that can sit in the core, and a different one can be set as a plugin? For example, why put the full site editing in the core when it is something that the majority of users at this moment don&#8217;t know? And we hope all of them are going to use it, but as everything that comes new in WordPress, there is always a time for getting used to it.&nbsp;</p>
+
+
+
+<p>So what do you think is the main reason full site editing is in the core and not, for example, in a plugin and people can choose if they want it or not?</p>
+
+
+
+<p><em>Milana Cap:</em> I think that now that we have Gutenberg in core, and full site editing is obviously expansion of what we were using in core by now, I think it would be silly not to have it in core and have it as a plugin, when you can use&#8230; This is just a foundation to put all the blocks that you already have. So it&#8217;s not like the structure that you still don&#8217;t have, you have. There is Gutenberg and now you will just expand it to the whole website.</p>
+
+
+
+<p>And there is benefit in having everything standardized, especially for people who are using themes from our repository. So when you switch theme, you have all those available, things to edit, you know where it is, and you have all the blocks available.</p>
+
+
+
+<p><em>José Ramón Padron:</em> Makes sense.</p>
+
+
+
+<p><em>Milana Cap:</em> So that&#8217;s a huge benefit. I love that theme in wordpress.org is insisting on idea that people will change themes, and they cannot lose anything. I love that idea. I think this will really help having that.&nbsp;</p>
+
+
+
+<p>So when you have custom themes, and people have different ways of editing right now the header, the footer, or they don&#8217;t have it at all, so you&#8217;re afraid to change the theme. But with full site editing, you will have all that available.</p>
+
+
+
+<p>Now, as far as not knowing how to use it goes, we didn&#8217;t know many things, how to use. And the thing that we really need right now is, here comes my pitch, documentation. So we really, really need to document everything good, because when you don&#8217;t have documentation, people don&#8217;t know how to use it and then they don&#8217;t interact with it enough. They don&#8217;t find bugs, they don&#8217;t contribute. They don&#8217;t think ideas how to expand it, and you don&#8217;t have contributors, and there is no cycle for open source. So first, we need to do a good documentation.&nbsp;</p>
+
+
+
+<p>We did fail a bit with Gutenberg getting in, and we can still feel it. We can still feel developers who are frustrated and don&#8217;t know how to work with it and how to build on that. I&#8217;m asking everyone to come and help. While doing documentation, you will actually learn how to do it.&nbsp;</p>
+
+
+
+<p>I&#8217;m not afraid of new things. I don&#8217;t think anyone should be afraid, especially because this is not a really new thing, like Gutenberg was a new thing. We didn&#8217;t know what it was. Now we know, full site editing is what we already know, it&#8217;s new, but expanded, so it&#8217;s easier to learn. And if we do enough work, and we are doing&#8230; people make WordPress themes are doing great job.</p>
+
+
+
+<p>Just mentioning few, Anne is doing the testing, great job, and Carolina even have a website for full site editing where you can read everything. So it&#8217;s doing better, and we can learn and there are resources, so there&#8217;s no need to be afraid of it.&nbsp;</p>
+
+
+
+<p><em>Koen Van den Wijngaert:</em> And if I&#8217;m not mistaken, there&#8217;s even seven milestones added to the full site editing milestones. It&#8217;s called gradual adoption. So that it focuses solely on making sure that full site editing features are being adopted better and more gradual. And that work is being put into actually making sure that the documentation is on par, and that the dev notes are up to date, and all of that kind of thing. So that&#8217;s also important. That&#8217;s also part of the work that&#8217;s now being done after the feature freeze for the 5.8 features.&nbsp;</p>
+
+
+
+<p><em>Danielle Zarcaro:</em> I think from my perspective, as someone who&#8217;s working with it and working with people, no one&#8217;s going to use it if you make it optional. People are going to do what they&#8217;re going to do, if you let them.&nbsp;</p>
+
+
+
+<p>I think WordPress itself has never, it&#8217;s been very transparent about where it&#8217;s going. We&#8217;ve all been able to use Gutenberg for years now. We&#8217;ve been able to install the plugin, and then we&#8217;ve been able to use the block editor in core for years now. So it&#8217;s like we&#8217;ve had this getting used to period.</p>
+
+
+
+<p>So we&#8217;re just going in the direction that we said we&#8217;d go in, and people can still find ways to go backwards. They can still install the classic plugin for sites that need it, they can install the classic plugin for certain things. They cannot enable the block editor for custom post types. There&#8217;s all kinds of stuff that you can do to counteract some of that.&nbsp;</p>
+
+
+
+<p>But like I referenced before, and I&#8217;ve talked a lot about this in the past, at some point, you have to embrace the tool that you&#8217;re using. So you&#8217;re either going to embrace the fact that we&#8217;re all working towards the same goal, or you&#8217;re working against it and basically forking your own version and working on your own, which is fine. But then you can&#8217;t offer the latest stuff.&nbsp;</p>
+
+
+
+<p>I think it&#8217;s up to you as a developer to, on some level, work with things, and meet WordPress where it is. You have to give up. WordPress is open source. You have to allow yourself to go with the tide a little bit.&nbsp;</p>
+
+
+
+<p>And when you have new users who come into WordPress, who are installing things, they&#8217;re not going to know that there was an old WordPress. They&#8217;re not going to know that, oh, I have to install this other plugin to enable all of these awesome features. You have to think forward. So you have to allow these new users to start installing it, and use all the cool latest stuff.&nbsp;</p>
+
+
+
+<p>If someone wants to go backwards for a bit, then they can put the work in to do that.&nbsp;</p>
+
+
+
+<p><em>Grzegorz Ziółkowski: </em>It&#8217;s also worth mentioning that the full site editing, it&#8217;s soon to be included in the core, it&#8217;s always something that we wanted to have. It&#8217;s not something that came, because there was the 5.0 release and the block editor. It&#8217;s the other way around.</p>
+
+
+
+<p>So we took the smallest step possible to enable people to start using this block paradigm, start learning UI. We got a lot of feedback. And if you look at the iterations that worked, how the editor looked two and a half years ago and how it looks now, it&#8217;s a completely different product.</p>
+
+
+
+<p>And also the way, how we people started thinking about building content with blocks is different. It&#8217;s not longer, building small custom blocks, but rather combining a lot of existing blocks into block patterns, into having UIs, having ways to change a big portion of the page with solutions. Like now it&#8217;s coming to the query block that allows you to switch the list of blog posts will be displayed on the page.</p>
+
+
+
+<p>So we are constantly trying to make it easier for users to provide the infrastructure, also for plugin authors, for theme authors, so they can build upon that, and have the unified experience. So people, once they learn how to write a post, they will know how to change the template of the page, because it&#8217;s exactly the same paradigm.&nbsp;</p>
+
+
+
+<p>It&#8217;s even in the same UI interface. You just go from one page to another, without the page reload. Everything can happen, you can go back, you can revisit how it looks when you compose everything together. It&#8217;s no longer you need to go to the preview of the page and see another tab to see, oh, it looks good, but now something broke outside of the post content. I need to go find customizers and go to this template, or call the theme author on the support and change that for me.&nbsp;</p>
+
+
+
+<p>So this is a huge project, and has so many layers on top of that. We want to bring as much as possible, I would say, what makes sense to most of the users, but not all of them. Because there is always room for extenders to build their own solutions on top of that, and give this unique perspective and look and feel for the customers.</p>
+
+
+
+<h2 id="6-w">What will be the role of existing page builders?</h2>
+
+
+
+<p><em>Lesley Molecke:</em> I feel like we&#8217;re tiptoeing closer and closer to this question. I&#8217;m just going to ask it, just get it out there on the table. What do you all feel is the big role for the online page builders, the Divi, the Elementor, these big guys, taking into account that we&#8217;re moving into full site editing, block patterns, all of these things that are being built into WordPress core? What is the role of these page builders that so many of us use?&nbsp;</p>
+
+
+
+<p><em>Danielle Zarcaro:</em> I think that&#8217;s up to them. I think ultimately, they were there to push the envelope. They were there to bring us to where we currently are. I think without them, we might not have had this extra push. Maybe it would have taken a few more years to put all this into core. These builders saw this hole and filled it.&nbsp;</p>
+
+
+
+<p>And ultimately, they&#8217;re going to have a different UI anyway. So they&#8217;re going to do have their fan base, they&#8217;re going to have their whatever preference to editing things, maybe certain things are dragging and dropping. Whatever they make available, they&#8217;re going to extend WordPress. So that&#8217;s up to them to decide how they&#8217;re going to go about it.&nbsp;</p>
+
+
+
+<p>So they&#8217;re all already currently working with the block editor, all the major ones anyway are. If they&#8217;re concerned at all about future proofing themselves, they&#8217;ve already looked into how to integrate themselves with the block editor. I think it&#8217;s only going to enhance everything to see how they go about integrating themselves into the new ecosystem.&nbsp;</p>
+
+
+
+<p>I really love, as a developer, I love the way Oxygen goes about it, where you can build stuff, and then go and edit it in Gutenberg. So that&#8217;s a really cool take on it. And so it&#8217;s just a new way to innovate, and they&#8217;re going to have their place.</p>
+
+
+
+<p>I think it&#8217;s cool that we now have these established things. We have these people to look to, to see where are the new holes in WordPress? Where can we go from here? And they&#8217;re going to continue to just push the envelope. I love the diversity that&#8217;s out there.&nbsp;</p>
+
+
+
+<p>When you talk about builders, there&#8217;s at least four that come to mind and that&#8217;s awesome. And I hope that it stays that way and grows. And that&#8217;s only going to help us. And so hopefully, it&#8217;ll take away some of that, Divi does this way and Elementor does this way. So some things are going to hopefully become uniform, and then they&#8217;ll branch out in other ways.&nbsp;</p>
+
+
+
+<p><em>Koen Van den Wijngaert:</em> Exactly. Because now, there&#8217;s a few big ones indeed, and they all seem to have their own ecosystem surrounding them, which is okay, because as you said, they all implement and provide their own stream of users to the WordPress platform. So it&#8217;s definitely interesting to look at, and observe how they will interact with WordPress and Gutenberg.</p>
+
+
+
+<p>I know most of them already have some sort of a way to either include a new template view or something as a block, or even toggle between Gutenberg and their own editor. But the thing I&#8217;m actually quite looking forward to is whether or not they will start using the new default way of doing things. So that they can actually merit from how it is now going to be supposed to be done, and add on top of that their own set of features and new value-adding stuff.&nbsp;</p>
+
+
+
+<p>Like the cadence theme, for example, is doing. In my eyes, it&#8217;s quite a nice way of implementing Gutenberg the right way. I&#8217;m very interested to see how they will be going to implement full site editing things in the near future, because now it&#8217;s all in the customizer, of course. So, interesting.&nbsp;</p>
+
+
+
+<h2 id="7-what-is-going-to-happen-with-the-rest-of-the-open-source-solutions-like-joomla-drupal">What is going to happen with the rest of the open-source solutions like Joomla, Drupal?</h2>
+
+
+
+<p><em>José Ramón Padron:</em> We were talking about how full site editing can affect the own WordPress ecosystem, talking about for example, what happens with the builders, builders like Divi, Elementor, et cetera. But what do you think, taking account you are developers, designers, you are on the technical side, contributors, what do you think is going to happen with the rest of the open source solutions like Joomla, Drupal? How do you think it&#8217;s going to affect? So it&#8217;s going to make WordPress better than the rest, it&#8217;s going to be a real advantage in front of the rest, like Wix, like the other ones, not only in the open source reality, but outside WordPress? What do you think is going to happen with full site editing?</p>
+
+
+
+<p><em>Milana Cap: </em>They will all take Gutenberg. Drupal already do it.</p>
+
+
+
+<p><em>Koen Van den Wijngaert:</em> But Drupal also has a [crosstalk 00:37:15]. But there&#8217;s not like this CMS is better than the other one. They all serve different purposes. And it&#8217;s like using the right tool for the right job. And having more competition in the game is pretty good actually.</p>
+
+
+
+<p>I think the biggest reason that we, as WordPress, have the biggest market share to date in the CMS market is because of the low threshold to start building websites. And that&#8217;s partly thanks to all of those theme builders. I think it&#8217;s important to reach out and make sure that we all keep using WordPress and not just fork off their own version of WordPress, because it&#8217;s open source, they can do that.&nbsp;</p>
+
+
+
+<p>So if we all collaborate, we can build pretty nice things, I think.&nbsp;</p>
+
+
+
+<p><em>Milana Cap:</em> I think we already saw this many times in history, but let&#8217;s just take a look at Internet Explorer 6. It was so bad that we got this good Chrome and Firefox. And it was so difficult to create posts for some people in WordPress, that we got page builders. So this is happening. There is always this kind of competition between WordPress and Joomla and Drupal.&nbsp;</p>
+
+
+
+<p>But the truth is, they all have their share. Ours is a little bigger than theirs, but they will continue to exist, and I hope they will push, they will invent something new. And then we will be jealous, and we will do something better, because that&#8217;s how it works. Human mind compares. So that&#8217;s what we do.</p>
+
+
+
+<p>I&#8217;m proud that 12 years ago I have selected WordPress and now it&#8217;s 40%. I think I&#8217;m smart, because I did that. But I don&#8217;t like just one way of doing things. I like things messing up. I like people inventing new things. That makes us all better and everything makes better.&nbsp;</p>
+
+
+
+<p>I&#8217;m really looking forward to see what other CMSs will do, but also what will page builders do. I have never used page builder, as someone who builds website and some of you uses website. I cannot say anything.&nbsp;</p>
+
+
+
+<p>But I&#8217;m seeing in our WordPress Serbia Facebook group, I&#8217;m seeing people asking questions about it. I know what they are doing and how, and I really hope to see they invent something insane, so we will have to push Gutenberg again and just pushing forward.&nbsp;</p>
+
+
+
+<p><em>Koen Van den Wijngaert:</em> Even better.</p>
+
+
+
+<p><em>Danielle Zarcaro:</em> I think it&#8217;s going to blur the line a little bit. Because I just recently had to go into a Wix site and it is no longer Wix or Weebly. It is Wix or Webflow. Webflow popped up as an in between to Weebly and the GoDaddy builder and WordPress.</p>
+
+
+
+<p>I think it blurs the line a little bit, where you can now visually edit things and you can now edit those parts, like I said, the 404. All these other things, you can just do now. And so I think it blurs the line and WordPress can now fit into more categories as well.</p>
+
+
+
+<p>So maybe it&#8217;s not a Squarespace, which is a template machine that you stick a bunch of stuff in and it&#8217;s easy, but it does open it up to a whole nother market. Instead of just, oh, you got to have somebody on your side, it now opens the door for more people. And then now they&#8217;re ready to grow, and now they come to you and are familiar with WordPress.&nbsp;</p>
+
+
+
+<p>So there&#8217;s the three or four other markets that&#8217;ll pop up as well. So it blurs a little bit and makes it a little more accessible.&nbsp;</p>
+
+
+
+<p><em>Grzegorz Ziółkowski:</em> There&#8217;s also one thing that I&#8217;m looking forward to, is the blog patterns directory, which should enable a quicker creation of websites, instead of going, changing everything yourself. If you don&#8217;t have, like me, skills for designing, you just pick something that someone crafted very carefully. And maybe pay some fee for that and have unique experience for all the use cases you have.</p>
+
+
+
+<p>It&#8217;s no longer you need to use one theme, and hope that it has all the solutions you need. Instead, you can combine from different sources and build the best experience you need. So that&#8217;s one thing.</p>
+
+
+
+<p>One thing that I&#8217;m looking forward to is how I&#8217;m seeing the growth of headless. It&#8217;s getting a lot of attention at the conferences in the WordPress community. And that interaction with full site editing, I&#8217;m looking forward how that will evolve. Because at the moment, if you want to use headless solutions you need to build from scratch the front end side.</p>
+
+
+
+<p>However, if you combine that with what Gutenberg can produce and reach that, that will open a new set of possibilities. And that will bring big companies looking at WordPress, because now they will be able to build completely custom solutions, and also use whatever WordPress provides in its core, rather treating it as a source of the content only.</p>
+
+
+
+<p><em>José Ramón Padron:</em> I&#8217;m glad to read that question.&nbsp;</p>
+
+
+
+<p><em>Lesley Molecke:</em> Koen, you have one final thing to add, before we sign off?</p>
+
+
+
+<p><em>Koen Van den Wijngaert:</em> I was going to say that one obstacle might be that a lot of back end developers have mostly skills in writing PHP and stuff. But most of the new features, you really do benefit more if you have a JavaScript back end. I think we should also focus on helping those developers transition into more and more adopting JavaScript and active development to develop even better new solutions.</p>
+
+
+
+<p><em>Milana Cap: </em>And documentation.&nbsp;</p>
+
+
+
+<p><em>Koen Van den Wijngaert:</em> Most importantly, of course.&nbsp;</p>
+
+
+
+<p><em>Lesley Molecke: </em>Yes. Well, thank you, thank you, thank you all for this really interesting conversation. I now know more about full site editing than I do before, thanks to you. But also, I think our audience does as well, which is fantastic.</p>
+
+
+
+<p>And again, thank you for taking the time to join us, even though you&#8217;re also so, so busy working on the new release, and working on this massive change to WordPress. We&#8217;re really grateful to you and your time. Enjoy the rest of the conference. We will see you later and thank you.&nbsp;</p>
+
+
+
+<p>Will you be heading over to the Q&amp;A room to talk with the audience? Does that sound like a familiar thing to you? All right.&nbsp;</p>
+
+
+
+<p><em>Milana Cap:</em> We can, if there are questions.</p>
+
+
+
+<p><em>José Ramón Padron:</em> There will be.</p>
+
+
+
+<p><em>Lesley Molecke:</em> People can also make meetings with you and see you in other rooms and things.</p>
+
+
+
+<p><em>José Ramón Padron:</em> There will be more content related full site editing during WordCamp Europe, in each day, I think, or also in the number two track. So this is not the last time we are going to talk about full site editing.&nbsp;</p>
+
+
+
+<p>Another thing is to say thank you for accepting our invitation, more or less in the last minute. Thank you. Thank you so much.</p>
+
+
+
+<p><em>Lesley Molecke:</em>Thank you all.</p>
+
+
+
+<p><em>Milana Cap:</em> Thank you, bye.&nbsp;</p>
+
+
+
+<p><em>Grzegorz Ziółkowski:</em> Thank you.</p>
+
+
+
+<p><em>Koen Van den Wijngaert:</em> Thank you. Very nice to being here.&nbsp;</p>
+
+
+
+<p><em>José Ramón Padron:</em> See you around. Ta-ta.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Sat, 12 Jun 2021 18:31:02 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:18:"Birgit Pauli-Haack";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:12;a:6:{s:4:"data";s:13:"
+	
+	
+	
+	
+	
+	
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:72:"WPTavern: Gutenberg 10.8 Adds New Typography Controls and Block Previews";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=118211";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:189:"https://wptavern.com/gutenberg-10-8-adds-new-typography-controls-and-block-previews?utm_source=rss&utm_medium=rss&utm_campaign=gutenberg-10-8-adds-new-typography-controls-and-block-previews";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:6354:"<p class="has-drop-cap">On Wednesday, <a href="https://make.wordpress.org/core/2021/06/10/whats-new-in-gutenberg-10-8-9-june/">Gutenberg 10.8</a> landed in the WordPress plugin directory. The release includes new typography options for controlling the Heading block&rsquo;s font-weight and the List block&rsquo;s font family. The Audio and File blocks now show preview content in the inserter.</p>
+
+
+
+<p><a href="https://wptavern.com/gutenberg-10-7-integrates-with-the-pattern-directory-introduces-new-block-design-controls">Gutenberg 10.7</a> felt like it introduced flashier features than 10.8. But, this was still a solid release. Sometimes the things that you do not see are just as important as those that you do. Full Site Editing (FSE) components continue to move along at a swift pace. Most changes were bug fixes rather than enhancements.</p>
+
+
+
+<p>One of the primary theme-related FSE upgrades allows developers to set the <a href="https://github.com/WordPress/gutenberg/pull/31878">padding for nav menu links</a> via <code>theme.json</code>. This may be a small win, but it is unlikely to address the numerous issues with styling navigation items and nested lists. The change also does not affect the Page List block links, which can be set as a nav menu item. The Navigation block will be one of the toughest nuts to crack before site editing is a possibility. Enhancements like this help, but it is a long and winding road to a solution that satisfies both theme authors and users.</p>
+
+
+
+<p>Users should see the <a href="https://github.com/WordPress/gutenberg/pull/32037">post title in template-editing mode</a>. The template details modal also includes <a href="https://github.com/WordPress/gutenberg/pull/32042">more detailed information</a>, such as how to best name custom templates.</p>
+
+
+
+<h2>New Typography Options</h2>
+
+
+
+<p class="has-drop-cap">Gutenberg 10.8 enables the <a href="https://github.com/WordPress/gutenberg/pull/27639">font-weight control for Heading blocks</a>. This allows theme authors to define the default weight via their <code>theme.json</code> files, and users can override this via the sidebar panel in the editor.</p>
+
+
+
+<img />Testing font weights for the Heading block.
+
+
+
+<p>The control displays all nine possible weights:</p>
+
+
+
+<ul><li>Thin</li><li>Extra Light</li><li>Light</li><li>Regular</li><li>Medium</li><li>Semi Bold</li><li>Bold</li><li>Extra Bold</li><li>Black</li></ul>
+
+
+
+<p>While each weight is selectable, it does not mean all fonts support a specific weight. For example, users will see no difference between Extra Bold and Black with the Twenty Twenty-One theme.</p>
+
+
+
+<p>In the long term, this should be coupled with the font family control. This would allow theme authors to define which weights are supported by a specific family, making those the only options for users.</p>
+
+
+
+<p>The List block is jumping ahead of others with its <a href="https://github.com/WordPress/gutenberg/pull/27510">support of the font family option</a>. Generally, we would see the Heading or Paragraph blocks gain such features first.</p>
+
+
+
+<img />Setting a custom font family for a List block.
+
+
+
+<p>The Site Title, Site Tagline, and Post Title blocks all currently support the font family control. It is a welcome addition to see expanded typography options, but I look forward to the day they are offered across every block.</p>
+
+
+
+<p>Theme authors can also define <a href="https://github.com/WordPress/gutenberg/pull/31118">custom letter spacing</a> for the Site Title and Site Tagline blocks. However, the feature does not currently appear in the block options sidebar, which would allow users to customize it. There is an <a href="https://github.com/WordPress/gutenberg/issues/32577">open ticket</a> to address this missing piece of the UI.</p>
+
+
+
+<h2>Audio and File Block Previews</h2>
+
+
+
+<img />Audio block preview in the inserter.
+
+
+
+<p class="has-drop-cap">The development team added new previews for the <a href="https://github.com/WordPress/gutenberg/pull/32333">Audio</a> and <a href="https://github.com/WordPress/gutenberg/pull/32350">File</a> blocks in the inserter. This is a nice-to-have enhancement, adding long-missing previews of some of the remaining core blocks, but it is also a bug fix.</p>
+
+
+
+<p>In previous versions of the block editor, users who attempted to upload media via the Audio or File blocks would get a <a href="https://github.com/WordPress/gutenberg/issues/8119#issuecomment-850787884">duplicate upload</a>. This only happened in situations where their theme or a plugin registered a custom block style. Adding a preview apparently fixed this odd bug.</p>
+
+
+
+<p>This change also nearly gives us a complete set of previews for the pre-WordPress 5.8 blocks. Classic, Spacer, Shortcode, and Legacy Widget do not have them, but they are unique cases. The upcoming theme-related blocks also lack previews.</p>
+
+
+
+<h2>&ldquo;Archives&rdquo; Label Now Shown for Archives Dropdown</h2>
+
+
+
+<img />Duplicate archives heading and label.
+
+
+
+<p class="has-drop-cap">When using the Archives block as a dropdown, it now <a href="https://github.com/WordPress/gutenberg/pull/30527">outputs a label titled &ldquo;Archives.&rdquo;</a> While it is a seemingly trivial change, it could impact how themes typically present this block.</p>
+
+
+
+<p>This <em>enhancement</em> changes some existing expectations. The primary use case throughout WordPress&rsquo;s history has been to show the Archives dropdown in a widget. In that case, there is almost always a widget title with the &ldquo;Archives&rdquo; text preceding it. I expect most other use cases would follow a similar pattern. This essentially creates duplicate text.</p>
+
+
+
+<p>Themes Team representative Carolina Nymark had an <a href="https://github.com/WordPress/gutenberg/pull/30527#issuecomment-817026048">alternate suggestion</a>:</p>
+
+
+
+<blockquote class="wp-block-quote"><p>What if the label was visible by default, but there was an option for hiding it? Similar to the search block, except there would be an actual label hidden with a screen reader text CSS class when the option is toggled.</p></blockquote>
+
+
+
+<p>That would have been my suggestion too if I had seen the ticket earlier. For now, theme authors who need to hide it should target the <code>.wp-block-archives-dropdown &gt; label</code> class in their CSS.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Sat, 12 Jun 2021 00:50:58 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:14:"Justin Tadlock";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:13;a:6:{s:4:"data";s:13:"
+	
+	
+	
+	
+	
+	
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:105:"WPTavern: WordCamp Europe 2021 Gutenberg Demo: “The Block Editor Gets Ready to Become a Site Builder”";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=118187";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:241:"https://wptavern.com/wordcamp-europe-2021-gutenberg-demo-the-block-editor-gets-ready-to-become-a-site-builder?utm_source=rss&utm_medium=rss&utm_campaign=wordcamp-europe-2021-gutenberg-demo-the-block-editor-gets-ready-to-become-a-site-builder";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:3213:"<p>Matt Mullenweg and Mat&iacute;as Ventura joined <a href="https://europe.wordcamp.org/2021/">WordCamp Europe</a> to chat about what&rsquo;s happening with the Gutenberg project and celebrate the progress contributors have made over the past four years.</p>
+
+
+
+<p>&ldquo;For me, 2020 was the year that really felt like people started to see the vision of Gutenberg from four or five years ago, when it was very abstract and they saw it as kind of like the old WYSIWYG editor with some extra lines on it or something,&rdquo; Mullenweg said. &ldquo;The first 17 or 18 years of WordPress democratized people putting text into a box. Now we&rsquo;re democratizing design, allowing people to control the boxes.&rdquo;</p>
+
+
+
+<p>Ventura commented on how transformative patterns have been for making page design approachable for users.</p>
+
+
+
+<p>&ldquo;Perhaps it was a smaller part of the roadmap initially but it&rsquo;s becoming a centerpiece &ndash; especially because it allows&hellip;world class designers to provide a starting point for users and users get to learn design as they are interacting with themes,&rdquo; Ventura said. He began his WordPress developer journey by &ldquo;tinkering with themes,&rdquo; as many others did, and believes that blocks can unlock a similar experimental learning experience.</p>
+
+
+
+<p>&ldquo;I think we are getting into a chapter where people will be able to tinker with things that were sort of hidden for you in WordPress &ndash; more advanced things like queries and loops, that we can now expose through blocks,&rdquo; Ventura said. &ldquo;They can be stepping stones for people to learn how to work with WordPress.&rdquo;</p>
+
+
+
+<p>Mullenweg commented on how things that previously would have required a fairly experienced WordPress developer to do, like creating a home page with a column that shows five recent posts from a particular category, and another column that shows featured posts in a different category, you can now do with just a few clicks.</p>
+
+
+
+<p>&ldquo;It&rsquo;s no code &ndash; it&rsquo;s like expanding the layers of accessibility of what people are able to do with WordPress,&rdquo; Mullenweg said. &ldquo;That, to me, is very core to our mission.&rdquo;</p>
+
+
+
+<p>Mullenweg and Ventura debuted a new &ldquo;Gutenberg highlight&rdquo; video that covers current and new features coming to the block editor, as it &ldquo;gets ready to become a site builder.&rdquo; These kinds of marketing videos are so valuable because users don&rsquo;t always know what is possible, even if the tools are approachable for anyone to use. </p>
+
+
+
+<p>The video demonstrates new design features for different blocks, including the transform live previews, dragging media into container blocks, inline cropping without leaving the editor canvas, the template editor, duotone image filters, more customization options for navigation, improvements to the list view browser, and the new global styles design that is coming soon.</p>
+
+
+
+<p>Check out the video below and you can also <a href="https://youtu.be/o-IvKy3322k?t=10673">watch Mullenweg and Ventura&rsquo;s conversation</a> that was recorded during the event.</p>
+
+
+
+<div class="wp-block-embed__wrapper">
+
+</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Fri, 11 Jun 2021 20:11:23 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Sarah Gooding";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:14;a:6:{s:4:"data";s:13:"
+	
+	
+	
+	
+	
+	
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:40:"WordPress.org blog: Gutenberg Highlights";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:35:"https://wordpress.org/news/?p=10779";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:56:"https://wordpress.org/news/2021/06/gutenberg-highlights/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:879:"<p>During <a href="https://europe.wordcamp.org/2021/">WordCamp Europe</a> this past Wednesday Matt and I gathered to discuss the latest developments of Gutenberg and to share a video with some of the current and upcoming highlights. The video is wonderfully narrated by <a href="https://profiles.wordpress.org/beafialho/" class="mention"><span class="mentions-prefix">@</span>beafialho</a> and it was a great opportunity to celebrate all the incredible work that contributors are doing around the globe to improve the editing and customization experience of WordPress. For those that weren&#8217;t able to attend live it&#8217;s now available for watching online.</p>
+
+
+
+<div class="wp-block-embed__wrapper">
+
+</div>
+
+
+
+<p>Matt also opened a thread for questions <a href="https://ma.tt/2021/06/wceu-open-thread/">on his blog</a>, so be sure to chime in there if you have any!</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Fri, 11 Jun 2021 11:03:04 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:14:"Matias Ventura";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:15;a:6:{s:4:"data";s:13:"
+	
+	
+	
+	
+	
+	
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:66:"WPTavern: A Progress Bar Block Plugin Done Right by the Tiles Team";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=118206";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:177:"https://wptavern.com/a-progress-bar-block-plugin-done-right-by-the-tiles-team?utm_source=rss&utm_medium=rss&utm_campaign=a-progress-bar-block-plugin-done-right-by-the-tiles-team";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:4425:"<p class="has-drop-cap">I have been on the hunt for a decent progress bar solution for a while now. Most of them are bundled in large block libraries, requiring me to install another 20 or 30 blocks in which I have no need. Others seem to miss the mark entirely with odd configurations and block options. Some of the remaining plugins still use shortcodes and widgets, but it is 2021. I am looking for a block.</p>
+
+
+
+<p>A couple of days ago, the <a href="https://wordpress.org/plugins/tiles-progress-block/">Tiles Progress Block</a> landed in the directory. It seems to be a smaller piece of a larger project named Tiles. I have been keeping an eye on the team&rsquo;s work since its initial <a href="https://wordpress.org/plugins/tiles/">design and patterns framework plugin</a> launched last week. That project is still in beta, and only time will tell if it becomes a competitive project in the block space.</p>
+
+
+
+<p>However, the team&rsquo;s new progress bar block was just what I was looking for. Other than one bug, which I <a href="https://wordpress.org/support/topic/background-style-object-object/">reported to the developer</a>, I found no serious issues.</p>
+
+
+
+<p>The plugin does what it says on the tin. It registers a Progress Bar block:</p>
+
+
+
+<img />Small and Large progress bars with default colors.
+
+
+
+<p>Out of the box, it includes Small and Large styles, allowing the user to adjust the size of the bar.</p>
+
+
+
+<p>Its strength is that &mdash; I cannot stress this enough &mdash; the block&rsquo;s content is editable within the editor canvas area. This includes the label and percentage. This is a refreshing change from the many others that require users to jump back into the block options sidebar to change simple text. Because the block uses Rich Text fields for its label and percentage, end-users can use inline formatting tools like bold, italic, and more.</p>
+
+
+
+<p>The block also uses the standard typography and color palette  controls from core WordPress. This provides access to the theme&rsquo;s font sizes and colors.</p>
+
+
+
+<img />Adding custom labels, percentages, and colors.
+
+
+
+<p>Plus, users can choose wide and full-width layouts, an often overlooked feature in block plugins.</p>
+
+
+
+<p>Overall, I am digging this block plugin. If I had one feature request, it would be to add a border-radius option. By default, the progress bar is rounded, but some users might prefer squared corners.</p>
+
+
+
+<h2>Extending the Block</h2>
+
+
+
+<p class="has-drop-cap">In theme previews, I almost always see progress bars showcased alongside how much PHP, HTML, and JavaScript the demo&rsquo;s <em>faux</em> developer has learned. It is rarely a real-world representation of progress bars. <em>How do you quantify how much of a coding language you have mastered?</em> I have been doing this for nearly two decades and cannot answer that.</p>
+
+
+
+<p>Progress bars should be of measurable things. For example, steps someone has taken in an online learning course, percentage of total donations received, and any number of things that can be counted are far more realistic.</p>
+
+
+
+<p>My favorite use of progress bars also happens to be on my <a href="https://www.brandonsanderson.com/">favorite novelist&rsquo;s website</a>. I like to keep an eye on Brandon Sanderson&rsquo;s work, looking forward to getting my next literary fix (yes, I am a fanboy).</p>
+
+
+
+<img />Brandon Sanderson&rsquo;s writing progress.
+
+
+
+<p>Currently, Tiles Progress Block does not handle that exact layout. However, because it is built on the block system and does not do anything out of the ordinary, theme authors can change that with custom styles.</p>
+
+
+
+<p>And that is just what I did. My <em>Sanderson-esque</em> book progress bars (rough, unpolished <a href="https://gist.github.com/justintadlock/479210f63ce97f980efd37d6392cf2e9">code available as a Gist</a>):</p>
+
+
+
+<img />Progress bars with custom block style.
+
+
+
+<p>The thing I love about the block system is that themers can extend blocks in this way. There is no needless checking for active plugins, loading additional per-plugin stylesheets, or figuring out each plugin&rsquo;s unique system.</p>
+
+
+
+<p>If a block is coded to the current standards, theme authors merely need to hook in with their own styles. Users can then select those styles via the editor and even make them the default.</p>
+
+
+
+<p>I want to see more of this from the block plugin ecosystem.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Fri, 11 Jun 2021 02:48:20 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:14:"Justin Tadlock";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:16;a:6:{s:4:"data";s:13:"
+	
+	
+	
+	
+	
+	
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:58:"WPTavern: WordPress 5.8 Introduces Support for WebP Images";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=118088";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:161:"https://wptavern.com/wordpress-5-8-introduces-support-for-webp-images?utm_source=rss&utm_medium=rss&utm_campaign=wordpress-5-8-introduces-support-for-webp-images";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:3789:"<p><a href="https://developers.google.com/speed/webp">WebP</a> support is coming to WordPress 5.8. This modern image file format was created by Google in September 2010, and is now supported by <a href="https://caniuse.com/webp">95%</a> of the web browsers in use worldwide. It has distinct advantages over more commonly used formats, providing both lossless and lossy&nbsp;compression that is <a href="https://developers.google.com/speed/webp/docs/webp_lossless_alpha_study#results">26% smaller</a>&nbsp;in size compared to PNGs and <a href="https://developers.google.com/speed/webp/docs/webp_study">25-34% smaller</a>&nbsp;than comparable JPEG images.</p>
+
+
+
+<p>WebP is currently used by <a href="https://w3techs.com/technologies/details/im-webp">1.6%</a> of all the top 10 million websites, according to W3Techs, and usage has increased over the past five years.</p>
+
+
+
+<div class="wp-block-image"><img /><a href="https://w3techs.com/technologies/history_overview/image_format/all/y">W3Techs</a>: Historical yearly trends in the usage statistics of image file formats for websites</div>
+
+
+
+<p>Adding WebP support to core won&rsquo;t make all WordPress sites instantly faster, but it will give every site owner the opportunity to reduce bandwidth by uploading WebP images. In the <a href="https://make.wordpress.org/core/2021/06/07/wordpress-5-8-adds-webp-support/">dev note</a>, Adam Silverstein suggested converting images to WebP using command line&nbsp;<a href="https://developers.google.com/speed/webp/docs/precompiled">conversion tools</a>&nbsp;or web based tools like&nbsp;<a href="https://squoosh.app/">Squoosh</a>, but there are also many plugins that can perform conversion on upload. </p>
+
+
+
+<p><a href="https://wordpress.org/plugins/webp-express/">WebP Express</a> uses the&nbsp;<a href="https://github.com/rosell-dk/webp-convert">WebP Convert</a>&nbsp;library to convert the images and then serves them to supporting browsers. It is used on more than 100,000 WordPress sites. <a href="https://wordpress.org/plugins/imagify/">Imagify</a> is one of the most popular plugins in use with more than 500,000 active installs. It has a Bulk Optimizer tool that&nbsp;can convert previously uploaded images with one click. The <a href="https://wordpress.org/plugins/ewww-image-optimizer/">EWWW Image Optimizer</a> plugin, used on more than 800,000 websites, also has support for automatically converting images to the WebP format.</p>
+
+
+
+<p>By default, WordPress will create the sub-sized images as the same image format as the uploaded file. More adventurous users can experiment with Silverstein&rsquo;s <a href="https://github.com/adamsilverstein/wordpress-modern-images">plugin</a> that offers a setting for specifying the default image format used for the sub-sized images WordPress generates. A new <code>wp_editor_set_quality</code>&nbsp;filter&nbsp;is available for developers to modify the quality setting for uploaded images.</p>
+
+
+
+<p>&ldquo;The media component team is also <a href="https://core.trac.wordpress.org/ticket/52867">exploring the option of having WordPress perform the image format conversion</a> on uploaded images &ndash; using WebP as the default output format for sub-sized images,&rdquo; Silverstein said. &ldquo;We are also keeping our eyes on even more modern formats like AVIF and JPEGXL that will both improve compression and further reduce resources required for compression.&rdquo;</p>
+
+
+
+<p>WordPress 5.8 is expected to be released on July 20, introducing WebP support for uploads. The new release also <a href="https://core.trac.wordpress.org/changeset/50817">adds information to the Media Handling section of the Site Health screen</a>, showing the ImageMagick/Imagick supported file formats for the site in case users need it for debugging.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 10 Jun 2021 04:27:37 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Sarah Gooding";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:17;a:6:{s:4:"data";s:13:"
+	
+	
+	
+	
+	
+	
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:109:"WPTavern: Original Dark Mode Developer Relaunches Plugin After the Apparent ‘Cash Grab’ of the New Owners";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=117984";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:251:"https://wptavern.com/original-dark-mode-developer-relaunches-plugin-after-the-apparent-cash-grab-of-the-new-owners?utm_source=rss&utm_medium=rss&utm_campaign=original-dark-mode-developer-relaunches-plugin-after-the-apparent-cash-grab-of-the-new-owners";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:6073:"<img />WordPress dashboard screen with Dark Mode 2.
+
+
+
+<p class="has-drop-cap">Daniel James, the original Dark Mode WordPress plugin creator, is stepping back into WordPress development after a two-year pursuit of other projects. His new plugin: <a href="https://darkmode2.com/">Dark Mode 2</a>.</p>
+
+
+
+<p>It is a response to the recent <a href="https://wptavern.com/dark-mode-plugin-repurposed-and-renamed-to-wp-markdown-editor-change-leaves-users-confused">change to the original Dark Mode plugin</a> for WordPress. Last month, I reported that the WPPool repurposed the plugin to include the commercial <a href="https://useiceberg.com/">Iceberg editor</a>, a feature entirely unrelated to providing a dark viewing mode for the WordPress admin. It is now called WP Markdown Editor.</p>
+
+
+
+<p>After the change, several plugin users left one-star ratings. However, its user base was small compared to that of ProfilePress (<a href="https://wptavern.com/profilepress-rebrands-and-repurposes-wp-user-avatar-now-a-membership-plugin-users-revolt-via-the-wordpress-review-system">formerly WP User Avatar</a>), which continues getting drenched in low ratings. Still, the change did not sit well with James.</p>
+
+
+
+<p>&ldquo;After finding out that Dark Mode had been passed on to multiple people, I was disappointed to see so many people say they&rsquo;d take it on without actually bothering to do anything with it,&rdquo; said James. &ldquo;It became even more disappointing when I learned the latest developers to have hold of it had ripped out the original functionality in favor of something completely different as a means of selling a product.&rdquo;</p>
+
+
+
+<p>The Dark Mode plugin was <a href="https://wptavern.com/dark-mode-is-possibly-coming-to-a-wordpress-dashboard-near-you">once a feature proposal</a> for WordPress. James began the process in 2018, but it never moved much beyond the initial stage. In 2019, he put the <a href="https://wptavern.com/dark-mode-wordpress-plugin-up-for-adoption">plugin up for adoption</a>. It changed hands a couple of more times before WPPool became the owner.</p>
+
+
+
+<p>In hindsight, James said he <a href="https://wptavern.com/dark-mode-plugin-repurposed-and-renamed-to-wp-markdown-editor-change-leaves-users-confused#comment-376844">should have just abandoned</a> the plugin. At the time, he was stepping away from WordPress entirely to pursue other projects, including building applications with the Laravel PHP framework. However, he never stopped using WordPress completely and has kept an eye on the community.</p>
+
+
+
+<p>&ldquo;I think there is more things that WordPress.org maintainers could do, specifically the Plugin Review Team,&rdquo; he said. &ldquo;I think more checks need to be done when plugins change ownership and/or are updated. As someone who used to put a lot of time into WordPress, I know how demanding it can be, so having volunteers tasked with more work is always a tricky thing to handle.&rdquo;</p>
+
+
+
+<p>However, he said he did not have the solution to the problem. &ldquo;When you take Dark Mode and, more recently, WP User Avatar having their code changed for what appears to be a cash grab, all it does is hurt developers, agencies, and site admins.&rdquo;</p>
+
+
+
+<p>The repurposing of his former work was the catalyst that he needed to rebuild a solution from scratch. Now, Dark Mode 2 is on the scene.</p>
+
+
+
+<h2>A New Plugin and a Fresh Take</h2>
+
+
+
+<img />Manage posts screen with Dark Mode enabled.
+
+
+
+<p class="has-drop-cap">James says Dark Mode 2 is still early in its development lifecycle. However, he does not think it is far off from where the original plugin would be if he would have continued it. Maybe just shy an extra setting or two.</p>
+
+
+
+<p>&ldquo;I&rsquo;ve finally got it to a point where it&rsquo;s ready to be used and replace the classic Dark Mode plugin,&rdquo; he said. &ldquo;The great thing about starting again is that it&rsquo;s easier to style the WordPress dashboard. There is so much going on in the various wp-admin stylesheets that starting over was the only way. It means it supports the latest version of WordPress and cuts out any outdated styling that was previously there.&rdquo;</p>
+
+
+
+<p>The plugin currently only has one setting, which individual users can set via their profile page. It is an option between &ldquo;Light&rdquo; and &ldquo;Dark&rdquo; viewing modes.</p>
+
+
+
+<img />Configuring Dark Mode from the user profile screen.
+
+
+
+<p>There are several features James is eager to work on going forward. One of the most requested from the &ldquo;classic&rdquo; Dark Mode days is styling the WordPress editor. At the moment, the plugin steers clear of it.</p>
+
+
+
+<p>&ldquo;I&rsquo;ve always been hesitant to do that because of theme editor styles,&rdquo; he said. &ldquo;However, lots of themes tend to style the editors in a very basic fashion, so I&rsquo;ll be looking at adding in &lsquo;support&rsquo; styles for those that want a fully dark dashboard.&rdquo;</p>
+
+
+
+<p>One of the other features he is working on is scheduling when Dark Mode is active or inactive. This would primarily work based on a user&rsquo;s system preferences if they have their OS set up for light or dark mode at different times of the day.</p>
+
+
+
+<p>&ldquo;For something that appears to be quite a basic plugin, there&rsquo;s so much you can do with it,&rdquo; said James.</p>
+
+
+
+<p>This time around, the plugin developer is making Dark Mode 2 a commercial-only plugin. He is pricing it at &pound;25 (~$35.28 at today&rsquo;s exchange rate). This includes lifetime updates with no installation limits. James said he wanted to keep the price low and not have people worry about another renewal fee every year while also still being supported for his effort.</p>
+
+
+
+<p>&ldquo;I&rsquo;m not going to make millions from this plugin, and that&rsquo;s okay,&rdquo; he said. &ldquo;That&rsquo;s not my goal. My goal is to make a plugin that helps people and makes it easier for them to manage their website. Plus, it&rsquo;s about time WordPress got a proper Dark Mode!&rdquo;</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 09 Jun 2021 23:20:10 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:14:"Justin Tadlock";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:18;a:6:{s:4:"data";s:13:"
+	
+	
+	
+	
+	
+	
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:22:"Matt: WCEU Open Thread";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:22:"https://ma.tt/?p=54320";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:39:"https://ma.tt/2021/06/wceu-open-thread/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:524:"<p>I just wrapped up a fun session with <a href="https://matiasventura.com/">Matías</a> and <a href="https://krogsgard.com/">Brian</a>, and though we covered a lot of ground we weren&#8217;t able to get to all the questions from the audience. Starting at 2:58:</p>
+
+
+
+<div class="wp-block-embed__wrapper">
+
+</div>
+
+
+
+<p>So this is an open thread, if you have any question from the talk please drop it in the comments here, and myself or someone in the community will respond! We&#8217;ll keep this open for a day or so.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 09 Jun 2021 17:30:45 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:4:"Matt";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:19;a:6:{s:4:"data";s:13:"
+	
+	
+	
+	
+	
+	
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:40:"WordPress.org blog: WordPress 5.8 Beta 1";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:35:"https://wordpress.org/news/?p=10733";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:56:"https://wordpress.org/news/2021/06/wordpress-5-8-beta-1/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:9976:"<p>WordPress 5.8 Beta 1 is now available for testing!</p>
+
+
+
+<p><strong>This software is still in development,</strong>&nbsp;so it is not recommended to run this version on a production site. Instead, we recommend that you run this on a test site to play with the new version.</p>
+
+
+
+<p>You can test the WordPress 5.8 Beta 1 in two ways:</p>
+
+
+
+<ul><li>Install and activate the&nbsp;<a href="https://wordpress.org/plugins/wordpress-beta-tester/">WordPress Beta Tester</a>&nbsp;plugin (select the “Bleeding edge” channel and &#8220;Beta/RC Only&#8221; stream).</li><li>Direct download the <a href="https://wordpress.org/wordpress-5.8-beta1.zip">beta version here&nbsp;(zip)</a>.</li></ul>
+
+
+
+<p>The current target for the final release is July 20, 2021.  This is just&nbsp;<strong>six weeks away</strong>, so your help is vital to ensure this release is tested properly and as good as it can be.</p>
+
+
+
+<p>Keep your eyes on the&nbsp;<a href="https://make.wordpress.org/core/">Make WordPress Core blog</a>&nbsp;for&nbsp;<a href="https://make.wordpress.org/core/tag/5-8+dev-notes/">5.8-related developer notes</a>&nbsp;in the coming weeks, breaking down these and other changes in greater detail.</p>
+
+
+
+<p>So what&#8217;s new in this 5.8?  Let&#8217;s start with some highlights.</p>
+
+
+
+<h2>Highlights</h2>
+
+
+
+<h3>Powerful Blocks</h3>
+
+
+
+<ul><li>Discover several new blocks and expressive tools, including blocks for&nbsp;<em>Page Lists</em>,&nbsp;<em>Site Title</em>,&nbsp;<em>Logo</em>, and&nbsp;<em>Tagline</em>. A powerful&nbsp;<em>Query Loop</em>&nbsp;block offers multiple ways for displaying lists of posts and comes with new block patterns that take advantage of its flexibility and creative possibilities.</li><li>Interacting with nested blocks has been made easier with a permanent toolbar button for selecting a parent. Block outlines are shown when hovering or focusing on the different block type buttons. Block handles are now also present for drag and drop when in “select” mode.</li><li>Introduces the&nbsp;<strong>List View</strong>, a panel that can be toggled and helps navigate complex blocks and patterns.</li><li>Reusable blocks have an improved creation flow and support for history revisions. </li><li>A cool new duotone block adds images effects which can be used in media blocks or supported in third-party blocks. Color presets can also be customized by the theme.</li></ul>
+
+
+
+<h3>Handpicked Patterns</h3>
+
+
+
+<p>Patterns can now also be recommended and selected during block setup, offering powerful new flows. Pattern transformations are also possible and allow converting a block or a collection of blocks into different patterns.</p>
+
+
+
+<p>New collection of Patterns and an initial integration with the upcoming Pattern Directory on WordPress.org.</p>
+
+
+
+<h3>Better Tools</h3>
+
+
+
+<ul><li><span>New template editor that allows creating new custom templates for a page using blocks.</span></li><li>Themes can now control and configure styling with a theme.json file, including layout configuration, block supports, color palettes, and more.</li><li>New design tools and enhancements to existing blocks, including more color, typography, and spacing options, drag and drop for Cover backgrounds, additions to block transformation options, ability to embed PDFs within the File block, and more.</li><li>Includes improvements to how the editor is rendered to more accurately resemble the frontend.</li></ul>
+
+
+
+<h3>Internet Explorer 11</h3>
+
+
+
+<p>Support for Internet Explorer 11 is ending in WordPress this year. In this release, most of those changes are being merged so use the Beta and RC periods to test!</p>
+
+
+
+<h3>Blocks in Widgets Area</h3>
+
+
+
+<ul><li>You can now use any block in your theme’s widget areas using the all new Widgets screen and updated Customizer.</li><li>Existing third party widgets continue to work via the <a href="https://developer.wordpress.org/block-editor/how-to-guides/widgets/legacy-widget-block/">Legacy Widget block</a>.</li><li>Not quite ready for a full switch? To ease the transition, users can use the <a href="https://wordpress.org/plugins/classic-widgets/">Classic Widgets plugin</a> and themes can call <a href="https://developer.wordpress.org/block-editor/how-to-guides/widgets/opting-out/">remove_theme_support( &#8216;widgets-block-editor&#8217; )</a>.</li></ul>
+
+
+
+<p><em>Looking for a change and can&#8217;t find it? There are more improvements listed after the break.</em></p>
+
+
+
+<h2><strong>How You Can Help</strong></h2>
+
+
+
+<h3>Do some testing!</h3>
+
+
+
+<p>Testing for bugs is an important part of polishing the release during the beta stage and a great way to contribute.</p>
+
+
+
+<p>If you think you’ve found a bug, please post to the&nbsp;<a href="https://wordpress.org/support/forum/alphabeta/">Alpha/Beta area</a>&nbsp;in the support forums. We would love to hear from you! If you’re comfortable writing a reproducible bug report,&nbsp;<a href="https://core.trac.wordpress.org/newticket">file one on WordPress Trac</a>. That’s also where you can find a list of&nbsp;<a href="https://core.trac.wordpress.org/tickets/major">known bugs</a>.</p>
+
+
+
+<p>Thanks for joining us, and happy testing!</p>
+
+
+
+<p class="has-text-align-left"><em><span><i>Props to </i></span><a href="https://profiles.wordpress.org/audrasjb/" class="mention"><span class="mentions-prefix">@</span>audrasjb</a>, <a href="https://profiles.wordpress.org/cbringmann/" class="mention"><span class="mentions-prefix">@</span>cbringmann</a>, <a href="https://profiles.wordpress.org/youknowriad/" class="mention"><span class="mentions-prefix">@</span>youknowriad</a>, <a href="https://profiles.wordpress.org/annezazu/" class="mention"><span class="mentions-prefix">@</span>annezazu</a>, <a href="https://profiles.wordpress.org/matveb/" class="mention"><span class="mentions-prefix">@</span>matveb</a>, and <a href="https://profiles.wordpress.org/desrosj/" class="mention"><span class="mentions-prefix">@</span>desrosj</a><span><i> for </i>editing/proof reading</span> this post, and <a href="https://profiles.wordpress.org/chanthaboune/" class="mention"><span class="mentions-prefix">@</span>chanthaboune</a> for final review.</em></p>
+
+
+
+<hr class="wp-block-separator is-style-default" />
+
+
+
+<p><em>Full Site Editing<br />Coming at the end of year<br />But first, Beta 1</em></p>
+
+
+
+<span id="more-10733"></span>
+
+
+
+<h2><strong>Improvements in this Release</strong></h2>
+
+
+
+<ul><li>Improvements to Reusable blocks, Cover block, Table block, List View, Rich text placeholder, Template Editing Mode, Block Inserter, and Top Toolbar</li><li>Query loop block that uses a query/filter to create a flexible post list based on templates. Best used with patterns.</li><li>Parity refinement between editor and frontend, Standardization to block toolbars organization</li><li>Block widgets in the Customizer</li><li>Introducing the Global Styles and Global Settings APIs: control the editor settings and available customization tools and style blocks using a theme.json file.Template editor opens inside an iframe to more accurately resemble the front end.</li><li>Ability to transform Media and Text into Columns</li><li>Embedded PDFs within File block</li><li>Spacing options for Social Links and Buttons, Spacer block width adjustments</li><li>Twemoji has been updated to version 13.1, bringing you many new Emoji.</li><li>Editor performance improvements</li><li>Hide writing prompt from subsequent empty paragraphs</li><li>More descriptive publishing UI</li><li>Added capability to set the default format for image sub-sizes as well as WebP support</li><li>Added widgets block editor to widgets.php and customize.php</li><li>Added block patterns to default themes</li><li>Added ability to mark a plugin as unmanaged</li><li>Enable revisions for the reusable block custom post type</li><li>Enqueue script and style assets only for blocks present on the page</li><li>Abstracted block editor configuration by deprecating existing filters and introducing replacements that are context-aware</li><li>New sidebars, widget, and widget-types REST API endpoints</li><li>Added support for modifying the term relation when querying posts in the REST API</li><li>Site Health now supports custom sub-menus and pages</li><li>Themes now display the number of available theme updates in the admin menu</li><li>Speed up cached <code>get_pages()</code> calls</li><li>Underscore updates from 1.8.3 to 1.9.1</li></ul>
+
+
+
+<p>To see all of the features for Gutenberg release in detail check out these posts: <a href="https://make.wordpress.org/core/2021/02/17/whats-new-in-gutenberg-10-0-february/">10.0</a>, <a href="https://make.wordpress.org/core/2021/03/02/whats-new-in-gutenberg-10-1-3-march/">10.1</a>, <a href="https://make.wordpress.org/core/2021/03/17/whats-new-in-gutenberg-10-2-17-march/">10.2</a>, <a href="https://make.wordpress.org/core/2021/04/02/whats-new-in-gutenberg-10-3-31-march/">10.3</a>, <a href="https://make.wordpress.org/core/2021/04/14/whats-new-in-gutenberg-10-4-14-april/">10.4</a>, <a href="https://make.wordpress.org/core/2021/04/30/whats-new-in-gutenberg-10-5-28-april/">10.5</a>, <a href="https://make.wordpress.org/core/2021/05/14/whats-new-in-gutenberg-10-6-12-may/">10.6</a>, and <a href="https://make.wordpress.org/core/2021/05/27/whats-new-in-gutenberg-10-7-26-may/">10.7</a>. In addition to those changes, contributors have fixed&nbsp;<a href="https://core.trac.wordpress.org/query?status=closed&milestone=5.8&group=component&max=500&col=id&col=summary&col=owner&col=type&col=priority&col=component&col=version&order=priority">215 tickets in WordPress 5.8</a>, including&nbsp;<a href="https://core.trac.wordpress.org/query?status=closed&status=reopened&type=enhancement&type=feature+request&milestone=5.8&col=id&col=summary&col=type&col=status&col=milestone&col=owner&col=priority&col=changetime&col=keywords&order=changetime">88 new features and enhancements</a>, with more bug fixes on the way.</p>
+
+
+
+<p></p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 09 Jun 2021 02:47:48 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:12:"Jeffrey Paul";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:20;a:6:{s:4:"data";s:13:"
+	
+	
+	
+	
+	
+	
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:80:"WPTavern: Open Invitation To Contribute to the WordPress Block Pattern Directory";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=118068";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:205:"https://wptavern.com/open-invitation-to-contribute-to-the-wordpress-block-pattern-directory?utm_source=rss&utm_medium=rss&utm_campaign=open-invitation-to-contribute-to-the-wordpress-block-pattern-directory";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:4427:"<p class="has-drop-cap">The upcoming <a href="https://wordpress.org/patterns">block pattern directory</a> is launching alongside WordPress 5.8 in July. The goal is to make several high-quality designs available for users right off the bat. However, the official submission process will not open until the directory launches. In this chicken-and-egg scenario, the Design team is asking for early contributors to submit their pattern candidates <a href="https://github.com/WordPress/pattern-directory">via GitHub</a>.</p>
+
+
+
+<p>&ldquo;The project needs a collection of high-quality, diverse, community-designed patterns to populate it with during development,&rdquo; wrote Kjell Reigstad in <a href="https://make.wordpress.org/design/2021/06/08/initial-patterns-for-the-wordpress-org-patterns-directory/">the announcement post</a>. &ldquo;These patterns will set the tone for quality in the repository and will make the directory useful for folks upon its launch.&rdquo;</p>
+
+
+
+<p>Alongside Reigstad, Beatriz Fialho and Mel Choyce-Dwan have already added several block patterns. They are available through the Gutenberg plugin now.</p>
+
+
+
+<img />Several of the current block patterns.
+
+
+
+<p>The trio has also submitted the majority of the 18 current potential patterns. While they have produced solid work thus far, the directory needs a more diverse set of designs from the community to launch with a bang.</p>
+
+
+
+<p>Creating a pattern requires no coding skills. It is possible directly via the block editor. Just design, copy, and submit. The team already has a GitHub template in place for <a href="https://github.com/WordPress/pattern-directory/issues/new/choose">submitting patterns</a>. Be sure to use CC0 (public domain) images if they are a part of your creation.</p>
+
+
+
+<img />Copying a pattern from the WordPress editor.
+
+
+
+<p>I have somewhere between 40 and 50 patterns lying around. You could say that I have been doing a bit of dabbling in the art of block-pattern design in my free time. Many of these patterns rely on custom block styles, so they are not suitable for the directory. However, I have several that are general enough for submission.</p>
+
+
+
+<p>As always, I try to pay it forward when possible. Therefore, I cleaned a couple of patterns today using the Twenty Twenty-One theme and submitted them for inclusion.</p>
+
+
+
+<p>The first was a three-column section of <a href="https://github.com/WordPress/pattern-directory/issues/138">&ldquo;about me&rdquo; or &ldquo;connect with me&rdquo; boxes</a>. This has been one of my favorites to play around with.</p>
+
+
+
+<img />About me boxes.
+
+
+
+<p>It is not on par with my original design, but I like how it turned out. If you have read any of my past posts on blocks and patterns, I will sound like a broken record. However, I must say it for those who did not hear the message the first 100 times. The main limiting factor for block patterns is the lack of spacing options on almost all blocks.</p>
+
+
+
+<p>Blocks like Group and Column have padding controls, which are a nice feature. However, vertical margin options are must-haves for the directory to be as successful with its goals as it intends to be.</p>
+
+
+
+<p>A prime example is in my first pattern. My original mockup closes the gap between the heading and subheading. In my submission, I tightened the space by setting the line height, but I needed an option for zeroing out the vertical margin.</p>
+
+
+
+<p>If you compare it to the original idea built with some features not yet available, you can see how much improved the overall layout&rsquo;s spacing is.</p>
+
+
+
+<img />Original about me boxes with tighter margin control.
+
+
+
+<p>I ran into the same issue with my second pattern, <a href="https://github.com/WordPress/pattern-directory/issues/140">Team Social Cards</a>, between the Image and Separator blocks. The gap there has more to do with Twenty Twenty-One&rsquo;s inconsistent spacing.</p>
+
+
+
+<img />
+
+
+
+<p>I may revisit the giraffe photo, but it is growing on me. It is fun. Plus, end-users are meant to actually replace it.</p>
+
+
+
+<p>I will probably submit one or two more during this early phase, and I will definitely contribute more once the pattern directory is officially open. For now, I want to see our talented design community giving a little something back to the WordPress project. This is such an easy way to contribute that has no coding requirement &mdash; just a little time.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Tue, 08 Jun 2021 20:53:15 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:14:"Justin Tadlock";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:21;a:6:{s:4:"data";s:13:"
+	
+	
+	
+	
+	
+	
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:99:"WPTavern: Review Signal Publishes 2021 Hosting Performance Benchmarks on New WordPress-Powered Site";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=117467";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:243:"https://wptavern.com/review-signal-publishes-2021-hosting-performance-benchmarks-on-new-wordpress-powered-site?utm_source=rss&utm_medium=rss&utm_campaign=review-signal-publishes-2021-hosting-performance-benchmarks-on-new-wordpress-powered-site";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:5577:"<p>Kevin Ohashi has published his <a href="https://wphostingbenchmarks.com/">2021 WordPress Hosting Performance Benchmarks</a> report. The annual report is broken down into six different hosting tiers, from the most economical &lt;$25/month, to the $500+ enterprise level. This is the second year the stats include WooCommerce-specific hosts as a separate category.</p>
+
+
+
+<p>After eight years of measuring peak performance and consistency for WordPress hosts, <a href="https://reviewsignal.com/">Review Signal</a> has relaunched benchmarks on <a href="https://wphostingbenchmarks.com/">wphostingbenchmarks.com</a>, a WordPress-powered site.  </p>
+
+
+
+<p>Review Signal started using sentiment analysis to capture consumer reviews of hosting companies on Twitter in 2011 and launched in 2012. Ohashi added a WordPress blog but said it never really integrated well with the code and design of the rest of the site. He launched the benchmarks in 2013, publishing the first handful of tests via a simple blog post.</p>
+
+
+
+<p>&ldquo;In 2020 it was dozens of companies, 6 full price tiers of competition, and a separate WooCommerce group as well,&rdquo; Ohashi said. &ldquo;It really has become its own product,&nbsp;and creating a dedicated site for them at WPHostingBenchmarks.com is recognition of that fact. It also opened the door for a rebranding effort and a much better presentation of the results.&rdquo;</p>
+
+
+
+<p>Results on the new site are much easier to understand at a glance with honorable mentions and top tier companies denoted by a half star and full star. Visitors can click through to get more specific information about each host&rsquo;s performance on the tests.</p>
+
+
+
+<img />
+
+
+
+<p>Top tier performers in the &lt;$25 tier included 20i, CynderHost, EasyWP by Namecheap, Eco Web Hosting, Green Geeks, Lightning Base, RAIDBOXES, and WPX, with a handful of honorable mentions. In the Enterprise tier (shown above), RAIDBOXES, Scaleforce powered by Jelastic, Seravo, Servebolt, Servebolt Accelerated, and WordPress VIP capture the top tier spots.</p>
+
+
+
+<p><a href="https://wphostingbenchmarks.com/company/seravo/"></a>Now that the new site is database driven, Ohashi can publish faster and reduce the amount of work it takes going forward.</p>
+
+
+
+<p>&ldquo;It also lets me auto generate pages from the data &ndash; for example company profile pages,&rdquo; he said. &ldquo;I attempted to write a blog post in the past about companies that did well, but it was never really a success. Now, I can display all their historical results, pull up analysis, compare them all by year, etc. So I am happier,&nbsp;companies are&nbsp;(hopefully) happier, and most of all &ndash; consumers get better insight into the&nbsp;results.&rdquo;</p>
+
+
+
+<h2>WooCommerce Benchmarks Expanding</h2>
+
+
+
+<p>WooCommerce benchmarks have expanded since their first time to be included separately last year. Five out of the 11 companies tested scored top tier results, including Lightning Base, Pressable, Servebolt, SiteGround, and WordPress.com.</p>
+
+
+
+<p>Servebolt scored 99.999% Uptime and the fastest Load Storm average response time, along with the fastest wp-login, Buyer and Customer profiles and second fastest Home profile. Pressable reprised its top tier status with perfect uptime and the second fastest Average Response Time on WebPageTest. WordPress.com posted perfect uptime, the second fastest K6 average response time, and a solid Load Storm test. On the WebPageTest results WordPress.com took 10/12 of the fastest response times and posted the fastest WP Bench scores Ohashi has ever recorded and the second fastest PHP Bench.</p>
+
+
+
+<p>In 2021, SiteGround slipped to honorable mention status in every other tier where it was tested, with the exception of WooCommerce. Lightning Base maintained its top tier status with a 99.99% uptime rating, very good flat Load Storm and K6 results, and no problems with the tests.</p>
+
+
+
+<img />
+
+
+
+<p>&ldquo;For WooCommerce I had seven companies participate last year and this year had 11 companies, which is a 57% increase,&rdquo; Ohashi said. &ldquo;The traditional WordPress benchmarks grew from ~29 companies last year to 35-37 depending on if you differentiate Automattic brands (VIP, WP.com, Pressable) which is at least a 20% growth in participation.&rdquo;</p>
+
+
+
+<p>Ohashi said he is pleased with the mix of new entrants and companies that have participated for years, but the pandemic has slowed Review Signal&rsquo;s business.</p>
+
+
+
+<p>&ldquo;It&rsquo;s been a bit slow revenue wise,&rdquo; he said. &ldquo;I don&rsquo;t sell any products and don&rsquo;t think I&rsquo;ve found any advantage during the pandemic to make what I do stand out relative to what&rsquo;s happening to the world. That is another motivating reason for creating <a href="https://WPHostingBenchmarks.com">WPHostingBenchmarks.com</a>, I wanted to take that extra time I have and make the biggest change for Review Signal in years.&rdquo;</p>
+
+
+
+<p>Review Signal&rsquo;s benchmarks are one of the most thorough and transparent evaluations of hosting products in the industry. This is because Ohashi doesn&rsquo;t accept any hosting sponsorship. Each company pays a small, publicly documented, fee for participation to cover the costs of the tests. These fees are standardized based on the pricing tier of the product entered into the testing. Consumers in the market for a new hosting company will find <a href="https://WPHostingBenchmarks.com">WPHostingBenchmarks</a> a solid resource for comparing how companies perform at different pricing tiers. </p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Tue, 08 Jun 2021 04:06:02 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Sarah Gooding";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:22;a:6:{s:4:"data";s:13:"
+	
+	
+	
+	
+	
+	
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:75:"WPTavern: Spice Up Your Food or Recipe Blog With the Nutmeg WordPress Theme";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=117981";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:195:"https://wptavern.com/spice-up-your-food-or-recipe-blog-with-the-nutmeg-wordpress-theme?utm_source=rss&utm_medium=rss&utm_campaign=spice-up-your-food-or-recipe-blog-with-the-nutmeg-wordpress-theme";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:5683:"<p class="has-drop-cap">Last week, Dumitru Br&icirc;nzan <a href="https://www.ilovewp.com/nutmeg-plus-food-blogging-recipes-wordpress-theme/">announced Nutmeg Plus</a>. It is the latest commercial theme offering through his ILOVEWP brand. Earlier today, the <a href="https://wordpress.org/themes/nutmeg/">free version of Nutmeg</a> landed in the WordPress theme directory. The theme is built for food and recipe bloggers and is another solid example of building on the block system.</p>
+
+
+
+<p>As is typical of his style, Nutmeg rests on a foundation of clean lines and readable typography. It pulls elements from some of Br&icirc;nzan&rsquo;s previous work, such as the featured pages section of <a href="https://wordpress.org/themes/photozoom/">Photozoom</a> and the two-column intro from <a href="https://wordpress.org/themes/endurance/">Endurance</a>. Reusing code is one of the cornerstones of smart development.</p>
+
+
+
+<p>The theme never gets too flashy, nor is it a bold step forward in design. However, it has a timeless layout that is hard to go wrong with.</p>
+
+
+
+<p>Where it shines is in its use of block patterns and styles.</p>
+
+
+
+<img />Recipe post built with Nutmeg.
+
+
+
+<p>Sometimes, theme authors surprise me with, in hindsight, simple solutions. Nutmeg&rsquo;s List block styles had me asking, &ldquo;Why didn&rsquo;t I think of that?&rdquo;</p>
+
+
+
+<p>Last month, I <a href="https://wptavern.com/you-might-not-need-that-block">challenged theme authors</a> to build out patterns that are often created as custom blocks. In the post, I showcased an example of how themers could provide pricing columns for their users. The Nutmeg theme is a perfect example of that same concept, only applied to recipes.</p>
+
+
+
+<p>The unique aspect is that Br&icirc;nzan did not make it complex. With a few simple styles for the List block, he had all the makings of the typical &ldquo;recipe card&rdquo; seen on many food blogs. <em>Is it as advanced as a fully-featured recipe card plugin?</em> No. But, that should not be the goal. If users need more advanced recipe-related features and functionality, that is where plugins make sense. The theme even recommends a few like WP Recipe Maker, Recipe Card Blocks, and Delicious Recipes for those who need more.</p>
+
+
+
+<p>However, for bloggers who are just starting, undecided on recipe plugins, or simply do not want another dependency, the theme has built-in solutions for them. It is tough to discount the value in that.</p>
+
+
+
+<img />Adding instructions and ingredients.
+
+
+
+<p>With a starting point of the Recipe Info, Ingredients List, or Ingredients + Instructions patterns, users can quickly pop these sections into their content. Or, they can go the alternate route of starting with the List block and selecting one of four custom styles.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Theme authors should be able to build unique and complex combinations of blocks with custom styles. Users should be able to just make it look like the demo.</p><cite><a href="https://wptavern.com/block-patterns-will-change-everything">Block Patterns Will Change Everything</a></cite></blockquote>
+
+
+
+<p>It was March 2020. The Gutenberg development team had just pushed block patterns into the plugin, but the feature would not land in core WordPress for months. I do not want to call myself a prophet. It was plain enough for anyone to see: block patterns would eventually change how end-users interact with the editor and build their sites.</p>
+
+
+
+<p>Patterns were the answer to elaborate homepage setups. Instead of jumping back and forth between non-standard theme options, hoping for the best from a theming community that never learned to entirely leverage the customizer, users could simply click buttons and insert layout sections where they wanted.</p>
+
+
+
+<p>Recreating Nutmeg&rsquo;s homepage demo was easy. By just picking a few patterns and adding some custom images, I was up and running in minutes. No tutorial necessary. No half-hour session of figuring out a theme&rsquo;s custom options setup.</p>
+
+
+
+<ol><li>Select the custom homepage template.</li><li>Add the Cover with Overlay pattern and upload an image.</li><li>Drop in the Opening Message pattern and customize.</li><li>Insert the Featured Pages pattern and add images.</li></ol>
+
+
+
+<img />Homepage built from patterns.
+
+
+
+<p>Simple setup processes like this are the exact thing that theme authors have been repeatedly asking about for the better part of a decade. Except for a powerful Query solution, which is arriving in a limited form in WordPress 5.8 (the Post Featured Image block is the weak point), the tools are mostly in place. The feature set is only growing with each release.</p>
+
+
+
+<p>One of my favorite solutions in the theme is the use of the Cover block&rsquo;s inner container. The plugin has several styles for moving this inside box around and creating a featured section.</p>
+
+
+
+<img />Customizing the Cover block with styles.
+
+
+
+<p>One improvement I might suggest is to provide &ldquo;width&rdquo; styles for the inner container here. Core already provides an alignment matrix option. Styles for 25%, 50%, and 75% width (100% being the default) would offer more variety when coupled with the existing alignments.</p>
+
+
+
+<p>The only things that felt out of place with the theme were its alignment block styles for Heading and Paragraph blocks. WordPress already provides alignment options for these blocks. I am not sure if there is a use case that I am unaware of for the styles, but they were definitely confusing.</p>
+
+
+
+<p>The theme is worth a test run for any food or recipe bloggers who need a dash of <em>Nutmeg</em> to spice up their site.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Mon, 07 Jun 2021 22:54:38 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:14:"Justin Tadlock";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:23;a:6:{s:4:"data";s:13:"
+	
+	
+	
+	
+	
+	
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:56:"WordPress.org blog: People of WordPress: Tijana Andrejic";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:35:"https://wordpress.org/news/?p=10427";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:71:"https://wordpress.org/news/2021/06/people-of-wordpress-tijana-andrejic/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:13617:"<p><strong>WordPress is open source software, maintained by a global network of contributors. There are many examples of how WordPress has changed people’s lives for the better. In this monthly series, we share some of the amazing stories.</strong></p>
+
+
+
+<p>This month to coincide with WordCamp Europe, we feature Tijana Andrejic from Belgrade, Serbia, about her journey from fitness trainer to the WordPress world, with the freelance and corporate opportunities it introduced. </p>
+
+
+
+<img width="632" height="387" src="https://i0.wp.com/wordpress.org/news/files/2021/06/2021-07-Tijana-Andrejic_Featured-Img_1.jpg?resize=632%2C387&ssl=1" alt="Tijana - portrait picture" class="wp-image-10713" />
+
+
+
+<p>As a professional manager with a college degree in Organizational Science and a certified fitness instructor, Tijana is nothing if not driven and goal-oriented.&nbsp;</p>
+
+
+
+<p>Following her time as a fitness trainer, Tijana moved to work in IT around 2016. She first explored content creation and design before focusing on SEO and becoming an independent specialist.&nbsp;&nbsp;</p>
+
+
+
+<p>Tijana was hired as a Customer Happiness Engineer for a hosting company, where she discovered the benefits of having a team. She realized that having close working relationships with colleagues is helpful for business success and accelerates personal growth.</p>
+
+
+
+<p>Tijana hopes that by sharing her story, she can help others who are either starting their career or are moving roles. She describes the opportunities she discovered in the WordPress community as ‘a huge epiphany’, especially in the world of freelancing.</p>
+
+
+
+<p>She highlights <strong>5 things that helped her to start a new freelancing career</strong>. Let’s dive into them.</p>
+
+
+
+<h2>What motivates me?</h2>
+
+
+
+<p>“Why am I doing this?” is the first question that Tijana asks herself before starting anything new. This self-review and honesty, she feels, allows her to determine her priorities. She also benchmarks options around her motivations of wanting a flexible schedule and to grow professionally.&nbsp;</p>
+
+
+
+<p>She lists the reasons to make a particular choice, like being a freelancer, to help her choose the right job, pathway, or identify alternatives.&nbsp;</p>
+
+
+
+<p>She recommends that others can take a similar approach. If freelancing is still the best solution after examining all their goals and motivations, Tijana believes a good next step would be to learn WordPress-related skills.</p>
+
+
+
+<img src="https://lh6.googleusercontent.com/cdHeIL-H_mE6QFCUxUT-gfKS2GzizRHtn4iCENoaWOimC82BfModRJh44QbhvHPW0GNVP5eUPhgxQteDRbA_9EUzpssTXMGWje1hUuKyrfXUgGhCnvXQdraaUQiaGBjFr73dNYxr" alt="WordCamp Europe 2019 group picture" />
+
+
+
+<h2>Develop WordPress related skills</h2>
+
+
+
+<p>The next question you may ask: “Why WordPress?”</p>
+
+
+
+<p>WordPress is used by more than 40% of websites in some form and offers various roles, many of which are not developer-specific. Tijana highlights a few:&nbsp;</p>
+
+
+
+<ul><li>web developer (coding websites, themes, and plugins)</li><li>web implementor (creating websites from existing themes without coding)</li><li>web designer (designing website mock-ups, editing images, or creating online infographics)</li><li>client support professional (helping people with their websites)</li><li>website maintenance (WordPress, themes, and plugins are maintained and backed up regularly)</li><li>WordPress trainer (helping clients with how to use the platform or teaching other web professionals)</li><li>content writer</li><li>accessibility specialist (making sure standards are met and suggesting solutions for accessibility barriers)</li><li>SEO consultant (improving search outcomes and understanding)</li><li>statistics consultant, especially for web shops</li><li>WordPress assistant (adding new content and editing existing posts)</li><li>website migration specialist (moving websites from one server to another)</li><li>web security specialist</li></ul>
+
+
+
+<img src="https://lh4.googleusercontent.com/16XExYT_P4R4PX3orOaWbueDfkBIA6PFQ-CuYEXdeN9AvUIuIF33aIjT1DpdnFCqhrijWv1f68OR2Qh14xGT9REHGJ-MqK-OxJ9XcrhZ3IkcW8DBI7nVAtvFcCnCHL0woka_FV6t" alt="WCBGD group picture" />
+
+
+
+<p>Tijana emphasized: “Another reason why WordPress is great for freelancers is the strong community that exists around this content management system (CMS).&#8221; WordCamps and Meetups are a way to get useful information and meet people from a large and very diverse community and get answers to many questions straight away.&nbsp;</p>
+
+
+
+<p>In the past year, these events have been primarily online. However, the contributors who run them continue to make an effort to provide an experience as close to in-person events as possible. The biggest advantage to online events is that we can attend events from across the world, even if sometimes during these difficult times, it is difficult to get enough time to deeply into this new experience. Since Tijana’s first Meetup, she has attended many WordPress community events and volunteered as a speaker.</p>
+
+
+
+<h2>Plan in advance</h2>
+
+
+
+<p>Becoming a freelancer takes time. For Tijana, success came with proper planning and following her plan to ‘acquire or improve relevant skills that will make you stand out in the freelance market.’ She strongly believes that learning and growing as a professional opens more business opportunities.&nbsp;</p>
+
+
+
+<p>If you are considering a freelance career, she advises improving relevant skills or developing new skills related to your hobbies as ‘there is nothing better than doing what you love.’ In cases where no previous experience and knowledge can be used, she suggests choosing ‘a job that has a shorter learning curve and builds your knowledge around that.’</p>
+
+
+
+<p>Tijana started as a content creator and learned to become an SEO expert. However, she highlights many alternative paths, including starting as a web implementer and moving to train as a developer.&nbsp;</p>
+
+
+
+<p>She suggests to others: “It would be a good idea to analyze the market before you jump into the learning process.” She also recommends people check the latest trends and consider the future of the skills they are developing.</p>
+
+
+
+<p>Visit the new <a href="https://learn.wordpress.org/">Learn WordPress.org</a> to see what topics are of interest to you. In this newly established resource, the WordPress community aggregates workshops to support those who want to start and improve their skills, provides lesson plans for professional WordPress trainers and helps you create personal learning to develop key skills. There is also material on helping you be part of and organize events for your local community.</p>
+
+
+
+<p>Tijana highlights that there are many places for freelancers to find clients. For example, the WordPress Community has a place where companies and individual site owners publish their job advertisements&nbsp; &#8211; <a href="https://jobs.wordpress.net/">Jobs.WordPress.net</a>.</p>
+
+
+
+<h2>Hurray, it’s time to get a first freelancing job</h2>
+
+
+
+<p>As a pragmatic person, Tijana recommends: “Save money before quitting your job to become a full-time freelancer. Alternatively, try freelancing for a few hours per week to see if you like it. Although some people do benefit when taking a risk, think twice before you take any irreversible actions.”&nbsp;</p>
+
+
+
+<p>She shared some possible next steps:&nbsp;</p>
+
+
+
+<ul><li>use a freelancing platform</li><li>triple-check your resume</li><li>professionally present yourself</li><li>fill up your portfolio with examples</li><li>use video material</li></ul>
+
+
+
+<p>“By using video material, your clients will not see you like a list of skills and previous experiences, but as a real person that has these skills and experiences and that provides a certain service for them.”</p>
+
+
+
+<p>She adds: “Have a detailed strategy when choosing your first employer. Choose your first employer wisely, very wisely. I can’t emphasize enough how important this is”.</p>
+
+
+
+<p>When Tijana took her first freelancing job, she considered the following:</p>
+
+
+
+<ul><li>how was the employer rated by other freelancers who worked for him previously</li><li>how does the employer rate other freelancers</li><li>how much money had they already spent on the platform</li><li>the number of open positions for a specific job and the number of freelancers that have already applied&nbsp;</li></ul>
+
+
+
+<p>“The first job is not all about the money. Don’t get greedy on your first job. If you get good recommendations, your second job can pay two to three times more. And your third job can go up to five times more. That was my experience.”</p>
+
+
+
+<h2>Take responsibility as a freelancer</h2>
+
+
+
+<p>Tijana reminds us: “Freedom often comes with responsibility; individual responsibility is key when it comes to freelancing.”</p>
+
+
+
+<p>She advises others not to take a job if you can not make a deadline and have someone reliable who can help you.&nbsp;</p>
+
+
+
+<p>Missing deadlines will cost your client money and affect the review the client will be willing to leave about your job, and this can have a big impact on your future opportunities or freelance jobs.</p>
+
+
+
+<p>She adds: “This can start a downward spiral for your career. However, we are all humans, and unpredictable things can happen. If for some reason you are not able to complete your work in a timely manner, let your client know immediately so they can have enough time to hire someone else”.</p>
+
+
+
+<p>Tijana emphasizes the importance of making expectations clear before accepting a job, both what the client is expecting and what you can expect from the client.&nbsp;</p>
+
+
+
+<p>Lastly, she points out that if you are working from home, your friends and family should treat you the way they would if you were in an office. She advises: “Let them know about your working schedule.”</p>
+
+
+
+<p>She hopes that these basic guidelines will be useful in launching freelance careers, as they did her, even though there is no universal recipe for all.</p>
+
+
+
+<p>Tijana highlights: “It’s just important to stay focused on your goals and to be open to new opportunities.” Freelancing wasn’t the only way she could have fulfilled her goals, but it was an important part of her path, and it helped her be confident in her abilities to make the next big step in her life.</p>
+
+
+
+<p>As a freelancer, she was missing close relationships with colleagues and teamwork, which she has now found in her current firm. Her colleagues describe her as a: “walking-talking bundle of superpowers: sports medicine and fitness professional, SEO expert, blogger, designer and a kitty foster mum”.</p>
+
+
+
+<img src="https://lh4.googleusercontent.com/PIGT9R6FmtEHsNBvWzyViW5htRAm156asTOsohOGOUwfsWjW1TuDhUI9yuZnjIe-1eFHfFUWPULPtw82P3YYXHa0bsY_jA5keelmDHfSkTdd3xUsVZTmG9KvdE8XTojvU3LxYCsi" alt="Conference reception" />
+
+
+
+<p>If you are considering starting your career as a freelancer, take the courses offered at <a href="https://learn.wordpress.org/">learn.wordpress.org,</a> reach out to companies that you would be interested in working with, and remember that there are a whole host of opportunities in the WordPress project.</p>
+
+
+
+<p><a href="https://make.wordpress.org/">The WordPress.org Teams</a> &#8211; what they do, when and where they meet</p>
+
+
+
+<p><a href="https://learn.wordpress.org/">Learn WordPress resource</a> &#8211; free to use to expand your knowledge and skills of using the platform and learning about the community around it.</p>
+
+
+
+<p>The 3-day <a href="https://europe.wordcamp.org/2021/">WordCamp Europe 2021</a> online event begins on 7 June 2021. You can discover more about being a contributor in its live sessions and <a href="https://europe.wordcamp.org/2021/contribute-to-wordpress/">section on ways to contribute to WordPress</a>.</p>
+
+
+
+<h2>Contributors</h2>
+
+
+
+<p>Thanks to Olga Gleckler (<a href="https://profiles.wordpress.org/oglekler/" class="mention"><span class="mentions-prefix">@</span>oglekler</a>), Abha Thakor (<a href="https://profiles.wordpress.org/webcommsat/">@webcommsat</a>), Chloé Bringmann (<a href="https://profiles.wordpress.org/cbringmann/" class="mention"><span class="mentions-prefix">@</span>cbringmann</a>), Surendra Thakor (<a href="https://profiles.wordpress.org/sthakor/" class="mention"><span class="mentions-prefix">@</span>sthakor</a>), and Meher Bala (<a href="https://profiles.wordpress.org/meher/" class="mention"><span class="mentions-prefix">@</span>meher</a>) for working on this story. Josepha Haden (<a href="https://profiles.wordpress.org/chanthaboune/">@chanthaboune</a>) and also to Topher DeRosia (<a href="https://profiles.wordpress.org/topher1kenobe/">@topher1kenobe</a>) who created HeroPress. Thank you to Tijana Andrejic (<a href="https://profiles.wordpress.org/andtijana/" class="mention"><span class="mentions-prefix">@</span>andtijana</a>) for sharing her #ContributorStory</p>
+
+
+
+<img src="https://lh4.googleusercontent.com/FEZ2FQJ0vQ311YoPfh6ny15NXh8saTLH_RjyDO4pUOuEGBTa-Czk63PGoWL04FawKviRfNx0QXePx-goK04X12ry1BR_WXh-kVPIfsEeItPAX6reN5fHS96q6-8dUI506ZO38Z0G" alt="HeroPress logo" />
+
+
+
+<p><em>This post is based on an article originally published on HeroPress.com. It highlights people in the WordPress community who have overcome barriers and whose stories would otherwise go unheard.</em></p>
+
+
+
+<p><em>Meet more WordPress community members in our <a href="https://wordpress.org/news/category/heropress/">People of WordPress series</a>.</em></p>
+
+
+
+<p><em>#ContributorStory #HeroPress</em></p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Mon, 07 Jun 2021 21:45:03 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:28:"webcommsat AbhaNonStopNewsUK";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:24;a:6:{s:4:"data";s:13:"
+	
+	
+	
+	
+	
+	
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:41:"BuddyPress: BuddyPress 8.0.0 “Alfano”";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:32:"https://buddypress.org/?p=319133";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:55:"https://buddypress.org/2021/06/buddypress-8-0-0-alfano/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:11623:"<p>&#8220;Alfano&#8221; is our first major release of 2021. It is named after <a href="http://www.alfanopizza.com">Alfano’s Pizza</a> in Rock Island, Illinois, a family-run pizzeria that’s been around since the 1970s. They know how to keep it simple: there’s nothing on the menu but mouth-watering pizzas and calzones featuring their own made-from-scratch sauce and crust. For the true Alfano’s experience, order a stuffed pizza and dine in with as many friends as you can bring. The massive, two-crust pizza will be brought to the table piping hot, and there will be plenty for everyone!</p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center">
+<div class="wp-block-button"><a class="wp-block-button__link has-white-color has-text-color has-background" href="https://downloads.wordpress.org/plugin/buddypress.8.0.0.zip"><strong>Get BuddyPress 8.0.0</strong></a></div>
+</div>
+
+
+
+<div class="wp-block-spacer"></div>
+
+
+
+<p>You can get it clicking on the above button, downloading it from the&nbsp;<a href="https://wordpress.org/plugins/buddypress/">WordPress.org plugin directory</a>&nbsp;or checking it out from our&nbsp;<a href="https://buddypress.trac.wordpress.org/browser/branches/8.0">Subversion repository.</a></p>
+
+
+
+<p><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f449.png" alt="👉" class="wp-smiley" />&nbsp;<em>If you’re upgrading from a previous version of BuddyPress, it’s always a good idea to back-up your WordPress database and files ahead of time.</em></p>
+
+
+
+<p>You can review all of the changes in this 8.0.0 release in the&nbsp;<a href="https://codex.buddypress.org/releases/version-8-0-0/">release notes</a>. Below are the key features we believe you are going to enjoy most!</p>
+
+
+
+<div class="wp-block-spacer"></div>
+
+
+
+<h2>Your current members are the best way to recruit fantastic new members for your community.</h2>
+
+
+
+<p>Whether public registration is enabled or not, you can activate this great new opt-in feature from your site&#8217;s BuddyPress settings; with it, your trusted members will handpick new members who will enrich your community.</p>
+
+
+
+<div class="wp-block-image"><a href="https://buddypress.org/wp-content/uploads/1/2021/06/front-invites-tool.png"><img width="985" height="646" src="https://buddypress.org/wp-content/uploads/1/2021/06/front-invites-tool.png" alt="Illustration showing the Members Invite Screen." class="wp-image-319137" /></a></div>
+
+
+
+<p>Once activated, each member will be able to send new Member Invitation emails and manage the pending invitations directly from his or her profile area.</p>
+
+
+
+<div class="wp-block-image"><a href="https://buddypress.org/wp-content/uploads/1/2021/06/front-pending-invites-tool.png"><img width="981" height="406" src="https://buddypress.org/wp-content/uploads/1/2021/06/front-pending-invites-tool.png" alt="Illustration showing the Members Pending Invites Screen." class="wp-image-319140" /></a></div>
+
+
+
+<p>You keep control of everything thanks to two new screens we added to the BuddyPress Tools dashboard: invitations and opt-outs management.</p>
+
+
+
+<div class="wp-block-image"><a href="https://buddypress.org/wp-content/uploads/1/2021/06/admin-invites-tool.png"><img width="1176" height="519" src="https://buddypress.org/wp-content/uploads/1/2021/06/admin-invites-tool.png" alt="Illustration showing the Members Invitations Administration Screen." class="wp-image-319141" /></a></div>
+
+
+
+<div class="wp-block-buttons is-content-justification-right">
+<div class="wp-block-button has-custom-font-size is-style-outline has-normal-font-size"><a class="wp-block-button__link has-white-background-color has-text-color has-background" href="https://bpdevel.wordpress.com/2021/05/26/bp-8-0-introduces-site-membership-invitations/"><strong>Read more about it</strong></a></div>
+</div>
+
+
+
+<div class="wp-block-spacer"></div>
+
+
+
+<h2>Improved registration experience.</h2>
+
+
+
+<p>First, you can select any xProfile field from any xProfile field group to use on your site&#8217;s registration form. Second, if your site requires that users accept specific rules such as terms of service or a code of conduct, you can now take advantage of the new Checkbox Acceptance xProfile Field type to record their agreement.</p>
+
+
+
+<ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><a href="https://buddypress.org/wp-content/uploads/1/2021/06/signup-fields.png"><img width="1024" height="492" src="https://buddypress.org/wp-content/uploads/1/2021/06/signup-fields-1024x492.png" alt="" class="wp-image-319146" /></a><a href="https://bpdevel.wordpress.com/2021/05/06/selectable-xprofile-sign-up-fields-in-8-0-0/"><span class="has-inline-color has-white-color">Read more about Selectable signup fields</span></a></li><li class="blocks-gallery-item"><a href="https://buddypress.org/wp-content/uploads/1/2021/06/checkbox-acceptance.png"><img width="1006" height="763" src="https://buddypress.org/wp-content/uploads/1/2021/06/checkbox-acceptance.png" alt="" class="wp-image-319145" /></a><a href="https://bpdevel.wordpress.com/2021/05/05/new-xprofile-field-type-checkbox-acceptance-will-be-introduced-in-buddypress-8-0-0/"><span class="has-inline-color has-white-color">Read more about the Checkbox Acceptance field type</span></a></li></ul>
+
+
+
+<p>Third, once a user activates his or her account, BuddyPress will send a welcome email to help get him or her engaged with your community. You can customize the content of this email from the Emails menu of your WordPress dashboard. Have a look to this <a href="https://bpdevel.wordpress.com/2021/05/24/8-0-0-will-include-a-bp-email-to-welcome-new-community-members/">developer note</a> to find out more about it.</p>
+
+
+
+<div class="wp-block-spacer"></div>
+
+
+
+<h2>WP xProfile field types.</h2>
+
+
+
+<p>The WP Biography field type lets you include the user&#8217;s Biographical Info and thanks to the WP Textbox field you can include the first &amp; last name, the Website URL as well as <strong>any</strong> of the custom contact methods of your users.</p>
+
+
+
+<div class="wp-block-image"><a href="https://buddypress.org/wp-content/uploads/1/2021/06/wordpress-fields.png"><img width="847" height="497" src="https://buddypress.org/wp-content/uploads/1/2021/06/wordpress-fields.png" alt="Illustration showing the xProfile Field Edit Screen." class="wp-image-319149" /></a></div>
+
+
+
+<div class="wp-block-buttons is-content-justification-right">
+<div class="wp-block-button has-custom-font-size is-style-outline has-normal-font-size"><a class="wp-block-button__link has-white-background-color has-text-color has-background" href="https://bpdevel.wordpress.com/2021/03/24/wordpress-xprofile-field-types/"><strong>Read more about it</strong></a></div>
+</div>
+
+
+
+<div class="wp-block-spacer"></div>
+
+
+
+<div><span class="dashicons dashicons-admin-generic"></span></div>
+
+
+
+<div class="wp-block-spacer"></div>
+
+
+
+<h2 class="has-text-align-center">Under the hood</h2>
+
+
+
+<p>8.0.0 includes more than 45 changes to improve the Activity component, the BP Nouveau Template pack, the BP REST API and many more components and features.</p>
+
+
+
+<div class="wp-block-spacer"></div>
+
+
+
+<div><span class="dashicons dashicons-buddicons-buddypress-logo"></span></div>
+
+
+
+<div class="wp-block-spacer"></div>
+
+
+
+<h2 class="has-text-align-center">Many thanks to the 47 contributors who helped us build &amp; translate BuddyPress 8.0.0</h2>
+
+
+
+<p><a href="https://profiles.wordpress.org/oztaser/">Adil Oztaser (oztaser)</a>, <a href="https://profiles.wordpress.org/chaion07/">Ahmed Chaion (chaion07)</a>, <a href="https://profiles.wordpress.org/dontdream/">Andrea Tarantini (dontdream)</a>, <a href="https://profiles.wordpress.org/boonebgorges/">Boone B Gorges (boonebgorges)</a>, <a href="https://profiles.wordpress.org/sbrajesh/">Brajesh Singh (sbrajesh)</a>, <a href="https://profiles.wordpress.org/thee17/">Charles E. Frees-Melvin (thee17)</a>, <a href="https://profiles.wordpress.org/needle/">Christian Wach (needle)</a>, <a href="https://profiles.wordpress.org/comminski/">comminski</a>, <a href="https://profiles.wordpress.org/dancaragea/">Dan Caragea (dancaragea)</a>, <a href="https://profiles.wordpress.org/dcavins/">David Cavins (dcavins)</a>, <a href="https://github.com/dominic-ks/">dominic-ks</a>, <a href="https://github.com/edusperoni/">Eduardo Speroni (edusperoni)</a>, <a href="https://profiles.wordpress.org/fernandot/">Fernando Tellado (fernandot)</a>, <a href="https://profiles.wordpress.org/mociofiletto/">Giuseppe (mociofiletto)</a>, <a href="https://profiles.wordpress.org/hz_i3/">hz_i3</a>, <a href="https://profiles.wordpress.org/ianbarnes/">Ian Barnes (ianbarnes)</a>, <a href="https://profiles.wordpress.org/atxamart/">Iker Garaialde (atxamart)</a>, <a href="https://profiles.wordpress.org/nobnob/">Javier Esteban (nobnob)</a>, <a href="https://profiles.wordpress.org/johnjamesjacoby/">John James Jacoby (johnjamesjacoby)</a>, <a href="https://profiles.wordpress.org/krupajnanda/">Krupa (krupajnanda)</a>, <a href="https://profiles.wordpress.org/offereins/">Laurens Offereins</a>, <a href="https://profiles.wordpress.org/mahdiar/">mahdiar</a>, <a href="https://profiles.wordpress.org/markscottrobson/">Mark Robson (markscottrobson)</a>, <a href="https://profiles.wordpress.org/imath/">Mathieu Viet (imath)</a>, <a href="https://profiles.wordpress.org/mattneil/">mattneil</a>, <a href="https://profiles.wordpress.org/meijioro/">meijioro</a>, <a href="https://profiles.wordpress.org/kalich5/">Michal Janata (kalich5)</a>, <a href="https://profiles.wordpress.org/modemlooper/">modemlooper</a>, <a href="https://profiles.wordpress.org/DJPaul/">Paul Gibbs (DJPaul)</a>, <a href="https://profiles.wordpress.org/podporawebu/">podporawebu</a>, <a href="https://profiles.wordpress.org/psmits1567/">Peter Smits (psmits1567)</a>, <a href="https://profiles.wordpress.org/nekojonez/">Pieterjan Deneys (nekojonez)</a>, <a href="https://profiles.wordpress.org/r-a-y/">r-a-y</a>, <a href="https://profiles.wordpress.org/espellcaste/">Renato Alves (espellcaste)</a>, <a href="https://profiles.wordpress.org/renegade1/">renegade1</a>, <a href="https://profiles.wordpress.org/slaffik/">Slava Abakumov (slaffik)</a>, <a href="https://profiles.wordpress.org/sabernhardt/">Stephen Bernhardt (sabernhardt)</a>, <a href="https://profiles.wordpress.org/netweb/">Stephen Edgar (netweb)</a>, <a href="https://profiles.wordpress.org/studiocrafted/">studiocrafted</a>, <a href="https://profiles.wordpress.org/sippis/">Timi Wahalahti (sippis)</a>, <a href="https://profiles.wordpress.org/mobby2561/">Tomas (mobby2561)</a>, <a href="https://profiles.wordpress.org/topher1kenobe/">Topher (topher1kenobe)</a>, <a href="https://profiles.wordpress.org/utsav72640/">Utsav tilava (utsav72640)</a>, <a href="https://profiles.wordpress.org/vapvarun/">Varun Dubey (vapvarun)</a>, <a href="https://profiles.wordpress.org/venutius/">Venutius</a>, <a href="https://profiles.wordpress.org/weddywood/">WeddyWood</a>, <a href="https://profiles.wordpress.org/yordansoares/">Yordan Soares (yordansoares)</a>.</p>
+
+
+
+<div class="wp-block-spacer"></div>
+
+
+
+<div><span class="dashicons dashicons-format-chat"></span></div>
+
+
+
+<div class="wp-block-spacer"></div>
+
+
+
+<h2 class="has-text-align-center">Feedbacks welcome!</h2>
+
+
+
+<p>Receiving your feedback and suggestions for future versions of BuddyPress genuinely motivates and encourages our contributors. Please share&nbsp;your&nbsp;feedback about this version of BuddyPress in the comments area of this post. And of course, if you’ve found a bug: please tell us about it into our&nbsp;<a href="https://buddypress.org/support/">Support forums</a>.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Mon, 07 Jun 2021 19:45:06 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:12:"Mathieu Viet";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:25;a:6:{s:4:"data";s:13:"
+	
+	
+	
+	
+	
+	
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:77:"WordPress.org blog: WP Briefing: Episode 10: Finding the Good In Disagreement";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:53:"https://wordpress.org/news/?post_type=podcast&p=10424";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:79:"https://wordpress.org/news/2021/06/episode-10-finding-the-good-in-disagreement/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:12066:"<p>To Agree, disagree, and everything in-between. In this episode, Josepha talks about forming opinions and decision-making in the WordPress project.</p>
+
+
+
+<p><em><strong>Have a question you&#8217;d like answered? You can submit them to <a href="mailto:wpbriefing@wordpress.org">wpbriefing@wordpress.org</a>, either written or as a voice recording.</strong></em></p>
+
+
+
+<h2>Credits</h2>
+
+
+
+<p>Editor:<a href="https://profiles.wordpress.org/dustinhartzler/"> Dustin Hartzler</a></p>
+
+
+
+<p>Logo:<a href="https://profiles.wordpress.org/beafialho/"> Beatriz Fialho</a></p>
+
+
+
+<p>Production:<a href="https://profiles.wordpress.org/mkaz/"> </a><a href="https://profiles.wordpress.org/cbringmann/">Chloé Bringmann</a></p>
+
+
+
+<p>Song: Fearless First by Kevin MacLeod</p>
+
+
+
+<h2>References</h2>
+
+
+
+<p><a href="https://www.oprah.com/spirit/suzy-welchs-rule-of-10-10-10-decision-making-guide/all">10/10/10 Rule</a></p>
+
+
+
+<p><a href="https://en.wikipedia.org/wiki/Time_management#The_Eisenhower_Method">The Eisenhower Matrix&nbsp;</a></p>
+
+
+
+<p><a href="https://en.wikipedia.org/wiki/Minimax">The Maximin Strategy&nbsp;</a></p>
+
+
+
+<p><a href="https://europe.wordcamp.org/2021/">WordCamp Europe</a></p>
+
+
+
+<p><a href="https://japan.wordcamp.org/2021/">WordCamp Japan</a></p>
+
+
+
+<p><a href="https://make.wordpress.org/core/5-8/">WordPress 5.8 Development Cycle</a></p>
+
+
+
+<h2>Transcript</h2>
+
+
+
+<span id="more-10424"></span>
+
+
+
+<p><strong>Josepha Haden Chomphosy&nbsp; </strong>00:10</p>
+
+
+
+<p>Hello, everyone, and welcome to the WordPress Briefing, the podcast where you can catch quick explanations of some of the ideas behind the WordPress open source project and the community around it, as well as get a small list of big things coming up in the next two weeks. I&#8217;m your host, Joseph Haden Chomphosy. Here we go!</p>
+
+
+
+<p><strong>Josepha Haden Chomphosy&nbsp; </strong>00:40</p>
+
+
+
+<p>For anyone who has ever organized something, whether it&#8217;s a social event, a school project, or an annual family gathering, you know that there are many different opinions. The more opinions you have, the more likely people don&#8217;t see eye to eye. And before you know it, you&#8217;ve got some disagreements. Some things make disagreements worse, like imbalance of information, lack of showing your work, and sometimes just “too many cooks in the kitchen,” to use a regional phrase. Frankly, sometimes it seems like the second you have more than one cook in your kitchen, you&#8217;re going to get some disagreements. But I think that&#8217;s a healthy thing. WordPress is huge. And there are huge numbers of people contributing to WordPress or any other open source project you want to name. So there&#8217;s a lot of stuff available to disagree about. If we never saw anyone pointing out an area that wasn&#8217;t quite right, there would probably be something wrong. If you, like me, think that a healthy tension of collaborative disagreement can be useful when approached thoughtfully, then this quick start guide is for you.&nbsp;</p>
+
+
+
+<p>Step one, prepare to host a discussion. This is, by the way, just the hardest step out there. You have to take a little time to figure out what problem you&#8217;re solving with the solution you&#8217;re suggesting, any goals that it relates to, and then figure out what the bare minimum best outcome would be and what the wildest dreams magic wand waving outcome would be. And you have to be honest with yourself.&nbsp;</p>
+
+
+
+<p>Step two, host the discussion. The venue will be different for different discussions, but you see a lot of these on team blogs or within the actual tickets where work is being done. Wherever you&#8217;re hosting it, state the problem, state your idea for the solution and ask for what you missed. If you&#8217;re hosting a discussion in person, like in a town hall format, this can be hard. And generally, hosting discussions in an in-person or voice call or zoom call kind of way is hard. So if you have an opportunity to start doing this in text first and level your way up to in person, that&#8217;s my recommendation.&nbsp;</p>
+
+
+
+<p>Step three is to summarize the discussion and post a decision if possible. So organizing a big discussion into main points is a really good practice for the people you&#8217;re summarizing it for and yourself. It helps you to confirm your understanding, and it also gives you the chance to pair other solutions with the problem and goals you outlined in step one. If a different solution solves the same problem but with less time or effort, it&#8217;s worth taking a second look with less time or effort. There’s something that I say to WordPress contributors frequently, and that is there are a lot of yeses. There are a lot of right ways to do things and only a few clear wrong ways to do things. So be open-minded about whether or not someone else&#8217;s right way to do things could still achieve the goals you&#8217;re trying to accomplish with your solution. A note on step three where I said, “and post the decision if possible.” Sometimes you&#8217;re the person to make that decision, but sometimes you are not the person who can give something the green light, and so you&#8217;re preparing a recommendation. Whether you&#8217;re making a decision or a recommendation, sometimes you may experience a little decision-making paralysis. I know I do. So here are a few of the tools that I use.</p>
+
+
+
+<p>If you&#8217;re avoiding the decision, use the 10/10/10 rule; it can help you figure out if you&#8217;re stuck on a short-term problem. If there are too many good choices, use the Eisenhower Matrix that can help you to prioritize objectively. If there are too many bad choices, use the Maximin strategy. It can help you to identify how to minimize any potential negative impacts.&nbsp;</p>
+
+
+
+<p>Okay, so you&#8217;ve considered your position. You’ve discussed everything. You summarized the big points. Maybe you also worked your way through to a recommendation or a decision. What about everyone who disagreed with the decision? Or have you made a recommendation, and it wasn&#8217;t accepted? How do you deal with that? That&#8217;s where “disagree and commit” shows up. This phrase was made popular by the folks over at Amazon, I think. But it first showed up, I believe at Sun Microsystems as this phrase, “agreeing, commit, disagree and commit or get out of the way.”</p>
+
+
+
+<p><strong>Josepha Haden Chomphosy&nbsp; </strong>05:34</p>
+
+
+
+<p>Disagree and commit as a concept works pretty well when everyone agrees on the vision and the goals, but not necessarily how to get to those goals. We&#8217;ve had moments in recent history where folks we&#8217;re not able to agree, we’re not able to commit, and so then left the project. I hate when that happens. I want people to thrive in this community for the entire length of their careers. But I also understand that situation shows up in the top five learnings of open source when you no longer have interest in the project and handed it off to a competent successor. So there it is &#8211; disagreements in open source in WordPress.&nbsp;</p>
+
+
+
+<p>As with so many of the things I discuss on this podcast, this is incredibly complex and nuanced in practice. Taking an argument, distilling facts from feelings, and adjusting frames of reference until the solution is well informed and risk-balanced. That is a skill set unto itself. But one that increases the health of any organization. I’ll share that list of references and general materials in the show notes, including a link explaining each of those decision-making tools that I shared. I&#8217;m also going to include the contributor training module on decision-making in the WordPress project. It&#8217;s got excellent information. It&#8217;s part of a series of modules that I asked team reps to take and sponsored contributors. I don&#8217;t require it from anyone, but I do hope that it is useful for you. Also, speaking of useful for you, if you are just here for leadership insights, I included some hot takes after the outro music for you. It&#8217;s like an Easter egg, but I just told you about it.</p>
+
+
+
+<p><strong>Josepha Haden Chomphosy&nbsp; </strong>07:33</p>
+
+
+
+<p>And that brings us to our small list of big things! First off, WordCamp Europe is happening this we; I hope that everybody has an opportunity to attend. If you still haven&#8217;t gotten your tickets, they are free, and I think there are still a few left. I will include a link in the show notes as well. There&#8217;s going to be a little demo with Matt Mullenweg and Matias Ventura on the WordPress 5.8 release that&#8217;s coming up. And then kind of a retrospective discussion between Matt and Brian Krogsgard. I encourage you to join; I think it&#8217;s going to be very interesting.&nbsp;</p>
+
+
+
+<p>There&#8217;s also WordCamp, Japan coming up June 20 through 26th. I mentioned it last time &#8211;&nbsp; it has a big section of contributing and contribution time. So if you&#8217;re looking to get started, some projects are laid out, and I encourage you to take a look at that as well.&nbsp;</p>
+
+
+
+<p>The new thing on this list, and I don&#8217;t know how new It is, in general, I hope it&#8217;s not too new to you, is that WordPress 5.8 release is reaching its beta one milestone on June 8th, so right in the middle of WordCamp Europe. I encourage every single theme developer, plugin developer that we have, agency owners that we have to really take a look at this release and dig into testing it. It&#8217;s a gigantic release. And I have so many questions about what will work and will not work once we get it into a broader testing area. We&#8217;ve been doing a lot of testing in the outreach program. But it&#8217;s always helpful to get people who are using WordPress daily in their jobs to really give a good solid test to the beta product to the beta package. And put it all through its paces for us.&nbsp;</p>
+
+
+
+<p>So, that my friends, is your small list of big things. Thank you for tuning in today for the WordPress Briefing. I&#8217;m your host Josepha Haden Chomphosy, and I&#8217;ll see you again in a couple of weeks.</p>
+
+
+
+<p><strong>Josepha Haden Chomphosy&nbsp; </strong>10:09</p>
+
+
+
+<p>Hey there, you must be here because I told you about this totally not hidden easter egg about my hot takes on organizational health; I have three for you. And if you&#8217;ve ever worked with me, none of this will surprise you. But if you haven&#8217;t worked with me, hopefully, it kind of gives you some idea about how I approach all of this a bit differently. So, number one, critical feedback is the sign of a healthy organization. And I will never be dissuaded from that opinion. A complete lack of dissent doesn&#8217;t look like “alignment.” To me, that looks like fear. And it goes against the open source idea that many eyes make all bugs shallow.&nbsp;</p>
+
+
+
+<p>Tip number two, a bit of tension is good, a bit of disagreement is good. The same thing that I say about women in tech, we&#8217;re not all the same. And if we were, then we wouldn&#8217;t need to collaborate anyway. But diversity, whether that&#8217;s the diversity of thought or of a person or of experience, just doesn&#8217;t happen without some misunderstandings. It&#8217;s how we choose to grow through those misunderstandings that make all the difference for the type of organization we are.&nbsp;</p>
+
+
+
+<p>And hot take number three, changing your mind isn&#8217;t flip-flopping or hypocritical. I think that&#8217;s a sign of growth and willingness to hear others. I like to think of my embarrassment at past bad decisions &#8211; as the sore muscles of a learning brain. And I, again, probably won&#8217;t be dissuaded from that opinion. Although, you know, if I&#8217;m sticking true to changing your mind some flip-flopping or hypocritical, maybe I will, but you can always try to, to give me the counter-argument for that, and we&#8217;ll see how it goes. Thank you for joining me for my little public easter egg.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Mon, 07 Jun 2021 12:22:06 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:15:"Chloe Bringmann";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:26;a:6:{s:4:"data";s:13:"
+	
+	
+	
+	
+	
+	
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:106:"Gutenberg Times: Themes for Full-Site Editing and Getting ready for WordPress 5.8 – Weekend Edition #172";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:35:"https://gutenbergtimes.com/?p=18038";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:112:"https://gutenbergtimes.com/themes-for-full-site-editing-and-getting-ready-for-wordpress-5-8-weekend-edition-172/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:19490:"<p>Howdy, </p>
+
+
+
+<p>It&#8217;s the eve of the second virtual <a href="https://europe.wordcamp.org/2021/"><strong>WordCamp Europe</strong></a>. Tickets are still available for another awesome three days with talks, workshops and contributor events. This year, the organizer decide to sprinkle contributor event into the rest of the schedule and have for all three days, a mix between techtalk, business talks and contributor presentation and discussions. There are quite a few events around the Block editor, Full-site-editing and block-based themes. <a href="https://gutenbergtimes.com/wordcamp-europe-2021-starts-monday/">I compiled a list for you.</a> And just because I am so focused on Gutenberg, doesn&#8217;t mean you have to. 😎 <a href="https://europe.wordcamp.org/2021/schedule/">Check out the schedule</a> and <a href="https://europe.wordcamp.org/2021/registration/">get your tickets now</a>. </p>
+
+
+
+<p>Hopefully, it will be the last virtual conference and we will see each other at an in-person WordCamp Europe in 2022. I am still hoping for Porto, Portugal.  At this state of withdrawal from meeting WordPress friends in person, it doesn&#8217;t matter where it will take place, thought. It&#8217;ll be a Hug-Fest. </p>
+
+
+
+<p>Last week, I mentioned the next<a href="https://us02web.zoom.us/webinar/register/4216223029678/WN_gyOVb1h4S4iO_UZi1GMQaA"> <strong>Gutenberg Times Live Q &amp; A</strong></a> in the subscribers-only section of this newsletter. Now we have a full panel. <a href="https://us02web.zoom.us/webinar/register/4216223029678/WN_gyOVb1h4S4iO_UZi1GMQaA">Registration is officially open</a>. I am thrileed to host Daisy Olsen, Jeff Ong and Tammie Lister for our show on <strong>How to get started on Theme building for Full-site Editing and using the Theme.json file</strong> to configure your theme, and its interaction with the block editor. The Theme.json file will be introduced with the release of WordPress 5.8 in July 2021. <a href="https://us02web.zoom.us/webinar/register/4216223029678/WN_gyOVb1h4S4iO_UZi1GMQaA">Get a head start and join us!</a></p>
+
+
+
+<p><strong>Grzegorz (Greg) Ziolkowski</strong> will be back from vaction next week and we will record our next <strong>Changelog </strong>episode on Friday 11, 2021. I am so excited and can&#8217;t wait until Grzegorz is back!  If you have questions or suggestions or news, you want us to consider, hit reply or send them to <a href="mailto:changelog@gutenbergtimes.com">changelog@gutenbergtimes.com</a>. We now have consitently 500 &#8211; 800 downloads per week. It&#8217;s humbling, mind-boggling and inspiring.  And if YOU are a listener, Thank You!  If you have a minute or two, <a href="https://lovethepodcast.com/gutenbergchangelog">consider writing a review of the podcast</a>. We&#8217;d be grateful and might read it out loud on the next show. </p>
+
+
+
+<p>Alright, that&#8217;s the news around Gutenberg Times. Below you&#8217;ll find what else happened in the Gutenberg universe. Enjoy! </p>
+
+
+
+<p>Yours, 💕<br />Birgit</p>
+
+
+
+<p><em>PS: Hope to see you at WordCamp Europe. Don&#8217;t forget to join the #WCEU channel on WordPress Slack and meet speaker, sponsors, organizer and attendees like you and me. </em></p>
+
+
+
+
+
+<hr class="wp-block-separator is-style-wide" />
+
+
+
+<h2>Full-Site-Editing &amp; Themes</h2>
+
+
+
+<p><strong>Anne McCarthy</strong> published the <a href="https://make.wordpress.org/test/2021/06/02/fse-program-stick-the-landing-pages-summary/"><strong>Stick the landing (pages) Summary</strong></a>. This post is a summary of the sixth call for testing for the experimental FSE outreach program, which also was translated into Italian to reach more of the non-English audience. Earlier calls were also translated into Japanese. The group of FSE testers is much bigger now, thanks to the persistent efforts by Anne to reach out to the community and stay on top of all the issues around the template editor. </p>
+
+
+
+<p>A reminder: You can still join the the seventh call for testing:<a href="https://make.wordpress.org/test/2021/05/26/fse-program-testing-call-7-polished-portfolios/"> </a><strong><a href="https://make.wordpress.org/test/2021/05/26/fse-program-testing-call-7-polished-portfolios/">Polished Portfolios</a> </strong>&#8211; The deadline for your feedback was extended to June 16th, 2021. </p>
+
+
+
+<p>If you read this before Sunday night, you can participate in the <a href="https://www.meetup.com/Philadelphia-WordPress-Meetup-Group/events/278507419/"><strong>Full Site Editing Review and Test-a-thon </strong></a>Sunday, June 6th at  7 &#8211; 8:30 pm with the <strong>WordPress Meetup </strong>group in Philadelphia. </p>
+
+
+
+<hr class="wp-block-separator is-style-wide" />
+
+
+
+<p>Reading through the summary,  I am stuck on trying to understand the difference between a template built by the site-owner and a theme template. What will happen with their templates when the site-owner decides to change the overall theme of their site? There is still plenty to be figured out. <strong><a href="https://github.com/WordPress/gutenberg/pull/31971">How edited block templates are linked to themes</a></strong> is topic of the discussion on GitHub. The Gutenberg team would appreciate some thoughts from folks familiar with these APIs (theme mods, performance, database).</p>
+
+
+
+<hr class="wp-block-separator is-style-wide" />
+
+
+
+<p><strong>Kjell Reigstad</strong> posted again acomprehensive list of issues and discussions regarding block-based themes and Full-Site Editing: <a href="https://make.wordpress.org/themes/2021/06/04/gutenberg-themes-week-of-may-31-2021/"><strong>Gutenberg + Themes: Week of May 31, 2021</strong></a>. Any of the listed items are worth checking out and consider commenting. The more the team knows the better the next iteration of Full-Site editing and block-based themes becomes. </p>
+
+
+
+<hr class="wp-block-separator is-style-wide" />
+
+
+
+<h2>WordPress 5.8 release preparations</h2>
+
+
+
+<p>From the <a href="https://make.wordpress.org/core/2021/06/05/devchat-meeting-summary-june-2-2021/">meeting notes of this week&#8217;s Dev Chat</a>: &#8220;Docs needs the most help with end user documentation. For block editor in particular. Some changes from 5.6 and 5.7 are still not published and we had a significant drop in number of contributors due to pandemic situation. Anyone interested in getting involved please&nbsp;ping <strong><a href="https://twitter.com/DjevaLoperka">Milana Cap</a></strong>&nbsp;&nbsp;(<strong>zzap</strong>&nbsp;on&nbsp;Slack).&nbsp;</p>
+
+
+
+<p>The summary of needed <strong><a href="https://github.com/WordPress/gutenberg/issues/32365">DevNotes for new features in WordPress 5.8</a></strong> is available on GitHub and could use contributors. There is also a <a href="https://github.com/WordPress/gutenberg/pulls?q=is%3Apr+is%3Amerged+label%3A%22Needs+Dev+Note%22">&#8220;needs dev note&#8221; label for pull requests</a>. </p>
+
+
+
+<p>The widget screen could use some more testing. As a reminder, please read<strong> <a rel="noreferrer noopener" target="_blank" href="https://make.wordpress.org/core/2021/05/12/help-test-the-widgets-editor-for-wordpress-5-8/">Help Test the Widgets Editor for WordPress 5.8</a></strong> by <a href="https://twitter.com/andraganescu"><strong>Andre Draganescu</strong></a></p>
+
+
+
+<h2>Block Patterns</h2>
+
+
+
+<p><strong>Hector Pietro</strong> wrote in his post <a href="https://make.wordpress.org/core/2021/06/04/whats-next-in-gutenberg-june-2021/"><strong>What’s next in Gutenberg? (June 2021)</strong></a>: </p>
+
+
+
+<p>&#8220;Since&nbsp;<a rel="noreferrer noopener" href="https://make.wordpress.org/core/2021/05/27/whats-new-in-gutenberg-10-7-26-may/" target="_blank">Gutenberg 10.7</a>, block patterns displayed in the inserter are fetched from the&nbsp;<a rel="noreferrer noopener" href="https://wordpress.org/patterns/" target="_blank">WordPress.org Pattern Directory</a>. This opens the door to having a big amount of wonderful patterns available in the inserter, which will require&nbsp;<a rel="noreferrer noopener" href="https://github.com/WordPress/gutenberg/issues/31153" target="_blank">iterating on the pattern insertion experience</a>. </p>
+
+
+
+<p>For more updates on the Pattern Directory, stay tuned for&nbsp;<a rel="noreferrer noopener" href="https://make.wordpress.org/meta/2021/04/28/block-pattern-directory-update/" target="_blank">Block Pattern Directory updates</a>&nbsp;and check the most recent&nbsp;<a rel="noreferrer noopener" href="https://make.wordpress.org/design/tag/patterns-directory/" target="_blank">design iterations for the Pattern Directory</a>.&#8221;. </p>
+
+
+
+<hr class="wp-block-separator is-style-wide" />
+
+
+
+<h2>Plugins for the Block Editor</h2>
+
+
+
+<p><a href="https://wordpress.org/plugins/feature-box/"><strong>Featured Box Plugin</strong></a> with this plugin &#8220;you can highlight a image with your key features&#8221; wrote <strong>Sumaiya Siddika</strong> on WordPress.org. <a href="https://wptavern.com/building-featured-boxes-with-the-wordpress-block-editor?utm_source=dlvr.it&utm_medium=twitter&utm_campaign=building-featured-boxes-with-the-wordpress-block-editor">Justin Tadlock took it for a spin.</a></p>
+
+
+
+<hr class="wp-block-separator is-style-wide" />
+
+
+
+<p><strong><a href="https://wordpress.org/plugins/jetformbuilder/">JetFormBuilder — Form Builder plugin for Gutenberg</a></strong> from the plugins stable at CrocoBlock. The developers <a href="https://profiles.wordpress.org/mjhead/">Andrey Shevchenko</a> and <a href="https://profiles.wordpress.org/hugreed/">Oleksandr Ivanenko</a> also added an extensive Post action hook system that allows you to daisy chain actions and integrated with 3rd party systems. I haven&#8217;t tested it yet, but it looks promising. Crocoblock has been building plugins and tools for Elementor and has now started supporing Gutenberg with their products as well. </p>
+
+
+
+<p>Another new plugin is the <a href="https://crocoblock.com/plugins/jetengine-gutenberg/"><strong>JetEngine for Gutenberg</strong></a>  a dynamic content plugin that lets you build a complex websites fast and cost-effectively.</p>
+
+
+
+<h2 id="fsethemes">Themes for Full-Site Editing</h2>
+
+
+
+<p>A few people ask about Themes that are already working with the Full-Site Editing system and Site Editor. So I put a list together of those I know about. Now before you use them, you need to be aware that they are all built while Full-Site Editing is still under active development, hasn&#8217;t been released yet and ergo many features are still experimental. Do not use in production or live site. </p>
+
+
+
+<ul><li><a href="https://wordpress.org/themes/blockbase/">Block Base</a> by Automattic</li><li><a href="https://wordpress.org/themes/naledi/">Naledi </a>by Anariel Design </li><li><a href="https://wordpress.org/themes/tt1-blocks/">TT1 Blocks</a> by WordPress contributors, the FSE sibling of the Twenty-Twenty-One Theme</li><li><a href="https://wordpress.org/themes/block-based-bosco/">Block-Based Bosco</a> by Fränk Klein</li><li><a href="https://wordpress.org/themes/armando/">Armando</a> by Carolyn Newmark</li><li><a href="https://wordpress.org/themes/q/">Q </a>by Ari Stathopoulos</li><li><a href="https://wordpress.org/themes/hansen/">Hansen</a> by Uxl Themes</li></ul>
+
+
+
+<p>If you find any missing, let me know.</p>
+
+
+
+<h2>Gutenberg related Business Updates</h2>
+
+
+
+<p>This week&#8217;s big WordPress business news is the aquisition of <strong><a href="https://twitter.com/elliotcondon">Eliots Condon</a></strong>&#8216;s plugin <strong><a href="https://www.advancedcustomfields.com/">Advanced Custom Fields</a></strong> (ACF)  by Delicious Brains. With over more then 1 million active installs ACF is one of the widest used plugins. Thousands for developers depened on it in the <a href="https://www.advancedcustomfields.com/blog/10-years-of-acf-a-truly-wonderful-time/">last ten years</a> to build complex WordPress sites. </p>
+
+
+
+<blockquote class="wp-block-quote"><p>Stepping away from ACF has not been an easy decision to make. The reasoning behind it comes from a place of humility. As the number of installs have grown from thousands to millions, the needs of the product have outgrown my ability to develop solutions. The last thing I want to do to this amazing community is unintentionally hold back the project, so something needed to change.</p><cite><a href="https://www.advancedcustomfields.com/blog/10-years-of-acf-a-truly-wonderful-time/">Elliot Condon, ACF </a></cite></blockquote>
+
+
+
+<p>Early on into the development of the block editor, Candon was also developing a<strong> <a href="https://wptavern.com/block-building-without-javascript-testing-acf-block-lab-and-lazy-blocks">php way to build blocks</a></strong> and integrated it into Advanced Custom Fields Pro starting with the version 5.8. This effort certainly helped developers even more. Now they could use their existing tools and offer their users Gutenberg compatible sites withouth learning ES6 JavaScript or ReactJS. </p>
+
+
+
+<p><strong><a href="https://deliciousbrains.com/">Delicious Brains</a></strong> also caters to WordPress Developers with products like  <a href="https://spinupwp.com/">SpinupWP</a> (💕), WP Migrate DB and more. Their team seems to be the right fit to pick up the torch and put ACF on an even stronger path for future growth. </p>
+
+
+
+<p>You can learn more about the aquisition via </p>
+
+
+
+<ul><li><a href="https://wptavern.com/delicious-brains-acquires-advanced-custom-fields-plugin">WPTavern (Sarah Gooding)</a>, </li><li><a href="https://poststatus.com/excerpt/12/">Post Status Excerpt</a> (Cory Miller &amp; David Bisset) , </li><li><a href="https://deliciousbrains.com/epic-wordpress-announcement/">A WordPress Announcement of Epic&nbsp;Proportions</a> (Delicious Brain) </li><li><a href="https://www.advancedcustomfields.com/blog/10-years-of-acf-a-truly-wonderful-time/">10 Years of ACF – A truly wonderful time </a></li></ul>
+
+
+
+<hr class="wp-block-separator is-style-wide" />
+
+
+
+
+<div class="wp-block-media-text alignfull is-stacked-on-mobile is-vertically-aligned-top is-image-fill has-background"><a href="https://us02web.zoom.us/webinar/register/8816229019893/WN_gyOVb1h4S4iO_UZi1GMQaA"><img /></a><div class="wp-block-media-text__content">
+<p class="has-normal-font-size"><strong><a href="https://us02web.zoom.us/webinar/register/8816229019893/WN_gyOVb1h4S4iO_UZi1GMQaA">Join us for our next Live Q &amp; A</a> </strong><br />on June 24, 2021 at 11am EDT / 15:00 UTC</p>
+
+
+
+<p><strong>Theme.json for Theme Authors or building themes for full-site editing in WordPress.</strong><br /><strong>Host</strong>: Birgit Pauli-Haack<br /><strong>Panel:</strong>&nbsp;Daily Olson, Tammie Lister and Jeff Ong           <span class="has-inline-color"><strong><a href="https://us02web.zoom.us/webinar/register/8816229019893/WN_gyOVb1h4S4iO_UZi1GMQaA">Register Now</a></strong></span></p>
+</div></div>
+
+
+
+
+<h2 id="events">Upcoming WordPress Events</h2>
+
+
+
+<p><strong>June 6, 2021</strong> <strong>7:00 pm EDT / 23:00 UTC</strong><br /><strong><a href="https://www.meetup.com/Philadelphia-WordPress-Meetup-Group/events/278507419/">WordPress Meetup Philadelphia</a></strong><br />Full Site Editing Review and Test-a-thon</p>
+
+
+
+<p><strong>June 7 &#8211; 9th, 2021</strong><br /><strong><a href="https://europe.wordcamp.org/2021/">WordCamp Europe</a></strong><br />A virtual event and contributor day. <a href="https://europe.wordcamp.org/2021/call-for-sponsors/">Call for sponsors is open.</a></p>
+
+
+
+<p><strong>🎉</strong>  Gutenberg Times is a media partner of WordCamp Europe 2021 </p>
+
+
+
+<p><strong>June 10th, 2021</strong><br /><strong><a href="https://www.meetup.com/SF-WordPress-Users/events/278491308">WordPress &#8220;Mega Meetup&#8221;: Plugins That Keep Websites Running</a></strong></p>
+
+
+
+<p><strong>June 20 &#8211; 26, 2021</strong><br /><strong><a href="https://japan.wordcamp.org/2021/">WordCamp Japan</a></strong><br /><em>The schedule has been posted. Most sessions will be in Japanese, with exceptions, I think&#8230; </em></p>
+
+
+
+<p><strong>June 24, 2021 </strong><br /><strong><a href="https://attend.wpengine.com/summit-us-2021/">WPEngine Summit 2021</a></strong><br /><em>The digital breakthrough conference</em> <a href="https://events.wpengine.com/event/fd217870-fc78-46d2-8c5e-96c85e6e371c/websitePage:645d57e4-75eb-4769-b2c0-f201a0bfc6ce?environment=P2&tm=nSwmA1-ZyLXwe2wM80Vzve3wDjKBWeqKrHbJFivPV4o&locale=en-US">just released their schedule</a>. Personally, I am very much looking forward to the Keynote talk with <strong>Reshma Saujani</strong>, founder of Girls Who Code and Marchall Plan for Moms at 12:55 EDT / 16:55 UTC.  I also hope to see talks with Rob Stinston, Carrie Dils and Chris Wiegman. There are also deep dive talks listed into Headless WordPress. Enterprise WordPress is definitely heading down that route. </p>
+
+
+
+<p><strong>June 24 &#8211; 26, 2021</strong><br /><strong><a href="https://cochabamba.wordcamp.org/2021/">WordCamp Cochabama</a></strong> (Colombia) </p>
+
+
+
+<p><strong>July 17 + 18th, 2021</strong><br /><strong><a href="https://santaclarita.wordcamp.org/2021/">WordCamp Santa Clarita</a></strong><br />Calls for speakers ends TODAY! </p>
+
+
+
+<p><strong>July 23, 2021</strong><br /><a href="https://www.wordfest.live/"><strong>WordFest Live </strong></a>&#8211; <em>The&nbsp;</em>festival of WordPress</p>
+
+
+
+<p>A<strong>ugust 6 + 7, 2021</strong><br /><a href="https://nicaragua.wordcamp.org/2021/"><strong>WordCamp Nicaragua</strong></a></p>
+
+
+
+<p><strong>September 21 + 22, 2021</strong><br /><a href="https://2021.wpcampus.org/"><strong>WPCampus 2021 Online</strong></a><br />&#8220;A free online conference for web accessibility and WordPress in higher education.&#8221;</p>
+
+
+
+<hr class="wp-block-separator is-style-wide" />
+
+
+
+<p>On the<a href="https://wpcalendar.io/online/"> <strong>Calendar for WordPress Online Events</strong> </a>you can browse a list of the upcoming WordPress Meetups, around the world, including WooCommerce, Elementor, Divi Builder and Beaver Builder meetups. </p>
+
+
+
+
+<hr class="wp-block-separator is-style-wide" />
+
+
+
+<p class="has-text-align-center"><strong>Don&#8217;t want to miss the next Weekend Edition? </strong></p>
+
+
+
+<form class="wp-block-newsletterglue-form ngl-form ngl-portrait" action="https://gutenbergtimes.com/feed/" method="post"><div class="ngl-form-container"><div class="ngl-form-field"><label class="ngl-form-label" for="ngl_email">Type in your Email address to subscribe.</label><div class="ngl-form-input"><input type="email" class="ngl-form-input-text" name="ngl_email" id="ngl_email" /></div></div><button class="ngl-form-button">Subscribe</button><p class="ngl-form-text">We hate spam, too and won&#8217;t give your email address to anyone except Mailchimp to send out our Weekend Edition</p></div><div class="ngl-message-overlay"><div class="ngl-message-svg-wrap"></div><div class="ngl-message-overlay-text">Thanks for subscribing.</div></div><input type="hidden" name="ngl_list_id" id="ngl_list_id" value="26f81bd8ae" /><input type="hidden" name="ngl_double_optin" id="ngl_double_optin" value="yes" /></form>
+
+
+
+<hr class="wp-block-separator is-style-wide" />
+
+
+
+
+<p>Featured Image: Photo by&nbsp;<a href="https://unsplash.com/@xavi_cabrera?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Xavi Cabrera</a>&nbsp;on&nbsp;<a href="https://unsplash.com/s/photos/lego?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Sat, 05 Jun 2021 19:32:17 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:18:"Birgit Pauli-Haack";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:27;a:6:{s:4:"data";s:13:"
+	
+	
+	
+	
+	
+	
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:51:"Gutenberg Times: WordCamp Europe 2021 starts Monday";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:35:"https://gutenbergtimes.com/?p=17964";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:62:"https://gutenbergtimes.com/wordcamp-europe-2021-starts-monday/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:6936:"<p>WordCamp Europe 2021 will be one of the largest virtual WordCamps again and the schedule has some great talks for every WordPress users, developers, site builders, theme designers, DIY site owners and content creators. </p>
+
+
+
+<p>We looked through the schedule and spotted very forward-looking Gutenberg related talks, workshops and discussions. Before you study the list, I would recommend the site <a href="https://www.timeanddate.com/worldclock/converter.html">Time Zone Converter</a> to help you convert the listed times from <strong>C</strong>entral <strong>E</strong>urope <strong>S</strong>ummer <strong>T</strong>ime (CEST) to your local time. Once in a while I get confused by time zones, and that&#8217;s my favorite site to set me straight. </p>
+
+
+
+<div class="wp-block-image is-style-rounded"><img /></div>
+
+
+
+<p class="has-large-font-size"><strong>Fabian Kägy, developer at 10up:  </strong><br /><strong><a href="https://europe.wordcamp.org/2021/session/building-great-experiences-in-the-new-editor/">Building great experiences in the new editor</a></strong></p>
+
+
+
+<p><strong>Description: </strong>Starting out building blocks or experiences for the WordPress block editor can be a bit daunting. Where do I start? Custom blocks, block patterns or just styling core blocks. In this talk, Kägy will walk through the different options and share the benefits and downsides of each while talking about overall good practices for building great editorial experiences.</p>
+
+
+
+<p>As a sidenote: Almost exactly a year ago,  <a href="https://gutenbergtimes.com/tooling-using-create-block-scaffolding-and-3rd-party-templates/">Fabian Kägy was a presenter at a Gutenberg Times Live Q &amp; A</a> together with Grzegorz Ziolkowski, and demo&#8217;d how you can use and extend the official WordPress create-block scaffolding tool. </p>
+
+
+
+<p><strong>Monday, June 7th, 2021, at 10am EDT / 14:00 UTC / 16:00 CEST</strong></p>
+
+
+
+<hr class="wp-block-separator is-style-wide" />
+
+
+
+<h2>Full-Site Editing Panel Discussion</h2>
+
+
+
+<p>The names of the panelist are still a secret, and I will update the post when we know more. </p>
+
+
+
+<p>If you&#8217;d like to get a jump start here are few resources: </p>
+
+
+
+<ul><li><a href="https://gutenbergtimes.com/video-full-site-editing-overview-with-anne-mccarthy/">Video: Full-Site Editing Overview with Anne McCarthy</a></li><li><a href="https://gutenbergtimes.com/full-site-editing/">Full-Site-Editing – the Ultimate Resource List</a></li><li><a href="https://gutenbergtimes.com/so-you-want-to-talk-about-full-site-editing/">So, You want to talk about Full-site Editing?</a></li></ul>
+
+
+
+<p><strong>Monday, June 7, 2021 at 12:34 pm EDT / 16:34 UTC / CEST: 18:34</strong></p>
+
+
+
+<hr class="wp-block-separator is-style-wide" />
+
+
+
+<p class="has-large-font-size">Workshop: <a href="https://europe.wordcamp.org/2021/session/a-walkthrough-of-full-site-editing-fse-from-one-of-the-contributors-to-the-experiment/">A walkthrough of Full Site Editing</a> with Herb Miller, Web developer in UK,</p>
+
+
+
+<div class="wp-block-image is-style-rounded"><img /></div>
+
+
+
+<p><strong>Description:</strong> Herb Miller will give a short tour of Full Site Editing (FSE) in this workshop from his perspective as a contributor to the outreach experiment for this major development in WordPress.</p>
+
+
+
+<p>He has created a&nbsp;<a href="https://sneak-peek.me/">learning resource</a>&nbsp;which attendees can use to follow on during the workshop.</p>
+
+
+
+<p>Herb will give attendees an overview of:</p>
+
+
+
+<ul><li>how to get started</li><li>the components of the Site Editor</li><li>example templates and template parts</li><li>some blocks used to create FSE themes</li><li>example themes</li><li>a very few code samples</li><li>some answers to FAQs</li><li>how to become involved</li><li>and many links to other resources</li></ul>
+
+
+
+<p><strong>Tuesday, June 8th, 2021 11am EDT / 15:00 UTC / 17:00 CEST</strong></p>
+
+
+
+<hr class="wp-block-separator is-style-wide" />
+
+
+
+<p class="has-large-font-size">Lee Shadle, web developer  <a href="https://europe.wordcamp.org/2021/session/blazing-fast-block-development/">Blazing fast block development</a> </p>
+
+
+
+<div class="wp-block-image is-style-rounded"><img /></div>
+
+
+
+<p>Lee Shadle wrote in his description: <em>&#8220;I’ve been OBSESSED w/ building blocks since before Gutenberg was released. I’ve built a BUNCH of custom block plugins over the years. In this workshop I’m going to share the framework I’ve been using for quickly building custom block plugins for WordPress.&#8221;</em>. Shadle recently also held a talk at WordSesh and demo&#8217;d his create-block-plugin scaffolding tool and it was inspiring. This is definitely not a talk to miss. </p>
+
+
+
+<p><strong>Tuesday June 8, 2021 12:00 EDT / 16:00 UTC / 18:oo CEST</strong></p>
+
+
+
+<hr class="wp-block-separator is-style-wide" />
+
+
+
+<p class="has-large-font-size">The Future of Themes in WordPress</p>
+
+
+
+<p>The future of themes will be a topic of this panel discussion. Stay tuned or follow WordCamp Europe on Social Media (<a href="https://twitter.com/WCEurope">Twitter</a>, <a href="https://www.facebook.com/WCEurope/">Facebook</a>, <a href="https://www.instagram.com/wceurope/">Instagram</a>).</p>
+
+
+
+<div class="wp-block-media-text alignfull is-stacked-on-mobile is-vertically-aligned-top is-image-fill has-background"><a href="https://us02web.zoom.us/webinar/register/8816229019893/WN_gyOVb1h4S4iO_UZi1GMQaA"><img /></a><div class="wp-block-media-text__content">
+<p class="has-normal-font-size"><strong><a href="https://us02web.zoom.us/webinar/register/8816229019893/WN_gyOVb1h4S4iO_UZi1GMQaA">Join us for our next Live Q &amp; A</a> </strong><br />on June 24, 2021 at 11am EDT / 15:00 UTC</p>
+
+
+
+<p><strong>Theme.json for Theme Authors or building themes for full-site editing in WordPress.</strong><br /><strong>Host</strong>: Birgit Pauli-Haack<br /><strong>Panel:</strong>&nbsp;Daily Olson, Tammie Lister and Jeff Ong           <span class="has-inline-color"><strong><a href="https://us02web.zoom.us/webinar/register/8816229019893/WN_gyOVb1h4S4iO_UZi1GMQaA">Register Now</a></strong></span></p>
+</div></div>
+
+
+
+<p></p>
+
+
+
+<hr class="wp-block-separator is-style-wide" />
+
+
+
+<div class="wp-block-image is-style-rounded"><img /></div>
+
+
+
+<p class="has-large-font-size">Conversation with Matt Mullenweg</p>
+
+
+
+<p>Matt Mullenweg is the co-founder of WordPress and the CEO of Automattic. The conversation should be the highlight of the WordCamp Europe</p>
+
+
+
+<p><strong>Wednesday, June 9th, 2021 &#8211; 11:42 EDT / 15:42 UTC /  17:42 CEST</strong></p>
+
+
+
+<hr class="wp-block-separator is-style-wide" />
+
+
+
+<p>This edition of the WordCamp Europe also offers interesting Sponsor talks. Look for them <a href="https://europe.wordcamp.org/2021/schedule/">on the schedule</a>, too.  </p>
+
+
+
+<p class="has-text-align-center has-dark-gray-color has-text-color has-normal-font-size"></p>
+
+
+
+<img />";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Sat, 05 Jun 2021 04:00:19 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:18:"Birgit Pauli-Haack";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:28;a:6:{s:4:"data";s:13:"
+	
+	
+	
+	
+	
+	
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:62:"Gutenberg Times: So, You want to talk about Full-site Editing?";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:35:"https://gutenbergtimes.com/?p=17970";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:71:"https://gutenbergtimes.com/so-you-want-to-talk-about-full-site-editing/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:16846:"<div class="wp-block-image is-style-rounded"><img src="https://ca.slack-edge.com/T024MFP4J-U02S2V0TP-d1c0c67781e2-512" alt="Anne McCarthy" width="282" height="282" /><a href="https://nomad.blog">Anne McCarthy writes at nomad.blog</a></div>
+
+
+
+<p>As we’re nearing 5.8, there’s an increasing demand for people to speak about Full Site Editing and this post should help act as a resource guide to enable more people to do so. As always, I would love contributions from the wider community to build this out into an even more comprehensive resource! While this post covers a lot of content, see it as a go to place to mix and match as you’d like for your own presentation rather than something you need to know every detail of. For example, if you’re presenting to theme authors, you can use this to get a sense at a glance of what might be relevant from what to demo, what resources to share, what GitHub issues to highlight, and more.</p>
+
+
+
+<div class="wp-block-sortabrilliant-guidepost"><ul><li><a href="https://gutenbergtimes.com/feed/#0-resources">Resources</a></li><li><a href="https://gutenbergtimes.com/feed/#1-key-points-to-cover-around-5-8">Key points to cover around 5.8:</a></li><li><a href="https://gutenbergtimes.com/feed/#2-demo-ideas">Demo ideas</a></li><li><a href="https://gutenbergtimes.com/feed/#3-helpful-git-hub-issues">Helpful GitHub issues</a></li><li><a href="https://gutenbergtimes.com/feed/#4-helpful-posts">Helpful Posts</a></li><li><a href="https://gutenbergtimes.com/feed/#5-conversation-starters">Conversation Starters</a></li><li><a href="https://gutenbergtimes.com/feed/#6-fa-qs">FAQs</a></li></ul></div>
+
+
+
+<div class="wp-block-media-text alignfull is-stacked-on-mobile is-vertically-aligned-top is-image-fill has-background"><a href="https://us02web.zoom.us/webinar/register/8816229019893/WN_gyOVb1h4S4iO_UZi1GMQaA"><img /></a><div class="wp-block-media-text__content">
+<p class="has-normal-font-size"><strong><a href="https://us02web.zoom.us/webinar/register/8816229019893/WN_gyOVb1h4S4iO_UZi1GMQaA">Join us for our next Live Q &amp; A</a> </strong><br />on June 24, 2021 at 11am EDT / 15:00 UTC</p>
+
+
+
+<p><strong>Theme.json for Theme Authors or building themes for full-site editing in WordPress.</strong><br /><strong>Host</strong>: Birgit Pauli-Haack<br /><strong>Panel:</strong>&nbsp;Daily Olson, Tammie Lister and Jeff Ong           <span class="has-inline-color"><strong><a href="https://us02web.zoom.us/webinar/register/8816229019893/WN_gyOVb1h4S4iO_UZi1GMQaA">Register Now</a></strong></span></p>
+</div></div>
+
+
+
+<h2 id="0-resources">Resources</h2>
+
+
+
+<ul><li>Feel free to re-use or get inspiration from&nbsp;this&nbsp;<a href="https://href.li/?https://www.youtube.com/watch?v=aPPzATDkHzg">FSE Overview</a>.</li><li>Pull from this&nbsp;<a href="https://href.li/?https://docs.google.com/document/d/1RGNG3HlB1HXPNXaFi50I56MIr1XHb9MiV3nc--MuBvs/edit">working transcript for the above talks</a>.</li></ul>
+
+
+
+<h2 id="1-key-points-to-cover-around-5-8">Key points to cover around 5.8:</h2>
+
+
+
+<ul><li>FSE&nbsp;is a collection of features and not a monolith.</li><li>Because FSE is a collection of features, Core can be flexible in shipping what is both stable and adds the most value.</li><li>5.8 is focused mainly on bringing tools to extenders with limited changes to the user experience. This includes theme.json, new theme blocks, design tools, and template editing mode.</li></ul>
+
+
+
+<h2 id="2-demo-ideas">Demo ideas</h2>
+
+
+
+<p>Depending on who you are and who the audience, the following are your best bets for demo content:</p>
+
+
+
+<ul><li>Block Theme building.&nbsp;<a href="https://profiles.wordpress.org/mkaz/">@mkaz</a>&nbsp;has some&nbsp;<a href="https://href.li/?https://www.youtube.com/c/MarcusKazmierczak/videos">great videos uploaded to YouTube</a>&nbsp;that you can check out and Carolina Nymark&nbsp;<a href="https://fullsiteediting.com/">has this lovely site</a>.</li><li>Template Editing Mode.&nbsp;<a href="https://www.youtube.com/watch?v=Z571V_jlD-o&feature=youtu.be">Here’s an overview video from yours</a>&nbsp;truly&nbsp;but keep in mind&nbsp;<a href="https://href.li/?https://github.com/WordPress/gutenberg/pull/31461">this in progress PR</a>&nbsp;that, if merged, would change the experience of editing a post/page inside template editing mode.</li><li>Explore blocks with a focus on the Navigation &amp;&nbsp;Query&nbsp;Blocks. Note that the Navigation Block is not planned for 5.8. You can see a list of blocks&nbsp;<a href="https://github.com/WordPress/gutenberg/blob/trunk/packages/block-library/src/index.js#L172-L192">planned for inclusion here</a>.</li><li>Build a custom 404 page. You can&nbsp;<a href="https://href.li/?https://make.wordpress.org/test/2021/03/09/fse-program-testing-call-3-create-a-fun-custom-404-page/">follow these instructions</a>&nbsp;to set up your demo.</li></ul>
+
+
+
+<h2 id="3-helpful-git-hub-issues">Helpful GitHub issues</h2>
+
+
+
+<ul><li><a href="https://href.li/?https://github.com/WordPress/gutenberg/issues/24551">Site Editing Milestones</a>: to get a high level overview of how this work has been approached and where to follow along.</li><li>On plans for restricting access:&nbsp;<a href="https://href.li/?https://github.com/WordPress/gutenberg/issues/26573">mapping features/functionality in order to update the UI</a>&nbsp;+&nbsp;<a href="https://href.li/?https://github.com/WordPress/gutenberg/issues/27597">proposal for a robust permissions system with FSE</a>.</li><li>On types of pathways for classic themes:&nbsp;<a href="https://href.li/?https://github.com/WordPress/gutenberg/issues/28744">Enabling FSE blocks in Classic Themes</a>,&nbsp;<a href="https://href.li/?https://github.com/WordPress/theme-experiments/pull/209">Experiment to add Customizer Color Controls to TT1</a>,&nbsp;<a href="https://href.li/?https://github.com/WordPress/theme-experiments/pull/173">Experiment using theme.json and Customizer</a>,&nbsp;<a href="https://href.li/?https://github.com/WordPress/gutenberg/pull/30438">Allow creating custom block templates in Classic themes</a>.</li><li>On the placement of the site editor experience:&nbsp;<a href="https://href.li/?https://github.com/WordPress/gutenberg/issues/29630#issuecomment-811617222">Design and discussion exploring how best to finalize</a>&nbsp;the placement of FSE related features in wp-admin. This is a long term item to keep in mind as the Site Editor is not shipping in 5.8.</li><li><a href="https://github.com/WordPress/gutenberg/issues/32365">Upcoming Dev Notes for 5.8</a>&nbsp;to get an early peak at what’s new.</li></ul>
+
+
+
+<h2 id="4-helpful-posts">Helpful Posts</h2>
+
+
+
+<ul><li><a href="https://href.li/?https://make.wordpress.org/core/2020/05/20/ways-to-keep-up-with-full-site-editing-fse/">Ways to keep up with FSE</a>&nbsp;so people can pick and choose their communication adventure.&nbsp;</li><li><a href="https://href.li/?https://make.wordpress.org/core/2021/02/01/full-site-editing-and-themes-where-things-are/">Full Site Editing and Themes: where things are</a>&nbsp;from February 2021.</li><li><a href="https://href.li/?https://make.wordpress.org/test/handbook/full-site-editing-outreach-experiment/">Full Site Editing Outreach Program</a>&nbsp;for those interested in helping to test and give feedback.&nbsp;</li><li><a href="https://href.li/?https://make.wordpress.org/test/tag/fse-answers/">A recent series of questions and answers</a>&nbsp;about Full Site Editing from 2021.</li><li><a href="https://href.li/?https://www.youtube.com/watch?v=JHxsDSAImn0">A great overview of FSE features</a>&nbsp;for non technical people.</li><li><a href="https://make.wordpress.org/core/2020/12/10/status-check-site-editing-and-customization/">Status check on Site Editing and Customization</a>&nbsp;from December 2020 for a more historical perspective.</li><li><a href="https://href.li/?https://make.wordpress.org/core/2021/04/15/full-site-editing-go-no-go-april-14-2021/">Go/No Go Recap post</a>: to show how decisions were made around this release.</li><li><a href="https://href.li/?https://make.wordpress.org/core/2021/04/20/full-site-editing-go-no-go-next-steps/">Go/No Go Next Steps post</a>: to give greater context around what needs to happen for each feature to be properly considered for inclusion in 5.8.</li><li><a href="https://href.li/?https://make.wordpress.org/test/handbook/full-site-editing-outreach-experiment/">Full Site Editing Outreach Program handbook page:</a>&nbsp;to highlight how people can get involved in giving feedback and improving FSE.</li><li><a href="https://href.li/?https://make.wordpress.org/test/handbook/full-site-editing-outreach-experiment/how-to-test-fse/">How to Test FSE:</a>&nbsp;to give practical guidance around how to explore these features.</li><li><a href="https://href.li/?https://developer.wordpress.org/block-editor/how-to-guides/themes/block-theme-overview/">Block Theme Documentation</a>: to help people get started with block theme creation.</li><li><a href="https://href.li/?https://developer.wordpress.org/block-editor/handbook/full-site-editing/">Full Site Editing Documentation</a>: to give a high level overview of FSE and an entry point to learn more.</li><li><a href="https://href.li/?https://github.com/WordPress/theme-experiments">Theme Experiments Repo</a>: to help people explore current approaches to block themes and various in progress experiments.</li><li><a href="https://href.li/?https://make.wordpress.org/themes/tags/gutenberg-themes-roundup/">Gutenberg + Themes Roundups</a>: to help people stay up to date on happenings in&nbsp;Gutenberg&nbsp;that impact themes.</li><li><a href="https://href.li/?https://make.wordpress.org/themes/tags/meeting/">Bi-monthly Block theme meeting</a>: to give people a chance to discuss the latest and greatest with block themes.</li><li><a href="https://make.wordpress.org/test/tag/fse-hallway-hangout/">FSE Hallway Hangouts</a>: to hear from those working on and giving feedback on these features.</li></ul>
+
+
+
+<h2 id="5-conversation-starters">Conversation Starters</h2>
+
+
+
+<ul><li>What would you like to see done as part of the&nbsp;<a href="https://href.li/?https://github.com/WordPress/gutenberg/issues/24551">gradual adoption milestone</a>?&nbsp;</li><li>What would make you more inclined to use Full Site Editing? On the flip side, what would make you less inclined?&nbsp;</li><li>Are there any key people or resources like podcasts, courses, documentation, etc that have helped you explore Full Site Editing?&nbsp;</li><li>How do you think Full Site Editing will change the WordPress ecosystem? What excites you there? What makes you nervous?&nbsp;</li><li>What do you think is most helpful to communicate about Full Site Editing right now to put more people at ease and build excitement?&nbsp;</li><li>What are you still confused about when it comes to Full Site Editing?</li></ul>
+
+
+
+<h2 id="6-fa-qs">FAQs</h2>
+
+
+
+<p>These are the top questions you can most likely expect to get asked with high level answers to get you started in the right direction. For a more comprehensive list of questions and answers,&nbsp;<a href="https://href.li/?https://make.wordpress.org/test/tag/fse-answers/">check out the FSE Outreach Program’s roundups</a>.</p>
+
+
+
+<div class="schema-faq wp-block-yoast-faq-block"><div class="schema-faq-section" id="faq-question-1622843349108"><strong class="schema-faq-question">What is Full Site Editing and what value will it bring?</strong> <p class="schema-faq-answer">Full Site Editing is a collection of features that bring the familiar experience and extendability of blocks to all parts of your site rather than just post and pages. In terms of value, it depends on who you are:<br />User: empowerment to customize what you want to your liking without needing to dive into code.<br />Themer/developer: focus less on coding thanks to various design tools and more on creating a compelling experience with your theme.<br />Agency: greater control and consistency over what you offer clients including things like setting custom branding colors or locking down various aspects of the site such as typography settings.<br />When you see or feel this value depends on who you are, how early you adopt features, and when stable features land in Core. Thanks to FSE being a collection of features, some independent and some interdependent, there’s wonderful room to ship what’s stable.</p> </div> <div class="schema-faq-section" id="faq-question-1622843371957"><strong class="schema-faq-question">What is going to happen to themes and what kinds of pathways are being created?</strong> <p class="schema-faq-answer">In the long run, it should make theme development much easier and simpler with design tools ready to tap into allowing theme authors to focus less on coding and functions and more on design expression and aesthetics. Because Full Site Editing requires a block based theme, this makes themes extremely important to get right! As a result, lots of pathways are being created including the ability to use theme blocks in a classic theme, exploring how to use the customizer and site editor as part of a “universal theme”, unlocking the ability to create a new block template in a classic theme, allowing classic themes to adopt the block widget editor, and more.<br />Key: Themes are a key part of the FSE experience, lots of work is being done to allow for a breadth of options going forward, and we need feedback from theme authors to make the transition easier. </p> </div> <div class="schema-faq-section" id="faq-question-1622843448534"><strong class="schema-faq-question">What about page builders/site builders?</strong> <p class="schema-faq-answer">FSE is being built in a way that site builders, if they choose to, can build on top of what’s being created. Overall though, FSE is being built partially so people don’t get locked into one site builder over another. While the goals shared between FSE and site builders are similar in terms of empowering users and give better tools to customize a site, the main difference is that we are developing tools that work for users, themers, and hopefully also page builders by expanding how WordPress uses blocks as a whole. Since Core has to strike a nice balance, it’s expected that future plugins will play a role here in exposing more/less depending on user needs.</p> </div> <div class="schema-faq-section" id="faq-question-1622843480900"><strong class="schema-faq-question">How will restricting access to these features work?</strong> <p class="schema-faq-answer">This will depend on who is asking the question (a user, a theme author, a developer, etc) but some of the GitHub issues referenced above should help. For users, I’d focus on the fact that they would either need to seek out a block theme to use or their current theme would need to ship specific updates. For a themer/developer, I’d share that there will be various options to opt in and out of this work (<a href="https://href.li/?https://github.com/WordPress/gutenberg/issues/27814#issuecomment-823921386">for example with creating block templates</a>). Upcoming <a href="https://github.com/WordPress/gutenberg/issues/32365">5.8 dev notes</a> should address this for any new features.</p> </div> <div class="schema-faq-section" id="faq-question-1622843499287"><strong class="schema-faq-question">Will upgrading to 5.8 cause FSE to take over my site like the Core Editor did in 5.0?</strong> <p class="schema-faq-answer">No. 5.8 is focused on giving tools to extenders first and foremost before more user facing changes are launched going forward and integrated into themes. In terms of user facing features, you can expect to see</p> </div> </div>
+
+
+
+<p><em><a href="https://nomad.blog/2021/06/02/so-you-want-to-talk-about-full-site-editing/">Anne McCarthy published this post on her personal blog</a> and gave us permission to republish it here as well.</em></p>
+
+
+
+<div class="wp-block-media-text alignfull is-stacked-on-mobile is-vertically-aligned-top is-image-fill has-background"><a href="https://us02web.zoom.us/webinar/register/8816229019893/WN_gyOVb1h4S4iO_UZi1GMQaA"><img /></a><div class="wp-block-media-text__content">
+<p class="has-normal-font-size"><strong><a href="https://us02web.zoom.us/webinar/register/8816229019893/WN_gyOVb1h4S4iO_UZi1GMQaA">Join us for our next Live Q &amp; A</a> </strong><br />on June 24, 2021 at 11am EDT / 15:00 UTC</p>
+
+
+
+<p><strong>Theme.json for Theme Authors or building themes for full-site editing in WordPress.</strong><br /><strong>Host</strong>: Birgit Pauli-Haack<br /><strong>Panel:</strong>&nbsp;Daily Olson, Tammie Lister and Jeff Ong           <span class="has-inline-color"><strong><a href="https://us02web.zoom.us/webinar/register/8816229019893/WN_gyOVb1h4S4iO_UZi1GMQaA">Register Now</a></strong></span></p>
+</div></div>
+
+
+
+<p></p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Sat, 05 Jun 2021 00:50:22 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Anne McCarthy";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:29;a:6:{s:4:"data";s:13:"
+	
+	
+	
+	
+	
+	
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:89:"WPTavern: Jetpack 9.8 Introduces WordPress Stories Block Alongside Forced Security Update";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=117820";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:223:"https://wptavern.com/jetpack-9-8-introduces-wordpress-stories-block-alongside-forced-security-update?utm_source=rss&utm_medium=rss&utm_campaign=jetpack-9-8-introduces-wordpress-stories-block-alongside-forced-security-update";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:6610:"<p><a href="https://jetpack.com/2021/06/01/jetpack-9-8-engage-your-audience-with-wordpress-stories/">Jetpack 9.8</a> was released this week, introducing WordPress&nbsp;Stories as the headline feature. The Story block, which allows users to create interactive stories, was previously only available on mobile. It can now be used in the web editor. Stories went into <a href="https://wptavern.com/wordpress-for-android-previews-new-story-posts-feature-now-in-public-beta">public beta on the Android app</a> in January 2021, and were officially <a href="https://wptavern.com/wordpress-com-and-jetpack-adds-story-block-for-mobile-apps">released</a> on the mobile apps in March.</p>
+
+
+
+<p>Version 9.8 also included a security patch for all sites using the Carousel feature. The <a href="https://wpscan.com/vulnerability/08a8a51c-49d3-4bce-b7e0-e365af1d8f33">vulnerability</a> allowed the comments of non-published pages/posts to be leaked. It was severe enough for the Jetpack team to work with WordPress.org to release 78 patched versions &ndash; every version of Jetpack since 2.0. Sites not using the Carousel feature were not vulnerable but could be in the future if it was enabled and left unpatched. </p>
+
+
+
+<p>In a rare move, WordPress.org pushed a forced update to all vulnerable versions, surprising those who have auto-updates disabled. Several Jetpack users posted in the support forums, asking why the plugin had <a href="https://wordpress.org/support/topic/jetpack-updated-without-permission/">updated automatically without permission</a> and in some cases not to the newest version.</p>
+
+
+
+<div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">So this update was a forced update on WordPress sites even with auto-updates disabled? <br /><br />We had this go live on a prod site at 2am last night that has auto-updates disabled for very specific reasons. <br /><br />Not cool Jetpack. <a href="https://t.co/55upBmyeHp">https://t.co/55upBmyeHp</a></p>&mdash; Brad Williams (@williamsba) <a href="https://twitter.com/williamsba/status/1400498727991787521?ref_src=twsrc%5Etfw">June 3, 2021</a></blockquote>
+</div>
+
+
+
+<p>Jetpack team member Jeremy Herve said the vulnerability was responsibly disclosed via Hackerone, allowing them to work on a patch for the issue. After it was ready to go, the Jetpack team reached out to the <a rel="noreferrer noopener" target="_blank" href="http://wordpress.org/">WordPress.org</a>&nbsp;security team to inform them of a vulnerability impacting multiple versions of the plugin.</p>
+
+
+
+<p>&ldquo;We sent them the patch alongside all the info we had (a PoC for the vulnerability, what features had to be active, what versions of Jetpack were impacted),&rdquo; Herve said. &ldquo;They recommended we release point releases for older versions of Jetpack as well.</p>
+
+
+
+<p>&ldquo;We created those new releases, and when we were ready to release them, someone from the&nbsp;<a rel="noreferrer noopener" target="_blank" href="http://wordpress.org/">WordPress.org</a>&nbsp;team made some changes on the&nbsp;<a rel="noreferrer noopener" target="_blank" href="http://wordpress.org/">WordPress.org</a>&nbsp;side so folks running old, vulnerable versions of the plugin would get auto-updated, just like it works for Core versions of WordPress.&rdquo;</p>
+
+
+
+<p>Jetpack team member Brandon Kraft estimated the number of vulnerable sites at 18% of the plugin&rsquo;s active installs. He said that Jetpack was not part of the discussion about the pushing out a forced update.</p>
+
+
+
+<div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We weren't part of the discussion. Provided details and got the response, but I wouldn't expect a security convo to be public. But, yes. Single feature impacted. A few things need to be all true for it to matter on a site, which looked like qualified about 18% of sites IIRC.</p>&mdash; A Guy Called Kraft &#128567;&#128137; (@Kraft) <a href="https://twitter.com/Kraft/status/1400545471165304839?ref_src=twsrc%5Etfw">June 3, 2021</a></blockquote>
+</div>
+
+
+
+<p>&ldquo;What probably adds to the confusion is that WordPress 5.5 added a UI for plugin (and theme) autoupdates,&rdquo; Herve said. &ldquo;That UI, while helping one manage plugin autoupdates on their site, is a bit different from Core&rsquo;s forced update process. Both of those update types can be deactivated by site owners, just like core&rsquo;s autoupdates can be deactivated, but I don&rsquo;t believe (and honestly wouldn&rsquo;t recommend) that many folks deactivate those updates.&rdquo;</p>
+
+
+
+<p>Brandon Kraft dug deeper into the topic and published a <a href="https://kraft.blog/2021/06/automatic-updates-in-wordpress/">post</a> that explains the differences between auto-updates and forced updates. It includes how to lock down file modifications if you don&rsquo;t want to receive any forced updates in the future. Forced updates, however, are exceedingly rare, and Kraft counts only three for Jetpack since 2013.</p>
+
+
+
+<p>In this instance, the Jetpack team followed the <a href="https://developer.wordpress.org/plugins/wordpress-org/plugin-security/#automatic-plugin-security-updates">official process for reporting a critical vulnerability</a> to the plugin and security teams who determine the impact for users based on a set criteria. Users who received an email notification about an automatic update from Jetpack, despite having the UI in the dashboard set to disable them, should be aware that these forced updates can come once in a blue moon for security purposes. </p>
+
+
+
+<p><a href="https://perezbox.com/">Tony Perez</a>, founder of NOC and former CEO at Sucuri, <a href="https://noc.org/2021/06/03/automattics-jetpack-plugin-for-wordpress-abuses-user-defined-settings-calls-into-question-auto-updates/">contends</a> that forcing a security update like this violates the intent users&rsquo; assign when using the auto-updates UI in WordPress. He highlighted the potential for abuse if the system were to become vulnerable to a bad actor.</p>
+
+
+
+<p>&ldquo;The platform is making an active decision that is arguably contrary to what the site administrator is intending when they explicitly say they don&rsquo;t want something done,&rdquo; Perez said. &ldquo;Put plainly, it&rsquo;s an abuse of trust that exists between the WordPress user and the Foundation that helps maintain the project.</p>
+
+
+
+<p>&ldquo;My position is not that it shouldn&rsquo;t exist. That&rsquo;s a much deeper ideological debate, but it is about respecting an administrators explicit intent.&rdquo;</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Sat, 05 Jun 2021 00:04:46 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Sarah Gooding";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:30;a:6:{s:4:"data";s:13:"
+	
+	
+	
+	
+	
+	
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:94:"WPTavern: Create Per-Post Social Media Images With the Social Image Generator WordPress Plugin";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=117539";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:233:"https://wptavern.com/create-per-post-social-media-images-with-the-social-image-generator-wordpress-plugin?utm_source=rss&utm_medium=rss&utm_campaign=create-per-post-social-media-images-with-the-social-image-generator-wordpress-plugin";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:6689:"<img />
+
+
+
+<p class="has-drop-cap">It was a bit of a low-key announcement when Daniel Post introduced <a href="https://socialimagegenerator.com/">Social Image Generator</a> to the world in February <a href="https://twitter.com/danielpost/status/1357680161546764293">via tweet</a>. But, when you get <a href="https://css-tricks.com/auto-generated-social-media-images/">repped by Chris Coyier</a> of CSS-Tricks and the co-founder of WordPress <a href="https://twitter.com/photomatt/status/1398044870489657345">uses your plugin</a> (come on, Matt, set a default image), it means your product is on the right track.</p>
+
+
+
+<p>I am not easily impressed by every new plugin to fly across my metaphorical desk. I probably install at least a couple dozen every week. Sometimes, I do so because something looks handy on the surface, and I want to see if I can find some use for it. Other times, I think it might be worth sharing with Tavern readers. More often than not, I consider most of them cringeworthy. I have high standards.</p>
+
+
+
+<p>As I chatted with Post about this new plugin, I was excited enough to call Social Image Generator one of those <em>OMG-where-have-you-been?</em> types of plugins. You will not hear that from me often.</p>
+
+
+
+<p>Post quit his day job to venture out earlier this year, creating his one-man WordPress agency named <a href="https://posty.studio/">Posty Studio</a>. Social Image Generator is its first product.</p>
+
+
+
+<p>&ldquo;I kept seeing tutorials on my Twitter feed on how to automatically generate images for your social media posts, but unfortunately, they all used a similar approach (Node.js) that just wasn&rsquo;t suitable for WordPress,&rdquo; said Post of the inspiration for the plugin. &ldquo;This got me thinking: would it be possible to make this for WordPress? I started playing around with image generation in PHP, and when I got my proof of concept working, I realized that this might actually be something I should pursue.&rdquo;</p>
+
+
+
+<p>In our chat over Slack, we actually saw the plugin in action. As he shared Coyier&rsquo;s article from CSS-Tricks, the chatting platform displayed the social image in real-time.</p>
+
+
+
+<img />Auto-generated image appearing via Slack.
+
+
+
+<p>Maybe it was fate. Maybe Post knew it would happen and thought it would be a good idea to show off his work as we talked about his project. Either way, it was enough to impress the writer who is unafraid to call your plugin a dumpster fire if he smells smoke.</p>
+
+
+
+<p>Post seems to be hitting all the right notes with this commercial plugin. It has a slew of features built into version 1.x, which we will get to shortly. It is dead simple to use. It is something nearly any website owner needs, assuming they want to share their content via social networks. And, with a <a href="https://socialimagegenerator.com/#pricing">$39/year starting price</a>, it is not an overly expensive product for those on the fence about buying.</p>
+
+
+
+<h2>How the Plugin Works</h2>
+
+
+
+<p class="has-drop-cap">After installing and activating Social Image Generator, users are taken to the plugin&rsquo;s settings screen. Other than a license key field and a button for clearing the image cache, most users will want to dive straight into the template editor.</p>
+
+
+
+<p>At the moment, the plugin includes 23 templates. From Twenty Seventeen to Twenty Twenty-One, each of the last four default WordPress themes also has a dedicated template. After selecting one, users can customize the colors for the logo, post title, and more &mdash; the amount of customization depends on the chosen template.</p>
+
+
+
+<img />Browsing the plugin&rsquo;s templates.
+
+
+
+<p>Aside from selecting colors, users can choose between various logo and text options. They can also upload a default image for posts without featured images.</p>
+
+
+
+<img />Editing a template from Social Image Generator.
+
+
+
+<p>When it comes time to publish, the plugin adds a meta box to the post sidebar. Users can further customize their social image and text on a per-post basis.</p>
+
+
+
+<img />Social image preview box on the post-editing screen.
+
+
+
+<p>Once published, the plugin creates an image that will appear when a post is shared on social media.</p>
+
+
+
+<p>On the whole, there is a ton that anyone can do with the built-in templates. There is also an API for developers to create their own. For a first outing, it is a robust offering. However, there is so much more that can be done to make the plugin more flexible.</p>
+
+
+
+<h2>Version 2.0 and Beyond</h2>
+
+
+
+<p class="has-drop-cap">Thus far, Post said he has received tons of positive feedback along with feature requests. Primarily, users are asking for more customization options and the ability to create and use multiple templates. These are the focus areas for the next version. With a 1,718% increase in revenue in the past month, it seems he might have the initial financial backing to invest in them.</p>
+
+
+
+<p>&ldquo;I&rsquo;ve started building a completely <a href="https://twitter.com/danielpost/status/1390316805596590083">overhauled drag-n-drop editor</a>, which will allow you to create basically any custom image you want,&rdquo; he said. &ldquo;It will be heavily inspired by the block editor, and I want to keep the UI and UX as close to the block editor as possible.&rdquo;</p>
+
+
+
+<p>The new template editor would allow users to create multiple layers, an idea similar to how Photoshop, Gimp, and other image-editing software works. The difference would be that it can pull in data from WordPress.</p>
+
+
+
+<p>&ldquo;For example, an &lsquo;Image&rsquo; layer will have options such as height/width and positioning, as well as some stylistic options like color filters and gradient overlays,&rdquo; said Post. &ldquo;A &lsquo;Text&rsquo; layer can be any font, color, and size and can show predefined options (post title, date, etc.) or whatever you want. You can add an infinite number of layers and order them however you&rsquo;d like.&rdquo;</p>
+
+
+
+<p>He seems excited about opening up new possibilities with an overhauled editor. Users could potentially create social image templates for each post type. A custom layer might pull in post metadata, such as displaying product pricing or ratings from eCommerce plugins like WooCommerce.</p>
+
+
+
+<p>&ldquo;The prebuilt templates will still exist, similar to Block Patterns in the block editor,&rdquo; said the plugin developer. &ldquo;They will, however, serve as a starting point rather than the final product. I&rsquo;ll also try to implement theme styling as much as possible.</p>
+
+
+
+<p>&ldquo;The possibilities here are so endless, and I&rsquo;m incredibly excited for this next part.&rdquo;</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Fri, 04 Jun 2021 23:59:14 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:14:"Justin Tadlock";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:31;a:6:{s:4:"data";s:13:"
+	
+	
+	
+	
+	
+	
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:65:"WPTavern: Building Featured Boxes With the WordPress Block Editor";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=117803";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:175:"https://wptavern.com/building-featured-boxes-with-the-wordpress-block-editor?utm_source=rss&utm_medium=rss&utm_campaign=building-featured-boxes-with-the-wordpress-block-editor";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:6333:"<p class="has-drop-cap">It is a new day with another chase for that elusive block plugin that will bring a little joy into my life. Today&rsquo;s experiment comes courtesy of the <a href="https://wordpress.org/plugins/feature-box/">Feature Box plugin</a> by Sumaiya Siddika. It is a simple block that allows end-users to upload an image and add some content to an offset box.</p>
+
+
+
+<p>The plugin&rsquo;s output is a typical pattern on the web. As usual, I am excited to see plugin authors experimenting with bringing these features to WordPress users. I want to see more of it, especially from first-time plugin contributors.</p>
+
+
+
+<p>I was able to quickly get the block up and running, adding my custom content. The following is what the block looked like after entering my content and customizing it. <em>I envisioned myself as a recipe blogger for this test.</em></p>
+
+
+
+<img />Inserting and modifying the Feature Box block.
+
+
+
+<p>On a technical level, the plugin worked well. I ran into no errors. Everything was simple to customize. However, it never felt like an ideal user experience.</p>
+
+
+
+<p>The first thing I immediately noticed is that image uploading happens in the block options sidebar. Core WordPress blocks have a dedicated button in the toolbar for adding images and other media. I also found myself wanting more direct control over individual elements. <em>How could I change the heading font size? Where were the typical button styles like Outline and Solid Color? How do I insert other blocks, like a list?</em></p>
+
+
+
+<p>None of those things were possible. Like many other blocks, the developer has created a system with specific parameters, and the user cannot move outside of them. There are times when that rigidity makes sense, such as when building custom blocks for clients. However, more often than not, publicly-released plugins should be far more open.</p>
+
+
+
+<p>This tightly controlled block is reflective of how WordPress worked in the past. It was often inflexible, leaving users to what theme and plugin developers thought was best for their sites.</p>
+
+
+
+<p>The block system is about tossing out these overly rigid concepts and giving users power over their content. The job of plugins and themes is to define the framework the user is operating under. They set up some rules to more or less keep things from breaking, but the users get to strap themselves into the driver&rsquo;s seat. Their destination is their own.</p>
+
+
+
+<p>The block would have been far more well-rounded if users could control all of the content in the box. Ideally, they could put whatever blocks they wanted into the &ldquo;content&rdquo; area of the Feature Box block. The design would match their theme better too.</p>
+
+
+
+<p>A couple of weeks ago, I wrote a post titled <a href="https://wptavern.com/you-might-not-need-that-block">You Might Not Need That Block</a>. The premise was that users could recreate some blocks with the current editor and that themers could make this easier by offering patterns.</p>
+
+
+
+<p>I knew replicating this particular block would be impossible without at least a little custom code. WordPress&rsquo;s editor does not have a feature for offsetting a block&rsquo;s position.</p>
+
+
+
+<p>A theme author could easily duplicate this functionality. Typically, I would create a custom pattern, complete with all the existing pieces in place. However, I wanted to approach this with custom block styles. This would allow end-users to select the content offset from the sidebar and switch it around if needed.</p>
+
+
+
+<p class="is-style-default"><strong>Note:</strong> For those who wish to learn how to create custom block styles, Carolina Nymark&rsquo;s <a href="https://fullsiteediting.com/lessons/custom-block-styles/">tutorial</a> is the best resource.</p>
+
+
+
+<p>The Cover block made an ideal candidate for this. Because it has an existing &ldquo;inner wrapper&rdquo; element, it meant that I could target it with CSS and move it around. The following is a screenshot of the Offset Left style I created:</p>
+
+
+
+<img />Offset Left Cover block style.
+
+
+
+<p>I simply replicated the code and changed a few values to create an Offset Right style immediately after. The code is available as a <a href="https://gist.github.com/justintadlock/70180c2019f1e2dbdda96ee263610671">GitHub Gist</a>.  It is a simple proof-of-concept and not a polished product.  There are various approaches to this, and several Cover block options are left unhandled.  Theme authors are free to take the code and run with it.</p>
+
+
+
+<p>These block styles looked far better because they matched my theme. Everything from the spacing to the border-radius to the button looked as it should.</p>
+
+
+
+<ul><li class="blocks-gallery-item"><img /></li><li class="blocks-gallery-item"><img /></li></ul>Offset Left and Right block styles.
+
+
+
+<p>The big win was that I had design control over every aspect of the content box. I could select the button style I wanted. I could change my font sizes. The default spacing matched my theme as it should.</p>
+
+
+
+<p>The problem I ran into with the block style method is allowing users to control the content box&rsquo;s background color. The Feature Box plugin wins in the user experience category here because it has an option for this. The block style I created inherits its background from the Cover block parent. It may not be immediately obvious how to change it.</p>
+
+
+
+<p>The other &ldquo;problem&rdquo; with the block style is that it does not handle wide and full alignments for the Cover block. That is because I did not take the experiment that far, only replicating the plugin&rsquo;s layout. I will leave that to theme designers to tinker around with. There are many possibilities to explore; <em>don&rsquo;t wait for me to provide all the ideas</em>.</p>
+
+
+
+<p>My goal with this post and similar ones is to show how I would approach these things as both a user and developer. As a user, I want flexibility in all things. As a developer, I want to provide the solutions that I desire as a user.</p>
+
+
+
+<p>I also want to see plugin and theme authors thinking beyond their initial use case when building blocks, patterns, styles, and more. Lay the groundwork. Then, expand on that initial idea by thinking of all the ways that users might want to customize what you have built.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Fri, 04 Jun 2021 05:07:41 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:14:"Justin Tadlock";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:32;a:6:{s:4:"data";s:13:"
+	
+	
+	
+	
+	
+	
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:65:"WPTavern: Delicious Brains Acquires Advanced Custom Fields Plugin";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=117769";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:175:"https://wptavern.com/delicious-brains-acquires-advanced-custom-fields-plugin?utm_source=rss&utm_medium=rss&utm_campaign=delicious-brains-acquires-advanced-custom-fields-plugin";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:4240:"<p><a href="https://deliciousbrains.com/">Delicious Brains</a>, the company behind <a href="https://deliciousbrains.com/wp-migrate-db-pro/">WP Migrate DB Pro</a> and <a href="https://spinupwp.com/">SpinupWP</a>, has <a href="https://www.advancedcustomfields.com/blog/10-years-of-acf-a-truly-wonderful-time/">acquired</a> the <a href="https://wordpress.org/plugins/advanced-custom-fields/">Advanced Custom Fields</a> (ACF) plugin from its creator, Elliot Condon. After 10 years, the plugin has more than 1 million active installs and a thriving business based on the Pro version. It has become an indispensable part of the workflow for thousands of WordPress developers around the globe.</p>
+
+
+
+<p>The plugin allows developers to easily customize WordPress edit screens and custom field data. In 2019, the Pro version <a href="https://wptavern.com/advanced-custom-fields-5-8-0-introduces-acf-blocks-a-php-framework-for-creating-gutenberg-blocks">introduced ACF Blocks</a>, a PHP-based framework for developing custom blocks. This came as a great relief to many developers who did not know how they were going to keep pace with learning the JavaScript required to use WordPress&rsquo; Block API.</p>
+
+
+
+<p>General reaction to the news was positive, as ACF fits in neatly with Delicious Brains&rsquo; suite of well-maintained developer products. The company&rsquo;s founders also possess a genuine appreciation of ACF and its importance to the WordPress developer community.</p>
+
+
+
+<p>&ldquo;I don&rsquo;t think WordPress would be where it is today without ACF,&rdquo; Brad Touesnard said on a recent <a href="https://delicious-brains.castos.com/episodes/episode-5-a-wordpress-announcement-of-epic-proportions/">episode</a> of the Delicious Brain Waves podcast.</p>
+
+
+
+<p>Condon cited the scale of the project and &ldquo;technology complexity and user expectation&rdquo; as factors in his decision to sell ACF. As a one-person team, he was unable to keep up with the growth of ACF over the years.</p>
+
+
+
+<p>&ldquo;Stepping away from ACF has not been an easy decision to make,&rdquo; Condon said. &ldquo;The reasoning behind it comes from a place of humility. As the number of installs have grown from thousands to millions, the needs of the product have outgrown my ability to develop solutions. The last thing I want to do to this amazing community is unintentionally hold back the project, so something needed to change.&rdquo;</p>
+
+
+
+<p>Delicious Brains&rsquo; announcement stated that the company will be reviewing Condon&rsquo;s roadmap for the product in hopes of fulfilling his vision moving forward.</p>
+
+
+
+<p>&ldquo;Two of our greatest strengths that we&rsquo;ll bring to ACF are design (UI/UX) and developer education,&rdquo; Touesnard said. &ldquo;We&rsquo;ll be focusing our initial efforts in those areas. I have a few UI/UX improvements in mind that would make a huge difference to users. We also see a significant opportunity to produce developer-focused content focused on effectively using ACF in your WordPress projects.&rdquo;</p>
+
+
+
+<p>Touesnard also confirmed that Delicious Brains will not be making any drastic changes to ACF or ACF Pro, nor do they plan to adjust the pricing of the product anytime soon. </p>
+
+
+
+<p>&ldquo;If we ever decide to update pricing in the future, we won&rsquo;t force existing customers onto the new pricing,&rdquo; he said.</p>
+
+
+
+<p>After the initial announcement, there was some <a href="https://twitter.com/bradt/status/1400488841123930114">confusion surrounding lifetime licenses</a> that originated from a hasty response to a customer inquiry. Delicious Brains has since updated the post to clarify the company&rsquo;s commitment to ACF Pro&rsquo;s lifetime customers.</p>
+
+
+
+<p>&ldquo;We are committed to honoring lifetime licenses forever,&rdquo; Touesnard said. &ldquo;Lifetime license holders will get&nbsp;<strong>all</strong>&nbsp;ACF Pro software updates forever.&rdquo;</p>
+
+
+
+<p>More information on how the acquisition happened, as well as what customers can expect in the future, is available on the most recent <a href="https://delicious-brains.castos.com/episodes/episode-5-a-wordpress-announcement-of-epic-proportions/">episode of the Delicious Brain Waves podcast</a>.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Fri, 04 Jun 2021 03:35:36 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Sarah Gooding";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:33;a:6:{s:4:"data";s:13:"
+	
+	
+	
+	
+	
+	
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:60:"WordPress.org blog: A New Design is Coming to WordPress News";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:35:"https://wordpress.org/news/?p=10418";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:76:"https://wordpress.org/news/2021/06/a-new-design-is-coming-to-wordpress-news/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:1152:"<p>After many years of a tidy, white-space filled design on WordPress.org/news it&#8217;s time to bring new life to the way we present our content. So much has changed since this site was first created: the people who read it, the type and variety of what is published, even the way WordPress works has changed.</p>
+
+
+
+<p>Which means it makes sense to change our theme. </p>
+
+
+
+<p>Earlier this year, Matt requested a new design from Beatriz Fialho (who also created the State of the Word slides for 2020). The design keeps a clean, white-space friendly format while incorporating a more jazzy, playful feeling with a refreshed color palette. </p>
+
+
+
+<img width="632" height="449" src="https://i0.wp.com/wordpress.org/news/files/2021/06/25-1024x728-1.png?resize=632%2C449&ssl=1" alt="" class="wp-image-10420" />
+
+
+
+<p>More detail on this modern exploration have been posted on <a href="https://make.wordpress.org/design/2021/06/03/redesign-of-wordpress-org-news/">make.wordpress.org/design</a>. I encourage you to stop by and read more about the thoughts behind the coming updates; and keep an eye out for the new look here and across WordPress.org!</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 03 Jun 2021 20:47:56 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:7:"Josepha";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:34;a:6:{s:4:"data";s:13:"
+	
+	
+	
+	
+	
+	
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:74:"WPTavern: Forks and Alternatives: Custom User Avatar Plugins for WordPress";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=117207";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:191:"https://wptavern.com/forks-and-alternatives-custom-user-avatar-plugins-for-wordpress?utm_source=rss&utm_medium=rss&utm_campaign=forks-and-alternatives-custom-user-avatar-plugins-for-wordpress";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:7622:"<p class="has-drop-cap">You know what one of the great things about open source is? Others can use a project&rsquo;s code, share it wholesale, modify it, and/or distribute their changes. These are the <a href="https://wordpress.org/about/#bill-of-rights">pillars upon which WordPress stands</a>. It is a beautiful thing to watch in practice.</p>
+
+
+
+<p>Most often, it means we can build off the shoulders of those giants who came before us, continually improving the software for ourselves and others. It is how WordPress got its start nearly two decades ago as a fork of the b2/cafelog blogging system.</p>
+
+
+
+<p>Sometimes, it just means having the freedom to give your friend a copy of something you love and letting them use it. Other times, it is the gateway for a budding developer learning how functions or classes work for the first time, ripping apart a project to see what makes it tick.</p>
+
+
+
+<p>Every so often, the promise of free software means that others can decide to go their own way when they do not like the direction a project is heading. They can fork the code, carving a new destination for its future.</p>
+
+
+
+<p>This is what happened when <a href="https://wptavern.com/profilepress-rebrands-and-repurposes-wp-user-avatar-now-a-membership-plugin-users-revolt-via-the-wordpress-review-system">ProfilePress overhauled its WP User Avatar plugin</a>, turning it into a full-fledged membership solution. While its average user may not be able or willing to dip their toes into the depths of the development waters, when you have a 400,000+ user base, a few of them are bound to be programmers. Or at least tech-savvy enough to create a copy of the previous version and distribute it directly.</p>
+
+
+
+<p>It did not take long &mdash; mere days &mdash; before ex-users began sharing their forks. The beauty of open source is that they have the power to do this without some corporation cracking down on them. I wanted to acknowledge what they accomplished by jumping into a messy situation and making quick alternatives for many users who felt abandoned. This is my symbolic handclap. &#128079;</p>
+
+
+
+<p>It is not often that we get to mention WordPress&rsquo;s license without gearing up for battle.  However, the GPL played a crucial role in making these forks possible.  The license protected the plugin&rsquo;s user base, giving them multiple alternative paths to take.</p>
+
+
+
+<p>Without further preaching the merits of open source, the following are the current forks of WP User Avatar:</p>
+
+
+
+<ul><li><a href="https://wordpress.org/plugins/one-user-avatar/">One User Avatar</a> by Daniel Tara (One Designs). It already has nine translations and is available on WordPress.org.</li><li><a href="https://github.com/dartiss/custom-user-avatar">Custom User Avatar</a> by David Artiss. It is currently available on GitHub, but it appears he plans to add it to the plugin directory.</li><li><a href="https://github.com/stracker-phil/orig-user-avatar">Orig User Avatar</a> by Philipp Stracker. This one is also only available on GitHub.</li></ul>
+
+
+
+<p>Each fork looks like a straight port of the latest version of WP User Avatar before version 3.0. There are some necessary code and branding changes. The first two also remove all advertising from the plugin.</p>
+
+
+
+<p>For anyone looking to return to the exact same functionality as the old plugin, any one of these will do the job.</p>
+
+
+
+<h2>Alternative Solutions</h2>
+
+
+
+<p class="has-drop-cap">Straight ports are nice to have, especially for those who need to keep their data intact for many user accounts, but this could also be an opportunity for others to look at alternatives. And, custom user avatar solutions are a dime a dozen. There is a little something for everyone out there.</p>
+
+
+
+<p>The following is nowhere near a comprehensive list. I have either tested or used most of these in the past couple of years.  I encourage anyone to share plugins I did not include in the comments.</p>
+
+
+
+<h3>Simple Local Avatars</h3>
+
+
+
+<img />
+
+
+
+<p>Topping any list of custom avatar solutions is <a href="https://wordpress.org/plugins/simple-local-avatars/">Simple Local Avatars</a> by 10up. The WordPress company is one of the most respected in the community, and its employees contribute heavily to core development. 10up tends to put together solid plugins.</p>
+
+
+
+<p>Simple Local Avatars does just what it says on the box. It allows users to upload custom avatars to their site. It also generates requested image sizes on demand. It works alongside Gravatar, a feature that can be enabled or disabled. It also has built-in options for site administrators to grant permission to non-authorized roles to upload their photos.</p>
+
+
+
+<h3>WP User Avatars</h3>
+
+
+
+<img />
+
+
+
+<p><a href="https://wordpress.org/plugins/wp-user-avatars/">WP User Avatars</a> by John James Jacoby, a lead developer for bbPress and BuddyPress, is another simple plugin. Like many similar solutions, it adds a form for users to manage their avatar from their profile pages.</p>
+
+
+
+<p>It is unique in that it works alongside a suite of other user-related plugins that Jacoby offers. While it can work on its own, it is at least worth checking out his <a href="https://wordpress.org/plugins/wp-user-profiles/">WP User Profiles</a> plugin, which overhauls WordPress profile pages. It and his other user-related plugins work in conjunction with each other. Plugin users can pick and choose which they wish to install.</p>
+
+
+
+<h3>User Profile Picture</h3>
+
+
+
+<img />
+
+
+
+<p>There seems to be a pattern emerging here &mdash; users tend to love these simple avatar solutions. <a href="https://wordpress.org/plugins/metronet-profile-picture/">User Profile Picture</a> by Cozmoslabs is another that fits this mold. It also includes a block to allow post or page authors to output any user&rsquo;s profile (avatar, name, description, and posts link) on the site front end.</p>
+
+
+
+<p>Users without permission to upload an image cannot add an avatar with this plugin alone. By default, this is the Administrator, Editor, and Author roles. Site admins will need to install either a permissions plugin or Cozmoslabs&rsquo; <a href="https://wordpress.org/plugins/profile-builder/">Profile Builder</a> for the extra capability.</p>
+
+
+
+<h3>Pixel Avatars (Toolbelt)</h3>
+
+
+
+<img />
+
+
+
+<p>Pixel Avatars is a privacy-first Gravatar replacement. It takes a different route than similar options by not providing a method to upload a custom avatar. Instead, it automatically generates unique avatars for each user with a bit of JavaScript. It is a fun twist on the typical avatar system.</p>
+
+
+
+<p>Technically, this is not a standalone avatar plugin. The Pixel Avatars system is a sub-component of the <a href="https://wordpress.org/plugins/wp-toolbelt/">Toolbelt plugin</a>. Created by Ben Gillbanks, it is a collection of tools that he uses for most of his WordPress projects. It may be overkill for many, but each plugin module can be enabled or disabled based on user needs.</p>
+
+
+
+<h3>Local Gravatars</h3>
+
+
+
+<img />
+
+
+
+<p>This plugin is also different from other solutions because it does not allow local avatar uploading. However, it is a solid alternative for those who just need faster load times, especially on posts that display dozens or hundreds of Gravatar images in the comments.</p>
+
+
+
+<p><a href="https://wordpress.org/plugins/local-gravatars/">Local Gravatars</a> by Ari Stathopoulos is a caching system. It stores Gravatar images on the user&rsquo;s server for a week before flushing them out. This can make for a performance boost instead of hitting the Gravatar CDN for each image.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 03 Jun 2021 01:33:25 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:14:"Justin Tadlock";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:35;a:6:{s:4:"data";s:13:"
+	
+	
+	
+	
+	
+	
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:56:"WPTavern: WordCamp Europe 2021 Online Schedule Announced";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=117521";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:157:"https://wptavern.com/wordcamp-europe-2021-online-schedule-announced?utm_source=rss&utm_medium=rss&utm_campaign=wordcamp-europe-2021-online-schedule-announced";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:2933:"<p>Mark your calendars for the next major WordPress event coming up at the beginning of next week. <a href="https://europe.wordcamp.org/">WordCamp Europe</a> is just five days away and will run from <strong>June 7-9</strong>. In July 2020, organizers announced that in-person events would not resume until 2022. At that time, attendees were deeply disappointed but resigned to the necessity of online events due to the pandemic. </p>
+
+
+
+<p>One of the advantages of scheduling a virtual event so far in advance is that organizers have been able to eliminate a great deal of uncertainty for attendees and their travel arrangements as well as have more time to create a better online experience. This is one of the few times in WordCamp Europe history where all attendees will be joining virtually, on equal footing from wherever they are in the world. </p>
+
+
+
+<p>WCEU 2021 organizers have announced the speaker lineup and <a href="https://europe.wordcamp.org/2021/schedule/">schedule</a> for the upcoming three days of 30-minute sessions, 10-minute lightning talks, workshops, discussion panels, and interviews.  Two tracks will run simultaneously.</p>
+
+
+
+<p>The schedule includes some big-picture topics like <a href="https://europe.wordcamp.org/2021/session/discussion-panel/">full-site editing</a> and the <a href="https://europe.wordcamp.org/2021/session/discussion-panel-2/">future of WordPress themes</a>, as well as more technical topics such as <a href="https://europe.wordcamp.org/2021/session/blazing-fast-block-development/">how to quickly build custom blocks</a>, setting up a <a href="https://europe.wordcamp.org/2021/session/woocommerce-data-hub/">WooCommerce data hub</a>, <a href="https://europe.wordcamp.org/2021/session/headless-wordpress-gatsby-or-nextjs/">headless WordPress</a>, and <a href="https://europe.wordcamp.org/2021/session/accessing-apis-using-oauth-on-the-federated-wordpress-web/">accessing APIs using OAuth on the Federated Web</a>. At the close of day 3, WordPress co-founder Matt Mullenweg will join the event for a <a href="https://europe.wordcamp.org/2021/session/conversation-with-matt-mullenweg/">virtual chat</a>.</p>
+
+
+
+<p>Business owners, project managers, designers, and other professionals will all find topics related to their work and interests. The schedule has a built-in favoriting tool so attendees can mark the sessions they plan to attend and then print or email to themselves for a personalized schedule. Every hour or so there will be 10-minute breaks so attendees will have time to talk with others and socialize. WCEU organizers are planning to host virtual networking rooms where attendees can meet sponsors and take part in product demos.</p>
+
+
+
+<p><a href="https://europe.wordcamp.org/2021/registration/">Registration</a> is free and attendees will receive online goodiebags. Tickets are still available but organizers expect it to be another &ldquo;sell out&rdquo; year.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 03 Jun 2021 01:07:14 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Sarah Gooding";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:36;a:6:{s:4:"data";s:13:"
+	
+	
+	
+	
+	
+	
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:52:"WordPress.org blog: The Month in WordPress: May 2021";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:35:"https://wordpress.org/news/?p=10393";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:67:"https://wordpress.org/news/2021/06/the-month-in-wordpress-may-2021/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:11057:"<blockquote class="wp-block-quote"><p>It’s really fun to contribute to something larger than yourself.</p></blockquote>
+
+
+
+<p><a href="https://profiles.wordpress.org/matt">Matt Mullenweg</a>’s words in “<a href="https://wordpress.org/news/2021/05/the-commons-of-images/">The Commons of Images</a>” episode of the <a href="https://wordpress.org/news/podcast/">WP Briefing podcast</a> exemplify the core philosophy of the WordPress project,&nbsp; especially as we inch closer to the next major release (version 5.8). This post covers exciting updates from the month of May.</p>
+
+
+
+<hr class="wp-block-separator" />
+
+
+
+<h2>WordPress turns 18</h2>
+
+
+
+<p>WordPress <a href="https://wordpress.org/news/2021/05/wordpress-at-18/">celebrated the 18th anniversary</a> of its <a href="https://wordpress.org/development/2003/05/wordpress-now-available/">launch</a> on May 27, 2021. To celebrate 40+ releases and WordPress’ support of 40% of the web, the team <a href="https://wordpress.org/news/2021/05/wordpress-at-18/">released 40 milestones</a> to celebrate the anniversary of the software. Here’s to the next 18 and beyond!&nbsp;</p>
+
+
+
+<h2>CC Search joins WordPress and is renamed to Openverse</h2>
+
+
+
+<p><a href="https://wordpress.org/news/2021/05/welcome-to-openverse/">Creative Commons Search has officially joined the WordPress project</a>. Creative Commons Search (CC Search) is a <a href="https://creativecommons.org/share-your-work/public-domain/cc0/">CC0</a> image search engine with over 500 million openly licensed images. The search product, which is being renamed to Openverse, will eventually live on the URL: https://wordpress.org/openverse. Contributors working on CC Search will continue their work as part of a <a href="https://make.wordpress.org/meta/2021/04/27/new-wordpress-make-team/">new dedicated Make team</a>: <a href="https://make.wordpress.org/openverse">https://make.wordpress.org/openverse</a>. Check out “<a href="https://wordpress.org/news/2021/05/the-commons-of-images/">The Commons of Images</a>” podcast episode for more information.</p>
+
+
+
+<h2>WordPress 5.7.2 released</h2>
+
+
+
+<p>WordPress <a href="https://wordpress.org/news/2021/05/wordpress-5-7-2-security-release/">version 5.7.2</a>, a short-cycle security release, came out on May 13. Get the latest version directly from your WordPress dashboard or by <a href="https://wordpress.org/download/">downloading</a> it from WordPress.org.</p>
+
+
+
+<p>Want to contribute to WordPress core? Check out the <a href="https://make.wordpress.org/core/handbook/">Core Contributor Handbook</a>. Don’t forget to join the WordPress <a href="https://wordpress.slack.com/archives/C02RQBWTW">#core</a> channel in the <a href="https://make.wordpress.org/chat/">Make WordPress Slack</a> and follow the <a href="https://make.wordpress.org/core/">Core Team blog</a>. The Core Team hosts weekly chats on Wednesdays at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?hour=5&min=00&sec=0">5 AM</a> and <a href="https://www.timeanddate.com/worldclock/fixedtime.html?hour=20&min=00&sec=0">8 PM</a> UTC.&nbsp;</p>
+
+
+
+<h2>Gutenberg versions 10.6 and 10.7 are out</h2>
+
+
+
+<p>Gutenberg <a href="https://make.wordpress.org/core/2021/05/14/whats-new-in-gutenberg-10-6-12-may/">version 10.6</a> and <a href="https://make.wordpress.org/core/2021/05/27/whats-new-in-gutenberg-10-7-26-may/">version 10.7</a> were launched this month. <a href="https://make.wordpress.org/core/2021/05/14/whats-new-in-gutenberg-10-6-12-may/">Version 10.6</a> features <a href="https://wordpress.org/news/2021/05/coloring-your-images-with-duotone-filters/">experimental Duotone filters (which are shipping with WordPress 5.8)</a>, block pattern suggestions in placeholders, and enhancements to the table block. <a href="https://make.wordpress.org/core/2021/05/27/whats-new-in-gutenberg-10-7-26-may/">Version 10.7</a> adds a responsive navigation block, block design tools, and the ability to load block patterns from the directory.<br /></p>
+
+
+
+<p>Want to get involved in building Gutenberg? Follow <a href="https://make.wordpress.org/core/">the Core Team blog</a>, contribute to <a href="https://github.com/WordPress/gutenberg/">Gutenberg on GitHub</a>, and join the <a href="https://wordpress.slack.com/archives/C02QB2JS7">#core-editor</a> channel in the <a href="https://make.wordpress.org/chat/">Make WordPress Slack</a>. The latest “<a rel="noreferrer noopener" href="https://make.wordpress.org/core/2021/03/08/whats-next-in-gutenberg-march-2021/" target="_blank">What’s next in Gutenberg</a>” post offers more details on the latest updates. If you are unfamiliar with the Gutenberg plugin, <a href="https://wordpress.org/news/2021/04/become-an-early-adopter-with-the-gutenberg-plugin/">learn more in this post</a>.</p>
+
+
+
+<h2>Full Site Editing updates</h2>
+
+
+
+<p>Don’t miss the <a href="https://make.wordpress.org/test/2021/05/26/fse-program-testing-call-7-polished-portfolios/">latest Full Site Editing (FSE) Outreach program testing call on building portfolio pages</a> using the Template Editing feature shipping with WordPress 5.8! The deadline is June 9. The team has published a recap of the <a href="https://make.wordpress.org/test/2021/05/06/fse-program-query-quest-summary/">Query Quest FSE Testing call</a>, which shares some interesting results. The answers to <a href="https://make.wordpress.org/test/2021/05/13/fse-program-answers-from-round-two-of-questions/">round two of FSE questions</a> are also out.</p>
+
+
+
+<h2>Countdown starts for WordCamp Europe 2021</h2>
+
+
+
+<p>The countdown to one of the most anticipated WordPress events, <a href="https://europe.wordcamp.org/2021/">WordCamp Europe 2021 (Online)</a>, has started! The <a href="https://europe.wordcamp.org/2021/schedule/">full schedule of the event</a> is now available, and the team has exciting plans! Don’t miss this event: <a href="https://europe.wordcamp.org/2021/registration/">get your tickets now</a> before they run out!</p>
+
+
+
+<hr class="wp-block-separator" />
+
+
+
+<h2>Further reading</h2>
+
+
+
+<ul><li>The Core Team published its <a href="https://make.wordpress.org/core/2021/05/17/introducing-the-wordpress-css-audit-tool/">first-ever WordPress CSS Audit tool</a>. The team has also <a href="https://make.wordpress.org/core/2021/05/03/feature-project-updates-on-updating-the-updaters/">kicked off a project to improve all the updaters in WordPress core</a>.</li><li>The Community Team proposed <a href="https://make.wordpress.org/community/2021/05/12/proposal-adding-vaccination-status-to-the-in-person-meetup-safety-checklist/">adding vaccination status to the in-person meetup checklist</a> as a criterion to organize in-person WordPress meetups. The team also published results of the <a href="https://make.wordpress.org/community/2021/05/28/2020-meetup-organizer-survey-results/">2020 Meetup Organizer survey</a> and <a href="https://make.wordpress.org/community/2021/05/21/2020-meetup-survey-results/">Meetup Member survey</a>. </li><li><a href="https://venezuela.wordcamp.org/2021/">WordCamp Venezuela</a> and <a href="https://neo.wordcamp.org/2021/">WordCamp North East Ohio </a>were held successfully in May. Don’t forget to grab your free tickets for <a href="https://japan.wordcamp.org/2021/">WordCamp Japan 2021</a> and <a href="https://japan.wordcamp.org/2021/">WordCamp Cochabamba 2021</a>, both happening in June.</li><li>The Design Team floated a <a href="https://make.wordpress.org/design/2021/05/27/proposal-to-tweak-existing-icons-and-add-new-ones/">proposal to tweak existing core icons and add new ones</a>.</li><li><a href="https://profiles.wordpress.org/chanthaboune">Josepha Haden</a> published <a href="https://make.wordpress.org/updates/2021/05/25/experiment-a-public-channel-for-all-team-reps/">an experiment to create a public channel for team reps</a>. </li><li>The Support Team is considering adding <a href="https://make.wordpress.org/support/2021/05/support-team-deputies/">two or more deputies to the team</a>. </li><li>The Themes Team requests theme authors to <a href="https://make.wordpress.org/themes/2021/05/25/themes-team-meeting-notes-may-25-2021/">check their themes’ compatibility with WordPress 5.8</a> in view of the upcoming major release. </li><li>The Training Team <a href="https://href.li/?https://make.wordpress.org/training/2021/05/27/proposal-adding-custom-user-roles-to-learn-wordpress/">shared a proposal</a> on adding custom user roles for <a href="https://href.li/?https://learn.wordpress.org">learn.wordpress.org</a> to match the structure and functionality of the site. The team also <a href="https://href.li/?https://make.wordpress.org/training/2021/05/28/proposal-an-audit-tool-for-learn/">proposed an audit tool</a> to improve content auditing for Learn.</li><li>The CLI Team released <a href="https://make.wordpress.org/cli/2021/05/19/wp-cli-v2-5-0-release-notes/">version 2.5.0</a> of WP-CLI.</li><li>The Tide Team <a href="https://make.wordpress.org/tide/2021/05/25/tide-chat-summary-may-25th/">seeks contributors</a> to help with documentation reviews, cleaning up Tide locally, and making the documentation clearer. </li><li>The Hosting Team <a href="https://make.wordpress.org/hosting/2021/05/20/why-hosters-should-install-the-php-intl-extension/">recommends all web hosts to install the Internationalization PHP extension</a>. The team also launched<a href="https://www.meetup.com/wphosting/"> its official meetup chapter</a>.</li><li>The latest edition of “<a href="https://wordpress.org/news/category/heropress/">People of WordPress</a>” features <a href="https://wordpress.org/news/2021/05/people-of-wordpress-fike-komala/">Fike Komala from Indonesia</a>.</li><li>The BuddyPress Team <a href="https://buddypress.org/2021/05/buddypress-8-0-0-release-candidate/">released the BuddyPress 8.0 Release Candidate</a>. </li><li>Read about the brand new <a href="https://wordpress.org/news/2021/05/coloring-your-images-with-duotone-filters/">Duotone filter for blocks</a> feature, that is shipping with WordPress 5.8! </li><li>Catch the latest episode of the <a rel="noreferrer noopener" href="https://wordpress.org/news/podcast/" target="_blank">WP Briefing Podcast</a> where <a rel="noreferrer noopener" href="https://profiles.wordpress.org/chanthaboune/" target="_blank">Josepha</a> talks about <a rel="noreferrer noopener" href="https://wordpress.org/news/2021/05/episode-9-the-cartography-of-wordpress/" target="_blank">the cartography of WordPress</a>.</li></ul>
+
+
+
+<p><em>Have a story that we should include in the next “Month in WordPress” post? Please </em><a href="https://make.wordpress.org/community/month-in-wordpress-submissions/"><em>submit it using this form</em></a><em>.&nbsp;</em></p>
+
+
+
+<p><em>The following folks contributed to May’s Month in WordPress: <a href="https://profiles.wordpress.org/meher/" class="mention"><span class="mentions-prefix">@</span>meher</a> and <a href="https://profiles.wordpress.org/chaion07/" class="mention"><span class="mentions-prefix">@</span>chaion07</a></em></p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 02 Jun 2021 18:23:11 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:14:"Hari Shanker R";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:37;a:6:{s:4:"data";s:13:"
+	
+	
+	
+	
+	
+	
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:132:"HeroPress: From Blogging to WordPress Communities: A Bolivian tale – De Blogger a comunidades de WordPress: Una historia boliviana";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:56:"https://heropress.com/?post_type=heropress-essays&p=3626";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:182:"https://heropress.com/essays/from-blogging-to-wordpress-communities-a-bolivian-tale/#utm_source=rss&utm_medium=rss&utm_campaign=from-blogging-to-wordpress-communities-a-bolivian-tale";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:15766:"<img width="1024" height="512" src="https://heropress.com/wp-content/uploads/2022/06/052821-min.jpg" class="attachment-large size-large wp-post-image" alt="Pull Quote: I couldn’t be more grateful for all the good things that WordPress has given me." /><p><a href="https://heropress.com/feed/#espanol">Este ensayo también está disponible en español.</a></p>
+<p>I would have never imagined that working with WordPress would be a vital part of my current life and that I would be organizing the first WordCamp of my city Cochabamba, and the first of Bolivia.</p>
+<p>To start with my story, let me clarify that I don’t have any background in computer science or similar. I actually studied Industrial Engineering and even did a masters degree in Environmental studies. But life has taken me somewhere else and I’m very happy with my current destination. I won’t go into details of how my career changed so much, that would take hours of reading. But my early stages of WordPress started when I decided to start a small business designing and selling cushions and bed clothes. It was tiny and it only lasted a bit more than a year. It was a solo person business, little investment, and very little planning. While I sat in the small store I’d rented to sell these items, begging that people stopping at the shop’s windows would step in to buy something, I decided I needed to create a website for this business.</p>
+<h3>Finding WordPress</h3>
+<p>I had zero budget to hire somebody but I had good confidence in my ability to learn things on my own. I had always been the nerdy type and a close friend with computers in general. Thus, I decided I would figure out how to build a website on my own. I ended up building the most simple website/blog with WordPress.com. I didn’t even have a budget to buy a custom domain and I stayed with the free subdomain from WordPress.com. Unfortunately, soon my entrepreneurship was over. There were no profits and any income went mostly to pay the store’s rent. To add to the decision, a previous company with whom I had worked before, contacted me for a job opening that matched my profile. I needed that income. Therefore, I closed the store and forgot about my entrepreneurship.</p>
+<blockquote><p>However, that brief encounter with a simple website had opened a field out there that I wanted to explore better some day.</p></blockquote>
+<p>Back to the employee mode, I started my new job as a technical writer for a software development company. Since I had done my masters degree in the UK, I had a decent level of English, and somehow my close affinity with computers and technology made it easy for me to translate complex software jargon into simple tutorial steps. As I got more training in technical writing, I started to improve my writing skills in general. That reconnected me with a long lost passion of mine- writing. I’d forgotten that little girl in me that used to love writing stories and journaling. In all these years of my adult life, I hadn’t reconnected to it. That’s when I realized I had to have a blog. I needed a blog. And when WordPress.com came to my encounter again.</p>
+<h3>Diving Deep</h3>
+<p>This time I wanted to know the platform deeply. Creating my blog helped me become more familiar with WordPress and website building in general. I blogged about writing, my thoughts, book reviews, and everything that could come to my mind. That was in 2015.</p>
+<p>I don’t remember exactly how I got into the WordPress support forums, probably looking for answers to a specific issue about my blog. That’s when I realized there were other people’s questions that I could actually answer. I began checking the forums a couple of times per week. I did it as a hobby. I liked that I was able to help people and learn more while doing that.</p>
+<blockquote><p>Some people at my work checked their Facebook to relax on their break time, I checked the WordPress.com forums.</p></blockquote>
+<p>That’s how I found out about the Happiness Engineer position in Automattic. A Happiness Engineer provides customer support to people building their blogs or websites with WordPress.com. When I read the job description, it was like reading a job that was perfect for me. Even more it offered the possibility to work remotely and even travel while still working. My career as a technical writer was stuck after three years and I was also certain that I didn’t want to go back to any job related to Industrial Engineering.</p>
+<p>My story about applying to Automattic is long. To summarize it, I didn’t get in it the first time I applied. I had to do the trial twice and re-applied three times in total. I had to learn about HTML and CSS. But after almost one year and a half in between the applications and the two trials, I finally got the job. WordPress became my main means of income.</p>
+<h3>Building A Community</h3>
+<p>It was in this job that I learned about the WordPress communities around the world and WordCamps. And when somebody asked, how is the WordPress community where you live? I was speechless. I really didn’t know. Was there a community?</p>
+<p>Soon after finding there wasn’t any community, I started to dig more information about what was needed to organize one. I talked about the idea with some colleagues and they provided good insights. But I was still debating inside myself, who would start it? Was it me? It couldn’t be. It was true I provided technical support for blogs and websites, but I knew nothing about coding, plugin or theme development.</p>
+<blockquote><p>It had to be somebody else, an expert WordPress developer,  not me.</p></blockquote>
+<p>But after trying to gauge interest and ask around I realized that the only way to find these community members was to start the community. Therefore, the WordPress community in Cochabamba was born. That was 3 years ago.</p>
+<p>We’ve had ups and downs, probably similar to any other community. And although Cochabamba is not a big city, we had issues finding a location that would be accessible to everybody and wouldn’t incur a cost. We had people coming from all different levels of knowledge, from people that had a vast experience with WordPress to people with no experience at all but that wanted to learn. Covid19 actually helped the community grow when meetups went online.</p>
+<h3>Giving Back Through Speaking</h3>
+<p>The community also brought in me a side I didn’t know I would ever be interested in: public speaking. I had the opportunity to be a speaker at WordCamp Mexico, WordCamp Guayaquil and WordCamp Colombia online. I started to gain confidence while I enjoyed the opportunity to connect with other communities and meet people that were in similar pathways. Not all of them were developers as one tends to imagine in a WordPress community, many like me started only as bloggers.</p>
+<p>Finally, after 3 years we decided to organize our first WordCamp. I never imagined myself organizing any WordCamp- me, the shy one, suddenly talking to sponsors, contacting companies to sponsor us, leading a group of people with different talents and backgrounds. I’m thrilled to say that I’ve learned so much from the experience.</p>
+<p>In all these years my career has taken a dramatic swift turn.</p>
+<blockquote><p>Thanks to WordPress I have been able to find a good job, work remotely, and help build something in my community that helps people learn skills and find career opportunities.</p></blockquote>
+<p>I couldn’t be more grateful for all the good things that WordPress has given me.</p>
+<h2 id="espanol">De Blogger a comunidades de WordPress: Una historia boliviana</h2>
+<p>Nunca me hubiera imaginado que trabajar con WordPress sería una parte vital de mi vida y que estaría organizando el primer WordCamp de mi ciudad, Cochabamba, y el primero de Bolivia.</p>
+<p>Para comenzar con mi  historia, déjenme aclarar que no tengo ningún estudio en ciencias de la computación o similar. Estudié Ingeniería Industrial e incluso hice una maestría en estudios ambientales. Pero mi vida ha tomado otro rumbo y estoy feliz con donde estoy ahora.</p>
+<p>No iré en detalles de cómo mi carrera cambió, eso tomaría horas de lectura. Pero mis comienzos tempranos con WordPress empezaron cuando decidí comenzar un pequeño negocio diseñando y vendiendo almohadones y ropa de cama. Era muy pequeño y solo duró un poco más de un año. Era un negocio de una sola persona, con poca inversión y poca planeación. Mientras me sentaba dentro de mi tienda vendiendo mis productos y rogando que la gente que se detenía en frente de las vitrinas entrara a comprar algo, decidí que necesitaba crear un sitio web para mi negocio.</p>
+<h3>Mi encuentro con WordPress</h3>
+<p>Tenía cero presupuesto para contratar a alguién pero tenía confianza en mis habilidades para aprender cosas por mi misma. Siempre había sido del tipo nerd y muy amiga de las computadoras en general. Entonces decidí que encontraría la forma de construir el sitio web por mi misma. Terminé construyendo un sitio, casi blog, de lo más simple. No tenía ni siquiera presupuesto para comprar un dominio personalizado y me quedé con el subdominio gratuito de WordPress.com. Desafortunadamente, mi emprendimiento llegó al fin. No habían ganancias y cualquier ingreso era generalmente para pagar el alquiler de la tienda. Para influenciar aún más esta decisión, una compañía con quien había trabajado anteriormente me contactó para un trabajo que le iba muy bien a mi perfil. Necesitaba esos ingresos. Por lo tanto cerré la tienda y me olvidé de mi emprendimiento.</p>
+<blockquote><p>Sin embargo, ese encuentro breve con un sitio web simplísimo abrió un campo delante de mis ojos que quería explorar mejor algún día.</p></blockquote>
+<p>De nuevo ya en modo de empleado, comencé mi trabajo como technical writer para una empresa de software. Como había hecho mi maestría en el Reino Unido, tenía un nivel decente de inglés y mi afinidad con las computadoras y la tecnología en general hacía que fuese sencillo para mi traducir la jerga compleja de los desarrolladores de software en tutoriales con sencillos pasos. A medida que recibía más entrenamiento en technical writing, comencé a mejorar mis habilidades de escritura. Eso me reconectó con una pasión perdida, la escritura. Me había olvidado de esa pequeña niña a la que le encantaba escribir historias. En todos estos años de mi vida adulta, no me había reconectado con eso. Entonces me di cuenta que necesitaba un blog, tenía que tener un blog. Y WordPress.com vino a mi encuentro otra vez.</p>
+<h3>Sumergiéndome profundamente</h3>
+<p>Esta vez quería conocer la plataforma más profundamente. La creación de mi blog me ayudó a estar más familiarizada con WordPress y con la construcción de sitios web en general. Blogueé sobre el proceso de escritura, mis pensamientos, revisiones de libros, cualquier cosa que se venga a mi mente. Eso fué en 2015.</p>
+<p>No recuerdo exactamente cómo llegué a los foros de WordPress, tal vez buscando respuestas a algún problema con mi blog. Ahí fue cuando me di cuenta que habían preguntas de otras personas que en realidad podía responder. Empecé a revisar los foros un par de veces por semana. Lo hacía por hobby. Me gustaba que podía ayudar a la gente y aprender más mientras lo hacía.</p>
+<blockquote><p>Alguna gente en mi trabajo revisaba su Facebook durante el tiempo de descanso, yo revisaba los foros de WordPress.com</p></blockquote>
+<p>Fué así que me enteré del trabajo de Happiness Engineer en Automattic. Un Ingeniero de la Felicidad provee soporte técnico a personas que construyen sus sitios o blogs con WordPress.com. Cuando leí la descripción del trabajo, era como leer algo que era perfecto para mí. Adicionalmente me daba la posibilidad de trabajar remotamente e incluso trabajar mientras viajaba. Mi carrera como technical writer estaba estancada después de tres años y estaba segura que no quería retornar a algún trabajo relacionado con Ingeniería Industrial.</p>
+<p>Mi historia sobre mi postulación a Automattic es muy larga. Para resumirlo, no entré a la primera vez. Tuve que hacer el periodo de prueba 2 veces y postulé como 3 veces en general. Tuve que aprender HTML y CSS. Pero después de casi un año y medio entre estas postulaciones y los periodos de prueba, finalmente obtuve el trabajo. WordPress se convirtió en la fuente principal de ingreso.</p>
+<h3>Construyendo una Comunidad</h3>
+<p>Fue en este trabajo que aprendí sobre las comunidades de WordPress en el mundo y los WordCamps. Y cuando alguien me preguntó cómo es la comunidad de WordPress de donde eres? No tenía respuesta. No sabía. ¿Había alguna comunidad?</p>
+<p>Muy pronto después de darme cuenta que no había ninguna comunidad, empecé a buscar más información sobre lo que era necesario para organizar una. Hablé de la idea con algunos colegas y me dieron buenas perspectivas. Pero todavía me debatía dentro de mi, ¿quien empezaría esta comunidad? ¿Sería yo? No podía ser. Era cierto que proveía soporte técnico para los blogs y páginas web, pero no sabía nada de código o desarrollo de plugins o temas.</p>
+<blockquote><p>Tenía que ser alguien más, un experto desarrollador en WordPress, no yo.</p></blockquote>
+<p>Después de tratar de ver el interés alrededor mío, me di cuenta que la única manera de encontrar a estos miembros de la comunidad era empezando la comunidad. Y es así como la comunidad de Cochabamba nació. Eso fue hace 3 años.</p>
+<p>Tuvimos subidas y bajadas, probablemente como cualquier comunidad. Aunque Cochabamba no es una ciudad grande, tuvimos problemas encontrando un lugar accesible a todos, que no incurría en grandes costos. Tuvimos gente viniendo de todo tipo de experiencias de WordPress, desde gente con vasta experiencia hasta gente que no tenía experiencia para nada pero que quería aprender. El Covid19 en realidad nos ayudó a que la comunidad crezca cuando las reuniones se volvieron virtuales.</p>
+<h3>Hablando para contribuir</h3>
+<p>La comunidad de WordPress también despertó en mí una parte en la que nunca pensé que estaría interesada, hablar en público. Tuve la oportunidad de ser ponente en el WordCamp México, WordCamp Guayaquil y el WordCamp Colombia online. Empecé a adquirir confianza y disfrutar de la oportunidad de conectar con otras comunidades y conocer gente que estaba en caminos similares. No todos ellos eran desarrolladores como uno tiende a imaginar en una comunidad de WordPress, muchos como yo comenzaron solo como bloggers.</p>
+<p>Finalmente, después de 3 años, decidimos organizar el primer WordCamp. Nunca me imaginé organizando ningún WordCamp de ningún tipo, yo, bastante tímida, hablando con patrocinadores, contactando compañías para patrocinarnos, liderando un grupo de gente con diferentes talentos y backgrounds. Estoy muy feliz de decir que he aprendido mucho de esta experiencia.</p>
+<p>En todos estos años, mi carrera ha dado un giro dramático.</p>
+<blockquote><p>Gracias a WordPress he podido encontrar un buen trabajo, trabajar remotamente, y ayudar a construir algo en mi comunidad que ayuda a que la gente aprenda nuevas habilidades y encuentre oportunidades laborales.</p></blockquote>
+<p>No podría estar más agradecida por todas las cosas buenas que WordPress me ha dado.</p>
+<p>The post <a rel="nofollow" href="https://heropress.com/essays/from-blogging-to-wordpress-communities-a-bolivian-tale/">From Blogging to WordPress Communities: A Bolivian tale &#8211; De Blogger a comunidades de WordPress: Una historia boliviana</a> appeared first on <a rel="nofollow" href="https://heropress.com">HeroPress</a>.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 02 Jun 2021 12:00:46 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:18:"Carla Doria Medina";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:38;a:6:{s:4:"data";s:13:"
+	
+	
+	
+	
+	
+	
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:60:"WPTavern: Chrome Canary Adds Flag for Disabling FLoC Testing";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=117580";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:165:"https://wptavern.com/chrome-canary-adds-flag-for-disabling-floc-testing?utm_source=rss&utm_medium=rss&utm_campaign=chrome-canary-adds-flag-for-disabling-floc-testing";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:6223:"<p>Google&rsquo;s controversial Federated Learning of Cohorts (<a href="https://web.dev/floc/">FLoC</a>) experiment now has a feature flag within Chrome Canary (the nightly build of Chrome for developers) that allows users to opt out. </p>
+
+
+
+<p>In January 2020, Google announced its plans to <a href="https://blog.chromium.org/2020/01/building-more-private-web-path-towards.html">discontinue support for third-party cookies in Chrome</a> within two years. The first bits and pieces of the company&rsquo;s <a href="https://www.privacysandbox.com/">Privacy Sandbox</a> initiative started landing in Chrome in December 2020 with an initial flag to disable it. FLoC, Google&rsquo;s proposed replacement for third-party cookies, began testing as a&nbsp;<a rel="noreferrer noopener" href="https://web.dev/floc/" target="_blank">developer origin trial</a>&nbsp;in Chrome at the end of March 2021.</p>
+
+
+
+<p>In Canary, users can navigate to <a rel="noreferrer noopener" href="https://flags/#privacy-sandbox-settings-2" target="_blank">chrome://flags/#privacy-sandbox-settings-2</a> to find the Privacy Sandbox Settings 2 flag.</p>
+
+
+
+<div class="wp-block-image"><img /></div>
+
+
+
+<p>Relaunch Canary to save the changes. This will unlock the box that allows users to either reset their FLoC group or opt out of FLoC entirely. The new setting is available under <a href="chrome://settings/privacySandbox">chrome://settings/privacySandbox</a>:</p>
+
+
+
+<div class="wp-block-image"><img /></div>
+
+
+
+<p>If the setting remains enabled, which is the default, Chrome will group users into cohorts based on recent browsing activity and then advertisers select ads for the entire group. Browsing activity for the individual is &ldquo;kept private on your device,&rdquo; but Chrome certainly has access that information by way of mediating the cohorts. Google notes that the trial is currently only active in <a href="https://privacysandbox.com/proposals/floc">some regions</a>.</p>
+
+
+
+<p>Users can also opt out of Privacy Sandbox trials&nbsp;on the same page. Current trials include the following:</p>
+
+
+
+<ul><li>Advertisers and publishers can use FLoC</li><li>Advertisers and publishers can study the effectiveness of ads in a way that does not track you across sites</li></ul>
+
+
+
+<p>Google has not specified how users would opt out of FLoC if the experiment is successful and moves forward. Organizations and site owners who are currently on the fence about it may go either way depending on how easy it is for Chrome users to opt out themselves. </p>
+
+
+
+<p>&ldquo;Instead of comparing FLoC to its predecessor, third party cookies, I feel it&rsquo;s actually more like the Facebook Pixel &ndash; mostly in the sense that it&rsquo;s controlled by a single surveillance capital company,&rdquo; WordPress core contributor Roy Tanck commented on the <a href="https://core.trac.wordpress.org/ticket/53069">trac ticket</a> for the discussion. &ldquo;FLoC may not be quite as nefarious, but I feel it should be something website owners consciously opt into.</p>
+
+
+
+<p>&ldquo;WordPress has always advocated for a free and open web, and FLoC appears to actively harm that goal. I think WordPress should take a stand against this, and do it now.&rdquo;</p>
+
+
+
+<p>A few others have chimed in on the ticket recently as <a href="https://wptavern.com/joomla-blocks-floc-by-default-drupal-moves-to-block-floc-in-upcoming-9-2-release">other open source projects have started blocking FLoC by default</a>. Plugin developer David McCan&rsquo;s comment referenced <a href="https://www.flurry.com/blog/ios-14-5-opt-in-rate-att-restricted-app-tracking-transparency-worldwide-us-daily-latest-update/">analytics data published in early May</a>&nbsp;suggesting that US users choose to opt out of tracking 96 percent of the time following the changes in iOS 14.5.</p>
+
+
+
+<p>&ldquo;There is no doubt that coming down on the side of user privacy vs user tracking is the right thing to do,&rdquo; McCan said. &ldquo;Which headline would we rather see? &lsquo;By default millions of WordPress websites are allowing users to be tracked&rsquo; or &lsquo;WordPress takes steps to block user tracking making millions of websites around the world safe to visit?&rsquo;</p>
+
+
+
+<p>&ldquo;We already have a policy that opt-in by default tracking&rsquo; is not allowed in plugins hosted by WordPress. This is because we recognize the responsibility and benefit of protecting user privacy.&rdquo;</p>
+
+
+
+<p>During <a href="https://adsonair.withgoogle.com/events/google-marketing-live-2021?utm_medium=referral&utm_source=keyword&utm_campaign=20210527US">a live marketing event</a> Google hosted at the end of last week, Jerry Dischler, vice president and general manager of Ads, addressed the recent privacy concerns surrounding FLoC. </p>
+
+
+
+<p>&ldquo;We&rsquo;ll be using these [Privacy Sandbox] APIs for our own ads and measurement products just like everyone else, and we will not build any backdoors for ourselves,&rdquo; Dischler said.</p>
+
+
+
+<p>Dischler also reaffirmed Google&rsquo;s commitment to moving away from third-party cookies.</p>
+
+
+
+<p>&ldquo;Third-party cookies and other proposed identifiers that some in the industry are advocating for do not meet the rising expectations consumers have when it comes to privacy,&rdquo; he said. &ldquo;They will not stand up to rapidly evolving regulatory restrictions; they simply cannot be relied on in the long term.&rdquo;</p>
+
+
+
+<p>Google bears the burden of reassuring advertisers that effective advertising is still possible as the company moves beyond tracking cookies. It is aiming to future-proof advertisers&rsquo; measurement of campaign performance with what it claims are &ldquo;privacy-safe solutions.&rdquo; The company is pushing hard for advertisers to adopt these new techniques, <a href="https://blog.google/products/ads-commerce/future-proof-measurement-privacy-safe-solutions/">promising more actionable first-party conversion data</a>.</p>
+
+
+
+<p>Although consumer expectations have changed, FLoC may not be the answer to the need for a privacy-preserving advertising model. So far it looks like Google will have an uphill battle to gain more broad support from browsers, advertisers, and consumers. </p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 02 Jun 2021 03:12:16 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Sarah Gooding";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:39;a:6:{s:4:"data";s:13:"
+	
+	
+	
+	
+	
+	
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:79:"WPTavern: Ujwal Thapa, Co-Founder of the WordPress Nepal Community, Passes Away";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=117594";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:199:"https://wptavern.com/ujwal-thapa-co-founder-of-the-wordpress-nepal-community-passes-away?utm_source=rss&utm_medium=rss&utm_campaign=ujwal-thapa-co-founder-of-the-wordpress-nepal-community-passes-away";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:4028:"<p>&ldquo;Here is my resume of professional Failures,&rdquo; began his <a href="https://np.linkedin.com/in/ujwalthapa">LinkedIn profile</a>. On a site where most are apt to share success, <a href="https://www.whynepal.com/">Ujwal Thapa</a> started with nearly a two-decade history of dreams that did not quite work out. Or, maybe they did in some ways.</p>
+
+
+
+<p>Much of <a href="https://twitter.com/search?q=%23ujjwalthapa">Nepal is reeling</a> from <a href="https://nepalontheweb.com/2021/06/01/ujwal-thapa-founder-of-bibeksheel-nepali-party-passes-away/">his death today</a>. In the past week, he had been battling multiple health complications from Covid-19. The 44-year-old activist was the founder of the Bibeksheel Nepali political party, originally a peaceful movement that fought against political corruption and social injustice.</p>
+
+
+
+<p>However, many Nepali WordPress users will remember him as a co-founder of their community. The <a href="https://www.facebook.com/groups/wordpressnepal">WordPress Nepal</a> Facebook group has now grown to nearly 8,000 members.</p>
+
+
+
+<ul><li class="blocks-gallery-item"><img />WordCamp Nepal 2014</li><li class="blocks-gallery-item"><img />2015 WordCamp Kathmandu</li><li class="blocks-gallery-item"><img />WordPress Meetup In Biratnagar</li><li class="blocks-gallery-item"><img />WordPress Nepal Founders</li></ul>Photos shared by Ganga Kafle.
+
+
+
+<p>In a <a href="https://nepalbuzz.com/people/nepali-wordpress-stars-2015-4/">2015 interview</a> with Nepal Buzz, he noted his proudest WordPress-related achievement as building this community. &ldquo;That is not just creating tens and hundreds, but thousands of jobs in Nepal, and has the potential to create tens of thousands more, which basically means we are contributing to the nation by creating opportunities where there are none.&rdquo;</p>
+
+
+
+<p>Later in the interview, he said he was a provoker, and he continued to live the remainder of his life in that belief.</p>
+
+
+
+<p>&ldquo;I believe that the easiest way to bring change is to align all the positive people in the same direction,&rdquo; he said. &ldquo;So my job is to provoke and bring together people with similar interests, and align them in a similar direction, creating the change that they would never believe could come.&rdquo;</p>
+
+
+
+<p>Thapa founded <a href="http://digital.com.np/">Digital Max Solutions</a> in 2002, amidst the Nepalese Civil War. At one point, the company had as many as 35 employees. Over 30 eventually moved on to start their own IT businesses. He also created the Entrepreneurs for Nepal Facebook group, which now has over 100,000 members. From May 2013 to October 2019, he served as the Chairperson of the BibekSheel Nepali party.</p>
+
+
+
+<p>Many in Nepal&rsquo;s WordPress community owe him a debt of gratitude for having the vision of building off the core platform. WordPress.org Themes Team representative Ganga Kafle credits at least part of his career and deep involvement with WordPress to Thapa, helping him land an initial internship with Web Experts Nepal.</p>
+
+
+
+<p>&ldquo;Ujwal Thapa is the person who introduced WordPress to me in 2012 in a meetup,&rdquo; he said. &ldquo;After that, I was in close relation with him. In 2014, after my graduation, I went to Ujwal and asked him about the internship, and he took me to that office and talked with the boss and finalized for the internship. That&rsquo;s how I jumped in WordPress, and now I am one of the leads of Themes Team.&rdquo;</p>
+
+
+
+<p>&ldquo;Once he said to me, &lsquo;WordPress is giving so much things for free, why you hesitate to put <em>Proudly Powered by WordPress</em>?'&rdquo; Kafle shared of the mentor, referencing the typical credit line in many WordPress site footers. &ldquo;He was in love with WordPress.&rdquo;</p>
+
+
+
+<p>You can view Thapa&rsquo;s WordCamp presentations as a <a href="https://wordpress.tv/speakers/ujwal-thapa/">speaker</a> and <a href="https://wordpress.tv/speakers/ujwal-thapa-moderator/">panel moderator</a> via WordPress.tv.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Tue, 01 Jun 2021 19:08:27 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:14:"Justin Tadlock";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:40;a:6:{s:4:"data";s:13:"
+	
+	
+	
+	
+	
+	
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:70:"WPTavern: Breaking Down WPMarmite’s 127-Shop Full Site Editing Study";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=117541";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:179:"https://wptavern.com/breaking-down-wpmarmites-127-shop-full-site-editing-study?utm_source=rss&utm_medium=rss&utm_campaign=breaking-down-wpmarmites-127-shop-full-site-editing-study";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:6698:"<p class="has-drop-cap">Earlier today, the WPMarmite team released a massive <a href="https://wpmarmite.com/en/fse-study/">study of 127 WordPress theme shops</a>. It primarily focused on integration with the block editor. The team also surveyed 22 of the shops directly to dive deeper into what the future might look like when the Full Site Editing (FSE) project is entirely bundled into the core platform, which could be around the WordPress 5.9 release in late 2021.</p>
+
+
+
+<p>FSE is not a single thing that WordPress will drop on users all at once. It is an ongoing project with several independent but related components that will ship based on their readiness. The goal is to move the block system beyond just content, bringing blocks into all facets of a site&rsquo;s front end.</p>
+
+
+
+<p>Single post/page template editing and block-based widgets are expected to <a href="https://wptavern.com/full-site-editing-is-partly-a-go-for-wordpress-5-8">arrive with WordPress 5.8</a> in July. These are two user-facing components that serve as stepping stones toward a complete FSE experience.</p>
+
+
+
+<p>Putting study into context, FSE-related discussion for theme authors is mainly about block templates and global styles. These components will create a drastic change to theme development where templates are made up of blocks themselves and styles are configured via a JSON file. For the first time in WordPress&rsquo;s history, users will be able to directly edit both from an interface in their site admin without knowing any code.</p>
+
+
+
+<img />Upcoming site editor with templates (left panel) and global styles (right panel).
+
+
+
+<p><a href="https://wptavern.com/wordpress-5-0-bebo-released-lays-a-foundation-for-the-platforms-future">WordPress 5.0</a>, the first version to include blocks, launched two and a half years ago. Theme authors have had time to catch up, migrate old projects, and create new ones. WPMarmite&rsquo;s study gives a solid, at-a-glance view of how shops are fairing now that the shockwave of the block system&rsquo;s introduction has long settled.</p>
+
+
+
+<h2>The Study: Block Editor Support</h2>
+
+
+
+<p class="has-drop-cap">The primary takeaway from the 127-shop study was that 57% of them featured their compatibility with the block editor in some way. Short of testing themes from each site individually or directly asking them all, there is no other way to know how many actually offer support. My guess is the number is not much higher.</p>
+
+
+
+<p>Technically, all themes &ldquo;work&rdquo; with the WordPress editor. However, not all are designed from the ground up to offer an ideal experience with it. As a commercial theme shop, you would want to mention this support somewhere in your marketing.</p>
+
+
+
+<p>Even if that 57% is dead-on, a shop featuring block support does not always mean solid support. In my experience of viewing themes and their demos almost daily, &ldquo;support&rdquo; often means minimal adjustments to make sure the basics do not break the site. That number is far lower if you are counting themes that offer an immersive block-editor experience.</p>
+
+
+
+<p>The number that was surprising but not surprising was the percentage of shops currently providing block patterns. Only 3% (4 in total) bundle custom patterns.</p>
+
+
+
+<img />Inserting a block pattern into the WordPress editor.
+
+
+
+<p>While the patterns API has only been around since <a href="https://wptavern.com/wordpress-5-5-eckstine-introduces-block-directory-block-patterns-and-automatic-updates-for-themes-and-plugins">WordPress 5.5</a>, released less than a year ago, it is one of those crucial tools for the future of theme development. I thought the number was low. I just did not know it was <em>3% low</em>.</p>
+
+
+
+<p>If 57% of shops offer some level of block editor support, why are they stopping short of complete integration and not using the most powerful features at their disposal?</p>
+
+
+
+<p>Patterns are part of that immersive experience I mentioned. If a shop does not have any, I would question how much it actually supports the block system.</p>
+
+
+
+<p>In the WordPress.org free theme directory, that percentage is much higher. Currently, 514 themes <a href="https://wordpress.org/themes/tags/block-styles/">add block editor styles</a>, and 120 <a href="https://wordpress.org/themes/tags/block-patterns/">bundle at least one pattern</a>.</p>
+
+
+
+<p><em>Note: if you <a href="https://wordpress.org/themes/tags/block-patterns+block-styles/">combine those two filters</a>, the directory lists 107 themes. Some could be missing a tag.</em></p>
+
+
+
+<p>One data point the team missed was how many of these theme shops integrated with third-party page builders. I would wager that most of the ThemeForest authors support at least one additional builder, maybe two. It is almost a sure-fire bet that Elementor and Beaver Builder top that list. While the study was on the core block system, this would have given us a more accurate look at the current theme market.</p>
+
+
+
+<h2>The Survey: FSE and the Future</h2>
+
+
+
+<p class="has-drop-cap">Of the 127 shops, WPMarmite surveyed 22 of them with questions around FSE. The most telling statistic is that 82% of shops follow FSE-related news, citing WP Tavern as one of their sources. <em>Thank you, dear readers.</em></p>
+
+
+
+<p>On a more serious note, 86% of those surveyed believe that FSE will be a breakthrough for users. I am not surprised at this. Many features that theme authors have attempted to accomplish over the last decade are being rolled into the Gutenberg plugin. It is a slow process, but having the pieces built into WordPress provides standard APIs that will make themers&rsquo; jobs easier. In turn, this will allow them to launch features that users ask for with less code and a faster turnaround.</p>
+
+
+
+<p>The number I want to see higher is those actively preparing for block templates and global styles. According to the survey, only 22% are doing so.</p>
+
+
+
+<p>These components are continually in flux. However, the foundational elements are far more stable than they were just a few months ago. This makes it a good moment for others to start diving in &mdash; there is less chance of breaking changes with the system. I expect the percentage of commercial theme shops working with FSE to jump throughout the year. However, it could be a slow process getting to the point where such themes are commonplace. We may need to see a breakout block theme that quickly rises in popularity first. Everyone else will fall in line.</p>
+
+
+
+<p>In the meantime, if anyone wants to experiment with FSE, there are <a href="https://wordpress.org/themes/tags/full-site-editing/">six themes listed</a> in the directory.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Tue, 01 Jun 2021 00:36:21 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:14:"Justin Tadlock";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:41;a:6:{s:4:"data";s:13:"
+	
+	
+	
+	
+	
+	
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:117:"Gutenberg Times: Why WordPress Agencies Are Embracing Gutenberg – Help Test WordPress 5.8  – Weekend Edition #171";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:35:"https://gutenbergtimes.com/?p=17922";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:118:"https://gutenbergtimes.com/why-wordpress-agencies-are-embracing-gutenberg-help-test-wordpress-5-8-weekend-edition-171/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:12753:"<p>Howdy, </p>
+
+
+
+<p>Memorial Day is a federal holiday, honoring the men and women who died while serving in the U.S. military. Although a sad occasion for many people in the US, it is also the first long weekend after a cold winter. Many of you will hopefully take the opportunity to spend it leisurely outside with family and friends, away from the screens. Look up from your phone.  The content keeps until Tuesday when you get back to work.  </p>
+
+
+
+<p>After catching up on my publishing schedule, I will spend the weekend with friends at the <a href="https://sarasotacricket.org/">Cricket Club</a>, and at the <a href="https://thedali.org/">Dali Museum in St. Petersburg</a>. Let me know about your weekend! </p>
+
+
+
+
+
+<p>With the release of Gutenberg 10.7 version, we are in the &#8220;feature freeze&#8221; which means from now to the first beta release on June 8th, 2021, it&#8217;s all about bug fixing. Below you&#8217;ll find several ways how you can help make it a great release. </p>
+
+
+
+<blockquote class="wp-block-quote is-style-default"><p><em>There is something to be said that 5.8 is probably the biggest release for Gutenberg since 5.0 and in terms of merged code might even be bigger.</em></p><cite>Riad Benguella, editor release lead for WordPress 5.8, in #core-editor meeting 5/26/2021</cite></blockquote>
+
+
+
+<p>Yours 💕,<br />Birgit</p>
+
+
+
+<p>PS: Thank you to all who shared great resources on wp.data last week! If you used the wp.data package in your blocks, I am looking for real life examples. Ping me in Slack @bph or <a href="mailto:pauli@gutenbergtimes.com">email me</a>. </p>
+
+
+
+<p>PPS: Huge &#8220;Thank You&#8221; to <strong><a href="https://twitter.com/get_dave">Dave Smith</a> </strong>for <a href="https://app.mypodcastreviews.com/podcasts/k7H9zO/reviews/6950436">his wonderful review of our podcast.</a> <em>Grzegorz (Greg) Ziolkowski</em> is on vacation, and we&#8217;ll record the next Gutenberg Changelog on Friday Jun 11, covering both releases 10.7 and 10.8. Send us your questions to <a href="mailto:changelog@gutenbergtimes.com">changelog@gutenbergtimes.com</a>. </p>
+
+
+
+<hr class="wp-block-separator is-style-wide" />
+
+
+
+<p>A new call for testing is now available from the FSE outreach program! <strong>Deadline: Jun 9th,</strong> 2021. <strong>Anne McCarthy</strong> sends you down the rabbit hole to create a <a href="https://make.wordpress.org/test/2021/05/26/fse-program-testing-call-7-polished-portfolios/"><strong>Polished Portfolio Pages</strong></a>, using the Template Editor and your personal Query Blocks design. She guides you with nice ideas for your Portfolio page, the accompanying template and shares designs from the web. <a href="https://wptavern.com/fse-outreach-7-building-a-portfolio-in-the-upcoming-template-editing-mode">On WPTavern</a>, <a href="https://twitter.com/justintadlock"><strong>Justin Tadlock</strong></a> followed along. He shared his page&#8217;s source code and the joy and frustrations along the way.</p>
+
+
+
+<hr class="wp-block-separator is-style-wide" />
+
+
+
+<p><a href="https://twitter.com/HughRoberts05"><strong>Huge W. Roberts</strong></a> introduces you to the <a href="https://hughsviewsandnews.com/2021/05/27/5-wordpress-photo-editing-tools-available-to-use-on-the-block-editor/"><strong>Five Photo Editing Tools Available To Use On The Block Editor</strong></a> and explains in detail how to crop, resize and zoom and other features of the Image block. </p>
+
+
+
+<hr class="wp-block-separator is-style-wide" />
+
+
+
+<p>Speaking of which, WordPress 5.8 will bring a new feature to the image and cover block: <a href="https://wordpress.org/news/2021/05/coloring-your-images-with-duotone-filters/"><strong>Coloring Your Images With Duotone Filters</strong></a>, created by <strong>Alex Lende</strong>. Details about this  wonderful new feature are now available on the WordPress News site. Using the Gutenberg plugin, you don&#8217;t have to wait until July 20, 2021 for WordPress 5.8 to come out. You can use today! </p>
+
+
+
+<hr class="wp-block-separator is-style-wide" />
+
+
+
+<p><a href="https://themeshaper.com/2021/05/27/blockbase-a-parent-theme-for-block-themes/"><strong>Blockbase</strong></a> &#8220;This block theme attempts to make all the common theme styles configurable in theme.json, and provides the CSS needed to make them work until the blocks themselves support these settings.&#8221; wrote <a href="https://twitter.com/scruffian"><strong>Ben Dwyer</strong></a>  <a href="https://github.com/Automattic/themes/">The Blockbase themes</a> is available via GitHub. Justin Tadlock at WPTavern kick the tires of it. He concluded: &#8220;It is the modern-day <a href="https://underscores.me/">Underscores (_s)</a> for blocks, and the WordPress theme design community will need such a project moving forward. They will need a starting point and educational tool, and Blockbase is just that.&#8221; You&#8217;d be interested in more details.</p>
+
+
+
+<hr class="wp-block-separator is-style-wide" />
+
+
+
+<p><strong>Hector Pietro</strong> published <a href="https://make.wordpress.org/core/2021/05/27/whats-new-in-gutenberg-10-7-26-may/"><strong>What’s new in Gutenberg 10.7?</strong></a>  The release notes for this week&#8217;s Gutenberg plugin release. This is the last version of Gutenberg features that will be coming to WordPress core. What didn&#8217;t make it? Navigation screen and block, Post Author Block and the Refactor of the Gallery Block. The latter is a bit disappointing as I was very much looking forward to building galleries with image blocks. Ah, well.</p>
+
+
+
+<hr class="wp-block-separator is-style-wide" />
+
+
+
+<p><strong>The new Widget screen</strong> made it and could use some major testing round: Use the WordPress Beta Tester plugin, enable the nightly stream on the bleeding edge channel and start testing specially for backwards compatibility with existing themes and plugins and configuration. <a href="https://pantheon.io/register">Pantheon gives Developer 2 free testing sites</a>, and has a powerful <a href="https://pantheon.io/docs/migrate">migration tool </a>for cloning existing sites for testing. It&#8217;s what we will use for our long-time client sites. If you feel you don&#8217;t have enough times, but also don&#8217;t want to see any surprises, you can install the <a href="https://wordpress.org/plugins/classic-widgets/"><strong>Classic Widgets plugin</strong></a> by core contributors <strong>Tonya Mork</strong> and <strong>Andrew Ozz</strong>. </p>
+
+
+
+<hr class="wp-block-separator is-style-wide" />
+
+
+
+<p><strong>Allison Rivers </strong>wrote <a href="https://torquemag.io/2021/05/why-wordpress-agencies-are-embracing-gutenberg/"><strong>Why WordPress Agencies Are Embracing Gutenberg</strong></a> for the Torque Magazine. Rivers interviewed 15 Agency leaders in the WordPress space who shared why they are slowly moving away from 3rd party page builders favoring the block editor and the rich ecosystem around it, with Generate Blocks, Kadence Blocks, Toolset, Stackable, Genesis Blocks and more. </p>
+
+
+
+<hr class="wp-block-separator is-style-wide" />
+
+
+
+<p>The above article was a nice palate cleanser after the rather lively debate on <a href="https://www.youtube.com/watch?v=xLiDu7WwCRI&t=1s"><strong>This Week in WordPress #164</strong></a> with Nathan Wrigley and Spencer Forman. The reasoning from the agency leaders might also explain why hard-core Elementor fans get so agitated. Big &#8220;Thank You&#8221; to Nathan Wrigley for having me on the show. 🤟 It was quite entertaining, to say the least. </p>
+
+
+
+<hr class="wp-block-separator is-style-wide" />
+
+
+
+<p>In case you missed it,  I thoroughly enjoyed <strong>Nathan Wrigley&#8217;s</strong> interview with <strong>Benjamin Intal</strong>, of <a href="https://wpstackable.com/">Stackable </a> on the  WP Tavern Jukebox podcast, and <strong><a href="https://wptavern.com/podcast/3-benjamin-intal-on-why-hes-betting-his-business-on-blocks">Why he is betting his business on blocks</a>.</strong></p>
+
+
+
+<hr class="wp-block-separator is-style-wide" />
+
+
+
+<p><a href="https://twitter.com/karks88"><strong>Eric Karkovack</strong></a> did a deep dive into the plugin <a href="https://wordpress.org/plugins/block-visibility/">Block Visibility</a> by Nick Diego and shared his insights in his article <a href="https://speckyboy.com/edit-block-visibility-wordpress-gutenberg-editor/"><strong>An Easy Way to Edit Block Visibility in the WordPress Gutenberg Editor</strong></a> .I mentioned the plugin multiple times before.  If you didn&#8217;t get a chance to test it on one of your projects, Karkovack&#8217;s article gives you definitely more insight in how it works, and what use cases are suitable for it. <br />I also discovered the plugin <strong><a href="https://wordpress.org/plugins/conditional-blocks/">Conditional Blocks</a>  by <a href="https://twitter.com/morganhvidt">Morgan Hvidt</a> </strong>with a slightly different approach. Both plugins also provide pro versions via their respective websites. </p>
+
+
+
+<hr class="wp-block-separator is-style-wide" />
+
+
+
+<h2 id="events">Upcoming WordPress Events</h2>
+
+
+
+<p><strong>June 7 &#8211; 9th, 2021</strong><br /><strong><a href="https://europe.wordcamp.org/2021/">WordCamp Europe</a></strong><br />A virtual event and contributor day. <a href="https://europe.wordcamp.org/2021/call-for-sponsors/">Call for sponsors is open.</a></p>
+
+
+
+<p><strong>🎉</strong>  Gutenberg Times is a media partner of WordCamp Europe 2021 </p>
+
+
+
+<p><strong>June 10th, 2021</strong><br /><strong><a href="https://www.meetup.com/SF-WordPress-Users/events/278491308">WordPress &#8220;Mega Meetup&#8221;: Plugins That Keep Websites Running</a></strong></p>
+
+
+
+<p><strong>June 20 &#8211; 26, 2021</strong><br /><strong><a href="https://japan.wordcamp.org/2021/">WordCamp Japan</a></strong><br /><em>The schedule has been posted. Most sessions will be in Japanese, with exceptions, I think&#8230; </em></p>
+
+
+
+<p><strong>June 24, 2021 </strong><br /><strong><a href="https://attend.wpengine.com/summit-us-2021/">WPEngine Summit 2021</a></strong><br /><em>The digital breakthrough conference</em></p>
+
+
+
+<p><strong>June 24 &#8211; 26, 2021</strong><br /><strong><a href="https://cochabamba.wordcamp.org/2021/">WordCamp Cochabama</a></strong> (Colombia) </p>
+
+
+
+<p><strong>July 17 + 18th, 2021</strong><br /><strong><a href="https://santaclarita.wordcamp.org/2021/">WordCamp Santa Clarita</a></strong><br />Calls for speakers was extended to June 5th, 2021.</p>
+
+
+
+<p><strong>July 23, 2021</strong><br /><a href="https://www.wordfest.live/"><strong>WordFest Live </strong></a>&#8211; <em>The </em>festival of WordPress</p>
+
+
+
+<p><strong>September 21 + 22, 2021</strong><br /><a href="https://2021.wpcampus.org/"><strong>WPCampus 2021 Online</strong></a><br />&#8220;A free online conference for web accessibility and WordPress in higher education.&#8221; <a href="https://2021.wpcampus.org/proposals">Call for Proposal is up</a> and proposal are <strong>due May 26, 2021</strong></p>
+
+
+
+<hr class="wp-block-separator is-style-wide" />
+
+
+
+<p>On the<a href="https://wpcalendar.io/online/"> <strong>Calendar for WordPress Online Events</strong> </a>you can browse a list of the upcoming WordPress Meetups, around the world, including WooCommerce, Elementor, Divi Builder and Beaver Builder meetups. </p>
+
+
+
+
+<hr class="wp-block-separator is-style-wide" />
+
+
+
+<p class="has-text-align-center"><strong>Don&#8217;t want to miss the next Weekend Edition? </strong></p>
+
+
+
+<form class="wp-block-newsletterglue-form ngl-form ngl-portrait" action="https://gutenbergtimes.com/feed/" method="post"><div class="ngl-form-container"><div class="ngl-form-field"><label class="ngl-form-label" for="ngl_email">Type in your Email address to subscribe.</label><div class="ngl-form-input"><input type="email" class="ngl-form-input-text" name="ngl_email" id="ngl_email" /></div></div><button class="ngl-form-button">Subscribe</button><p class="ngl-form-text">We hate spam, too and won&#8217;t give your email address to anyone except Mailchimp to send out our Weekend Edition</p></div><div class="ngl-message-overlay"><div class="ngl-message-svg-wrap"></div><div class="ngl-message-overlay-text">Thanks for subscribing.</div></div><input type="hidden" name="ngl_list_id" id="ngl_list_id" value="26f81bd8ae" /><input type="hidden" name="ngl_double_optin" id="ngl_double_optin" value="yes" /></form>
+
+
+
+<hr class="wp-block-separator is-style-wide" />
+
+
+
+
+<p>Featured Image: Photo by <a href="https://unsplash.com/@ravipalwe?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ravi Palwe</a> on <a href="https://unsplash.com/s/photos/lego?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Sat, 29 May 2021 18:23:58 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:18:"Birgit Pauli-Haack";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:42;a:6:{s:4:"data";s:13:"
 	
 	
 	
@@ -129,7 +4811,7 @@
 
 
 
-<p>I do not often write several paragraphs about one function that spans a mere 21 lines of code, but I am still a developer at heart and love seeing elegantly simple solutions. It is not about the font-loading technique; it is about solving problems. This code will undoubtedly be copied many thousands of times over in the coming years and modified for many more thousands of uses. If you are a theme developer and do not see it yet, you will.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Sat, 29 May 2021 00:00:19 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:14:"Justin Tadlock";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:1;a:6:{s:4:"data";s:11:"
+<p>I do not often write several paragraphs about one function that spans a mere 21 lines of code, but I am still a developer at heart and love seeing elegantly simple solutions. It is not about the font-loading technique; it is about solving problems. This code will undoubtedly be copied many thousands of times over in the coming years and modified for many more thousands of uses. If you are a theme developer and do not see it yet, you will.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Sat, 29 May 2021 00:00:19 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:14:"Justin Tadlock";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:43;a:6:{s:4:"data";s:11:"
 	
 	
 	
@@ -178,7 +4860,7 @@
 
 
 <p>If you&#8217;d like more information about the program, check out this <a href="https://yoast.com/diversity-fund/">blog post</a>, and if you&#8217;d like to apply for the fund <a href="https://yoast.com/yoast-diversity-fund/apply/">click here</a>.</p>
-<p>The post <a rel="nofollow" href="https://heropress.com/yoast-pivots-diversity-fund/">Yoast Pivots Diversity Fund</a> appeared first on <a rel="nofollow" href="https://heropress.com">HeroPress</a>.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Fri, 28 May 2021 13:03:18 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:2;a:6:{s:4:"data";s:13:"
+<p>The post <a rel="nofollow" href="https://heropress.com/yoast-pivots-diversity-fund/">Yoast Pivots Diversity Fund</a> appeared first on <a rel="nofollow" href="https://heropress.com">HeroPress</a>.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Fri, 28 May 2021 13:03:18 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:44;a:6:{s:4:"data";s:13:"
 	
 	
 	
@@ -239,7 +4921,7 @@
 
 
 
-<p><em><strong>If you think you’ve found a bug</strong>, you can share it with us replying to this <a href="https://buddypress.org/support/topic/buddypress-8-0-0-release-candidate/">support topic</a> or if you’re comfortable writing a reproducible bug report,&nbsp;<a href="https://buddypress.trac.wordpress.org/">file one on BuddyPress Trac</a></em>.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Fri, 28 May 2021 04:30:05 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:12:"Mathieu Viet";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:3;a:6:{s:4:"data";s:13:"
+<p><em><strong>If you think you’ve found a bug</strong>, you can share it with us replying to this <a href="https://buddypress.org/support/topic/buddypress-8-0-0-release-candidate/">support topic</a> or if you’re comfortable writing a reproducible bug report,&nbsp;<a href="https://buddypress.trac.wordpress.org/">file one on BuddyPress Trac</a></em>.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Fri, 28 May 2021 04:30:06 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:12:"Mathieu Viet";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:45;a:6:{s:4:"data";s:13:"
 	
 	
 	
@@ -282,7 +4964,7 @@
 
 
 
-<p>18 years of growth is a milestone worth recognizing on the web. Congratulations to the code contributors, translators, community organizers, WordPress leadership, and everyone else who has helped make this beloved publishing platform that continues to surprise the world.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Fri, 28 May 2021 03:29:05 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Sarah Gooding";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:4;a:6:{s:4:"data";s:13:"
+<p>18 years of growth is a milestone worth recognizing on the web. Congratulations to the code contributors, translators, community organizers, WordPress leadership, and everyone else who has helped make this beloved publishing platform that continues to surprise the world.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Fri, 28 May 2021 03:29:05 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Sarah Gooding";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:46;a:6:{s:4:"data";s:13:"
 	
 	
 	
@@ -429,7 +5111,7 @@
 
 
 
-<p>Now, can we do the same for the Columns, Gallery, and Query Loop blocks? Normalizing the system for gutters/gaps between flex items can save dozens upon dozens of lines of code in the long term.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Fri, 28 May 2021 00:41:56 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:14:"Justin Tadlock";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:5;a:6:{s:4:"data";s:13:"
+<p>Now, can we do the same for the Columns, Gallery, and Query Loop blocks? Normalizing the system for gutters/gaps between flex items can save dozens upon dozens of lines of code in the long term.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Fri, 28 May 2021 00:41:56 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:14:"Justin Tadlock";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:47;a:6:{s:4:"data";s:13:"
 	
 	
 	
@@ -448,7 +5130,7 @@
 
 
 
-<p>The overwhelming feeling is one of gratitude, so I want to say thank you to <em>every</em> person who has ever been involved with making WordPress as a contributor, a community organizer, or as an end-user of the software. It&#8217;s amazing what we can accomplish when we work together.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 27 May 2021 22:31:23 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:4:"Matt";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:6;a:6:{s:4:"data";s:13:"
+<p>The overwhelming feeling is one of gratitude, so I want to say thank you to <em>every</em> person who has ever been involved with making WordPress as a contributor, a community organizer, or as an end-user of the software. It&#8217;s amazing what we can accomplish when we work together.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 27 May 2021 22:31:23 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:4:"Matt";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:48;a:6:{s:4:"data";s:13:"
 	
 	
 	
@@ -491,7 +5173,7 @@
 
 
 
-<p>Thank you for your support of WordPress over the past 18 years. Your continued patronage will ensure that WordPress will keep going for the next 18 years and beyond!&nbsp;</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 27 May 2021 10:57:41 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:12:"Hari Shanker";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:7;a:6:{s:4:"data";s:13:"
+<p>Thank you for your support of WordPress over the past 18 years. Your continued patronage will ensure that WordPress will keep going for the next 18 years and beyond!&nbsp;</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 27 May 2021 10:57:41 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:12:"Hari Shanker";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:49;a:6:{s:4:"data";s:13:"
 	
 	
 	
@@ -512,3951 +5194,4 @@
 
 
 
-<p>Grab a slice of cake or festive beverage and give it a scroll!</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 27 May 2021 06:00:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:7:"Josepha";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:8;a:6:{s:4:"data";s:13:"
-	
-	
-	
-	
-	
-	
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:91:"WPTavern: Joomla Blocks FLoC by Default, Drupal Moves to Block FLoC in Upcoming 9.2 Release";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=117217";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:225:"https://wptavern.com/joomla-blocks-floc-by-default-drupal-moves-to-block-floc-in-upcoming-9-2-release?utm_source=rss&utm_medium=rss&utm_campaign=joomla-blocks-floc-by-default-drupal-moves-to-block-floc-in-upcoming-9-2-release";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:7349:"<p>Joomla has <a href="https://developer.joomla.org/news/855-joomla-and-floc.html?s=09">announced</a> plans to block Google&rsquo;s Federated Learning of Cohorts (<a rel="noreferrer noopener" href="https://github.com/WICG/floc" target="_blank">FLoC</a>) by default going forward. The <a href="https://www.joomla.org/announcements/release-news/5836-joomla-3-9-27.html">3.9.2.7</a> security update, released yesterday, <a href="https://github.com/joomla/joomla-cms/pull/33212">added a Permissions Policy header to disable FLoC</a>. Users can now find a new setting in Global configuration on the Site tab in the Site Settings area, where they can toggle FLoC on if desired. This change will also affect existing sites updated from older versions.</p>
-
-
-
-<p>The Joomla Developer Network blog outlined a few concerns contributors have about fingerprinting, the technology Google uses to gather information from a user&rsquo;s browser to create a unique, stable identifier. They also highlighted cross-content exposure as another concern: </p>
-
-
-
-<blockquote class="wp-block-quote"><p>The technology will share new personal data with trackers who can already identify users. For FLoC to be useful to advertisers, a user&rsquo;s cohort will necessarily reveal information about their behavior.<br />This means every site you visit will have a good idea about what kind of person you are on first contact, without having to do the work of tracking you across the web.<br />If you visit a site to buy a jumper they will have access to your cohort identifying number. This could also give them your political thinking or reveal that you are also in certain defined medical groups. There is nothing to stop these groups being backward engineered and your movement between the cohorts will reveal a lot about you over time.</p></blockquote>
-
-
-
-<p>A similar permissions policy header was <a href="https://www.drupal.org/node/3213197">added to Drupal 9.2.0-beta1</a> on May 14, after a lengthy <a href="https://www.drupal.org/project/drupal/issues/3209628">discussion</a> with overwhelming consensus to block FLoC. It  is expected to be part of Drupal core on June 16, 2021, when 9.2 is scheduled to be released.</p>
-
-
-
-<p>&ldquo;I&rsquo;d love to see this added to core and enabled by default,&rdquo; Drupal founder Dries Buytaert <a href="https://www.drupal.org/project/drupal/issues/3209628#comment-14077502">commented</a> on the implementation discussion. &ldquo;We should provide an option/mechanism to disable it though.&rdquo; He said he has already added a Permissions-Policy header on his personal blog.</p>
-
-
-
-<p>Drupal makes disabling it a bit more of a hurdle than Joomla, as it requires setting <code>block_interest_cohort</code> to FALSE in the settings.php file.</p>
-
-
-
-<p>Although FLoC is still in the experimental stage, many other frameworks and tools have blocked it or are planning to block it.<strong> </strong>The&nbsp;<a href="https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg">DuckDuckGo Chrome extension</a>&nbsp;has been reconfigured to block FLoC&rsquo;s tracking, in addition to DuckDuckGo Search opting users out. GitHub is also <a href="https://github.blog/changelog/2021-04-27-github-pages-permissions-policy-interest-cohort-header-added-to-all-pages-sites/">blocking FLoC on GitHub Pages</a> and all sites served from the github.io domain.&nbsp;Although Chrome is the market leader by a wide margin, Google has not yet been able to sway any other major browsers to get on board. At this time, Microsoft Edge, Safari, and Firefox <a href="https://www.theverge.com/2021/4/16/22387492/google-floc-ad-tech-privacy-browsers-brave-vivaldi-edge-mozilla-chrome-safari">do not plan to adopt FLoC</a>.</p>
-
-
-
-<p>&ldquo;It is disappointing to see Google, instead of taking the present opportunity to help design and build a user-first, privacy-first Web, proposing and immediately shipping in Chrome a set of smaller, ad-tech-conserving changes, which explicitly prioritize maintaining the structure of the Web advertising ecosystem as Google sees it,&rdquo; Brave CEO and co-founder Brendon Eich and senior privacy researcher Peter Snyder wrote in a&nbsp;statement on the company&rsquo;s <a href="https://brave.com/why-brave-disables-floc/">blog</a>. &ldquo;The worst aspect of FLoC is that it materially harms user privacy, under the guise of being privacy-friendly.&rdquo;</p>
-
-
-
-<p>Brave has disabled FLoC and the company recommends that all sites do the same, advising that &ldquo;any new privacy-risking features on the web should be opt-in.&rdquo; The post concludes that FLoC will not be an improvement on current ad tech:</p>
-
-
-
-<blockquote class="wp-block-quote"><p>Overall, FLoC, along with many other elements of Google&rsquo;s &ldquo;Privacy Sandbox&rdquo; proposal, are a step backward from more fundamental, privacy-and-user focused changes the Web needs. Instead of deep change to enforce real privacy and to eliminate conflicts of interest, Google is proposing Titanic-level deckchair-shuffling that largely maintains the current, harmful, inefficient system the Web has evolved into, a system that has been disastrous for the Web, users and publishers.</p><p>What the Web desperately needs is radical change, one where &ldquo;would users want this?&rdquo; is the most important question asked for each new feature. Instead, FLoC and &ldquo;Privacy Sandbox&rdquo; ask &ldquo;how can we make this work for ad-tech, in a way that users will tolerate or not notice.&rdquo;</p></blockquote>
-
-
-
-<p>The open source Umbraco CMS is taking a more hands-off approach to the controversial issue. In response to <a href="https://github.com/umbraco/Umbraco-CMS/issues/10147">a PR suggesting suggesting Umbraco block FLoC</a>, Umbraco project manager Sebastiaan Janssen said, &ldquo;We feel it&rsquo;s not our place or task to enforce this kind of blocking, we believe site implementers should be free to use whatever services they think make sense for their sites (as well as block them when they want).&rdquo;</p>
-
-
-
-<p>At this point in Google&rsquo;s Chrome&rsquo;s Origin Trial, Chrome representatives do not yet know how the FLoC API will be finalized for determining which pages will be included in FLoC calculations. WordPress has not yet made a determination about whether to block FLoC or leave it site owners to decide. Multiple <a href="https://wordpress.org/plugins/search/FLoC/">FLoC blocking plugins</a> are already available to users who want to opt out now. After a lengthy and heated <a href="https://wptavern.com/floc-blocking-discussion-continues-on-wordpress-trac">discussion</a> on a proposal to block FLoC by default, WordPress core leadership <a href="https://core.trac.wordpress.org/ticket/53069">moved the conversation to Trac</a> where contributors are monitoring Google&rsquo;s experiment. </p>
-
-
-
-<p>The ticket has not yet received much feedback as WordPress is taking a more cautious approach that will depend on how Google decides to implement its FLoC API. Without the support of any major browsers, WordPress&rsquo; support or opposition may be critical to the success or failure of FLoC adoption on the web. Once more information from the FLoC trial becomes available, WordPress contributors will be in a better position to decide a course of action.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 27 May 2021 02:25:31 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Sarah Gooding";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:9;a:6:{s:4:"data";s:13:"
-	
-	
-	
-	
-	
-	
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:85:"WPTavern: FSE Outreach #7: Building a Portfolio in the Upcoming Template-Editing Mode";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=117293";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:211:"https://wptavern.com/fse-outreach-7-building-a-portfolio-in-the-upcoming-template-editing-mode?utm_source=rss&utm_medium=rss&utm_campaign=fse-outreach-7-building-a-portfolio-in-the-upcoming-template-editing-mode";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:6494:"<p class="has-drop-cap">Feedback for <a href="https://make.wordpress.org/test/2021/05/26/fse-program-testing-call-7-polished-portfolios/">round #7 of the FSE Outreach Program</a> opened today. Like <a href="https://wptavern.com/fse-outreach-round-6-building-a-wordcamp-landing-page-via-the-template-editor">round #6</a>, the focus is once again on template-editing mode, a feature that is slated to ship with WordPress 5.8. All hands need to be on deck for it to have a chance of a successful landing.</p>
-
-
-
-<p>I have been eager for this round of testing. FSE Outreach lead Anne McCarthy asked volunteers to follow a 16-step plan for building a portfolio template. Unlike the previous six tests, this one gives users more leeway, room to explore template editing.</p>
-
-
-
-<p>As usual, the base set of tools is the latest version of the <a href="https://wordpress.org/plugins/gutenberg">Gutenberg plugin</a> and the <a href="https://wordpress.org/themes/tt1-blocks/">TT1 Blocks theme</a>.</p>
-
-
-
-<p>For my portfolio, I decided to approach it as a hypothetical photographer who wanted to drum up some new clients and show off his latest work. The following screenshot is the end result:</p>
-
-
-
-<img />
-
-
-
-<p>Anyone is welcome to grab the HTML block code for this template. <a href="https://gist.github.com/justintadlock/89db71a9a08ba121dcd34dba17c91268">I saved it as a GitHub Gist.</a> The image URLs are to my local machine, so you will need to update those if you decide to give it a spin.</p>
-
-
-
-<p>I had a lot of fun with this. And frustration. Some more fun. And&hellip;<em>you guessed it</em>&hellip;some more frustration.</p>
-
-
-
-<p>The editor and I got off to a rough start. After adding my Cover block, I wanted to add a Columns block inside. <strong><em>Error.</em></strong> The dreaded invalid block message. I switched over to the code view to see if there was anything odd. It was empty. After switching back to visual, the Columns block seemed to be working. I was able to inconsistently reproduce this issue in template-editing mode.</p>
-
-
-
-<p>I used a Columns block because it is the only way that I know how to create a left-aligned container covering 50% of its containing element. It is a bit of a hack, but you can set the block to one column and adjust its width to whatever size you need. Ideally, users would be able to do this with the Group block.</p>
-
-
-
-<p>It was the underpinning of my template header area. I went with the traditional hero/cover intro that spanned the width of the page.</p>
-
-
-
-<img />Header section of template using Cover block.
-
-
-
-<p>Adding a site logo and navigation is where I hit my second snag. The navigation worked fine, mostly. On mobile, the responsive menu overlay is partially covered by the WordPress toolbar on the front end. However, I already knew this. Responsive nav menus are a work in progress.</p>
-
-
-
-<p>I was unable to use the Site Logo block. Whenever I attempted to add it, it had a continual spinner icon that never went away. So, I opted for an Image block &mdash; you make do with the tools you got or the ones that are working.</p>
-
-
-
-<img />Second test of adding a site logo in different section.
-
-
-
-<p>The next section of template testing consisted of adding a Query pattern and customizing it. I have a love/hate relationship with queries in Gutenberg right now. The Query block itself works well. It has a solid balance between advanced usage and simplicity for the most part. I am amazed at what the development team has done over months upon months of iteration.</p>
-
-
-
-<p>The downfall is that the Query block is merely a wrapper. It is only as good as its weakest sub-block. Most of its nested blocks are for post-related data, and the weakest among them is Post Featured Image. It limits everything that can be truly fun about building queries. It does not even cover a basic sub-set of the Image, Cover, and Media &amp; Text options.</p>
-
-
-
-<p>It is frustrating because users and theme authors cannot build out their visions. I know it will get there someday. Today, we are limited to the basics without any themes offering highly customized Query patterns.</p>
-
-
-
-<p>It is tough to go wrong with a simple grid, so that is what I did.</p>
-
-
-
-<img />Grid-style portfolio layout (first image is out of line in editor)
-
-
-
-<p>I followed that section with two Columns blocks nested inside another Columns block for a testimonials group. Then, I wrapped it up with a basic footer, running into the same issue with uploading a site logo. The most prevalent problems in these sections were inconsistent spacing.</p>
-
-
-
-<p>Some of the limitations with these tests are not from the template editor in Gutenberg. Instead, they are from the TT1 Blocks theme. However, I suppose that depends on your philosophy about what the future of theme development should be. If most front-end styles should come from WordPress/Gutenberg, it is not a theme issue.</p>
-
-
-
-<p>Vertical alignment is inconsistent in the best of times. Liberal use of the Spacer block is not ideal in real-world projects to align blocks. It can be a handy tool when needed, but it should not be a crutch for correcting foundational issues. The block system adds a few potholes in the road, but a well-rounded and tested theme can mitigate most of these problems. And, TT1 Blocks just does not do this. It relies almost exclusively on the core block styles without swerving left or right when it needs to.</p>
-
-
-
-<p>The current padding controls for a few blocks like Group help with this. However, most users are not going to micromanage every pixel of every page on their sites. The same can be said for the margin controls when they become available. Again, both are useful and necessary tools, but users should not lean on them too heavily to correct design issues. In the long run, it will create more problems as site owners eventually swap themes.</p>
-
-
-
-<p>Mismatched output in the editor versus the front end can become a headache at times. This is a known issue and noted in the call for testing, so I won&rsquo;t harp on it.</p>
-
-
-
-<p>I enjoyed the process &mdash; <em>yes, I revel in both the fun and frustration</em>. Aside from everything that I think is broken, the overall system is <em>pretty dang sweet</em>. There are far more things that the development team has nailed down than there are that feel janky. However, calls for testing are all about finding the problems. I encourage all Tavern readers to join in and report your feedback.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 27 May 2021 01:04:46 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:14:"Justin Tadlock";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:10;a:6:{s:4:"data";s:13:"
-	
-	
-	
-	
-	
-	
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:157:"HeroPress: WordPress – The Source Of My Satisfaction And Joy – વર્ડપ્રેસ – સંતોષ અને આનંદ નો સાધન";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:56:"https://heropress.com/?post_type=heropress-essays&p=3609";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:168:"https://heropress.com/essays/wordpress-the-source-of-my-satisfaction-and-joy/#utm_source=rss&utm_medium=rss&utm_campaign=wordpress-the-source-of-my-satisfaction-and-joy";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:23359:"<img width="1024" height="512" src="https://heropress.com/wp-content/uploads/2022/05/052621-min.jpg" class="attachment-large size-large wp-post-image" alt="Pull Quote: The WordPress community has taught me that it's ok if I don't know everything. Nobody does." /><p><a href="https://heropress.com/feed/#gujarati">આ નિબંધ ગુજરાતીમાં પણ ઉપલબ્ધ છે</a></p>
-<p>My adventure with WordPress started back in the year 2017. Till then there were many ups and downs and I was clueless which field I will enter into. Right until the end of 2016, I was giving my exams to become a Chartered Accountant (CA) equivalent to CPA. I also love baking cakes and pastries. So, in the first half of 2017, I had started a small homegrown bakery for making donuts. It was interesting but it didn&#8217;t give me a sense of satisfaction. I also hosted some small exhibitions of fabrics and fashion apparels.</p>
-<blockquote><p>In short, I tried many different fields but I still wasn&#8217;t happy from within.</p></blockquote>
-<p>So, after giving up on CA (for which I spent a few years) and trying out hands on baking I still did not have the sense of satisfaction and wanted to do something that would give me an identity of myself and happiness. One casual day, my husband Dhruvin asked me to get involve with WordPress in some way or the other. But, I wasn&#8217;t sure whether I would get a place in the technical world or not. This was a completely different challenge for me.</p>
-<h3>Introduction to WordPress</h3>
-<p>After giving a serious thought I decided to get started with WordPress. I spent the initial 6-8 months exploring WordPress, learning the basics about the Web, making myself comfortable with it &amp; deciding if this is something I would love to work on or not. I then participated in WordCamp Mumbai 2018. That was one of the few WordCamps I have attended. This WordCamp gave me enough confidence that WordPress is the new sky for me where there is no limit.</p>
-<h3>Finding the perfect role in WordPress</h3>
-<p>Now, that I got familiar with WordPress, the next question for me was what kind of role or a job I would best fit into?</p>
-<p>I started interacting with a few people in WordCamp (which I miss very badly these days), I understood that I like interacting and engaging with people a lot. So, I thought that the Customer Support role would fit perfectly with my personality.</p>
-<p>Once I was convinced about this, I got an opportunity to work with <a href="https://www.tychesoftwares.com/">Tyche Softwares</a>. They are a plugin development company focussing on niche WooCommerce plugins.</p>
-<blockquote><p>This was the first step of my professional journey in WordPress, something that I never imagined I would step into.</p></blockquote>
-<p>I started enjoying it more as I would gain immense satisfaction when I helped customers solve their problems.</p>
-<p>I also tried my hand at the Business Development and Analytics part. I used to analyze customer feedback. The analysis involves creating the processes to improve the customer satisfaction and looking at how to automate a certain task using the tools at our hand. These things help in taking some important decisions on companies&#8217; plugins with regards to new features.</p>
-<h3>About WordCamps</h3>
-<p>I love attending WordCamps. I began attending WordCamps in 2018 and my very first WordCamp was WC Mumbai 2018. Since then, I’ve been going to as many as would fit in my schedule every year. I learn something new at every WordCamp, we deepen existing relationships and start new ones.</p>
-<p>My first major Wordcamp was WCEU 2019 held in Berlin. It was a memorable one which will be in my mind for ages. I realized that it’s so much fun getting to meet people in real life whom you have only known on social media. WordCamps have also been a great chance for me to learn from others and collaborate on ideas surrounding WordPress.</p>
-<p><a href="https://heropress.com/wp-content/uploads/2022/05/HeroPress-2.jpg"><img /></a></p>
-<p>WordCamps have also been a great opportunity for me to travel and/or meet up with old friends, and make new ones. Of course, I also love the learning aspect of WordCamps. I look forward to learning new things and to speakers challenging my way of thinking, and seeing if there are ways I can improve my workflow or productivity or as a person.</p>
-<p>The WordPress community has taught me that it’s ok if I don’t know everything, nobody does. We are all good at certain things and that’s totally fine!</p>
-<p>The other memorable WordCamp for me was WordCamp Vadodara that happened in October 2019. I applied as a volunteer &amp; the organizing team was kind enough to give me that opportunity. That entire day, I was taking video bytes of the attendees, helping with registrations, and running around just trying to talk to as many people as I could. I barely got time for my lunch or time to spend time at the Tyche sponsors booth. Trust me, at the end of the day, I felt like I am just made for this! I enjoyed every bit of this experience.</p>
-<p><a href="https://heropress.com/wp-content/uploads/2022/05/HeroPress-1.jpg"><img /></a></p>
-<p>After volunteering a few more WordCamps, I applied to volunteer at the first-ever WordCamp Asia, which was to be held in Feb 2020 &amp; my application was accepted as well. Unfortunately, COVID-19 struck just at that time &amp; the event couldn’t take place.</p>
-<p>I am definitely looking forward to helping the community in all the ways I can.</p>
-<h3>What I do in my free time</h3>
-<p>I love traveling and meeting new people. The idea of travel, packing my bags and disappearing to someplace, lives inside my brain all the time.</p>
-<p>Whenever I meet someone for the first time or even encounter an old friend, I instantly want to talk about their own adventures.</p>
-<blockquote><p>As a kid I was always curious about the lifestyle of people living in the other part of the world.</p></blockquote>
-<p>Till date, I love exploring such things. I deeply believe travel makes you richer, not in your wallet, but in your intelligence and compassion.</p>
-<p>I also love dancing, cooking new dishes and spending time on social media. I love watching cartoons too ;)</p>
-<h3>Time to take a break</h3>
-<p>The year 2020 has been a year full of surprises. Virus, lockdowns, travel restrictions to many such things. Through all these things was a moment of joy for me and my family. I was going to be a mother :) I was really happy but deep inside I was also having a feeling that I would loose my career and will not stay updated with WordPress and I would need to start again with everything. But, I am glad nothing of that sort happened. I was able to keep up with the trends via Twitter and other channels.</p>
-<p>I really appreciate the support and the remote work policy of Tyche Softwares enabling me to work throughout my pregnancy. The policies at the organization have always been employee friendly.</p>
-<p>Dhruvin and I become proud <strong>parents</strong> in November 2020.</p>
-<p>I am enjoying this new phase of mine as much as I miss my involvement in the WordPress ecosystem.</p>
-<p>I had taken an indefinite break until I felt that I would be able to dedicate time. Now, I am planning to resume my professional career. I would be taking my career ahead with <a href="https://imaginate-solutions.com/">Imaginate Solutions</a>. Imaginate Solutions is also plugin development company focusing on niche WooCommerce plugins.</p>
-<p>I am excited for the future ahead!</p>
-<h1 id="gujarati">વર્ડપ્રેસ &#8211; સંતોષ અને આનંદ નો સાધન</h1>
-<p>વર્ડપ્રેસ સાથેનું મારું સફર વર્ષ 2017 માં શરૂ થયું. ત્યાં સુધી મારા જીવનમાં ઘણા ઉતાર-ચડાવ આવ્યા હતા અને હું કશું જાણતી ન હતી કે હું કયા ક્ષેત્રમાં પ્રવેશ કરીશ. 2016 ના અંત સુધી હું ચાર્ટર્ડ એકાઉન્ટન્ટ (CA) બનવા માટે મારી પરીક્ષા આપી રહી હતી. મને કેક અને પેસ્ટ્રી બેકિંગ નો પણ શોક છે. તેથી, 2017 ના ફર્સ્ટ હાફમાં, મેં ડોનટ્સ બનાવવા માટે એક નાની હોમ-બેકરી શરૂ કરી હતી. તે રસપ્રદ હતું, પરંતુ તે મને સંતોષ ની ભાવના આપતું ન હતું. મેં ફેબ્રિક્સ અને ફેશન એપેરલ ના એકઝીબીશન પણ હોસ્ટ કર્યા હતા.</p>
-<blockquote><p>ટૂંકમાં, મેં ઘણાં વિવિધ ક્ષેત્રો અજમાવ્યાં પરંતુ હું હજી પણ અંદરથી ખુશ નહોતી.</p></blockquote>
-<p>તેથી, CA (જે માટે મારા થોડા વર્ષો ગયા છે) છોડી દીધા પછી અને બેકિંગ પર પણ હાથ અજમાવ્યા પછી મને હજી પણ સંતોષની ભાવના નહોતી અને એવું કંઈક કરવા માંગતી હતી જે મને મારી ઓળખ પણ આપે અને આનંદ પણ આપે. એક કેઝ્યુઅલ દિવસે, મારા પતિ ધ્રુવિન એ મને વર્ડપ્રેસમાં ઇન્વોલ્વ થવાનું સજેસ્ટ કર્યું. પરંતુ, મને ખાતરી નહોતી કે મને તકનીકી વિશ્વમાં સ્થાન મળશે કે નહીં. મારા માટે આ એક સંપૂર્ણપણે અલગ પડકાર હતું.</p>
-<h3>વર્ડપ્રેસ સાથે મારો પરિચય</h3>
-<p>થોડું ગંભીરતા થી વિચાર કર્યા પછી મેં વર્ડપ્રેસ શું છે એ જોવાનું પ્રારંભ કર્યું. મેં પ્રારંભિક 6-8 મહિના વર્ડપ્રેસની શોધખોળમાં, વેબ વિશેની મૂળભૂત બાબતોને જોવામાં, મારી જાતને તેનાથી comfortable બનાવવામાં ગાળ્યા. મારે એ નક્કી કરવાનું હતું કે આ કામ કરવામાં મને રસ છે ક નહિ. મેં વર્ડકેમ્પ મુંબઈ 2018 માં પણ ભાગ લીધો હતો.આ વર્ડકેમ્પે મને પૂરતો વિશ્વાસ આપ્યો કે વર્ડપ્રેસ મારા માટે નવું આકાશ છે જ્યાં કોઈ મર્યાદા નથી.</p>
-<h3>વર્ડપ્રેસમાં યોગ્ય ભૂમિકા શોધવી</h3>
-<p>હવે, જ્યારે હું વર્ડપ્રેસથી પરિચિત થઈ ગઈ ત્યારે મારો આગળનો પ્રશ્ન એ હતો કે હું કયા પ્રકારની ભૂમિકા અથવા નોકરીમાં શ્રેષ્ઠ રીતે ફિટ થઈ શકું?</p>
-<p>મેં વર્ડકેમ્પમાં થોડા લોકો સાથે વાતચીત કરવાનું શરૂ કર્યું (જે હું આ દિવસોમાં ખૂબ જ યાદ કરું છું). એ વાતચીત થી હું સમજી ગઈ કે મને લોકો સાથે વાર્તાલાપ કરવાનું અને વ્યસ્ત રહેવું ગમે છે. તેથી, મેં વિચાર્યું કે કસ્ટમર સપોર્ટ રોલ મારા વ્યક્તિત્વમાં સંપૂર્ણ રીતે ફિટ થશે.</p>
-<p>એકવાર મને આ વિશે ખાતરી થઈ ગઈ પછી, મને Tyche Softwares સાથે કામ કરવાની તક મળી. તેઓ વિશિષ્ટ WooCommerce plugin પર ધ્યાન કેન્દ્રિત કરતી એક plugin કંપની છે.</p>
-<blockquote><p>આ વર્ડપ્રેસમાં મારી વ્યાવસાયિક મુસાફરીનું પહેલું પગલું હતું, જેની કલ્પના મેં ક્યારેય કરી નહોતી.</p></blockquote>
-<p>મેં જ્યારે ગ્રાહકોને તેમની સમસ્યાનો હલ કરવામાં મદદ કરી ત્યારે મને ખૂબ સંતોષ અને આનંદ નો અનુભવ થયો.</p>
-<p>મેં બિઝનેસ ડેવલપમેન્ટ અને એનાલિટિક્સ પર પણ હાથ અજમાવ્યો છે. હું કસ્ટમર ફીડબેક નું એનાલીસીસ કરતી હતી. કસ્ટમર ને વધુ સંતોષ મળે એના માટે જે સુધારો લાવવાની જરૂર હોય અને જે કાર્ય માં ઓટોમેશન લાવી શકાય એ બધાનું એનાલીસીસ કરતી હતી. આ એનાલીસીસે કંપનીના ઘણા મહત્વપૂર્ણ નિર્ણયો લેવામાં મદદ કરી છે.</p>
-<h3>વર્ડકેમ્પ્સ વિશે માહિતી</h3>
-<p>મને વર્ડકેમ્પ્સમાં ભાગ લેવાનું ખુબ જ પસંદ છે. મેં 2018 માં વર્ડકેમ્પ્સમાં ભાગ લેવાનું શરૂ કર્યું અને મારો પ્રથમ વર્ડકેમ્પ WC મુંબઇ હતો. ત્યાર પછી, હું દર વર્ષે મારા સમયપત્રકમાં ફિટ થાય તેટલા વર્ડકેમ્પ્સમાં ભાગ લવ છું. હું દરેક વર્ડકેમ્પ માં કંઇક નવું શીખું છું. વર્ડકેમ્પ્સ જુના સંબંધોને વધુ ઘાડા બનાવે છે અને નવા સંબંધોની શરૂઆત કરવામાં મદદ કરે છે.</p>
-<p>મારી પ્રથમ મુખ્ય વર્ડકેમ્પ બર્લિનમાં યોજાયેલી WCEU 2019 હતી. તે યાદો મારા મગજમાં યુગો સુધી રહેશે. મને સમજાયું કે વાસ્તવિક જીવનમાં એવા લોકોને મળવાનું ખૂબ જ આનંદની છે, જેને તમે ફક્ત સોશિયલ મીડિયા પર જાણતા હતા. વર્ડકેમ્પ મારા માટે અન્ય લોકો પાસેથી શીખવાની એક શ્રેષ્ઠ તક છે.</p>
-<p><a href="https://heropress.com/wp-content/uploads/2022/05/HeroPress-2.jpg"><img /></a></p>
-<p>વર્ડપ્રેસ community મને શીખવ્યું છે કે બધાને બધું ના આવડે. એટલે કોઈ વસ્તુ જો મને નથી ખબર તો તે ઠીક છે. એમાં સંકોચ અનુભવ કરવાની જરૂર નથી. બધા અલગ અલગ વસ્તુ માં માહિર હોય છે અને તે ઠીક છે!</p>
-<p>મારા માટે બીજું યાદગાર વર્ડકેમ્પ હતું WC Vadodara જે October 2019 માં થયું હતું. મેં એક Volunteer તરીકે અરજી કરી હતી અને મને આયોજક ટીમે તે તક આપી હતી. તે આખો દિવસ, હું ઉપસ્થિત લોકોના વિડિઓ બાઇટ્સ લઈ રહી હતી, રજીસ્ટ્રેશન માં મદદ કરી રહી હતી અને શક્ય તેટલા લોકો સાથે વાત કરવાનો પ્રયાસ કરી રહી હતી. Tyche સ્પોન્સર્સ બૂથ અને મારા બપોરના ભોજન માટેનો પણ સમય મે જેમ તેમ નીકળ્યો હતો. એ દિવસે મને લાગ્યું કે હું આજ કામ માટે બની છું! મેં આ દરેક અનુભવનો આનંદ માણ્યો.</p>
-<p><a href="https://heropress.com/wp-content/uploads/2022/05/HeroPress-1.jpg"><img /></a></p>
-<p>થોડા વધુ વર્ડકેમ્પ્સમાં મેં volunteering કરી પછી, મેં Asia ની પહેલી વર્ડકેમ્પ્ WC Asia માં પણ Volunteer ની અરજી કરી, જે ફેબ્રુઆરી 2020 માં યોજાવાની હતી અને મારી અરજી પણ સ્વીકારી લેવામાં આવી. દુર્ભાગ્યે, COVID-19 ત્રાટક્યું અને ઇવેન્ટ થઈ શકી નહીં.</p>
-<p>હું community ને જે રીતે કરી શકું તે બધી રીતે મદદ કરવા માટે ચોક્કસપણે રાહ જોઈ રહી છું.</p>
-<h3>મારા ફ્રી ટાઈમમાં હું શું કરું છું</h3>
-<p>હું મુસાફરી અને નવા લોકોને મળવાનું પસંદ કરું છું. મુસાફરી નો વિચાર અને મારી બેગ પેક કરી ક્યાંક અદ્રશ્ય થઈ જવું એવો જ વિચાર મગજની અંદર આખો સમય રહે છે.</p>
-<p>જ્યારે પણ હું કોઈને પ્રથમ વખત મળું છું અથવા કોઈ જૂના મિત્રને મળું છું, ત્યારે હું તરત જ તેમણે પોતાના adventure વિશે વાત કરું છું.</p>
-<blockquote><p>એક બાળક તરીકે હું હંમેશાં વિશ્વના બીજા ભાગમાં રહેતા લોકોની જીવનશૈલી વિશે ઉત્સુક હતી.</p></blockquote>
-<p>આજની તારીખમાં પણ મને આવી વસ્તુઓનું અન્વેષણ કરવું ગમે છે. હું માનું છું કે મુસાફરી તમને તમારા wallet માં નહીં, પણ તમારી બુદ્ધિ અને કરુણામાં સમૃદ્ધ બનાવે છે.</p>
-<p>મને નૃત્ય કરવું, નવી વાનગીઓ રાંધવી અને સોશિયલ મીડિયા પર સમય વિતાવવાનું પણ ગમે છે. મને કાર્ટૂન જોવાનું પણ ગમે છે;)</p>
-<h3>બ્રેક લેવાનો સમય</h3>
-<p>વર્ષ ૨૦૨૦ સૌ માટે આશ્ચર્યથી ભર્યું વર્ષ રહ્યું. જેમ કે વાયરસ, મુસાફરી માં લોકડાઉન અને ઘણી બીજી એવી બાબતો. આ બધી મુશ્કેલી વચ્ચે મારા અને મારા પરિવાર માટે એક આનંદ ની વાત હતી. હું માતા બનવા જઈ રહી હતી :) હું ખરેખર ખુબ જ ખુશ હતી પણ અંદરથી મને એક વાત સતાવતી હતી. મને એમ થઈ રહ્યું હતું કે હું મારી કારકિર્દી ગુમાવી દઈશ અને વર્ડપ્રેસ સાથે અપડેટેડ નહીં રહી શકું અને મારે બધું ફરી શરૂ કરવું પડશે. પરંતુ, મને આનંદ છે કે આ પ્રકારનું કંઈ થયું નથી. હું Twitter અને અન્ય ચેનલો દ્વારા trend સાથે updated રહી સાકી છું.</p>
-<p>હું ખરેખર Tyche Softwares ની રિમોટ policy ની પ્રશંસા કરવા માંગુ છું. જેની મદદ થી મે pregnancy ના ૯ મહિના કામ કરી શક્યું. Tyche ની નીતિઓ હંમેશાં employee friendly રહી છે.</p>
-<p>ધ્રુવિન અને હું નવેમ્બર 2020 માં ગૌરવપૂર્ણ માતા પિતા બન્યા. હું જેટલી આ મારા નવા તબક્કાની મજા માણી રહી છું, એટલી જ હું વર્ડપ્રેસ ઇકોસિસ્ટમમાં મારુ સ્થાન miss કરી રહી chu.</p>
-<p>જ્યાં સુધી મને લાગતું નતું કે હું યોગ્ય સમય સમર્પિત કરી શકીશ ત્યાં સુધી મેં અનિશ્ચિત વિરામ લીધો હતો. હવે, હું મારી વ્યવસાયિક કારકિર્દી ફરી શરૂ કરવાની યોજના બનાવી રહી છું. હું મારી કારકિર્દીને Imaginate Solutions સાથે આગળ લઈ જઈશ. Imaginate Solutions પણ વિશિષ્ટ WooCommerce plugin બનાવનાર plugin કંપની છે.</p>
-<p>હું મારા આગળના ભવિષ્ય માટે ઉત્સાહિત છું!</p>
-<p>The post <a rel="nofollow" href="https://heropress.com/essays/wordpress-the-source-of-my-satisfaction-and-joy/">WordPress &#8211; The Source Of My Satisfaction And Joy &#8211; વર્ડપ્રેસ &#8211; સંતોષ અને આનંદ નો સાધન</a> appeared first on <a rel="nofollow" href="https://heropress.com">HeroPress</a>.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 26 May 2021 13:38:54 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:10:"Dhara Shah";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:11;a:6:{s:4:"data";s:13:"
-	
-	
-	
-	
-	
-	
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:61:"WordPress.org blog: Coloring Your Images With Duotone Filters";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:35:"https://wordpress.org/news/?p=10349";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:77:"https://wordpress.org/news/2021/05/coloring-your-images-with-duotone-filters/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:4602:"<p><em>Created by <a href="https://profiles.wordpress.org/ajlende/">Alex Lende</a></em></p>
-
-
-
-<p>Beginning with WordPress 5.8, you can colorize your image and cover blocks with duotone filters! Duotone can add a pop of color to your designs and style your images to integrate well with your themes.</p>
-
-
-
-<h2>Filters? Like on Instagram?</h2>
-
-
-
-<p>Duotone doesn’t work in quite the same way as Instagram filters. Whereas Instagram filters do color adjustments (color levels/curves and sometimes a vignette for the photo editors among us), the new duotone filters entirely replace the colors of your images.</p>
-
-
-
-<div class="juxtapose"><img id="10350" src="https://i1.wp.com/wordpress.org/news/files/2021/05/image7.png?resize=632%2C622&ssl=1" alt="" width="632" height="622" class="image-compare__image-before" /><img id="10351" src="https://i0.wp.com/wordpress.org/news/files/2021/05/image4.png?resize=632%2C621&ssl=1" alt="" width="632" height="621" class="image-compare__image-after" /></div>Photo by <a href="https://www.pexels.com/photo/grey-cat-close-up-photography-2524164/">Charles Pragnell</a>.<br />
-
-
-
-<p>You can think of the duotone effect as a black and white filter, but instead of the shadows being black and the highlights being white, you pick your own colors for the shadows and highlights.</p>
-
-
-
-<p>For example, a grayscale filter can be created by selecting black and white as shadow/highlight colors, and a sepia filter by choosing brown and tan.</p>
-
-
-
-<img width="632" height="622" src="https://i2.wp.com/wordpress.org/news/files/2021/05/image6.png?resize=632%2C622&ssl=1" alt="" class="wp-image-10352" />
-
-
-
-<p>Analogous colors can add a subtle effect and work well for cover backgrounds where the overlaid text still needs to stand out.</p>
-
-
-
-<img width="632" height="622" src="https://i1.wp.com/wordpress.org/news/files/2021/05/image1.png?resize=632%2C622&ssl=1" alt="" class="wp-image-10353" />
-
-
-
-<p>Much more vibrant and interesting effects can be made with complementary colors.</p>
-
-
-
-<img width="632" height="622" src="https://i2.wp.com/wordpress.org/news/files/2021/05/image2.png?resize=632%2C622&ssl=1" alt="" class="wp-image-10354" />
-
-
-
-<h2>How Do I Add Duotone Filter?</h2>
-
-
-
-<p>The duotone effect works best on high-contrast images, so start with an image with a lot of large dark and light areas. From the block toolbar, use the filter button and choose a preset:</p>
-
-
-
-
-
-
-
-<p>You can also choose colors from your theme’s palette, or a custom color of your choice.</p>
-
-
-
-<p>In addition to the image block, duotone can be applied to both images and video in the cover block.</p>
-
-
-
-<div class="wp-block-cover has-background-dim has-custom-content-position is-position-center-left"><div class="wp-block-cover__inner-container">
-<p class="has-text-align-center has-large-font-size">Duotone</p>
-</div></div>
-
-
-
-<h2>Will This Overwrite Images in My Media Library?</h2>
-
-
-
-<p>Images and videos in your media library will remain unchanged. The duotone effect works using <a href="https://www.w3.org/TR/SVG11/filters.html">SVG filters</a> and the <a href="https://www.w3.org/TR/filter-effects-1/">CSS filter property</a>, so the image or video is never modified in your library. On the one hand, this means that you can apply a filter to an image that you link to that doesn’t exist in your media library. On the other hand, this means that the filter won’t show up in RSS feeds or places that use the image URL directly.</p>
-
-
-
-<h2>Can I Add Duotone Colors to Blocks or Themes That I Develop?</h2>
-
-
-
-<p>The API for adding duotone colors to blocks is experimental in Gutenberg v10.6. Still, the documentation for using it in your own blocks can be found and will be updated under <a href="https://developer.wordpress.org/block-editor/reference-guides/block-api/block-supports/#color">Supports Color</a> in the Block Editor Handbook. Themes can add duotone presets with theme.json. More information can be found under <a href="https://developer.wordpress.org/block-editor/how-to-guides/themes/theme-json/#presets">Global Settings &amp; Styles Presets</a> in the Block Editor Handbook.</p>
-
-
-
-<h2>Try it Out Now Using the Gutenberg plugin</h2>
-
-
-
-<p>The duotone feature was released in version 10.6 of the Gutenberg plugin, so you can try it out now prior to the WordPress 5.8 release in July.</p>
-
-
-
-<hr class="wp-block-separator" />
-
-
-
-<p><em>Thanks to <a href="https://profiles.wordpress.org/joen/">@joen</a> and <em><em><a href="https://profiles.wordpress.org/mkaz/">@mkaz</a></em></em></em> <em>for assistance writing and reviewing this post.</em></p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 26 May 2021 12:17:41 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:15:"Chloe Bringmann";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:12;a:6:{s:4:"data";s:13:"
-	
-	
-	
-	
-	
-	
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:82:"WPTavern: The Price of Admission: WordPress Users Get To Hold Creators Accountable";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=117214";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:207:"https://wptavern.com/the-price-of-admission-wordpress-users-get-to-hold-creators-accountable?utm_source=rss&utm_medium=rss&utm_campaign=the-price-of-admission-wordpress-users-get-to-hold-creators-accountable";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:4479:"<p class="has-drop-cap">When I reported on the <a href="https://wptavern.com/profilepress-rebrands-and-repurposes-wp-user-avatar-now-a-membership-plugin-users-revolt-via-the-wordpress-review-system">WP User Avatar plugin&rsquo;s rebranding and repurposing</a> last week, it came as no surprise that users were angry. However, I did not expect pushback against those user complaints from a subset of commentators and others in the community.</p>
-
-
-
-<p>There were a few points, each boiled down to the argument that free plugin users have a sense of entitlement.</p>
-
-
-
-<p>These points focused either on the concept of plugin authors needing to make a living or <a href="https://wptavern.com/profilepress-rebrands-and-repurposes-wp-user-avatar-now-a-membership-plugin-users-revolt-via-the-wordpress-review-system#comment-378312">the GPL</a>, a license that offers no warranty on the code the user receives. Both of these arguments led the conversation astray at times. The focus of the user complaints was not on upsells or about code they grabbed from the wild. No, the backlash was about logging into their websites and finding things had changed with no warning. It was about a plugin installed from an official, presumably trustworthy, source being replaced with a different plugin.</p>
-
-
-
-<p>What I see is not a group of people complaining about an advert. What I see is not a long list of users disliking feature changes.</p>
-
-
-
-<p>The issue of maintaining free plugins and user entitlement was never the point.</p>
-
-
-
-<p>Even David Bisset of Post Status <a href="https://poststatus.com/what-we-can-learn-from-the-profilepress-debacle/">followed that rabbit down the hole</a>. There are good points to be made on free plugin development being a labor of love &mdash; and sometimes just a headache from a support perspective &ndash;, but this conversation was never about a commercial upsell. It was about the ethics of wholesale swapping the codebase of one plugin with a different one.</p>
-
-
-
-<p><em>Will some users complain about a new advert in a plugin?</em> Undoubtedly.</p>
-
-
-
-<p><em>Will nearly 200 users leave one-star reviews in that case?</em> Unlikely.</p>
-
-
-
-<p>Many users have a sense of entitlement. They grab a free theme or plugin and expect developers to answer their every whim. I would argue that it is a small percentage of total users based on personal experience, but that vocal minority can give the whole group a bad rep. They can be a drag on a developer&rsquo;s motivation to continue with a project.</p>
-
-
-
-<p>I get it. I have been doing this whole free software thing for nearly as long as WordPress has been around. It is easy to feel underappreciated for work that you pass on to the community. And, if you have no benefactor funding all of this free work, you must find some means of putting food on the table.</p>
-
-
-
-<p>Users of free software are not owed free customizations. They are not owed free technical support. They are not even owed a promise that a developer will not swap in a new codebase that does something different. They are owed nothing.</p>
-
-
-
-<p>However, the price of admission for playing in this market, regardless of whether it is free or commercial software, is that every plugin&rsquo;s success or failure rests in the hands of those who use it.</p>
-
-
-
-<p>Maybe we, those of us who build free plugins, do not owe users anything. But, we have a responsibility to be trustworthy stewards of our sub-communities in the WordPress ecosystem. We have a responsibility to behave ethically, rightness and wrongness as defined by our users.</p>
-
-
-
-<p>Whether it is commercial or free software, the goal is to have users &mdash; <em>is it really software if no one is using it?</em> They are the lifeblood of every project. Ultimately, developers who want people to use their code must answer to those who would.</p>
-
-
-
-<p>On the flip-side, developers are not owed glowing reviews on their projects. Users have a right to complain, even about a plugin that they acquired for free. It is not about them wanting special privileges or treatment. It never was.  If you treat them fairly, do right by them, and communicate, you can build a living and breathing community around your software.</p>
-
-
-
-<hr class="wp-block-separator" />
-
-
-
-<p>Please send virtual hugs to developers who are building the plugins and themes you use. They are a vital part of WordPress&rsquo;s success. Five-star ratings and donations never hurt either.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 26 May 2021 00:35:50 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:14:"Justin Tadlock";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:13;a:6:{s:4:"data";s:13:"
-	
-	
-	
-	
-	
-	
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:60:"WPTavern: My Codeless Website App Detects Site Builder Tools";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=114023";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:165:"https://wptavern.com/my-codeless-website-app-detects-site-builder-tools?utm_source=rss&utm_medium=rss&utm_campaign=my-codeless-website-app-detects-site-builder-tools";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:3010:"<p><a href="https://mycodelesswebsite.com/">My Codeless Website</a> is a new tool that detects if a site was built using a website builder. The app can detect more than 50 different tools that people use to create sites, including WordPress-powered ones like Beaver Builder, Elementor, and Divi, as well as Drupal, Squarespace, Shopify, Wix, and others. It was built using PHP and an AJAX call to fetch the website builder. The app&rsquo;s detection capabilities extend to site builder tools that represent more than 2 billion websites, as measured by <a href="http://builtwith.com/">Built With</a>. </p>
-
-
-
-<p>After speaking with the app&rsquo;s creators, who are based in Utrecht, I encouraged them to add Gutenberg to the list. The site is designed to be used by people who spot a cool website and want to quickly see what tool was used to build it.</p>
-
-
-
-<div class="wp-block-image"><img /></div>
-
-
-
-<p>One place to find inspiring WordPress sites is the Websites category of the Webby Awards for 2021. In the Government &amp; Civil Innovation category, <a href="https://www.whitehouse.gov/">WhiteHouse.gov</a> won with its Gutenberg-powered site. The <a href="http://covid19.tn.gov/">State of Tennessee COVID-19 Dashboard</a>, another WordPress site nominated in the category, also used the block editor for its builder. Checking back through the <a href="https://wptavern.com/a-wordpress-voting-guide-to-the-webby-awards">WordPress-powered nominees and winners</a>, nearly every one has a site that was built using Gutenberg. I did not find one page builder among them. This seems to indicate that most of the sites recognized with Webby awards for excellence on the web are building their designs on top of the block editor.</p>
-
-
-
-<img />
-
-
-
-<img />
-
-
-
-<p>In 2014, we featured a service called <a rel="noreferrer noopener" href="http://whattheme.com/" target="_blank">What Theme</a>&nbsp;that detects WordPress, Ghost, Drupal, and Shopify templates. It was later moved to be maintained by <a href="https://www.codeinwp.com/find-out-what-wordpress-theme-is-that/">CodeinWP</a>. At that time, the main thrust of a design came through a site&rsquo;s theme and its options. Over the past seven years, plugins have played an increasingly more important role in how WordPress users create their website designs, whether it&rsquo;s page builders or block libraries. Simply checking for a theme will no longer give you the full picture. </p>
-
-
-
-<p><a href="https://mycodelesswebsite.com/">My Codeless Website</a> is a handy tool worth bookmarking that enables you to check through a list of sites quickly to see what site builders they are using. It&rsquo;s meant to appeal to entrepreneurs who need to take their businesses online so the rest of the site is geared towards client services. It would be valuable if this tool or another new tool could expand to detect the block plugins and libraries that a site is using so that visitors could get even more information on the website they find inspiring. </p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Tue, 25 May 2021 04:56:20 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Sarah Gooding";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:14;a:6:{s:4:"data";s:13:"
-	
-	
-	
-	
-	
-	
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:79:"WPTavern: Bricks: Laying Down a Foundation in the WordPress Page Builder Market";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=114867";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:201:"https://wptavern.com/bricks-laying-down-a-foundation-in-the-wordpress-page-builder-market?utm_source=rss&utm_medium=rss&utm_campaign=bricks-laying-down-a-foundation-in-the-wordpress-page-builder-market";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:7318:"<p class="has-drop-cap">In a mature and ever-growing market of WordPress page builders, Thomas Ehrig decided to bring a new product to the ecosystem. Joined by Luis Godinho, the initial team launched <a href="https://bricksbuilder.io/">Bricks</a> in March. Unlike most other builder plugins, the project is bundled as a theme.</p>
-
-
-
-<p>As a small, 100% bootstrapped company, the team decided against going the freemium route. Pricing currently starts at $59 for a lifetime license, but that could change as the business model evolves. Potential customers are encouraged to test the product out via the open <a href="https://try.bricksbuilder.io/">playground demo site</a>.</p>
-
-
-
-<img />Creating a restaurant menu via the Bricks demo site.
-
-
-
-<p>&ldquo;Bricks aims to provide an all-in-one site-building platform that empowers you to create beautiful, fully-fledged, and responsive sites that rank,&rdquo; said Ehrig. &ldquo;Without having to buy and rely on dozens of expensive and disjointed plugins.&rdquo;</p>
-
-
-
-<p>One of the problems that the team wanted to avoid was end-users trying to find a Bricks-compatible theme. Instead of offering a default or placeholder, Bricks serves as an all-in-one bundle.</p>
-
-
-
-<p>The difference between a theme and a plugin is mostly a semantic one in WordPress. Aside from a few small things, a theme can do anything a plugin can do and vice versa.</p>
-
-
-
-<p>&ldquo;The main advantage I see providing it as a plugin is from a marketing perspective,&rdquo; said Ehrig. &ldquo;Elementor has done a fantastic job in this department. As you can see on the many free and premium themes that it comes bundled with. This greatly helped boost its exposure in the early days.&rdquo;</p>
-
-
-
-<p>Aside from a few users trying to install it as a plugin, he said the team has been happy serving Bricks as a theme.</p>
-
-
-
-<p>He described the builder as a &ldquo;theme that aims to tame the plugin madness.&rdquo; The focus is on customization, design, and performance, but the development process is user-driven. All of this is done in the open via the <a href="https://bricksbuilder.io/ideas/">project&rsquo;s idea board</a>, forum, and Facebook group. Users can submit feature requests, which others can vote and comment on. The team builds its <a href="https://bricksbuilder.io/roadmap/">development roadmap</a> from this foundation.</p>
-
-
-
-<p>Voting systems like this often work well in a project&rsquo;s early history. However, they can become unruly as audiences grow. We will have to check in with Bricks a year or two down the road to see how their feedback system has evolved.</p>
-
-
-
-<p>&ldquo;We don&rsquo;t build in secret,&rdquo; said Ehrig. &ldquo;Our public roadmap makes sure everyone knows at all times what to expect and what&rsquo;s next. It also keeps us accountable. If you are not only looking for a beautiful builder that is fun to work with, but where you have an actual say about its development, I think you should take Bricks for a spin.&rdquo;</p>
-
-
-
-<p>Bricks is bringing in its third team member to develop predesigned templates. However, they are already looking to <a href="https://bricksbuilder.io/contact/">grow the team more</a>. Their current need is for a Vue.js and WordPress developer.</p>
-
-
-
-<h2>Building in an Established Market</h2>
-
-
-
-<img />Slider element in the Bricks builder.
-
-
-
-<p class="has-drop-cap">Elementor has become the <em>de facto</em> standard for third-party page builders. Others have made dents, and WordPress is <a href="https://wptavern.com/full-site-editing-is-partly-a-go-for-wordpress-5-8">launching several sub-components</a> of its Full Site Editing experience in version 5.8. It is getting crowded, but Ehrig believes there is plenty of seats left at the table.</p>
-
-
-
-<p>&ldquo;The WordPress builder market is well established,&rdquo; he said. &ldquo;This actually gave me the confidence to start this project in the first place. It&rsquo;s been heavily validated, and it&rsquo;s not going away anytime soon.&rdquo;</p>
-
-
-
-<p>Not wanting to launch a half-baked builder, he said the team forwent a deadline for their version 1.0. They wanted to create an MVP with all the essentials and hit the ground running. Based on the initial feedback in the past couple of months, he said it is clear there is still space in the market.</p>
-
-
-
-<blockquote class="wp-block-quote"><p>Personally, I think there is always going to be space. After all, we are talking about tens of millions of WordPress sites that need to be launched, re-built, managed, and constantly optimized. It&rsquo;s also not a winner-takes-all market, which is nice.</p><p>Your users&rsquo; trust and loyalty have to be earned every single day. If not, many move on to a different solution. As the web design and development landscape evolves, so has your product.</p><p>All those moving pieces ensure that no single player can rest on his/her laurels for long. Meaning there are always going to be opportunities if you take the time to look out and execute on them.</p></blockquote>
-
-
-
-<p>While the builder is somewhat of a competitor against the core platform it is built upon, it works alongside WordPress. Users can convert their block-built pages into Bricks data. This data conversion works the other way around too.</p>
-
-
-
-<p>&ldquo;So there is no lock-in effect,&rdquo; said Ehrig of the feature, which his team made available from Day 1. &ldquo;Which I think is really important. If someone decides to move away from Bricks, we don&rsquo;t want him/her to be tied to our platform.&rdquo;</p>
-
-
-
-<p>The team is also exploring the concept of creating blocks visually within Bricks. The goal is to enable more integration between the two, but they must wait to see how Full Site Editing evolves in the coming months to know what that might look like.</p>
-
-
-
-<h2>Version 1.2 and Beyond</h2>
-
-
-
-<img />Inserting a Container element from the sidebar.
-
-
-
-<p class="has-drop-cap">Last week, the Bricks team launched <a href="https://bricksbuilder.io/changelog/#v1.2">version 1.2</a> of its builder. It is touting its new &ldquo;Container&rdquo; element, which is essentially a box to put other items in. Users can control its display settings, and it already supports flex layouts, which many designers will welcome. Grid layouts are forthcoming, according to Ehrig.</p>
-
-
-
-<p>&ldquo;After that, I am currently very excited about the upcoming visual WooCommerce builder,&rdquo; he said. &ldquo;It&rsquo;s a very challenging integration to get right. Not just code-wise, but also from a UI/UX perspective.&rdquo;</p>
-
-
-
-<p>Of the several things he thinks the team has gotten right, he mentions data integration with popular plugins like Advanced Custom Fields, Meta Box, Pods, and CMB2. He also said the version-1.0 features like global theme styles, responsive editing modes, and color palettes were things the team nailed down.</p>
-
-
-
-<p>&ldquo;But the one thing we are most proud of is not even a feature and something no one has really any control over,&rdquo; said Ehrig. &ldquo;And that&rsquo;s the community that has formed around Bricks and its cause.&rdquo;</p>
-
-
-
-<p>In two months, its Facebook community has grown to 2,000+ members. &ldquo;Very active, positive, and helpful,&rdquo; he said. &ldquo;You can&rsquo;t put a price tag on that.&rdquo;</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Mon, 24 May 2021 23:36:41 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:14:"Justin Tadlock";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:15;a:6:{s:4:"data";s:13:"
-	
-	
-	
-	
-	
-	
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:72:"WordPress.org blog: WP Briefing: Episode 9: The Cartography of WordPress";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:53:"https://wordpress.org/news/?post_type=podcast&p=10373";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:74:"https://wordpress.org/news/2021/05/episode-9-the-cartography-of-wordpress/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:12609:"<p>In this episode, Josepha Haden Chomphosy provides a map of how to navigate WordPress teams and communication channels, along with her small list of big things.</p>
-
-
-
-<p><em><strong>Have a question you&#8217;d like answered? You can submit them to <a href="mailto:wpbriefing@wordpress.org">wpbriefing@wordpress.org</a>, either written or as a voice recording.</strong></em></p>
-
-
-
-<h2>Credits</h2>
-
-
-
-<ul><li>Editor:<a href="https://profiles.wordpress.org/dustinhartzler/"> Dustin Hartzler</a></li><li>Logo:<a href="https://profiles.wordpress.org/beafialho/"> Beatriz Fialho</a></li><li>Production:<a href="https://profiles.wordpress.org/mkaz/"> </a><a href="https://profiles.wordpress.org/cbringmann/">Chloé Bringmann</a></li><li>Song: Fearless First by Kevin MacLeod</li></ul>
-
-
-
-<h2>References</h2>
-
-
-
-<ul><li><a rel="noreferrer noopener" target="_blank" href="https://www.meetup.com/pro/wordpress/">https://www.meetup.com/pro/wordpress/</a></li><li><a rel="noreferrer noopener" href="https://make.wordpress.org/" target="_blank">https://make.wordpress.org/</a></li><li><a rel="noreferrer noopener" href="https://make.wordpress.org/chat/" target="_blank">https://chat.wordpress.org/</a></li><li><a rel="noreferrer noopener" target="_blank" href="https://make.wordpress.org/">Make WordPress</a> Slack</li><li><a href="https://europe.wordcamp.org/2021/">WordCamp Europe</a>, June 7-9</li><li><a href="https://japan.wordcamp.org/2021/">WordCamp Japan</a>, June 20-26</li><li>The Sixth<a href="https://make.wordpress.org/test/2021/05/12/fse-program-testing-call-6-stick-the-landing-pages/"> call for testing</a> on Template Editing&nbsp;</li><li>The <a href="https://wordpress.org/news/2021/05/dropping-support-for-internet-explorer-11/">upcoming drop of Internet Explorer 11 support</a></li></ul>
-
-
-
-<h2>Transcript</h2>
-
-
-
-<span id="more-10373"></span>
-
-
-
-<p><strong>Josepha Haden Chomphosy&nbsp; </strong>00:10</p>
-
-
-
-<p>Hello, everyone, and welcome to the WordPress briefing, the podcast where you can catch quick explanations of some of the ideas behind the WordPress open source project and the community around it, as well as get a small list of big things coming up in the next two weeks. I&#8217;m your host, Joseph Haden Chomphosy. Here we go!</p>
-
-
-
-<p><strong>Josepha Haden Chomphosy&nbsp; </strong>00:40</p>
-
-
-
-<p>Almost every episode of this podcast, you can hear me invite you to join in the WordPress project, to contribute back, to get involved. And I&#8217;m sure that every time I say that there&#8217;s at least one of you who&#8217;s like “Yes. Challenge accepted!” And you wade in sight unseen, to immerse yourselves in the cheerful cacophony of open source at scale that is WordPress. You see before you all 158 ways you can start contributing and you are exhilarated by this lostness. This you think, is the lostness of infinite possibility. And for you, I&#8217;m really thankful. My work here today would not be possible if it weren&#8217;t for the brave souls who leap into something with hope as their primary plan and tactic. You are heroes, and I thank you very much for your service. For everyone else, I&#8217;m going to give you a quick tour of where WordPress collaborates and a little bit of how they collaborate. We&#8217;ll cover the Make network, the Making WordPress Slack, events for WordPress, and a rundown of the teams.&nbsp;</p>
-
-
-
-<p>First, the Make network. The Make network of sites can be found at make.wordpress.org. That page includes information on most of our teams. Teams like Core and Design and Community. All of those teams require some technical skills since we&#8217;re a project built around a piece of software. However, some require a little more than others. You can think of this set of sites as the desk of each team in the WordPress project. It&#8217;s where they update each other, where they host discussions, where they refine proposals, and where they coordinate admin tasks. Contributors can write posts on most sites in the network as long as they follow the guidelines and best practices. And anyone with a wordpress.org profile can join in discussions in the comments. Most work on the Make network is asynchronous, and discussions stay open for a long enough time to allow anyone in the world to weigh in when they have the time. It&#8217;s how we try to remember that we are a globally-minded project.&nbsp;</p>
-
-
-
-<p>The second area is the Making WordPress Slack instance. The Making WordPress Slack instance can be found at wordpress.slack.com, and it requires an account that is associated with your wordpress.org profile. Each team in the project has a channel, although not all channels in that Slack instance, represent a standalone team. You can think of this Slack instance as a set of conference rooms. It&#8217;s where contributors connect, gain a more nuanced understanding of problems that we&#8217;re trying to solve. They host synchronous meetings and also coordinate working groups.</p>
-
-
-
-<p><strong>Josepha Haden Chomphosy&nbsp; </strong>03:31</p>
-
-
-
-<p>Contributors can post in most channels, although there are a few that are restricted. We don&#8217;t have any social channels in this Slack instance, but most WordPress-ers do tend to find friends that they connect with. The work done here is synchronous, and most meetings last about an hour. There are about 35+ meetings a week, so you can basically always find someone around.&nbsp;</p>
-
-
-
-<p>The last area we work is actually at WordPress events. Word Camps and WordPress meetups happen all over the world. Unless there&#8217;s a global pandemic, then they&#8217;re kind of all over the computer and at all times of day and night. You can keep track of those on wordcamp.org or on WordPress’s meetup page, which I&#8217;ve linked in the notes below. These events bring together all sorts of facets of the WordPress project. And they are an event where local WordPress communities aim to connect, inspire and educate each other. There&#8217;s always someone at these events, who knows a little bit more about WordPress than you do. If you&#8217;re headed to want to learn more about contribution, look out for any that have a contributor day or are hosting a contribution drive. These are clearly synchronous events. And when we do get back to doing them in person, they&#8217;re also tied to physical locations. When we get back to them, I encourage you to find one that&#8217;s close to you. They are incredibly valuable.&nbsp;</p>
-
-
-
-<p>Okay, so that&#8217;s the map of the area. Those are the three big places where we get this stuff done. Let&#8217;s do a quick map of the teams themselves. If you&#8217;re a developer and you&#8217;re looking to work inside the technology space, work with code a bit, then your best chances for teams are Core and all of its related components. They&#8217;re like 50 components, including core editor and various other things. There&#8217;s also the Mobile team WP CLI, the Tide team, Security, our brand new team, Openverse, and Meta. Those all take a fairly high amount of code knowledge to contribute there.&nbsp;</p>
-
-
-
-<p>If you&#8217;re more into design and product work, then we have a few teams for that as well. There&#8217;s of course, the Design team, but we also have Accessibility, Test, Triage, Polyglots kind of falls in there for me. But if you are a programs person, and we&#8217;re talking like programs, getting people together programs, not programs, as in programming or code. So if you&#8217;re a programs person, you&#8217;re looking more at the Community team, at the Themes team, the Plugin team, Polyglots, again, Training support, probably a number of others that have like program components in it as well.</p>
-
-
-
-<p>If you are really interested in learning more about contributor experience, which is how we build tools, and again, programs for all of the contributors who are showing up, then the teams for you will be teams like Meta and Documentation, Hosting, the Community team, the Training team, arguably any team that has a program as part of it is considered contributor experience because that&#8217;s how we help our contributors know what to do, what not to do, how to help them get onboarded, find their way, stuff like that.&nbsp;</p>
-
-
-
-<p>And if you&#8217;re more in the communications area of things, we have quite a few teams there as well. We do have Marketing, of course, but also I think that Support ends up in our communications area, WordPress TV, obviously ends up in communications. But I think Training, Meta, Documentation, and arguably, maybe also Testing ends up in that space as well.&nbsp;</p>
-
-
-
-<p>I realize that there are a handful of teams that I mentioned multiple times, especially Polyglots, Support, Test, Triage, Meta, Community. The reason they end up in a number of different places is that all of those teams also have a fair amount of admin and infrastructure stuff that goes into the WordPress project and community as a whole. So it touches a lot of other teams, and so they get a lot of mentions. All right. So WordPress adventurers, you now have a beginner&#8217;s map. I hope it helps, and I hope we see you around the community.</p>
-
-
-
-<p><strong>Josepha Haden Chomphosy&nbsp; </strong>07:54</p>
-
-
-
-<p>If you&#8217;re still with me, that brings us today to my small list of big things. I&#8217;ve got four things for you, and I&#8217;m excited about all of them. The first two are events actually. WordCamp Europe is coming up from June seventh through the ninth. It will include a presentation from the WordPress project co-founder, Matt Mullenweg, so I encourage you to hop over, grab a ticket to check out the rest of the sessions that are happening while you&#8217;re there. The next one is WordCamp, Japan, which is happening June 20th through the 26th. And you heard that right that is seven whole days of WordCamp. It&#8217;s a little bit of a different format than we normally take, but it&#8217;s five days actually of contribution on ten specific projects. Then that&#8217;s bookended on either side of those contribution days, with full days of sessions. There&#8217;s some in English, but it&#8217;s primarily in Japanese. But either way, I think it&#8217;s going to be a really excellent event, and I encourage everyone to check it out.&nbsp;</p>
-
-
-
-<p>The rest of my list is not events. We have opened our sixth call for testing, it&#8217;s specifically looking at the template editing mode for Full Site Editing. It is an iteration on one of our earliest tests for the Full Site Editing outreach program. And so it has incorporated a lot of the feedback that we got in that test the first time around. So if you look at that test, which by the way, are all guided, if you&#8217;ve never tested anything before, don&#8217;t let this scare you. It&#8217;s really well written, it&#8217;s got a good guide on it and, and also allows for a little bit of exploration. But if you participated in the landing page test that we did early on, this is the follow-up to that. It incorporates a lot of the feedback that we got, so this is closing that feedback loop and I encourage you to stop by and participate in that test. It will be linked in the show notes and also I tweet about it a bit so you can run over there and find it also.</p>
-
-
-
-<p>&nbsp;WordPress is dropping support for Internet Explorer 11. That&#8217;s happening over the summer, so around the middle of July is when that&#8217;s going to happen. If you&#8217;ve been using WordPress for a while you&#8217;ve been getting notifications. If you happen to get to WordPress with IE11, letting you know that that this particular browser is reaching the end of its life for support in general on the web, but now WordPress also is making the choice to drop support for that. And so there&#8217;s a post out on wordpress.org/news, which I will also link to in the show notes in case you have not heard about this yet. It shouldn&#8217;t have any immediate and noticeable effects on anyone who&#8217;s visiting a site that&#8217;s built using WordPress. There might be a few things in the dashboard that don&#8217;t work if you are administering a WordPress site from IE11. So there&#8217;s a lot of good information in that post. Give it a read and if you have questions, always feel free to stop by the Core chat and ask those as we go.&nbsp;</p>
-
-
-
-<p>And that my friends is your smallest of big things. Thank you for tuning in today for the WordPress Briefing. I&#8217;m your host, Josepha Haden Chomphosy, and I&#8217;ll see you again in a couple of weeks!</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Mon, 24 May 2021 11:55:14 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:15:"Chloe Bringmann";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:16;a:6:{s:4:"data";s:13:"
-	
-	
-	
-	
-	
-	
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:109:"Gutenberg Times: Getting Started with Themes for Full-site Editing and Block Plugins – Weekend Edition #170";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:35:"https://gutenbergtimes.com/?p=17881";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:115:"https://gutenbergtimes.com/getting-started-with-themes-for-full-site-editing-and-block-plugins-weekend-edition-170/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:15809:"<p>Howdy, </p>
-
-
-
-
-
-<p>I am getting really excited about the <a href="https://make.wordpress.org/core/5-8/">WordPress 5.8 release</a>. It&#8217;s still about eight weeks away, but there is a lot of work in front of us.  We are coming up to Feature Freeze on May 25, 2021. The Gutenberg team has a <a href="https://github.com/WordPress/gutenberg/releases/tag/v10.7.0-rc.1">release candidate for 10.7</a>, the last version of the plugin, that will make it into WordPress Core. </p>
-
-
-
-<p>How can you help? Test, test test! </p>
-
-
-
-<ul><li>Set up a test site. <a href="https://pantheon.io/register">Pantheon offers developer 2 sites for free.</a> </li><li>Use the <a href="https://wordpress.org/plugins/wordpress-beta-tester/">Beta Tester plugin</a> &#8211; set it to channel = <em>Bleeding Edge</em> and stream = <em>Nightlies</em>, that means you have the lasted WordPress version on your site. </li><li><a href="https://core.trac.wordpress.org/newticket">Report any bugs you find</a></li></ul>
-
-
-
-<p>On the team working on the block-editor end user documentation, we have a <a href="https://docs.google.com/document/d/1QdBr37mzz0AiAWDsR9PEFPUvzpULppt9FBbXE6WM0-w/edit#heading=h.yhitji5ms7k6">preliminary list of relevant user-facing changes</a> in Google Doc. We are looking for more contributors to not only get through the latest task list but also update some documentation pages with 5.6 and 5.7 changes. If you have a few hours, and want to take a deep dive into the block-editor features, let me know   by joining the #docs channel or DM me on the Make Slack. </p>
-
-
-
-<p>Wishing everyone lots of patience.  We are still in a pandemic, and all good things take time. </p>
-
-
-
-<p>Yours 💕,<br />Birgit</p>
-
-
-
-<p>PS: Did a deep dive into the <a href="https://www.npmjs.com/package/@wordpress/data">wp.data package</a> to learn more about state management for the block-editor. Do you know of any resources that helped you get the hang of it? The usual metaphors don&#8217;t seem to help much. </p>
-
-
-
-<hr class="wp-block-separator is-style-wide" />
-
-
-
-<p><strong>Anne McCarthy</strong> posted about <strong><a href="https://make.wordpress.org/test/2021/05/21/hallway-hangout-discussion-on-full-site-editing-issues-prs-designs-20-may/">Hallway Hangout: Discussion on Full Site Editing Issues/PRs/Designs (20 May)</a></strong>. This was the fourth Hallway Hangout, a series of information meetings, that started in April. <a href="https://www.youtube.com/channel/UCkPsxZ_WQFaACunULLiT85g">They are all available on YouTube.</a> Sometimes it is much easier to talk through a feature, an interface, or bugs, when you can ask questions and screen share. If you missed them, they are available on YouTube and summary posts are available on the <a href="https://make.wordpress.org/test/tag/fse-hallway-hangout/">Make block of the Test Team</a>. </p>
-
-
-
-<hr class="wp-block-separator is-style-wide" />
-
-
-
-<p>Although, I long for in-person WordCamps, they are still not safe in many regions.  For now, connections to my WordPress friends are still virtual: pick-up <a href="https://www.youtube.com/channel/UCkPsxZ_WQFaACunULLiT85g">Hallway Hangouts</a>, Meetups meetings and WordCamps and conferences. </p>
-
-
-
-<p>Speaking of which: Next week <a href="https://wordsesh.com/register/"><strong>WordSesh is taking place May 24 &#8211; May 27</strong></a>, with Workshops starting on May 28.  Well, depending on where you are in the world, it will start tomorrow night. </p>
-
-
-
-<p><strong>On the schedule a five session around Gutenberg: </strong></p>
-
-
-
-<img />
-
-
-
-<ul><li><strong>Blazing Fast Block Development</strong> w/ Lee Shadle </li><li><strong>Building Custom Block</strong>s w/ Rob Stinson</li><li><strong>Block-Based Themes</strong> – <strong>The Future Of Full Site Editing In WordPress</strong> w/ Imran Sayed</li><li><strong>How the Block Editor Makes It Easier to Build Custom Websites</strong> w/ Danielle Zarcaro </li><li><strong>Build your own Block-Based Theme</strong> w/ Daisy Olsen (Workshop)</li></ul>
-
-
-
-<p>Find a <a href="https://gutenbergtimes.com/feed/#events">list of more upcoming WordPress events </a>further below. </p>
-
-
-
-<hr class="wp-block-separator is-style-wide" />
-
-
-
-<p><strong><a href="https://www.youtube.com/watch?v=PBr3TgVRrkE&t=14s">Eight Gutenberg Tips and Tricks in eight minutes</a> </strong>&#8211;  Learn how to start developing WordPress sites with Gutenberg blocks with <strong>Bill Erickson</strong> and <strong>Gabriel A. Mays</strong> from GoDaddy.  Take a look at the YouTube video and the links resources, if you are just starting out working with the block-editor in your WordPress development. </p>
-
-
-
-<hr class="wp-block-separator is-style-wide" />
-
-
-
-<p><strong><a href="https://twitter.com/edward_bock">Edward Bock</a></strong> shared how to <a href="https://medium.com/write-better-wordpress-code/properly-add-modern-javascript-to-gutenberg-14bde8679d83">Properly add modern JavaScript to Gutenberg</a>. In his article, he helps you transition from the conventional programming on PHP to adding JavaScript to your tools set</p>
-
-
-
-<h2>Full-Site Editing for Theme Developers</h2>
-
-
-
-<p><strong><a href="https://twitter.com/herb_miller">Herb Miller</a></strong> shared recording from his presentation:  <a href="https://www.youtube.com/watch?v=sfYWkKuzv90"><strong>Guide to WordPress Full Site Editing, blocks and themes</strong></a> at the Meetup in Portsmouth. Now the Herb went beyond the template editor bits that are coming to WordPress 5.8. He demonstrated the full Site Editor, which isn&#8217;t slated to come to WordPress until 5.9 or even 6.0. To follow along you would need a block-based theme and the latest Gutenberg version (for now 10.6.2). After a tour around the Site Editor, Herb Miller, shared with the audience how he built a block-based theme. </p>
-
-
-
-<hr class="wp-block-separator is-style-wide" />
-
-
-
-<p><strong><a href="https://twitter.com/carolinapoena">Carolina Nymark</a></strong> published here <a href="https://wordpress.org/themes/armando/"><strong>full-site editing theme &#8220;Armando&#8221;</strong></a> in the theme directory on WordPress.org. Carolina also is a contributor to the Gutenberg repository and published a <a href="https://fullsiteediting.com/courses/full-site-editing-for-theme-developers/">Full Site Editing course for developers</a>. Recently, she also published a <a href="https://marketplace.visualstudio.com/items?itemName=CarolinaNymark.wordpress-block-markup">VS Code extension WordPress Block Markup </a>with autocomplete snippets to add blocks to your templates faster. </p>
-
-
-
-<hr class="wp-block-separator is-style-wide" />
-
-
-
-<p><a href="https://twitter.com/fklux"><strong>Fränk Klein</strong> </a>of <a href="https://wpdevelopment.courses/">WPDevelopment Courses</a> is getting ready to open his <strong><a href="https://wpdevelopment.courses/courses/building-block-based-themes/#curriculum">Building Block-Based Themes </a></strong>course. He already shared quite a few insights in his learnings with the articles: <a href="https://wpdevelopment.courses/articles/full-site-editing-theme-learnings/">What I Learned Building a Full-Site Editing Theme</a> and <a href="https://wpdevelopment.courses/articles/global-styles-in-block-based-bosco/">Implementing Global Styles in Block-Based Bosco</a>. The <a href="https://wordpress.org/themes/block-based-bosco/">Block-based Bosco Theme</a> is also available in the WordPress.org repo. </p>
-
-
-
-<hr class="wp-block-separator is-style-wide" />
-
-
-
-<p>The <strong>theme.json</strong> settings structure is now finalized and is not experimental anymore. The <a href="https://developer.wordpress.org/block-editor/how-to-guides/themes/theme-json/"><strong>Documentation</strong></a> is available in the Gutenberg Handbook. <strong><a href="https://twitter.com/riadbenguella">Riad Benguella</a></strong> wrote an <a href="https://riad.blog/2021/05/05/introduction-to-wordpresss-global-styles-and-global-settings/"><strong>Introduction to WordPress’s Global Styles and Global Settings</strong></a> to get you started on the new era of Theme development in WordPress. <em>(Yes, I shared this before. I just want to make sure you find it again ) </em></p>
-
-
-
-<p>A few days ago, <strong><a href="https://twitter.com/aristath">Ari Stathopoulos</a> </strong>started working on a <a href="https://github.com/WPTT/theme-json-parser"><strong>Theme.JSON parser </strong></a>to make it possible for conventional themes to take advantage of the settings file as well. </p>
-
-
-
-<hr class="wp-block-separator is-style-wide" />
-
-
-
-<p><strong><a href="https://twitter.com/Ana_Segota">Ana Segota</a>,</strong> Ariel Design, an early adopter of Gutenberg blocks in her themes she published in 2018 and 2019, came out with her first theme embracing full-site editing, and global styles with here <a href="https://www.anarieldesign.com/free-full-site-editing-theme-naledi/"><strong>new Theme &#8220;Naledi&#8221;</strong></a>. Justin Tadlock took <a href="https://wptavern.com/anariel-design-launches-naledi-a-block-based-wordpress-theme">the theme for a spin</a>. Once the theme is available at WordPress.org, it will be the <a href="https://wordpress.org/themes/tags/full-site-editing/">sixth theme for full-site editing.</a> </p>
-
-
-
-<p>When will we see yours? </p>
-
-
-
-<hr class="wp-block-separator is-style-wide" />
-
-
-
-<p><strong><a href="https://twitter.com/pollyplummer">Sarah Gooding</a> </strong>has the story of  <strong><a href="https://wptavern.com/blocksy-theme-expands-free-starter-site-collection-plans-to-create-new-suite-of-blocks">Blocksy Theme Expands Free Starter Site Collection, Plans to Create New Suite of Blocks</a>.</strong> Blocksy embraced the block-editor wholeheartedly and grew it&#8217;s business rapidly, it seems. They also integrate well with the blocks by Stackable. </p>
-
-
-
-<h2>Plugins for the Block Editor</h2>
-
-
-
-<p><strong>Benjamin Intal</strong>, of <a href="https://wpstackable.com">Stackable </a>was this week&#8217;s guest of the WP Tavern Jukebox podcast, and he discussed with <strong><a href="https://twitter.com/wpbuilds">Nathan Wrigley</a></strong> the <strong><a href="https://wptavern.com/podcast/3-benjamin-intal-on-why-hes-betting-his-business-on-blocks">Why He’s Betting His Business on Blocks</a>.</strong> Intal and his team were an early adopter of the Block-editor and publish their plugin already in 2018 before the block-editor made it into WordPress Core. Since them Stackable has been an often recommended plugin for content creators, and it has grown quite a bit in features and reach. It&#8217;s certainly worth a listening, considering another wave of creativity and opportunities is coming to WordPress. This time for themes. </p>
-
-
-
-<hr class="wp-block-separator is-style-wide" />
-
-
-
-<p><strong>Alexandra Yap </strong>of Stackable recently posted the <a href="https://wpstackable.com/blog/introducing-dynamic-content/"><strong>Introducing Dynamic Content.</strong> </a>They wrote: &#8220;We’ve received a huge number of requests to display content from ACF’s custom fields in Stackable blocks, and now you can! <a href="https://wpstackable.com/blog/stackable-integrates-with-acf/">Most ACF field types are supported</a> as well as ACF Options Pages.&#8221;. They also <a href="https://wpstackable.com/blog/create-dynamic-content-in-stackable-with-toolset/">integrate with Toolset</a>.</p>
-
-
-
-<hr class="wp-block-separator is-style-wide" />
-
-
-
-<p><strong><a href="https://twitter.com/justintadlock">Justin Tadlock</a></strong> reviewed a newly published pricing block and found <a href="https://wptavern.com/you-might-not-need-that-block"><strong>You Might Not Need That Block</strong></a>. &#8220;With WordPress’s base blocks and a decent theme, many custom solutions are possible via patterns.&#8221;, he wrote, and he went ahead and recreated a three column pricing table with the core blocks and different themes, Twenty-Twenty, Eksell, and a full-site editing theme, too. I strongly agree with Tadlock that block patterns would provide an easier path. I can see that plugins like Easy-digital downloads, Woo Commerce and other ecommerce plugins would offer such patterns together with their Gutenberg blocks extensions to get store owners up and running quickly. </p>
-
-
-
-<hr class="wp-block-separator is-style-wide" />
-
-
-
-<p><strong><a href="https://twitter.com/pootlepress">Jamie Marsland</a> </strong>shared the <a href="https://www.pootlepress.com/2021/05/10-big-updates-to-our-woocommerce-gutenberg-plugins/"><strong>10 Big Updates to PootlePress WooCommerce Gutenberg plugins</strong></a> Storefront Blocks and WooBuilder Blocks. </p>
-
-
-
-<hr class="wp-block-separator is-style-wide" />
-
-
-
-<h2 id="events">Upcoming WordPress Events</h2>
-
-
-
-<p><strong>June 7 &#8211; 9th, 2021</strong><br /><strong><a href="https://europe.wordcamp.org/2021/">WordCamp Europe</a></strong><br />A virtual event and contributor day. <a href="https://europe.wordcamp.org/2021/call-for-sponsors/">Call for sponsors is open.</a></p>
-
-
-
-<p><strong>🎉</strong>  Gutenberg Times is a media partner of WordCamp Europe 2021 </p>
-
-
-
-<p><strong>June 20 &#8211; 26</strong><br /><strong><a href="https://japan.wordcamp.org/2021/">WordCamp Japan</a></strong><br /><em>The schedule has been posted. Most sessions will be in Japanese, with exceptions, I think&#8230; </em></p>
-
-
-
-<p><strong>July 17 + 18th, 2021</strong><br /><strong><a href="https://santaclarita.wordcamp.org/2021/">WordCamp Santa Clarita</a></strong><br />Calls for speakers (May 30th), sponsors, volunteers and organizers are open. </p>
-
-
-
-<p><strong>June 24 &#8211; 26, 2021</strong><br /><strong><a href="https://cochabamba.wordcamp.org/2021/">WordCamp Cochabama</a></strong> (Colombia) </p>
-
-
-
-<p><strong>July 23, 2021</strong><br /><a href="https://www.wordfest.live/"><strong>WordFest Live </strong></a>&#8211; <em>The </em>festival of WordPress<br />Call for Speakers is now open and submissions are <strong>due on May 24th, 2021</strong></p>
-
-
-
-<p><strong>September 21 + 22, 2021</strong><br /><a href="https://2021.wpcampus.org/"><strong>WPCampus 2021 Online</strong></a><br />&#8220;A free online conference for web accessibility and WordPress in higher education.&#8221; <a href="https://2021.wpcampus.org/proposals">Call for Proposal is up</a> and proposal are <strong>due May 26, 2021</strong></p>
-
-
-
-<hr class="wp-block-separator is-style-wide" />
-
-
-
-<p>On the<a href="https://wpcalendar.io/online/"> <strong>Calendar for WordPress Online Events</strong> </a>you can browse a list of the upcoming WordPress Meetups, around the world, including WooCommerce, Elementor, Divi Builder and Beaver Builder meetups. </p>
-
-
-
-
-<hr class="wp-block-separator is-style-wide" />
-
-
-
-<p class="has-text-align-left"><strong>Don&#8217;t want to miss the next Weekend Edition? </strong></p>
-
-
-
-<form class="wp-block-newsletterglue-form ngl-form ngl-portrait" action="https://gutenbergtimes.com/feed/" method="post"><div class="ngl-form-container"><div class="ngl-form-field"><label class="ngl-form-label" for="ngl_email"><br />Type in your Email address to subscribe.</label><div class="ngl-form-input"><input type="email" class="ngl-form-input-text" name="ngl_email" id="ngl_email" /></div></div><button class="ngl-form-button">Subscribe</button><p class="ngl-form-text">We hate spam, too and won&#8217;t give your email address to anyone except Mailchimp to send out our Weekend Edition</p></div><div class="ngl-message-overlay"><div class="ngl-message-svg-wrap"></div><div class="ngl-message-overlay-text">Thanks for subscribing.</div></div><input type="hidden" name="ngl_list_id" id="ngl_list_id" value="26f81bd8ae" /><input type="hidden" name="ngl_double_optin" id="ngl_double_optin" value="yes" /></form>
-
-
-
-<hr class="wp-block-separator is-style-wide" />";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Sat, 22 May 2021 20:19:23 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:18:"Birgit Pauli-Haack";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:17;a:6:{s:4:"data";s:13:"
-	
-	
-	
-	
-	
-	
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:39:"WPTavern: You Might Not Need That Block";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=117074";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:123:"https://wptavern.com/you-might-not-need-that-block?utm_source=rss&utm_medium=rss&utm_campaign=you-might-not-need-that-block";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:5410:"<p class="has-drop-cap">As I was perusing the WordPress plugin directory this morning, I noticed a new block plugin, which is always one of the highlights of my week. It was a simple <a href="https://wordpress.org/plugins/bluebox-pricing-table-block/">pricing block</a>. Of course, I installed it and began playing around with its features. It was a version-1.0 product, so I was not going to fault it for not exceeding any expectations I might have had.</p>
-
-
-
-<p>I have little doubt the plugin will meet many users&rsquo; needs. However, it did not bring much to the table that users could not already do with stock WordPress. And, as the block system continues to mature with more block options, end-users will gain more design control over every aspect of the existing core blocks.</p>
-
-
-
-<p>This is not a knock at this particular plugin. I see less and less need for many third-party blocks the more I browse and test them. With WordPress&rsquo;s base blocks and a decent theme, many custom solutions are possible via patterns.</p>
-
-
-
-<p>To test the plugin&rsquo;s block, I added it to a Columns block and duplicated it a couple of times to create pricing columns.</p>
-
-
-
-<img />
-
-
-
-<p>The structure of an individual pricing block is straightforward. It contains the equivalent of the following core blocks:</p>
-
-
-
-<ul><li>Group</li><li>Heading</li><li>Heading/Paragraph</li><li>Heading/Paragraph</li><li>Paragraph</li><li>Button(s)</li><li>Separator</li><li>List</li></ul>
-
-
-
-<p>Since I had the structure, I tried recreating it while using the Twenty Twenty-One theme. I kept everything nearly the same other than a couple of font sizes and colors.</p>
-
-
-
-<img />
-
-
-
-<p>The result was not particularly impressive, but it was mostly on par with what the plugin was doing. The biggest letdown with Twenty Twenty-One is that there are no vertical spacing controls to tighten up some of the text. This is more of a limitation of WordPress than the theme. Plus, margin and padding controls are coming.</p>
-
-
-
-<p>Aside from one-click insertion into the content canvas, the benefits the Pricing Block plugin brings are rounded borders, box shadows, and list icons. However, these items would fit more into a site&rsquo;s design if they were controlled by the theme.</p>
-
-
-
-<p>Knowing that the <a href="https://wptavern.com/compatibility-is-not-enough-the-eksell-wordpress-theme-creates-art-with-blocks">Eksell theme</a> solved the vertical alignment issue with a custom block style, I decided to try it. Again, I mostly stuck with the same structure.</p>
-
-
-
-<img />
-
-
-
-<p>Much better. However, Eksell is such a beautifully designed theme that it will upgrade the appearance of nearly anything. It almost isn&rsquo;t fair.</p>
-
-
-
-<p>Kicking things up a notch, I gave the pattern an overhaul. I moved some things around, changed a few colors, and tried to have a little fun with it.</p>
-
-
-
-<img />
-
-
-
-<p>The noteworthy thing here is that I had far more control over the placement and design &mdash; within the current WordPress limitations. This was not possible with the plugin&rsquo;s block.</p>
-
-
-
-<p>There are more robust pricing blocks. This is not a comparison of all the available options out there. However, many blocks share these problems. Often, what they need to do is take advantage of WordPress&rsquo;s &ldquo;inner blocks&rdquo; system and nest core blocks, which provides access to existing design options.</p>
-
-
-
-<p>Wanting to take this experiment just a bit further, I activated a development version of the Gutenberg plugin and a block-based theme I have been tinkering with. With the right tools in hand, I had control over spacing, borders, typography, and far more &mdash; features that users will have in the coming months.</p>
-
-
-
-<img />
-
-
-
-<p>I like it, but I would also like to see professional designers take over from here. I want to see various pricing columns/tables available as patterns in themes and in the <a href="https://wptavern.com/pattern-directory-targeted-to-launch-with-wordpress-5-8">upcoming block directory</a>.</p>
-
-
-
-<p>The next level of pricing columns would be integrating with plugins like WooCommerce, Easy Digital Downloads, and other eCommerce solutions. For example, users could insert a product&rsquo;s price or buy-now button into a pre-built pattern inserted into the editor canvas. That way, the data stays updated.</p>
-
-
-
-<p>However, this is not specifically about pricing columns. It is about the blocks ecosystem altogether. Nearly every time I see a testimonial block, for example, I just see it as another pattern that could be registered.</p>
-
-
-
-<p>For end-users, the quick solution will often be to activate an extra plugin. This requires more resources in the editor and, usually, the front end. It also ties them to another third-party tool, one which they may not necessarily need.</p>
-
-
-
-<p>Ultimately, most webpage sections can be broken down to the individual blocks that exist in WordPress. They simply need to be arranged in a specific order and grouped together. Our community of theme authors can <a href="https://wptavern.com/it-is-time-for-wordpress-theme-authors-to-step-up-their-block-pattern-game">start providing these solutions</a> by doing the legwork of this grouping and register them as patterns.</p>
-
-
-
-<p>The most useful blocks do something that WordPress is incapable of doing alone or adding elements that do not exist.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Sat, 22 May 2021 00:26:32 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:14:"Justin Tadlock";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:18;a:6:{s:4:"data";s:13:"
-	
-	
-	
-	
-	
-	
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:24:"Matt: 2021 Streaming Kit";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:22:"https://ma.tt/?p=54177";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:41:"https://ma.tt/2021/05/2021-streaming-kit/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:5094:"<div class="wp-block-image"><img /></div>
-
-
-
-<p>My <a href="https://ma.tt/2020/05/ceo-video-streaming/">streaming setup post last year</a> got an amazing reception —&nbsp;there are similar setups being used by executives across the board, from companies fundraising to several I know of with 100B+ valuations. Since that original setup, I&#8217;ve updated my own usage of hardware and software combinations to achieve similar or better results for about a quarter of the cost. So here&#8217;s the latest and greatest, and below I&#8217;ll talk about why the changes.</p>
-
-
-
-<div class="wp-block-columns">
-<div class="wp-block-column">
-<a href="https://www.amazon.com/gp/product/B07K3FN5MR/?tag=photomatt08-20"><img /></a>
-
-
-
-<p><a href="https://www.amazon.com/gp/product/B07K3FN5MR/?tag=photomatt08-20">Elgato Cam Link 4K</a></p>
-</div>
-
-
-
-<div class="wp-block-column">
-<a href="https://www.amazon.com/gp/product/B06WWQ7KLV/?tag=photomatt08-20"><img /></a>
-
-
-
-<p><a href="https://www.amazon.com/gp/product/B06WWQ7KLV/?tag=photomatt08-20">Micro HDMI Cable</a></p>
-</div>
-
-
-
-<div class="wp-block-column">
-<a href="https://www.amazon.com/gp/product/B019AJOLEM/?tag=photomatt08-20"><img /></a>
-
-
-
-<p><a href="https://www.amazon.com/gp/product/B019AJOLEM/?tag=photomatt08-20">Glide Gear TMP100  Teleprompter</a></p>
-</div>
-</div>
-
-
-
-<div class="wp-block-columns">
-<div class="wp-block-column">
-<a href="https://www.amazon.com/gp/product/B08HVXJZYY/?tag=photomatt08-20"><img /></a>
-
-
-
-<p><a href="https://www.amazon.com/gp/product/B07VGHW91J/?tag=photomatt08-20"></a><a href="https://www.amazon.com/gp/product/B08HVXJZYY/?tag=photomatt08-20">Sony α7C Camera &amp; kit lens</a></p>
-</div>
-
-
-
-<div class="wp-block-column">
-<a href="https://www.amazon.com/gp/product/B00MT0SKAQ/"><img /></a>
-
-
-
-<p><a href="https://www.amazon.com/gp/product/B00MT0SKAQ/">Reticam mini tripod</a></p>
-</div>
-
-
-
-<div class="wp-block-column">
-<a href="https://www.amazon.com/gp/product/B082QHRZFW/?tag=photomatt08-20"><img /></a>
-
-
-
-<p><a href="https://www.amazon.com/gp/product/B082QHRZFW/?tag=photomatt08-20"></a><a href="https://www.amazon.com/gp/product/B082QHRZFW/?tag=photomatt08-20">Elgato Key Light Air LED panel</a> (2x)</p>
-</div>
-</div>
-
-
-
-<p><strong>Video:</strong> Camlink, cable, and tripod are still the same, but the camera goes from an A7R IV and a separate lens to an A7C with a kit lens, which saves about $3,000. You also don&#8217;t need the dummy battery because the A7C runs great off USB-C.</p>
-
-
-
-<p><strong>Lighting:</strong> More is more, so I usually use two Key Light Airs (linked above) instead of one. If I&#8217;m on the road I&#8217;ll pair <a href="https://www.amazon.com/dp/B08SJBH8HM?tag=photomatt08-20">two Aputure RGB lights</a> with <a href="https://www.amazon.com/gp/product/B08S456KZG/?tag=photomatt08-20">two Lume Cube monopods</a>.</p>
-
-
-
-<p><strong>Audio:</strong> My best audio advice is to upgrade to an <a href="https://www.apple.com/am/mac/m1/">M1 Macbook Pro</a> so your computer is fast and the fan is never on, and position the laptop out of camera view but close to you so the built-in three-mic array picks up pretty good audio from you with no cables or earpieces. (<a href="https://www.youtube.com/watch?v=JQvXqDdTToM&t=205s">Here&#8217;s a singer recording a song on the pre-M1 16-inch version</a>, and note she has to remove fan noise in post-processing.) For bonus points <a href="https://krisp.ai/">add Krisp.ai ($60/yr)</a> so you get background noise and room echo magically eliminated in real-time.</p>
-
-
-
-<p><strong>Teleprompter:</strong> The Glide Gear is much easier to set up and way cheaper than my old recommendation. Instead of an external monitor, I use <a href="https://support.apple.com/en-us/HT210380">an iPad and the MacOS Sidecar feature</a>. I still don&#8217;t have a great way to reverse the screen; in the comments, I&#8217;ll share some of what folks have recommended to me.</p>
-
-
-
-<p>The above setup removes 75% of the cost without sacrificing any quality.</p>
-
-
-
-<p>I&#8217;ve gone through every permutation on audio, including using a <a href="https://www.amazon.com/gp/product/B07VQQ2J28/?tag=photomatt08-20">MixPre-3</a>, <a href="https://store.sounddevices.com/product/noiseassist-for-mixpre/">NoiseAssist plugin</a>, and a <a href="https://www.amazon.com/gp/product/B00030679K/?tag=photomatt08-20">MKH416 shotgun mic</a> ($2k+ total), but I never use that setup unless I&#8217;m recording a <a href="https://distributed.blog/">fancy audio-only podcast</a>.</p>
-
-
-
-<p>Why am I using <a href="https://www.amazon.com/gp/product/B00D4LBOV6/?tag=photomatt08-20">the Sennheiser SC30</a> in the above photo? Well it was an unusual situation&#8230;I was on the side of the road, next to an RV, with logging trucks rumbling by. Sometimes you don&#8217;t always know where you need to do a broadcast. <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f604.png" alt="😄" class="wp-smiley" /></p>
-
-
-
-<img />Behind the scenes! We were recording what <a href="https://www.youtube.com/watch?v=qaIYdsy-Gb8">became this panel</a>.
-
-
-
-<p></p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Fri, 21 May 2021 23:29:19 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:4:"Matt";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:19;a:6:{s:4:"data";s:13:"
-	
-	
-	
-	
-	
-	
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:90:"WPTavern: Open Source Maintainer Week Begins June 7 with Activities, Events, and Resources";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=117041";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:221:"https://wptavern.com/open-source-maintainer-week-begins-june-7-with-activities-events-and-resources?utm_source=rss&utm_medium=rss&utm_campaign=open-source-maintainer-week-begins-june-7-with-activities-events-and-resources";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:2487:"<p><a href="https://github.com/">GitHub</a>, in partnership with <a href="https://tidelift.com/">Tidelift</a>, has set aside June 7-12, 2021, as <a href="https://github.com/github/maintainerweek">Maintainer Week</a>, a time for open source maintainers to share knowledge and experiences through a series of planned activities and events. </p>
-
-
-
-<p>Tidelift plans to kick off Maintainer Week on June 7 with a virtual event called <a href="https://upstream.live/">Upstream</a>, featuring 30+ sessions that attendees can watch live or access following the event. This event will focus on some of the bigger problems and trends in the open source ecosystem. For example, Sarah Novotny from Microsoft will be speaking about open source as an innovation engine. Simon Phipps, OSI Director of Standards and Policy, will be presenting on &ldquo;spotting the rights ratchet model early,&rdquo; a hot topic in the recent open source relicensing controversies. Attendees will also have the opportunity to meet the maintainers and experts behind many popular open source tools that are used at scale.</p>
-
-
-
-<p>GitHub will be hosting its inaugural <a href="https://globalmaintainersummit.github.com/">Global Maintainer Summit</a> on June 8-9 as part of the week&rsquo;s activities. It is billed as more of a gathering or &ldquo;group therapy session&rdquo; for maintainers, with lightning talks featuring different projects&rsquo; approaches to common problems. WordPress lead developer Helen Hou-Sand&iacute; will be presenting a session called &ldquo;You Can&rsquo;t Have a Solution Without a Problem.&rdquo; GitHub emphasized that attendees do not have to be open source maintainers to attend, as many of the the best practices and skills discussed pertain to other aspects of life. </p>
-
-
-
-<p>In between sessions, maintainers will have the chance to build collaborative relationships with others and add skills that will help them avoid burnout. GitHub will be hosting a virtual hallway experience using Gather. This will allow attendees to talk with those standing closest to them and have smaller, more personal conversations. </p>
-
-
-
-<p>Open source maintainers who want to connect with others who share some of the same challenges, will want to add <a href="https://github.com/github/maintainerweek">Maintainer Week&rsquo;s activities</a> to the calendar. All of the upcoming events are free but registration is required on the <a href="https://upstream.live/register">Upstream</a> site.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Fri, 21 May 2021 20:37:42 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Sarah Gooding";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:20;a:6:{s:4:"data";s:13:"
-	
-	
-	
-	
-	
-	
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:116:"WPTavern: Google Aims to “Revitalize RSS” and Recapture Users’ Trust with Experimental Follow Button in Chrome";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=116905";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:259:"https://wptavern.com/google-aims-to-revitalize-rss-and-recapture-users-trust-with-experimental-follow-button-in-chrome?utm_source=rss&utm_medium=rss&utm_campaign=google-aims-to-revitalize-rss-and-recapture-users-trust-with-experimental-follow-button-in-chrome";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:6568:"<p>The internet was set abuzz yesterday after Google officially confirmed that it has been <a href="https://wptavern.com/chrome-is-testing-a-follow-button-for-websites">testing a Follow button for websites in Chrome</a>. In February, the publishers of <a href="https://www.chromestory.com/2021/02/chrome-follow-button/"><em>Chrome Story</em></a> spotted the button on Canary for Android, and speculated that it may be integrated with Google&rsquo;s Discover feature. Chrome <a href="https://blog.chromium.org/2021/05/an-experiment-in-helping-users-and-web.html">announced</a> that it is building on RSS to allow users to follow websites. The latest content from these sites will show up chronologically on the New Tab page as it is published.</p>
-
-
-
-<div class="wp-block-image"><img /></div>
-
-
-
-<p>At this time it does not look like Follow would be integrated with Discover, which is focused on surfacing content based on user-selected topics and a user&rsquo;s search activity. The Follow feature appears that it will function almost like a bare bones &ldquo;Chrome Reader,&rdquo; if you will. </p>
-
-
-
-<p>In 2013, Google blithely closed down its Google Reader product in a post titled &ldquo;<a href="https://googleblog.blogspot.com/2013/03/a-second-spring-of-cleaning.html">A second spring of cleaning</a>,&rdquo; saying its usage had declined. Younger internet users may not realize what a slap in the face this was, and how devastating it was to the ecosystem of RSS-based tools. </p>
-
-
-
-<p>In response to a Twitter user&rsquo;s suggestion to stick with open standards, a Google representative <a href="https://twitter.com/WebCreators/status/1395106908919386112">replied</a>, &ldquo;We intend to revitalize RSS, and from a product perspective, give users and creators a new, direct way to connect.&rdquo; Presenting this as a new way to <a href="https://twitter.com/pbakaus/status/1395091617732644864?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1395091617732644864%7Ctwgr%5E%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fwptavern.com%2Fwp-admin%2Fpost.php%3Fpost%3D116905action%3Dedit">make RSS &ldquo;mainstream consumer&rdquo; friendly</a> is a bit baffling for those who lost trust in Google&rsquo;s willingness to recognize how critical RSS was for the information ecosystem in 2013.</p>
-
-
-
-<p>While some are optimistic that Chrome&rsquo;s experiment may bring visibility to RSS feeds, others are skeptical that Google may be trying to revitalize RSS for its own commercial interests and not in service of the open web. Dave Winer, who pioneered the development of weblogs and RSS syndication,  gives voice to that skepticism in a reaction on his <a href="http://scripting.com/2021/05/19.html#a170138">blog</a>: </p>
-
-
-
-<blockquote class="wp-block-quote"><p>&ldquo;The memory of&nbsp;<a href="https://www.google.com/search?q=site%3Ascripting.com+%22google+reader%22">Google Reader</a>&nbsp;may have faded so much that Google appears ready to try again. Even the headline of this&nbsp;<a href="https://techcrunch.com/2021/05/19/undead-again-google-brings-back-rss/amp/">TechCrunch article</a>&nbsp;is disturbing. Google did so much damage to&nbsp;<a href="http://cyber.law.harvard.edu/rss/rss.html">RSS</a>, the thought of them &lsquo;reviving&rsquo; it is analogous to Exxon reviving the site of some&nbsp;<a href="https://en.wikipedia.org/wiki/Superfund">huge oil spill</a>, one that they didn&rsquo;t contribute to cleaning up. Even worse, browser vendors have no place trying to provide the user interface for RSS. Another toxic dump site.&rdquo; </p></blockquote>
-
-
-
-<p>Winer has a suggestion for Google that is more in the spirit of keeping things open and preserving portability for subscription lists. He recommends Google steer clear of providing any kind of a reader and instead focus on making it easy to share the subscription list:</p>
-
-
-
-<blockquote class="wp-block-quote"><p>&ldquo;If Google wants to help RSS, great &mdash; here&rsquo;s how. Do the subscribe button, that&rsquo;s a good thing. But the result should be a&nbsp;<a href="http://scripting.com/2013/08/15/feedReaderDevs">dynamic OPML subscription list</a>, that the user can provide to any reader app they want. It&rsquo;s dynamic in that the contents can change, and the readers should periodically check to see if feeds have been added or removed. This way, if someday Google abandons RSS, again, everything can keep on ticking, more or less. Inviting users to rely on them shows that they have no sense of responsibility for the trust they betrayed in the past. Perhaps users can refuse to go on this ride? That might be too much to hope for.&rdquo;&nbsp;</p></blockquote>
-
-
-
-<p>Google developer advocate Paul Bakaus <a href="https://twitter.com/pbakaus/status/1395091619397791744">said</a> the Follow button experiment is &ldquo;only the beginning of a bigger exploration&rdquo; and the company is looking for feedback from publishers. Hopefully this exploration also includes improving how feeds are displayed in the browser. It&rsquo;s not clear yet whether Google has plans to monetize the New Tab page with ads, promoted content, or through some other means.</p>
-
-
-
-<p>At this time, Google&rsquo;s only recommendation to publishers is to keep their sites&rsquo; RSS&nbsp;<a rel="noreferrer noopener" href="https://developers.google.com/search/blog/2014/10/best-practices-for-xml-sitemaps-rssatom" target="_blank">up-to-date</a>. WordPress users have nothing to worry about here, as all WordPress sites have built-in support for RSS feeds by default. If the Follow feature graduates out of the experimental stage, Google will provide more guidance to web publishers. </p>
-
-
-
-<p>This experiment does not exactly contain the decentralized feed aggregator capabilities that RSS fans might hope for, but if Google can build in an easy way to export users&rsquo; subscription lists then it might have a chance at contributing something truly useful. Users could then take their subscriptions to feed readers that will have more capabilities than Chrome&rsquo;s basic reader. In this sense Chrome&rsquo;s Follow button could make it easy for users to actively curate their RSS subscriptions based on their interests, promoting a more healthy and conscious consumption of news and other content.  </p>
-
-
-
-<p>The landscape of RSS tools has changed over the past decade but Google has the opportunity to play a meaningful role in revitalizing RSS if they put users first this time. The biggest hurdle will be recapturing their trust after snuffing out Reader in 2013.</p>
-
-
-
-<p> </p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Fri, 21 May 2021 02:16:22 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Sarah Gooding";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:21;a:6:{s:4:"data";s:13:"
-	
-	
-	
-	
-	
-	
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:82:"WPTavern: Upgrade Your Publishing Flow with the Post Descriptions WordPress Plugin";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=116996";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:209:"https://wptavern.com/upgrade-your-publishing-flow-with-the-post-descriptions-wordpress-plugin?utm_source=rss&utm_medium=rss&utm_campaign=upgrade-your-publishing-flow-with-the-post-descriptions-wordpress-plugin";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:3691:"<p class="has-drop-cap">Tom de Visser, a developer from Amsterdam, released the <a href="https://wordpress.org/plugins/post-descriptions/">Post Descriptions</a> plugin last week. It was his first submission to the WordPress.org plugin repository. It allows users to write short descriptions on a per-post basis, which are then displayed on the post-management screen.</p>
-
-
-
-<p>For an initial outing, it already seems to be a hit with its small user base. It has already racked up several five-star reviews and over 100 active installs. Granted, one of those reviews is from his employer, Mediaversa. While that might not seem like much from the outside looking in, anyone who has created plugins knows that it is a successful launch for an individual developer&rsquo;s first plugin submission.</p>
-
-
-
-<p>The plugin&rsquo;s goal is simple: leave small notes, reminders, to-dos, or longer descriptions for posts. It could be an ideal solution for a small team, but lone bloggers might need it too.</p>
-
-
-
-<p>Post Descriptions works with both the regular WordPress post editor or the classic editor by adding a meta box to the side of the editing screen. Currently, it only allows descriptions for posts or pages. Maybe the developer will add a post-type-support flag or filter hook for custom post types in the future.</p>
-
-
-
-<img />Posts Descriptions plugin meta box.
-
-
-
-<p>Aside from the description input box, users can tick the &ldquo;Make your description important&rdquo; checkbox to highlight a particular note. This option gives the text&rsquo;s display a red color and turns it bold when viewed.</p>
-
-
-
-<p>Descriptions are viewable via the post or page management screens. By default, they appear as a &ldquo;state,&rdquo; similar to how pending or draft states next to the title. The plugin also displays them under a &ldquo;Description&rdquo; column. Users can turn off the state display via the plugin&rsquo;s settings screen and toggle the extra column via WordPress&rsquo;s built-in Screen Options tab.</p>
-
-
-
-<img />Descriptions as post &ldquo;states.&rdquo;
-
-
-
-<p>One of my favorite features of this plugin is the flexibility of selecting where the notes appear on the post-management screen. Those who prefer one or two words can choose to display them as states. Those who prefer lengthier descriptions can show them in a separate column. Or, do both.</p>
-
-
-
-<img />Column for displaying post descriptions.
-
-
-
-<p>Users can also add descriptions via the Quick Edit link on the post-management screen.</p>
-
-
-
-<p>From a user-experience standpoint, it hits some of those sweet spots of usability and simplicity. Under the hood, the code is solid. The developer does not seem to be overthinking things and making the plugin more complicated than necessary.</p>
-
-
-
-<p>For small teams, I envision building a labeling system around this plugin that could address workflow issues. Adding short notes like Editor Review, SEO Review, and similar would alert the right team members to sign off on a post.</p>
-
-
-
-<p>While the flexibility of displaying notes as either states or descriptions is welcome, it does not account for a third type of user. My ideal workflow would be to have separate inputs for both states and descriptions. I could create a shorter state that gets my team&rsquo;s attention. Then, if more information is needed, I could add a longer description.</p>
-
-
-
-<img />Idea: Separate state and description text.
-
-
-
-<p>The downside in such a system is that it puts <em>yet another</em> input field in front of the end-user. Sometimes the route with the least effort is best. And, for a quick post note plugin, it is tough to beat the plugin&rsquo;s current solution.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Fri, 21 May 2021 00:25:07 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:14:"Justin Tadlock";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:22;a:6:{s:4:"data";s:13:"
-	
-	
-	
-	
-	
-	
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:34:"BuddyPress: BuddyPress 8.0.0-beta2";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:32:"https://buddypress.org/?p=318656";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:54:"https://buddypress.org/2021/05/buddypress-8-0-0-beta2/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:4249:"<p>Hello BuddyPress contributors!</p>
-
-
-
-<p>If you haven&#8217;t tested our first <a href="https://buddypress.org/2021/04/buddypress-8-0-0-beta1/">8.0.0 beta release</a>, here&#8217;s another opportunity to help us give the final touches to our next major release so that we make sure it will fit perfectly into your WordPress / BuddyPress specific configuration. Beta testing is very important and we need you all, whether you&#8217;re a regular or advanced user, a theme designer or a plugin author: please contribute!</p>
-
-
-
-<div class="wp-block-buttons is-content-justification-center">
-<div class="wp-block-button"><a class="wp-block-button__link has-white-color has-text-color has-background" href="https://downloads.wordpress.org/plugin/buddypress.8.0.0-beta2.zip">Test BuddyPress 8.0.0-beta2</a></div>
-</div>
-
-
-
-<div class="wp-block-spacer"></div>
-
-
-
-<h2>What&#8217;s new since beta1?</h2>
-
-
-
-<p>First we applied to ourselves the advice we just gave you into the first paragraph of this post: we&#8217;ve tested BuddyPress on WordPress 5.8-alpha and on latest stable WordPress &amp; Gutenberg&#8217;s plugin. Our goal was to check the very promising <a href="https://make.wordpress.org/core/2021/05/12/help-test-the-widgets-editor-for-wordpress-5-8/">Widgets Block Editor</a> that is announced to be part of the WordPress 5.8 release. This helped us <a href="https://buddypress.trac.wordpress.org/ticket/8465">anticipate some deprecation notices</a> and <a href="https://buddypress.trac.wordpress.org/ticket/8476">prevent an issue</a> to happen into the new Widgets Block Editor Administration screen. If you were worried about losing your favorite BuddyPress widgets once WordPress 5.8 is released: be reassured, we can tell you there&#8217;s a back-compatibility mechanism into the Widgets Block feature making sure legacy widgets can still be managed from the new Widgets Block Editor Administration screen. If you&#8217;re wondering if we have a plan about migrating these widgets as blocks, we confirm <strong>we do</strong> and we actually started building these <a href="https://github.com/buddypress/bp-blocks/issues/37">next BP Blocks</a>!</p>
-
-
-
-<p>We also tested the Full Site Editing feature. For now, there&#8217;s a breaking change preventing our BP Theme Compat API to behave as expected <a href="https://buddypress.trac.wordpress.org/ticket/8474">but we&#8217;re on it</a> and we&#8217;ll make sure BuddyPress is Full Site Editing ready <strong>before this feature is merged into WordPress core</strong>.</p>
-
-
-
-<p>We started documenting the new features arriving in <a href="https://bpdevel.wordpress.com/category/development-notes/8-0/">BuddyPress 8.0.0</a>, you can already learn about <a href="https://bpdevel.wordpress.com/2021/05/06/selectable-xprofile-sign-up-fields-in-8-0-0/">the selectable signup xProfile fields</a> and the <a href="https://bpdevel.wordpress.com/2021/05/05/new-xprofile-field-type-checkbox-acceptance-will-be-introduced-in-buddypress-8-0-0/">CheckBox Acceptance xProfile field</a>.</p>
-
-
-
-<p>Finally we&#8217;ve polished the very promising <a href="https://buddypress.trac.wordpress.org/ticket/8139">BP Members Invitations feature</a> and made sure it was <a href="https://buddypress.trac.wordpress.org/ticket/8430">easier to extend the BP Messages UI</a> into the BP Nouveau template pack.</p>
-
-
-
-<p>The final release is slated to early June and&nbsp;<strong>we need you to get there</strong>: do test this beta release of BuddyPress <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f64f.png" alt="🙏" class="wp-smiley" />.</p>
-
-
-
-<p>You can test BuddyPress 8.0.0-beta2 in 4 ways :</p>
-
-
-
-<ul><li>Try the <a href="https://wordpress.org/plugins/bp-beta-tester/">BP Beta Tester</a> plugin.</li><li><a href="https://downloads.wordpress.org/plugin/buddypress.8.0.0-beta2.zip">Download the beta here (zip file)</a>.</li><li>Check out our SVN repository: <code>svn co https://buddypress.svn.wordpress.org/trunk/</code></li><li>Clone our read-only Git repository: <code>git clone git://buddypress.git.wordpress.org/</code></li></ul>
-
-
-
-<p>Thanks in advance for your contributions&nbsp;<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f970.png" alt="🥰" class="wp-smiley" /></p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 20 May 2021 20:00:06 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:12:"Mathieu Viet";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:23;a:6:{s:4:"data";s:13:"
-	
-	
-	
-	
-	
-	
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:32:"Matt: Squarespace Direct Listing";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:22:"https://ma.tt/?p=54194";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:49:"https://ma.tt/2021/05/squarespace-direct-listing/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:2783:"<p><a href="https://www.sec.gov/Archives/edgar/data/1496963/000110465921051251/tm213918-6_s1.htm">Squarespace filed their S-1 last month</a>, and went a direct listing route for their stock today under the ticker SQSP, so I&#8217;ve been getting lots of questions on my thoughts on their business. It&#8217;s easier to share here in a blog than individually.</p>
-
-
-
-<p>Squarespace&#8217;s CEO <a href="https://twitter.com/acasalena">Anthony Casalena</a> is a thoughtful, creative leader. It&#8217;s amazing what he&#8217;s built since 2003, and he obviously has many decades ahead of him. From our conversations I know how seriously he takes the craft not just of designing great products, but designing great organizations that will stand the test of time.</p>
-
-
-
-<p>Squarespace is a customer-centric company, that has reliable, well-designed services, great support, and puts their customers first by allowing things like <a href="https://support.squarespace.com/hc/en-us/articles/206566687-Exporting-your-site">standards-based export</a>. I&#8217;ve always observed them to behave and compete with the highest of ethics.</p>
-
-
-
-<p>Their products work well, and they&#8217;ve been strategic in their acquisitions, including recently <a href="https://www.exploretock.com/">Tock</a> which I&#8217;m a big fan of. </p>
-
-
-
-<p>Their metrics are great, and there&#8217;s huge opportunity still. If you add up all the companies (including Automattic) in the independent web space it&#8217;s still only tens of millions of subscribers. I truly believe the eventual audience is every business in the world, and a good chunk of the 7 billion individuals, so there is so much room for everyone to grow.</p>
-
-
-
-<p>How about the stock? Some of my favorite investing advice comes from Charlie Munger:</p>
-
-
-
-<blockquote class="wp-block-quote"><p>“I could improve your ultimate financial welfare by giving you a ticket with only twenty slots in it so that you had twenty punches representing all the investments that you got to make in a lifetime. And once you’d punched through the card, you couldn’t make any more investments at all. Under those rules, you’d really think carefully about what you did and you’d be forced to load up on what you’d really thought about.”</p></blockquote>
-
-
-
-<p>If I had to pick between Squarespace or <a href="https://ma.tt/2021/04/wix-dirty-tricks/">Wix</a>, I&#8217;d pick Squarespace every time. They&#8217;re a company you could punch the card with. They&#8217;ve built a great brand through their marketing and rightly earned trust with their customers and within the community as a good business, and they have a founder-led path to success for many years to come. I&#8217;m wishing them the best in their next chapter as a public company.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 20 May 2021 02:37:49 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:4:"Matt";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:24;a:6:{s:4:"data";s:13:"
-	
-	
-	
-	
-	
-	
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:110:"WPTavern: No More Accidental Custom Plugin Overrides, WordPress 5.8 To Allow Developers To Set Plugin Hostname";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=116798";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:263:"https://wptavern.com/no-more-accidental-custom-plugin-overrides-wordpress-5-8-to-allow-developers-to-set-plugin-hostname?utm_source=rss&utm_medium=rss&utm_campaign=no-more-accidental-custom-plugin-overrides-wordpress-5-8-to-allow-developers-to-set-plugin-hostname";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:4281:"<p class="has-drop-cap">Almost since the dawn of the plugin and theme upgrade mechanisms inclusion in core over a decade ago, third-party developers have asked for an easy way to bypass the system. WordPress 5.8 will finally <a href="https://core.trac.wordpress.org/changeset/50921">deliver on this feature request</a>.</p>
-
-
-
-<p>While it has long been possible to filter the update system, methods for doing so were more complex than needed. They also required the plugin itself to be active on a site. A simple flag for enabling/disabling the feature on a per-plugin basis is long overdue.</p>
-
-
-
-<p>&ldquo;The utility is that this is an abstracted API that allows two things,&rdquo; <a href="https://github.com/WordPress/wordpress-develop/pull/950#issuecomment-777985189">wrote Dion Hulse</a> in a GitHub pull request that patched the code:</p>
-
-
-
-<ul><li>A plugin to declare a URI/string that if set, WordPress.org update API&rsquo;s ignores the plugin.</li><li>Code running on the site, can use that headers hostname/data to offer an update for the plugin to be stored into the update transient, without having to jump through hoops such as overriding the transient / checking too often / etc.</li></ul>
-
-
-
-<p>WordPress 5.8 will have a new <code>Update URI</code> <a href="https://developer.wordpress.org/plugins/plugin-basics/header-requirements/">plugin header field</a>. If its value matches anything other than <code>https://wordpress.org/plugins/{$slug}/</code> or <code>w.org/plugin/{$slug}</code>, WordPress will not attempt to update it.</p>
-
-
-
-<p>Beyond that, developers can roll their own solutions if they want to handle updates for non-WordPress.org plugins. That is where the new <code>update_plugins_{$hostname}</code> filter comes into play. WordPress will parse the URL included in the plugin&rsquo;s <code>Update URI</code> header and use the hostname as the value. Developers can then hook into it and do whatever they need.</p>
-
-
-
-<p>Plugin authors with extensions hosted by WordPress.org will not need to worry about adding this new header. <a href="https://developer.wordpress.org/plugins/wordpress-org/detailed-plugin-guidelines/#8-plugins-may-not-send-executable-code-via-third-party-systems">Rule #8 of the plugin guidelines</a> already disallows sending executable code via third-party systems. The following sub-section covers this scenario more specifically:</p>
-
-
-
-<blockquote class="wp-block-quote"><p>Serving updates or otherwise installing plugins, themes, or add-ons from servers other than WordPress.org&rsquo;s</p></blockquote>
-
-
-
-<p>The discussion picked up some steam 13 months ago on a <a href="https://core.trac.wordpress.org/ticket/32101">six-year-old ticket</a>. &ldquo;I&rsquo;ve now had a plugin unceremoniously deleted from a client&rsquo;s website when scheduled plugin automatic-update have run,&rdquo; <a href="https://core.trac.wordpress.org/ticket/32101#comment:64">wrote a contributor</a> with the username <em>apedog</em>. &ldquo;This is actually the second time I&rsquo;ve encountered this naming-conflict problem for a plugin of mine. In both cases, I had chosen a plugin name with no apriori naming conflict. However, at some later point, someone else had also written a plugin with the same generic name and submitted that to the wp.org repository. From that point on my plugin&rsquo;s proper functioning is broken.&rdquo;</p>
-
-
-
-<p>While the deletion issue turned out not to be an issue on WordPress&rsquo;s end, perhaps it was the spark needed to keep the conversation going.</p>
-
-
-
-<p>An active discussion is not always indicative of a feature getting the green light. Nor does it mean someone will write the code. Many such tickets have had months or years of conversation, only to eventually languish and die. This ticket seemed to have fit that bill too. It was opened in 2015. However, new features are sometimes more about timing, just pure randomness, or a developer with core commit access simply getting the job done.</p>
-
-
-
-<p>The ticket for plugins has been accepted and committed to WordPress. However, there is still the question of whether this will land for themes. The movement in the <a href="https://core.trac.wordpress.org/ticket/14179">11-year-old theme ticket</a> indicates that it could happen.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 19 May 2021 23:49:12 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:14:"Justin Tadlock";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:25;a:6:{s:4:"data";s:13:"
-	
-	
-	
-	
-	
-	
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:76:"WPTavern: #3 – Benjamin Intal on Why He’s Betting His Business on Blocks";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:48:"https://wptavern.com/?post_type=podcast&p=116749";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:189:"https://wptavern.com/podcast/3-benjamin-intal-on-why-hes-betting-his-business-on-blocks?utm_source=rss&utm_medium=rss&utm_campaign=3-benjamin-intal-on-why-hes-betting-his-business-on-blocks";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:51536:"<h2>About this episode.</h2>
-
-
-
-<p>On the podcast today we have Benjamin Intal. He&rsquo;s the founder of <a href="https://wordpress.org/plugins/stackable-ultimate-gutenberg-blocks/">Stackable</a>, which is a suite of custom blocks.</p>
-
-
-
-<p>Benjamin decided early on that his company was going to take the possibilities that Gutenberg offered seriously. They had previously developed a page builder plugin, but felt that the opportunity presented by blocks was something that they could not overlook.</p>
-
-
-
-<p>During the conversation, we talk about why Benjamin decided to devote so much time and energy towards creating blocks, at a time when there was almost no certainty about the status of blocks, and the block editor. Indeed, there was no clarity on whether blocks would become a core feature in WordPress.</p>
-
-
-
-<p>As we now know, blocks are an increasingly important topic in WordPress, and so Benjamin&rsquo;s decision, with a little hindsight, appears to have been a wise one.</p>
-
-
-
-<p>We talk about some of the difficulties that have presented themselves over the last three years, and how they overcame them. These ranged from having to develop in the absence of documentation, to creating bespoke solutions to problems which were later handled by WordPress Core.</p>
-
-
-
-<p>We also discuss how they went about iterating their product in a technology space which was new. What methods the team used to ensure that they were building features which their users really needed.</p>
-
-
-
-<p>We also get into whether the block system is now fully mature and ready to support a growing ecosystem of developers. Is it a good idea to create &lsquo;smaller&rsquo; blocks with a limited use case, or a large suite of blocks which work in harmony with one another? Are we entering a future in which the &lsquo;there&rsquo;s a block for that&rsquo; mentality might lead to sites with &lsquo;block bloat&rsquo;; sites with multiple blocks, with overlapping features.</p>
-
-
-
-<p>It&rsquo;s an interesting chat and gives an insight into a transitional moment in the history of WordPress. A moment in which blocks are taking on much of the heavy lifting in a WordPress website. A moment in which reputations are being made.</p>
-
-
-
-<h2>Useful links.</h2>
-
-
-
-<p><a href="https://wordpress.org/plugins/stackable-ultimate-gutenberg-blocks/">Stackable</a></p>
-
-
-
-<p><a href="https://gutenbergtimes.com/">Gutenberg Times</a></p>
-
-
-
-<p><a href="https://make.wordpress.org/">Make WordPress</a></p>
-
-
-Transcript<div><div class="chat-transcript"><div class="chat-stanza chat-row chat-speaker-1"><div class="chat-author chat-author-nathanwrigley vcard"><cite class="fn">Nathan Wrigley</cite> [00:00:00]</div> <div class="chat-text"><p>Welcome to the third edition of the Jukebox podcast from WP Tavern. My name is Nathan Wrigley. Jukebox is a podcast and transcript for people who are interested in WordPress and the WordPress community. It&rsquo;s happening once per month for now, and if you wanted to be updated when new episodes are published, you can sign up at wptavern.com forward slash feed forward slash podcast. If you have any feedback about the podcast, then please head over to wptavern.com forward slash contact forward slash jukebox and there you&rsquo;ll find a contact form for you to complete and thanks in advance if you do. Okay, so the podcast today features Benjamin Intal. He&rsquo;s the founder of Stackable, which is a suite of custom blocks. Benjamin decided early on that his company, we&rsquo;re going to take the possibilities that Gutenberg offered very seriously. They had previously developed a page builder plugin, but felt that the opportunities presented by blocks was something that they could not overlook. During the conversation we talk about why Benjamin decided to devote so much time and energy towards creating blocks at a time when there was almost no certainty about the status of blocks and the block editor. Indeed, there was no clarity on whether or not blocks would become a core feature in WordPress. As we now know, blocks are an increasingly important topic in WordPress, and so Benjamin&rsquo;s decision, with a little hindsight, appears to have been a wise one. We talk about some of the difficulties that have presented themselves over the last three years and how they overcame them. They ranged from having to develop in the absence of documentation to creating bespoke solutions to problems which were later handled by WordPress Core. We also discuss how they went about iterating their product in a technology space which was new. What methods the team used to ensure that they were building features, which their users really needed. We also get into the topic of whether or not the block system is now fully mature and ready to support a growing ecosystem of developers. Is it a good idea to create smaller blocks with a limited use case, or a large suite of blocks, which work in harmony with one another? Are we entering a future in which the &lsquo;there&rsquo;s a block for that&rsquo; mentality might lead to sites with block bloat. Sites with multiple blocks, with overlapping features. It&rsquo;s an interesting chat and gives an insight into a transitional moment in the history of WordPress. A moment in which blocks are taking on much of the heavy lifting in a WordPress website. A moment in which reputations are made. If any of the points raised here resonate with you, be sure to head over to the post at wptavern.com forward slash podcast and leave us a comment there. And so without further delay, I bring you Benjamin Intal. I am joined by Benjamin Intal. Hi, Benjamin. How are you doing?</p>
-</div></div><div class="chat-stanza chat-row chat-speaker-2"><div class="chat-author chat-author-benjaminintal vcard"><cite class="fn">Benjamin Intal</cite> [00:03:45]</div> <div class="chat-text"><p>Hey, Nathan. Thanks for having me here.</p>
-</div></div><div class="chat-stanza chat-row chat-speaker-1"><div class="chat-author chat-author-nathanwrigley vcard"><cite class="fn">Nathan Wrigley</cite> [00:03:47]</div> <div class="chat-text"><p>You&rsquo;re very welcome. I think as with all podcasts like this, it&rsquo;s a really good idea to get some perspective on who you are and where you have been in the WordPress space. Although it&rsquo;s a bit of a generic question, I am going to ask it regardless. Would you just tell us what your relationship is with WordPress? How many years you&rsquo;ve been using WordPress, how you got involved and so on and so forth.</p>
-</div></div><div class="chat-stanza chat-row chat-speaker-2"><div class="chat-author chat-author-benjaminintal vcard"><cite class="fn">Benjamin Intal</cite> [00:04:09]</div> <div class="chat-text"><p>Yeah. So I started with WordPress development in 2010, and I stumbled into WordPress at first to create freelance websites. And I became a fan of WordPress. So I was surprised that you can extend it so much to create themes and plugins that did all manner of things. So I created my first theme, set it for sale. And then I moved into plugins, created actually a bunch of them. And now I had a development team here in the Philippines and our main focus is on building Stackable page builder Gutenberg blocks.</p>
-</div></div><div class="chat-stanza chat-row chat-speaker-1"><div class="chat-author chat-author-nathanwrigley vcard"><cite class="fn">Nathan Wrigley</cite> [00:04:44]</div> <div class="chat-text"><p>Thank you very much indeed. Now, as the title of this podcast will no doubt reflect. You&rsquo;ve really thrown all of your weight behind the whole Gutenberg block system. I&rsquo;m just curious about why it is that you&rsquo;ve done that as we speak, there are a few packs of blocks, which are similar to what you offer. You jumped on board very early and therefore you must have been fairly confident in Gutenberg and what was going to be offered. So I&rsquo;m just interested in that really? Why is it that you decided that blocks were going to be the future for you, your business, your company, and all of that?</p>
-</div></div><div class="chat-stanza chat-row chat-speaker-2"><div class="chat-author chat-author-benjaminintal vcard"><cite class="fn">Benjamin Intal</cite> [00:05:20]</div> <div class="chat-text"><p>Actually, when we started building Stackable, I think we released it early February, 2018, and Gutenberg was still in very early beta back then. And back then it wasn&rsquo;t yet certain if it would get included into WordPress core, but we were doing other things related to page builders during that time as well. And we thought that it wouldn&rsquo;t hurt to try building blocks for a Gutenberg. So it was something very innovative and new. So previously WordPress was all about PHP and this one, it was more about JavaScript and more about React. So it was a chance to learn new technologies. So we built actually just an MVP, minimum viable product. So we turned that into a free plugin that added blocks, uploaded it to the plugin directory, and then see what would happen. So if it works then great. If it didn&rsquo;t, then at least we still had fun and got the good learning experience from it. So that&rsquo;s how we got started.</p>
-</div></div><div class="chat-stanza chat-row chat-speaker-1"><div class="chat-author chat-author-nathanwrigley vcard"><cite class="fn">Nathan Wrigley</cite> [00:06:26]</div> <div class="chat-text"><p>Yeah. I am curious about that. That&rsquo;s quite a big commitment in terms of time and energy, and moving the assets around in your company in order to make that all happen. And I guess at that time it was a bit of a gamble. Were you prepared at that time to accept that perhaps Gutenberg wouldn&rsquo;t be making it into core and that your endeavors might end up just as time spent in development, but nothing would actually come out of it. Were you in some way hopeful that it would come into Core and we&rsquo;re banking on that happening?</p>
-</div></div><div class="chat-stanza chat-row chat-speaker-2"><div class="chat-author chat-author-benjaminintal vcard"><cite class="fn">Benjamin Intal</cite> [00:06:56]</div> <div class="chat-text"><p>It had something to do with timing actually, before diving into Gutenberg, we actually attempted to make our own page builder before using our own resources. In the middle of it Gutenberg suddenly popped out of nowhere. And then people were talking about that it would be a page builder killer in the future. So you had kind of a crossroads. So do we continued trying to build our page builder, or should we jump into the Gutenberg bandwagon if you say, if you can say that. So what we decided was, what if we just come out with something, and then while Gutenberg is still brewing, let&rsquo;s just continue what we&rsquo;re doing, the page builder. And then if Gutenberg gets merged into Core, then we can maybe focus our efforts more on that. But if not, then we can continue doing what we were originally doing.</p>
-</div></div><div class="chat-stanza chat-row chat-speaker-1"><div class="chat-author chat-author-nathanwrigley vcard"><cite class="fn">Nathan Wrigley</cite> [00:07:58]</div> <div class="chat-text"><p>Probably at various points dip into the suite of blocks that you have, which is called Stackable. I&rsquo;m just curious as to what the difficulties have been over the last, roughly three years or so building this, because if you&rsquo;re building something into a fully mature platform where the documentation is excellent and the roadmap is clear and everybody knows how to build things. That&rsquo;s one thing, but you were building into the dark really into an area of it almost like shifting sand, something that was certain today could be removed tomorrow. It was complete state of flux. The documentation probably wasn&rsquo;t as fleshed out as it could be. And the roadmap wasn&rsquo;t necessarily clear. So I&rsquo;m just wondering if there were any difficulties which you&rsquo;ve encountered over the last three years, which meant that you had to perhaps rewrite things undo things that you&rsquo;d already done or indeed find new opportunities in innovations that you didn&rsquo;t expect to come, which did come.</p>
-</div></div><div class="chat-stanza chat-row chat-speaker-2"><div class="chat-author chat-author-benjaminintal vcard"><cite class="fn">Benjamin Intal</cite> [00:08:56]</div> <div class="chat-text"><p>Yeah, I guess to start off, I didn&rsquo;t realize it&rsquo;s been three years already. Oh my gosh. So some of the components that we can use, especially at the start, we&rsquo;re a bit barebones. So we had to invent a lot of our own. So that&rsquo;s fun actually. Some parts now are getting better. So like now Gutenberg has the focal point picker and the gradient color picker. So before there weren&rsquo;t any of those controls, and I&rsquo;m actually excited to use these new things and Stackable as well. So that&rsquo;s one difficulty. About the documentation, I think it&rsquo;s okay, especially if you&rsquo;re just starting out, there are a lot of examples to get you started now. But a lot of the time we had to explore the code and go inside GitHub to study how things are done and how the components are used. Although even if we did that, it was still really helpful checking the code base. Since I think it&rsquo;s very well written. It&rsquo;s well segregated and well-maintained, there are hundreds of people who have contributed to the code. Most of whom are more knowledgeable in Gutenberg and React than me. So I also get to learn a lot of things from it. As for the roadmap, there&rsquo;s a higher overview roadmap that Matt Mullenweg brought up before, the four phases. Phase one replace the classic editor and then phase two is full site editing, phase three and four are collaboration and multi-lingual. So we go around that. But what we do is we have some big assumptions, that we mainly use as our guide on the direction on what we do. So in our minds, one of the main goals of Gutenberg is to have it replace the classic editor. So it&rsquo;s not meant to be a replacement for page builders per se. So if there&rsquo;s no more classic editor, Gutenberg would be the best experience for writing content in WordPress. So we work around that assumption. And also, we always anticipate whatever new feature is coming. So for example, full site editing is coming in the future. So instead of creating our own solutions like that, instead of providing the ability to edit templates and headers ourselves, we just wait for the future improvements so that we can build on top of it instead of reinventing on our own.</p>
-</div></div><div class="chat-stanza chat-row chat-speaker-1"><div class="chat-author chat-author-nathanwrigley vcard"><cite class="fn">Nathan Wrigley</cite> [00:11:27]</div> <div class="chat-text"><p>During the last three years, have there been blind alleys where you&rsquo;ve begun doing something only to figure out a) it couldn&rsquo;t be done possibly or b) it was going to become a part of Core? You mentioned something just there, but I&rsquo;m just wonderingh how the communication from the team that are building it has impacted what you&rsquo;ve been able to do. In other words, have you always felt that there&rsquo;s enough information coming downstream toward you, that you could confidently put your team to work building certain things or has the last three years been a bit of a stop-start&hellip; well we didn&rsquo;t know that was going to happen? I realize that we&rsquo;re at a point now where things are certainly better than they were, but just because of the fact that you are one of the few people who&rsquo;s done this right from the start, I&rsquo;m just wondering how that process has been over the last three years.</p>
-</div></div><div class="chat-stanza chat-row chat-speaker-2"><div class="chat-author chat-author-benjaminintal vcard"><cite class="fn">Benjamin Intal</cite> [00:12:19]</div> <div class="chat-text"><p>I&rsquo;m not sure whether the communication has changed and I don&rsquo;t think there&rsquo;s something necessarily wrong with it. I treat the Gutenberg updates like normal WordPress updates. So what I mostly do is just good old fashioned research. So to be honest, I check WP Tavern on what&rsquo;s new every now and then. And read the articles in there, although I&rsquo;m more of a lurker in the comments than a commenter. What I also do is I used to check managewp.org before they shut down, actually. I occasionally also try out the Gutenberg plugin to see what&rsquo;s new. So that&rsquo;s, I think one of the main sources of my information on what&rsquo;s coming, I read the change log rather actually try and read it since sometimes it can be quite technical. Make WordPress is also a very good resource for me on what&rsquo;s coming. So some of the entries in there go into great detail on what&rsquo;s new. Maybe there&rsquo;s an API or a large change, and they sometimes have links to videos and show what&rsquo;s actually new. And then actually there&rsquo;s this video and Gutenberg times. So it&rsquo;s like a news site, all about Gutenberg, by Birgit Pauli-Haack, where they demo the status of Full SIte editing before. So that was really helpful as well.</p>
-</div></div><div class="chat-stanza chat-row chat-speaker-1"><div class="chat-author chat-author-nathanwrigley vcard"><cite class="fn">Nathan Wrigley</cite> [00:13:43]</div> <div class="chat-text"><p>I know that the team themselves are very conscious that when Gutenberg was announced that there was real division in the WordPress community. There were many people who didn&rsquo;t want to have anything to do with it and felt that it had been more or less forced upon them, shall we say? And there were many people who embraced it. It did bifurcate the community a bit, split it in two. And there was also the concern that, because it was a new project and there weren&rsquo;t as many eyeballs and it hadn&rsquo;t reached maturity that it was difficult to get involved. Like you said earlier, you&rsquo;ve got to learn a whole bunch of new skills and many people who are quite happy using PHP, and that was as far as they wish to go, and all of a sudden there&rsquo;s new requirements to learn new programming techniques and so on and so forth. But you obviously decided it was worth the investment. So that&rsquo;s great. Well done to you. I&rsquo;m just curious as to, because you&rsquo;re shooting in the dark and inventing something new, I&rsquo;m interested to know how it is that you discover from your growing audience, what it is that they would wish you to iterate on in Stackable. So obviously if we go back three years ago, there was very little that you had to show. If we go now and look at what it is that you&rsquo;re offering, you&rsquo;ve got a whole suite of different things with multiple complicated options. And I&rsquo;m very curious to know if a plugin developer was keen to build their own block, what have you found to be a good way to discover from your audience, your memberships, your community, what it is that they wish you to build?</p>
-</div></div><div class="chat-stanza chat-row chat-speaker-2"><div class="chat-author chat-author-benjaminintal vcard"><cite class="fn">Benjamin Intal</cite> [00:15:15]</div> <div class="chat-text"><p>Communication is something that we feel that is very important because while we use Stackable ourselves for some of our own projects, I feel that there are a lot of scenarios and use cases that we haven&rsquo;t taken into consideration yet, and that our users would know more about. So first in communication, there&rsquo;s our support. Some customers email in just to request some feature that they really need. Then there&rsquo;s our Facebook community. So this is something that we started early on. So we try and foster sharing in the community. We try to be as transparent as we can. We try and share what we&rsquo;re currently doing. We share GIFs and screenshots and we get feedback on those. So whether it&rsquo;s a good idea or whether to continue or whether it lacks something more. And actually now it&rsquo;s a bit difficult catching up with the number of requests. And we&rsquo;ve discovered that what we wanted to build and what our users want, can sometimes be a bit different from each other. What&rsquo;s important is to remember who you&rsquo;re building for. They are the ones who tell us, what&rsquo;s a good idea. So for example, we have this role manager feature where you can lock up the inspector, and it would only allow you to edit the block text, which was actually suggested by a few of our users who had clients and those clients wanted to perform edits on their site themselves, but they didn&rsquo;t want them to accidentally change the design. So we wanted to add features geared towards agencies, but this was something that we didn&rsquo;t even think about. So it was a good match. So that&rsquo;s why we added that in.</p>
-</div></div><div class="chat-stanza chat-row chat-speaker-1"><div class="chat-author chat-author-nathanwrigley vcard"><cite class="fn">Nathan Wrigley</cite> [00:16:59]</div> <div class="chat-text"><p>I wondered if there were any things that you wish you were able to build, but you are constrained by the Gutenberg project thus far, are there any limitations that you&rsquo;ve run up against? What I&rsquo;m imagining here is there&rsquo;s a whole bunch of people out there in the community who never use page builders, and there&rsquo;s a whole bunch of people who write template files, and there&rsquo;s a whole bunch of people who really embrace page builders and it&rsquo;s become their modus operandi, that&rsquo;s how they interact with WordPress these days. And the level of sophistication that has been built into some of these tools is pretty incredible. They can do some fairly amazing things and their team have worked very hard. But they&rsquo;re in their own little silo. So as an example, page builder A over here, they&rsquo;ve got their team and they&rsquo;ve built all of these fantastic features and page builder B over here, they&rsquo;ve built there&rsquo;s and they&rsquo;re completely separate, and they&rsquo;re not interoperable, but we&rsquo;re trying to build it a system here where everybody can bolt on top of it, Gutenberg the block editor. But I&rsquo;m just wondering at the moment, if there are things which you see in third-party tools that you wish to build, but it&rsquo;s simply not available to you yet. There are constraints within what&rsquo;s possible.</p>
-</div></div><div class="chat-stanza chat-row chat-speaker-2"><div class="chat-author chat-author-benjaminintal vcard"><cite class="fn">Benjamin Intal</cite> [00:18:13]</div> <div class="chat-text"><p>I think something that fits that very well, is that the ability to edit page templates. Every now and then we get this request. Would I be able to edit headers? Can I edit my footers in all of my pages? But unfortunately we can&rsquo;t do something like that in Gutenberg yet. That&rsquo;s probably one of the main limitations that we have right now. And for that, there&rsquo;s an answer that Gutenberg has, although it&rsquo;s still in the pipeline, so we just have to wait for it, and then we can dive in and add features on top of it so that people can start creating their own page templates.</p>
-</div></div><div class="chat-stanza chat-row chat-speaker-1"><div class="chat-author chat-author-nathanwrigley vcard"><cite class="fn">Nathan Wrigley</cite> [00:18:52]</div> <div class="chat-text"><p>I think people give Guttenberg flack because it&rsquo;s not entirely clear unless you really go out of your way to discover what&rsquo;s coming down the pipeline and so on. It can be quite a confusing experience. And the idea that it&rsquo;s in the future, going to be able to do these things, and these things. It&rsquo;s a fairly drawn out process and it&rsquo;s taking a long time and we had Anne McCarthy on the podcast last time talking about why that was and why that&rsquo;s intentionally a fairly slow rollout because they&rsquo;ve got 40 plus percent of the web to protect. But I&rsquo;m just interested in whether any of that. Is a cause of frustration. If you&rsquo;d have been building this yourself you may be, could have advanced things quicker, but your users are asking for the ability to, like you say, alter page templates and so on, and you can&rsquo;t provide it for them, but it&rsquo;s not your fault. And it may be, there&rsquo;s a bit of you, which is thinking, do you know, I wish they&rsquo;d hurry up and get this thing finished.</p>
-</div></div><div class="chat-stanza chat-row chat-speaker-2"><div class="chat-author chat-author-benjaminintal vcard"><cite class="fn">Benjamin Intal</cite> [00:19:46]</div> <div class="chat-text"><p>Yeah, I think that&rsquo;s really something. So it&rsquo;s not really a frustration, but more of something that we always have to keep in mind is that we are quite dependent on Gutenberg&rsquo;s progress. So really have to time things right most of the time. So like Full Site Editing, there was a hint that it would maybe come out late last year. And there was another hint again, that it will come out earlier this year. But fortunately that didn&rsquo;t happen. So we always have to be on the tip of our toes when it comes to what&rsquo;s going to be released, and what can we do about it? One funny thing, but not really funny, but maybe unfortunate since we&rsquo;re building something that&rsquo;s tightly intertwined with Gutenberg is that some people mix up what&rsquo;s with Stackable and what&rsquo;s in Gutenberg. So for example, they recently changed how reusable blocks worked. And we got some emails from users asking us why we changed the behavior, a few usable blocks, but actually that wasn&rsquo;t us. It was part of the WordPress update.</p>
-</div></div><div class="chat-stanza chat-row chat-speaker-1"><div class="chat-author chat-author-nathanwrigley vcard"><cite class="fn">Nathan Wrigley</cite> [00:20:48]</div> <div class="chat-text"><p>From the outside that would feel like a point of frustration because suddenly something that you have got no control over is causing you to have to spend time answering support tickets and so on. Something that, that you didn&rsquo;t do is consuming your time. And while it&rsquo;s not a frustration, I guess that&rsquo;s just the fallout of jumping in early with this. If you&rsquo;d have waited to create this for another three or four years, when everything was much more mature than it is now, you would have probably had a great deal of a smoother road, but you would have missed that opportunity to become one of the people that jumped in early and made a name for themselves. So I guess as a company, you&rsquo;ve just got to accept a bit of that. That goes with the territory. You&rsquo;ve done this early. There&rsquo;ll be a benefit to that down the road, but there&rsquo;s also going to be moments right now where things don&rsquo;t go as smoothly as you&rsquo;d wish.</p>
-</div></div><div class="chat-stanza chat-row chat-speaker-2"><div class="chat-author chat-author-benjaminintal vcard"><cite class="fn">Benjamin Intal</cite> [00:21:42]</div> <div class="chat-text"><p>I think you said it quite right. So it&rsquo;s just part of the territory. We just really have to accept it that way. Since if you really jump in early, there&rsquo;s going to be a lot of changes, especially in Gutenberg. Where everything isn&rsquo;t certain yet. So you have to keep on adjusting on what&rsquo;s out there, what the people want. So I think it&rsquo;s just really part of the territory. And it&rsquo;s just something that you have to accept.</p>
-</div></div><div class="chat-stanza chat-row chat-speaker-1"><div class="chat-author chat-author-nathanwrigley vcard"><cite class="fn">Nathan Wrigley</cite> [00:22:07]</div> <div class="chat-text"><p>Speaking of which let&rsquo;s gaze into the crystal ball a little bit and think about what it is that you&rsquo;re planning to build in the near future. Now, obviously, anything that you say now, may have to go under the microscope of what Gutenberg actually allows you to do in the way that we&rsquo;ve just discussed. I&rsquo;m just interested to know what it is that you&rsquo;re hoping to build in the future, given what the project is hoping to provide for you.</p>
-</div></div><div class="chat-stanza chat-row chat-speaker-2"><div class="chat-author chat-author-benjaminintal vcard"><cite class="fn">Benjamin Intal</cite> [00:22:31]</div> <div class="chat-text"><p>So right now we&rsquo;re busy with the version three of Stackable. So currently we&rsquo;re at version two, but in the middle of adding new features and listening to feedback from the users, we realized that there were some things that we weren&rsquo;t able to do with how our blocks work right now. Cause right now what we did was every block, that we have, we try and make it so that you can turn any block into a whole section of your website. So while that&rsquo;s good. So that also gives us a few limitations on what we can do. So in version three, we want to make things more flexible. So for example, we want to add more dynamic content stuff and also better responsive editing. So things like, adjusting how columns would collapse in tablets and mobile. So for example, if you can specify your four column layout to be a two column layout in tablet, we want people to have that ability as well, so much more advanced editing capabilities, similar to what some page builders already have. Probably down the road, maybe towards the end of the year, we hope to be able to provide starter websites, a fully package website that you can just import and start from there and probably a design system, so you can change what all your Stackable blocks would look like. Something like that. Although that&rsquo;s just something we&rsquo;re currently thinking right now.</p>
-</div></div><div class="chat-stanza chat-row chat-speaker-1"><div class="chat-author chat-author-nathanwrigley vcard"><cite class="fn">Nathan Wrigley</cite> [00:24:00]</div> <div class="chat-text"><p>In terms of what you can do at the moment compared to one of the proprietary page builders that you could go and seek out in the WordPress space. Is there still a big disconnect with what they can do? So for example, you just mentioned a certain feature that page builders can currently do that you&rsquo;re hoping to bring. How long into the future, and obviously again, we are crystal ball gazing. Do you see that sort of feature parity there being equal amounts of features in page builders, which you can purchase and download from the repo and what Gutenberg will provide? How far in advance do you think it&rsquo;s going to be before they&rsquo;re feature equal?</p>
-</div></div><div class="chat-stanza chat-row chat-speaker-2"><div class="chat-author chat-author-benjaminintal vcard"><cite class="fn">Benjamin Intal</cite> [00:24:37]</div> <div class="chat-text"><p>Oh, I think probably around maybe two years or so, because right now, Gutenberg is still quite new. So we&rsquo;re still in the area where we can just edit the contents of single pages. We&rsquo;re not yet there in terms of editing the whole website in just Gutenberg and nowhere else. So I think we&rsquo;re maybe around two years from that</p>
-</div></div><div class="chat-stanza chat-row chat-speaker-1"><div class="chat-author chat-author-nathanwrigley vcard"><cite class="fn">Nathan Wrigley</cite> [00:25:02]</div> <div class="chat-text"><p>In a couple of years time in two years&rsquo; time say when maybe there&rsquo;ll be many more features that people require to build full sites. Do you think that there&rsquo;ll ever be a point where the people who build page builders currently need to be concerned about there being a business left for them? In other words, Do you feel that Gutenberg will replace page builders? Or is it more a case of that&rsquo;ll be one option, but there&rsquo;ll still be a completely viable business for people who sell their page builder software.</p>
-</div></div><div class="chat-stanza chat-row chat-speaker-2"><div class="chat-author chat-author-benjaminintal vcard"><cite class="fn">Benjamin Intal</cite> [00:25:33]</div> <div class="chat-text"><p>Yeah. So you&rsquo;re asking if Gutenberg will ever replace themes and page builders? For that, I don&rsquo;t think so. I think if it replaces anything Gutenberg probably just replaces the classic editor, but with the plugins that extend Gutenberg, it can be a great alternative to page builders. Yeah. But I think in the future you can just get Gutenberg and then with the power of other plugins, it can be a viable page builder. So it can just be an alternative because there&rsquo;s always going to, it&rsquo;d be some people that would want an alternative version. Another way of building things.</p>
-</div></div><div class="chat-stanza chat-row chat-speaker-1"><div class="chat-author chat-author-nathanwrigley vcard"><cite class="fn">Nathan Wrigley</cite> [00:26:11]</div> <div class="chat-text"><p>I also feel it&rsquo;s a bit of a case of a rising tide carries all boats. What I mean by that is that as WordPress&rsquo;s market share seems to keep going up, a few years ago, it was in the mid thirties and then it became late thirties. And now we&rsquo;re into the early forties percent of the top 10 million websites. You feel like the market is just getting bigger. And so even if you were wedded to a particular page builder and you&rsquo;ve been using it for many years, it feels like the market&rsquo;s just going to get bigger for them all. So there&rsquo;s nothing to be particularly concerned about. It&rsquo;s just going to be one option. You&rsquo;re going to be able to do all sorts of different things with that option, but you&rsquo;ll also be quite able to just carry on using the existing stack that you&rsquo;ve got. If you&rsquo;re happy with it. Speaking of developments in the future, there are some lovely initiatives in the WordPress space to make the creation of content, much more straightforward. And I know in your case, you can drop pre-configured blocks in and you can style them and make them look however you like. And there&rsquo;s all sorts of options in there. I just wondered what you thought about some of the new developments, things like block patterns and reusable blocks, which allow us to save time by creating content, squirreling away somewhere, and whether you&rsquo;re intending to use any of these features in the future within Stackable.</p>
-</div></div><div class="chat-stanza chat-row chat-speaker-2"><div class="chat-author chat-author-benjaminintal vcard"><cite class="fn">Benjamin Intal</cite> [00:27:30]</div> <div class="chat-text"><p>Yeah. So reusable blocks are great for repeated content that you want to be consistent across your entire website. So something like a signup form for your newsletter that you can add in the middle or at the end of your blog posts, those are really helpful. So if you wanted to change something, you won&rsquo;t have to go through every single blog post to update it. Block patterns on the other hand are great also, but I feel that they&rsquo;re a bit under utilized. So they&rsquo;re like reusable blocks, but unlike reusable blocks, if you&rsquo;re the user, you can&rsquo;t add block patterns on your own, and it&rsquo;s up to the theme developer to add them. So I found that a lot of our users use reusable blocks like block patterns. So they add their designs as reasonable blocks, but when they add it into their pages, they just convert it back to regular blocks so that they can use that as a starting point and then customize them. So it&rsquo;s like an unofficial way to save your own block designs or patterns. So I think that&rsquo;s a use case that the Gutenberg developers can take into account and maybe add that in as a future update.</p>
-</div></div><div class="chat-stanza chat-row chat-speaker-1"><div class="chat-author chat-author-nathanwrigley vcard"><cite class="fn">Nathan Wrigley</cite> [00:28:41]</div> <div class="chat-text"><p>There are so many awkward problems with the Gutenberg UI at the moment, in terms of exposing those things to us, I feel that sometimes the proprietary page builders, I feel they do a really good job of showing you what all of that looks like with their overlays and things. I&rsquo;m not sure yet that, the Gutenberg project has hit upon the perfect UI. We&rsquo;ve got the bar over to the left, we&rsquo;ve got the bar over to the right and the fact that they&rsquo;re fixed in width and you&rsquo;re not really, you&rsquo;re not really able to moderate them. It feels like there&rsquo;s a lot of work to be done there to improve the UI, to discover all these things, and particularly in the case of reusable blocks, and block patterns. Nice ways of seeing, not just as a tiny little thumbnail, but something, large and full screen. So you can get a real idea of what it is you&rsquo;re about to drop into the page. So really a conversation about, where the UX could be improved if you&rsquo;ve got any thoughts on that.</p>
-</div></div><div class="chat-stanza chat-row chat-speaker-2"><div class="chat-author chat-author-benjaminintal vcard"><cite class="fn">Benjamin Intal</cite> [00:29:35]</div> <div class="chat-text"><p>Yeah. Yeah. I think there are a lot of things that we can still improve on. Although I think it will only just take time because right now, even if it feels like there are a lot of stuff being added to Gutenberg, and there are also a lot of things that are being studied and adjusted. So I think as an example of something that can be improved, like I mentioned a while ago, I think block patterns, I think a lot of people have, can have a good use by having the ability to add block patterns or their own block patterns. Oh, actually one of the good improvements that we can do in Gutenberg, because one of the hard things to do in Gutenberg is to know where you are, in the current page. Cause it&rsquo;s if you check out the block editor, if you check out Gutenberg, it&rsquo;s basically a tree of a lot of blocks and then blocks inside of other blocks. So it can easily be hard to know what you&rsquo;re editing. Although the, I forgot what it&rsquo;s called, the navigator button on the top. The one where you, when you click it, it&rsquo;s going to show you a bullet list of the blocks. So I think that can be improved. I think that can be transformed into something that you can use to actually manipulate the blocks that where you can, for example, if you want this heading to be moved into inside another container, you can just click the navigator, and then you can move it around from there directly. So I think something like that can be a good way or a good alternative for you to be able to move around blocks and figure it out where you are. Cause it&rsquo;s actually sometimes hard to click on something, especially if you&rsquo;re inside a columns block because inside a columns block, there&rsquo;s two column blocks, and inside that you have your other blocks inside. So it&rsquo;s hard to master or it&rsquo;s a bit hard to make sure that people can click around and figure out where they actually are. Actually, I think the difficulty here is that there&rsquo;s a balance between building a what is what you get, editor, and then also making it spacious enough that you can click around and easily figure out where you are, because if you add spaces everywhere and add outlines. So I think that&rsquo;s a solution. If you add outlines everywhere, that&rsquo;s going to be easier to know what&rsquo;s going on in the screen. So for example, if you have the columns block and then maybe an outline block to signify that you&rsquo;re inside the column. So that&rsquo;s going to be easier than if you didn&rsquo;t have any spaces and they don&rsquo;t have any outlines. That&rsquo;s going to be way easier than what we have right now. Although it&rsquo;s a delicate balance because now if you have outlines and lots of spacings, it&rsquo;s not going to be a, what you see is what to get builder, no matter what you do, it&rsquo;s going to be, you&rsquo;re going to have people who don&rsquo;t want what&rsquo;s going on right now. You&rsquo;re going to have people who don&rsquo;t like this change, or you&rsquo;re going to have people that would prefer the other way around. It&rsquo;s just finding the balance on the what works.</p>
-</div></div><div class="chat-stanza chat-row chat-speaker-1"><div class="chat-author chat-author-nathanwrigley vcard"><cite class="fn">Nathan Wrigley</cite> [00:32:49]</div> <div class="chat-text"><p>One of the most fantastic features that ever I suppose, came to WordPress was the ability to add in plugins to extend what WordPress could do with extra functionality, and in the near future, we&rsquo;re going to have the block directory will be available to everybody and we&rsquo;ll be able to search for blocks that we don&rsquo;t have yet installed and install them on our website. I&rsquo;m curious about whether you think this is a good development. What I mean by that is I just wonder if there&rsquo;s a concern that we need to have about people wanting to have a block for every little thing, and then downloading a ridiculous amount of blocks, most of which they don&rsquo;t need, which will be consuming up resources on their website and so on and so forth. I&rsquo;m just wondering what your thoughts are on this block directory, whether it&rsquo;s something that you&rsquo;re going to be involved in, whether you&rsquo;re going to do anything like that become involved in installing directly one of your blocks at a time as opposed to selling it as a whole suite.</p>
-</div></div><div class="chat-stanza chat-row chat-speaker-2"><div class="chat-author chat-author-benjaminintal vcard"><cite class="fn">Benjamin Intal</cite> [00:33:50]</div> <div class="chat-text"><p>To be honest, I was initially excited about the block directory. And I think it&rsquo;s already live right. It&rsquo;s working right now, except that, although I thought it was going to work more like the plugin and team directory, where there&rsquo;s an actual directory that you can go to and browse, I think right now the current behavior is that you have to search for a block inside the inserter, the plus sign that you click on to add blocks. And if what you type doesn&rsquo;t show a result. If you don&rsquo;t have any block that matches that keyword, then that&rsquo;s the only time the block directory shows up. So I think that process can be improved. I think it&rsquo;s a bit off since you can only see the block directory, if you type in a search term that doesn&rsquo;t match anything. So you&rsquo;ll have a lot of instances when the block directory won&rsquo;t show up at all. So for example, it won&rsquo;t trigger. If you type in text like the t e x t since that&rsquo;s the keyword of the native paragraph and heading block. So I think that&rsquo;s something that can be improved on and they hope they&rsquo;ll improve on. And I think if you have a lot of blocks turned on from the block directory, like a block bloat. So I think it&rsquo;s just the same as with plugin bloat. So it&rsquo;s like the notion of having just too many plugins installed. I think it depends on the plugins that you have in your setup. And they think with blocks, it&rsquo;s going to be the same thing. So it&rsquo;s quite possible to have this block bloat by installing lots of individual plugins. Especially if you add in lots of blocks that load their own style sheets, their own Javascript files, but they think this depends on how the blocks were made. So like with plugins, it depends on how the plugins were made. If you activate a lot of plugins that just loaded a lot of their stuff, every time. So that&rsquo;s going to be a bad experience. So I think it&rsquo;s going to be just the same. It&rsquo;s going to be up to the block developers. It&rsquo;s going to be the responsibility of the block authors to make everything optimized so that everything would load up properly.</p>
-</div></div><div class="chat-stanza chat-row chat-speaker-1"><div class="chat-author chat-author-nathanwrigley vcard"><cite class="fn">Nathan Wrigley</cite> [00:35:59]</div> <div class="chat-text"><p>I can see a future in which individual little blocks become a nice commodity. So at the moment, we&rsquo;ve obviously got a very full free WordPress repository, and we&rsquo;ve also got a very healthy paid for plugin and theme marketplace. And I can imagine a future where blocks also in the same way that Stackable is, you pay for the premium version of Stackable and that&rsquo;s great, but I can see almost like on your Android or iPhone device where you are prepared to pay a smaller amounts of money for a smaller thing. It&rsquo;s not a windows app or a Mac app, it&rsquo;s just the Android app, you&rsquo;re going to pay less for it. Just wonder if there&rsquo;s a marketplace for. Individual little blocks and, you pay, I don&rsquo;t know, $2, $3, $5 for a block that does this one thing. And does it well, and whether or not you&rsquo;re interested in that marketplace, or if you&rsquo;re going to keep your Stackable suite as one big thing, instead of lots of little things,</p>
-</div></div><div class="chat-stanza chat-row chat-speaker-2"><div class="chat-author chat-author-benjaminintal vcard"><cite class="fn">Benjamin Intal</cite> [00:37:03]</div> <div class="chat-text"><p>I think maybe it might be a good idea for other blocks that provide a very large functionality in just one block. So maybe a store locator block, or maybe a contact form block, but I don&rsquo;t think that&rsquo;s an option for us because one benefit though, with doing things as a collection is that you get everything in one go, so you get all the blocks. Maybe you can turn some of them off if you don&rsquo;t need them. But if there&rsquo;s an update that adds one more block in the future, then you won&rsquo;t have to pay extra. So there&rsquo;s that. And going back to block bloat, I think it depends on how the blocks were made. So for example, in Stackable we have optimizations in place that affect all of our blocks. So if we add another block in their roster, the plugin won&rsquo;t necessarily feel any bulkier. That&rsquo;s one of the benefits of a collection. So I don&rsquo;t think we&rsquo;re going to offer individual blocks. I don&rsquo;t know right now we&rsquo;re thinking maybe not, but we don&rsquo;t know sometime, maybe in the future. But right now, I don&rsquo;t think so.</p>
-</div></div><div class="chat-stanza chat-row chat-speaker-1"><div class="chat-author chat-author-nathanwrigley vcard"><cite class="fn">Nathan Wrigley</cite> [00:38:09]</div> <div class="chat-text"><p>I&rsquo;m just curious about this sort of slight disconnect in the way that things look in the backend of Gutenberg. So if you&rsquo;re doing something Gutenberg, you&rsquo;ve made it and you&rsquo;ve given it the correct padding and so on, but the UI kind of gets in the way a little bit. And I&rsquo;m wondering if that&rsquo;s a problem for you. Do you get feedback from people saying it doesn&rsquo;t look the same over here as it does when I finally publish my website. Is that a problem that you&rsquo;ve had to overcome and explain to people, look, it&rsquo;s just parts of the UI, you&rsquo;re just going to have to cope with it. How have you overcome all of that?</p>
-</div></div><div class="chat-stanza chat-row chat-speaker-2"><div class="chat-author chat-author-benjaminintal vcard"><cite class="fn">Benjamin Intal</cite> [00:38:42]</div> <div class="chat-text"><p>Surprisingly, we don&rsquo;t have that much concerns over that. That it&rsquo;s not a direct, what you see is what you get. I think it&rsquo;s totally okay. Especially in desktop because technically it&rsquo;s really hard to make things identical while adding all of the bits and pieces that make the content editable, like the inspector or the toolbar, but it&rsquo;s easier for people to just accept that they&rsquo;re not going to be identical. And they&rsquo;re just going to be close enough. I think people have accepted that already, so it&rsquo;s okay. And after a few edits, I think it&rsquo;s easy to get the handle of it, of what your edits would look like in the front end, because basically you just ignore the sides of your website, essentially. Yeah. As I said, this is easier for desktops for mobile and tablet though, this is harder since right now, you can only do previews in Gutenberg. And all the times we see that people want to take control of how things get smooshed and how things collapse as the screen size gets smaller. So if you just keep on doing previews in Gutenberg, it&rsquo;s going to be harder since, just like before you have to keep on pressing preview to view in the front end and resize your browser. So I think it&rsquo;s more essential for a tablet and mobile. So first Stackable, we addressed this issue since when you do a previous in tablet or mobile our blocks would also change and you can set how they can look like on that specific screen size. Yeah, but I think it&rsquo;s up to the block developers one way or they&rsquo;d handle these cases as well, because Gutenberg already has some things in place. If you want to implement that in your own blocks.</p>
-</div></div><div class="chat-stanza chat-row chat-speaker-1"><div class="chat-author chat-author-nathanwrigley vcard"><cite class="fn">Nathan Wrigley</cite> [00:40:26]</div> <div class="chat-text"><p>It&rsquo;s pretty clear that you&rsquo;re very bullish about where this is going. I&rsquo;m guessing that you are, you as a company are all in on keeping this going and supporting this and making sure that Stackable is something which is going to be around for the future.</p>
-</div></div><div class="chat-stanza chat-row chat-speaker-2"><div class="chat-author chat-author-benjaminintal vcard"><cite class="fn">Benjamin Intal</cite> [00:40:42]</div> <div class="chat-text"><p>Yeah, definitely, definitely. I think it&rsquo;s going to be a very good future for Gutenberg.</p>
-</div></div><div class="chat-stanza chat-row chat-speaker-1"><div class="chat-author chat-author-nathanwrigley vcard"><cite class="fn">Nathan Wrigley</cite> [00:40:48]</div> <div class="chat-text"><p>Ben just before we go, is there anywhere where people could contact you if they wanted to find out a little bit more about what it is that you guys are doing?</p>
-</div></div><div class="chat-stanza chat-row chat-speaker-2"><div class="chat-author chat-author-benjaminintal vcard"><cite class="fn">Benjamin Intal</cite> [00:40:56]</div> <div class="chat-text"><p>Oh yeah. If you want to contact me, I am in Twitter. So that&rsquo;s at @bfintal and I&rsquo;m also in Facebook. So just search for me, Benjamin Intal, and I&rsquo;m usually actually more there in Facebook than Twitter. If they want to check out Stackable, our website is wpstackable.com and we also have a Stackable community and Facebook, so you can join that as well.</p>
-</div></div><div class="chat-stanza chat-row chat-speaker-1"><div class="chat-author chat-author-nathanwrigley vcard"><cite class="fn">Nathan Wrigley</cite> [00:41:19]</div> <div class="chat-text"><p>Okay, Ben, thank you very much for joining us today.</p>
-</div></div></div></div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 19 May 2021 14:00:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:14:"Nathan Wrigley";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:26;a:6:{s:4:"data";s:13:"
-	
-	
-	
-	
-	
-	
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:61:"WordPress.org blog: Dropping support for Internet Explorer 11";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:35:"https://wordpress.org/news/?p=10369";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:77:"https://wordpress.org/news/2021/05/dropping-support-for-internet-explorer-11/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:3643:"<p>Internet Explorer 11 (IE11) was released over 7 years ago and is currently used by less than <a href="https://gs.statcounter.com/browser-version-partially-combined-market-share#monthly-202104-202105-bar" rel="nofollow">1% of all users on the Internet</a> with usage rapidly declining. A large majority of popular websites have already stopped supporting IE11 (including <a href="https://docs.microsoft.com/en-us/lifecycle/announcements/m365-ie11-microsoft-edge-legacy" rel="nofollow">Microsoft Teams in 2020</a>), and even the Microsoft 365 apps and services will be <a href="https://docs.microsoft.com/en-us/lifecycle/announcements/m365-ie11-microsoft-edge-legacy" rel="nofollow">dropping support later this year</a>.</p>
-
-
-
-<p><strong>When WordPress 5.8 is released in July of this year, Internet Explorer 11 will no longer be supported.</strong></p>
-
-
-
-<p>If you are currently using IE11, it is strongly recommended that you switch to a more modern browser, such as Google Chrome, Mozilla Firefox, Safari, or Microsoft Edge. IE11 users have been shown a warning that IE11 is considered outdated in the WordPress dashboard for the last 17+ months.</p>
-
-
-
-<p>If you are already using one of the more modern browsers above, you will only be positively impacted by this change, as there are performance benefits to dropping IE11 support. However, if any other users of your site are still using IE11, it’s possible they will be affected.</p>
-
-
-
-<h2>What does “dropping support” mean?</h2>
-
-
-
-<p>When support for a browser is removed from WordPress, new features are no longer tested on those browsers and are not guaranteed to function optimally.</p>
-
-
-
-<p>Automated tools that generate parts of the WordPress Core source code are also updated to exclude unsupported browsers. This means that any feature relying on these generated files will likely have bugs or stop working for users of those browsers.</p>
-
-
-
-<p>The block editor will be the area of WordPress most heavily impacted by this change because almost all of the files related to the block editor are compiled using these automated tools. Other areas of the WordPress dashboard also use CSS built with these tools and their appearance will potentially be impacted when using IE11.</p>
-
-
-
-<p>All other areas of the code base that are IE11 specific will need to be identified, evaluated, and removed on a case-by-case basis as the rest are manually maintained. This process will begin in the WordPress 5.9 release, and will likely happen gradually over several major releases. Additionally, any bugs which are reported for IE11 will not be fixed.</p>
-
-
-
-<h2>How will this affect themes?</h2>
-
-
-
-<p>No changes will be made to any of the default bundled themes as a result of this plan. No code related to IE11 support (or any other browser that may have been supported when each theme was released) will be removed from default themes. However, any new features added going forward will not be tested in IE11.</p>
-
-
-
-<p>If you are not using a default theme, it’s still unlikely that your theme will be affected by this change. Themes typically have their own browser support policies, and changes in WordPress Core do not affect those. It’s possible that your theme author may have removed support for IE11 already.</p>
-
-
-
-<p>If IE11 support is important to you and you are unsure whether your theme supports IE11, it is recommended that you reach out to your theme’s developer to confirm.</p>
-
-
-
-<p>More information on this change can be found on the <a href="https://make.wordpress.org/core/2021/04/22/ie-11-support-phase-out-plan/">Making WordPress Core blog</a>.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 19 May 2021 12:00:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:19:"Jonathan Desrosiers";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:27;a:6:{s:4:"data";s:13:"
-	
-	
-	
-	
-	
-	
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:97:"WPTavern: Blocksy Theme Expands Free Starter Site Collection, Plans to Create New Suite of Blocks";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=116383";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:237:"https://wptavern.com/blocksy-theme-expands-free-starter-site-collection-plans-to-create-new-suite-of-blocks?utm_source=rss&utm_medium=rss&utm_campaign=blocksy-theme-expands-free-starter-site-collection-plans-to-create-new-suite-of-blocks";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:4546:"<p>When Sergiu Radu and Andrei Glingeanu launched their free <a href="https://wordpress.org/themes/blocksy/">Blocksy</a> theme nearly two years ago, they were surprised by how quickly their business grew during a global pandemic without any investment in marketing. Blocksy is now active on more than 20,000 WordPress sites and its commercial version, launched in October 2020, has grown to where both founders are now working full-time on the project.</p>
-
-
-
-<p>Apart from inadvertently gaining a few mentions on some blogs and YouTube channels, Radu said his team has done nothing to market the theme. Users have most often been referred by word of mouth and many have gotten linked into the community through <a href="https://www.facebook.com/groups/blocksy.community">Blocksy&rsquo;s Facebok group</a>, which has grown to more than 2,200 members. Users join the group to discuss the theme and share their knowledge with each other.</p>
-
-
-
-<p>Three months ago, Blocksy&rsquo;s founders hired two more teammates to assist with support and manage the theme&rsquo;s Facebook community. Radu said he thinks support has been the most important factor in the theme&rsquo;s growth. His team offers support to free users as well as those those who opt to pay for Blocksy Pro. The ticketing system is open for everyone using the theme. This might explain why Blocksy has maintained a perfect 5-star rating on WordPress.org with 455 reviews.</p>
-
-
-
-<p>Another factor in the theme&rsquo;s success is its free starter sites that enable users to get going right away. In the past month, the Blocksy team has released three new starter sites, bringing the total to 10 (double the number available this time last year). <a href="https://demo.creativethemes.com/blocksy/yogi/">Yogi</a>, the latest release, is based on the block editor and was designed to showcase Blocksy&rsquo;s capabilities for customizing and managing custom post types. These are registered with the help of <a href="https://metabox.io/">WP Meta Box</a>. </p>
-
-
-
-<ul><li class="blocks-gallery-item"><img /></li><li class="blocks-gallery-item"><img /></li><li class="blocks-gallery-item"><img /></li><li class="blocks-gallery-item"><img /></li></ul>
-
-
-
-<p>In April, the team released <a href="https://demo.creativethemes.com/blocksy/tasty/">Tasty</a>, a starter site that uses the <a href="https://wordpress.org/plugins/recipe-card-blocks-by-wpzoom/">Recipe Card Blocks</a> plugin by WPZOOM. If you&rsquo;re looking for a recipe theme and plugin combination that supports the block editor, these two work seamlessly together. The team also launched <a href="https://demo.creativethemes.com/blocksy/homi/">Homi</a>, a block-based WooCommerce starter site built with Stackable.</p>
-
-
-
-<p>The starter themes can be imported with one click and users get exactly what they see in the demo without having to figure out how to arrange it. An onboarding wizard guides the user through setting up a child theme and installing any necessary plugins. It imports all the posts, pages, comments, navigation menus, custom fields, terms and custom posts that are seen in the demos.</p>
-
-
-
-<div><img /></div>
-
-
-
-<p>Radu said the team plans to release 3-4 more starter sites in the near future, targeting different niches, including blogger, agency, lawyers, wedding, and music/bands.</p>
-
-
-
-<p>Blocksy&rsquo;s developers are currently working on adding some new WooCommerce features in the next update, along with a portfolio extension. They are also working on a plan to make it easier to create starter sites.</p>
-
-
-
-<p>&ldquo;It&rsquo;s very hard at the moment to create our starter sites,&rdquo; Radu said. &ldquo;Almost all Gutenberg plugins out there lack design options or other things that we may need in order to create a nice starter site. So we were feeling very limited and thought why not create our own suite of blocks that are going to meet all our needs?&rdquo;</p>
-
-
-
-<p>Blocksy currently uses <a href="https://wordpress.org/plugins/stackable-ultimate-gutenberg-blocks/">Stackable blocks</a> to create the demo sites. Radu said that although his team may eventually transition to using their own suite of blocks exclusively, they may also continue making starter sites with Stackable since their users like that particular block library so much. The team plans to begin building their own suite of Gutenberg blocks after the next update, beginning with a free version, followed by a pro version with some more advanced blocks.</p>
-
-
-
-<p><a href="https://twitter.com/sergiuradoo"></a></p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 19 May 2021 04:24:36 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Sarah Gooding";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:28;a:6:{s:4:"data";s:13:"
-	
-	
-	
-	
-	
-	
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:132:"WPTavern: ProfilePress Rebrands and Repurposes WP User Avatar, Now a Membership Plugin, Users Revolt via the WordPress Review System";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=116746";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:305:"https://wptavern.com/profilepress-rebrands-and-repurposes-wp-user-avatar-now-a-membership-plugin-users-revolt-via-the-wordpress-review-system?utm_source=rss&utm_medium=rss&utm_campaign=profilepress-rebrands-and-repurposes-wp-user-avatar-now-a-membership-plugin-users-revolt-via-the-wordpress-review-system";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:5971:"<p class="has-drop-cap">Less than two weeks after publishing about the broken user experience of the <a href="https://wptavern.com/dark-mode-plugin-repurposed-and-renamed-to-wp-markdown-editor-change-leaves-users-confused#comments">former Dark Mode plugin</a> being renamed and repurposed, another plugin development company decided to do the same. The consensus seems to be that this is a bad idea. However, the ProfilePress Team forged ahead and repurposed the <a href="https://wordpress.org/plugins/wp-user-avatar/">WP User Avatar plugin</a>.</p>
-
-
-
-<p>Instead of a simple, single-purpose custom avatar solution, it is a full-fledged user registration, profile, login, and membership management plugin.</p>
-
-
-
-<p>It is now called ProfilePress. But, let&rsquo;s call it ProfilePress Lite because there is a commercial component where you can upgrade to the actual ProfilePress premium plugin. We need to differentiate the two. Plus, the plugin itself uses that term, at least once, in the admin.</p>
-
-
-
-<p>The difference between the Dark Mode switcheroo and this one is that WP User Avatar has over 400,000 active installs, and users are voting with their feet. <a href="https://wordpress.org/support/plugin/wp-user-avatar/reviews/">And their ratings.</a> In the past 48 hours, the plugin has received a staggering 60+ one-star reviews &mdash; and counting. The WordPress.org support team has already had to close two <a href="https://wordpress.org/support/topic/why-you-change-this-plugin/">forum</a> <a href="https://wordpress.org/support/topic/outrageous-decision-to-bloat-this-simple-but-great-plugin/">topics</a>. A review titled &ldquo;<a href="https://wordpress.org/support/topic/unexpected-changes-expected-reactions/">Unexpected changes, expected reactions</a>&rdquo; sums up the situation.</p>
-
-
-
-<p>Over 400,000 users can do a lot of damage in a little bit of time.</p>
-
-
-
-<p>A fraction of a fraction of a fraction of those 400,000 users can knock a respectable 4.4 rating down to 3.6 in two days.</p>
-
-
-
-<p>When no one from the company responds to any of the 60+ reviews, it looks like you have something to hide. Those are 60+ opportunities to at least attempt to smooth things over.</p>
-
-
-
-<p>Pre-3.0, WP User Avatar was a simple plugin for managing how avatars were handled on the site and allowing custom photo uploads on a per-user basis. In the plugin&rsquo;s eight-year history, users had come to expect a solid plugin that handled one thing and handled it well.</p>
-
-
-
-<img />Settings screen for pre-3.0 WP User Avatar
-
-
-
-<p>In April 2020, the plugin changed ownership. ProfilePress had taken over from Flipper Code, the project&rsquo;s only contributor since 2014.  Bangbay Siboliban was listed as the plugin owner from 2013-2014. It is unclear if this was an acquisition or a simple transfer. Neither the former nor the current owner has responded to a request for comment at this time.</p>
-
-
-
-<p>Under new ownership and its version 2.2.5 &ndash; 2.2.9 plugin upgrades in the past year, everything seemed to be status quo. ProfilePress kept the plugin going, fixing bugs for multiple releases. Until two days ago, users were likely unaware that a tidal wave of change was roaring their way. No announcements on the ProfilePress blog. No sticky topics in the WordPress.org support forum. Just, <em>here&rsquo;s your new membership plugin that you didn&rsquo;t ask for</em>.</p>
-
-
-
-<p>Users were greeted with a new settings screen and much more, an admin that was barely recognizable.</p>
-
-
-
-<img />ProfilePress (formerly WP User Avatar) settings screen.
-
-
-
-<p><a href="https://wordpress.org/support/topic/profilepress-what/">As one user put it</a>, &ldquo;What the heck? Updated plugin and suddenly I have a full membership solution.&rdquo;</p>
-
-
-
-<p>&ldquo;You had the plugin WP User Avatar that did one specific function &mdash; added an avatar to users like when they leave comments on the blog,&rdquo; <a href="https://wordpress.org/support/topic/unethical-plugin-change/">wrote another reviewer</a>. &ldquo;Now I go to update it, and BOOM, a 100% completely different plugin takes its place. &ldquo;</p>
-
-
-
-<p>ProfilePress, the premium plugin, <a href="https://profilepress.net/introducing-profilepress-wordpress-plugin/">launched in 2015</a>. It is a known product with an existing userbase. I cannot imagine any scenario that makes sense where the company takes a separate plugin that it acquired and implants a lite version of its premium product inside.</p>
-
-
-
-<p>Except to capitalize on the 400,000+ active installs for a quick and easy profit.</p>
-
-
-
-<p>The knee-jerk reaction is usually to demand the WordPress.org Plugin Review Team implement a rule against it. Some scenarios are less egregious than others. Drawing a subjective line in the sand can be a tough ask of them.</p>
-
-
-
-<p>I am coming around to the idea of putting this decision into the hands of users. They are using the review system in the way it was meant to be used. Let them rain down all manner of hell on plugin authors who do this. Let them prop up another plugin with their numbers and hand out glowing five-star reviews for it. <em><a href="https://wordpress.org/plugins/wp-user-avatars/">WP User Avatars</a> (with an &lsquo;s&rsquo;) was a decent alternative the last I tried it.</em></p>
-
-
-
-<p>Still, I wonder how much this hurts the plugin with its active install total. The owner might simply weather the storm and capitalize on the users left standing when the dust settles. Even if they lost an unlikely quarter or half of their install count, they are still in a position to profit from premium upgrades. Then, build a new base from users who are unaware of this current debacle.</p>
-
-
-
-<p>The more companies that do it without repercussions, the more likely it becomes a trend. But, <s>WP User Avatar&rsquo;s</s>, <s>ProfilePress&rsquo;s</s>, <em>ahem</em>, ProfilePress Lite&rsquo;s users are in open rebellion. Maybe the market will simply decide.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Tue, 18 May 2021 23:00:16 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:14:"Justin Tadlock";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:29;a:6:{s:4:"data";s:13:"
-	
-	
-	
-	
-	
-	
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:71:"WPTavern: Anariel Design Launches Naledi, a Block-Based WordPress Theme";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=116777";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:185:"https://wptavern.com/anariel-design-launches-naledi-a-block-based-wordpress-theme?utm_source=rss&utm_medium=rss&utm_campaign=anariel-design-launches-naledi-a-block-based-wordpress-theme";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:4562:"<img />Naledi theme homepage.
-
-
-
-<p class="has-drop-cap">Over the weekend, Anariel Design co-founder Ana Segota <a href="https://twitter.com/Ana_Segota/status/1393622710845063169">tweeted</a> that she was nearly ready to submit the <a href="https://www.anarieldesign.com/free-full-site-editing-theme-naledi/">company&rsquo;s first block theme</a> into the WordPress directory. There are only <a href="https://wordpress.org/themes/tags/full-site-editing/">five such experimental themes</a> available for download in the repo right now, and I have been patiently awaiting more.</p>
-
-
-
-<p>The Naledi theme is in the review queue, but those who want to give it a spin can grab a copy of the <a href="https://themes.trac.wordpress.org/ticket/99469#comment:3">ZIP file from its ticket</a>.  Or, just peruse the <a href="https://www.anarieldesign.com/themedemos/naledi/">theme&rsquo;s demo</a>.</p>
-
-
-
-<p>Block, block-based, or FSE themes are built entirely out of blocks, not just the post content. This includes the header, footer, and everything else in between &mdash; literally, everything is a block. Such themes are the future of WordPress and need more user testing.</p>
-
-
-
-<p>Like most block themes at the moment, Naledi is not meant for use on a production site. The goal is to build upon the site editor and templating systems in the Gutenberg plugin. The earliest that stable iterations of these FSE sub-components could land in WordPress would be in version 5.9 later this year, but there is no guarantee of that yet.</p>
-
-
-
-<p>The WordPress.org Themes Team allows block themes in the directory. However, a team lead must grant permission using the &ldquo;special case&rdquo; system in place. There is still a <a href="https://meta.trac.wordpress.org/ticket/5504">six-month-old ticket</a> awaiting closure before anyone can upload block themes without special access.</p>
-
-
-
-<p>On the whole, Naledi is a well-rounded theme given the limitations of block templating right now. It has plenty of personality and is a good representation of how themers should be building on top of the system. There are miles to go, but the Gutenberg development team is driving fast.</p>
-
-
-
-<p>One of the most revealing items was how little CSS Naledi needed (roughly 20 kb). It is almost entirely built upon the <code>theme.json</code> style system. Most of the code is merely modifications for custom block styles and adjustments to the core blocks.</p>
-
-
-
-<p>The theme currently has nine block styles. Most of the concepts are around adding borders. Eventually, these border-related styles may be unnecessary. Border settings are coming to more and more blocks out of the box. Users will be able to directly make border changes on nearly anything, and theme designers can package their old styles as custom patterns instead.</p>
-
-
-
-<p>Of the theme&rsquo;s block styles, my favorite is the framed image. I have been on a bit of a <em>frame</em> kick as of late, so I like seeing what others are doing with the idea.</p>
-
-
-
-<img />Frame style on the Image block.
-
-
-
-<p>Naledi also bundles eight-block patterns. Most include the Columns block, but others incorporate the Media &amp; Text and Cover blocks, such as a full-width page header.</p>
-
-
-
-<p>The Testimonials pattern uses the theme&rsquo;s Overlap style for the Columns block. It shifts the left column to the right and the right column in the opposite direction, creating an overlap.</p>
-
-
-
-<img />Testimonials block pattern.
-
-
-
-<p>There is a similar pattern named Overlapping Images that uses the same technique.</p>
-
-
-
-<img />Overlapping Images block pattern.
-
-
-
-<p>What Naledi does that I have not seen with many block themes yet is add several custom page templates. It technically registers only two of them via its <code>theme.json</code> configuration. However, six exist in total, and the Gutenberg plugin automatically picks them all up on a per-page level &mdash; <em>not sure if that is a bug or a feature</em>.</p>
-
-
-
-<ul><li>About</li><li>Home</li><li>News</li><li>Sidebar</li><li>Testimonials</li><li>Tours</li></ul>
-
-
-
-<p>Because Naledi is a block theme, users can make direct changes to any of the templates, putting their own coat of paint over the default or overhauling them entirely.</p>
-
-
-
-<img />Naledi theme in the site editor.
-
-
-
-<p>As always, it is a welcome sight to see another block theme headed for the official directory. It is by no means perfect &mdash; working in an imperfect system. However, experiments like Naledi give me more hope that we are heading in the right direction.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Mon, 17 May 2021 21:42:27 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:14:"Justin Tadlock";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:30;a:6:{s:4:"data";s:13:"
-	
-	
-	
-	
-	
-	
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:52:"WPTavern: Register Now for WordSesh: May 24-28, 2021";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=116134";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:145:"https://wptavern.com/register-now-for-wordsesh-may-24-28-2021?utm_source=rss&utm_medium=rss&utm_campaign=register-now-for-wordsesh-may-24-28-2021";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:3940:"<p><a href="https://wordsesh.com/">WordSesh 2021</a>, a free virtual event targeted at WordPress professionals, is less than one week away. Sessions will be broadcast May 24-28, followed by hands-on workshops May 27 &ndash; June 4. The event is hosted by Brian Richards, creator of the WordPress video training website WPSessions. It features an impressive lineup of curated speakers whose presentations will be recorded and published to&nbsp;<a href="https://wpsessions.com/wordsesh/">WPSessions</a>&nbsp;after the live event has ended.</p>
-
-
-
-<p>WordSesh&rsquo;s creators pioneered virtual events years ago, when nearly every WordPress conference was still a live, in-person event. Last year WordSesh was broken up into three regional events, but this year it has transitioned back into one global conference that will run at all hours over several time zones. Over the years its production and quality have become more refined. Speakers are compensated for their time and have personal coaching available to them. This year&rsquo;s event will feature a combination of pre-recorded and live content, accompanied by live captioning.</p>
-
-
-
-<p>&ldquo;I designed the schedule to still support viewers from all around the world,&rdquo; Richards said. &ldquo;Day 1 (May 24/25) is scheduled for 1-4pm AEST to support the Asia/Pacific region. Day 2 (May 26) runs from 1-4pm CEST for Europe, Middle East, and Africa. Day 3 (May 27) runs from 1-5pm EDT for folks across the Americas.&rdquo;</p>
-
-
-
-<p>Richards has sought out experts in each of the topics on the <a href="https://wordsesh.com/#schedule">schedule</a>. The standard sessions will run for 20 minutes, followed by 5-10 minutes of live Q&amp;A. Presenters will be covering block development, headless WordPress, security, accessibility, client services, and other topics of interest to WordPress professionals.</p>
-
-
-
-<p>Workshops will begin May 27 and will offer hands-on practice, activities, discussion, and the creation of a finished product. This year&rsquo;s lineup includes six, 3-hour workshops, held over the span of several days:</p>
-
-
-
-<ul><li><strong>Let&rsquo;s Hack!</strong> (Stephen Rees-Carter)</li><li><strong>Speed Up Your WordPress Site with These 3 Advanced Techniques</strong><br />(Luke Cavanagh and Mendel Kurland)</li><li><strong>Build your own Block Based Theme</strong> (Daisy Olsen)</li><li><strong>Building Accessible Navigation</strong> (Natalie MacLees)</li><li><strong>My First Headless WordPress Site</strong> (Kellen Mace and Jason Bahl)</li><li><strong>Nail Your Client Onboarding Process</strong> (Jennifer Bourn)</li></ul>
-
-
-
-<p>If you have been wanting to learn how to create your own block-based themes or headless WordPress sites, or improve your processes on any of the above topics, these free workshops will be a valuable investment of your time. </p>
-
-
-
-<p>One new thing this year is that attendees will be invited to chat via Slack to bring more conversation during and after the live broadcast.</p>
-
-
-
-<p>&ldquo;Rather than participating in a single-threaded event chat, which disappears when the broadcast has ended, the Slack channels should allow for more robust conversations,&rdquo; Richards said. &ldquo;We&rsquo;re also going to run the speaker Q&amp;A through chat, rather than on screen, for the same reasons. I believe this will give attendees an opportunity to ask better questions and for speakers to provide more detailed answers&nbsp;&ndash;&nbsp;rather than both groups rushing to ask and answer as quickly as the live Q&amp;A slots allow.&rdquo;</p>
-
-
-
-<p>Richards anticipates WordSesh attendance to be 1,500-3,500 people. Attendees will receive a digital swag bag with special discounts from multiple companies in the WordPress space. <a href="https://wordsesh.com/register/">Registration is free</a> and after signing up attendees will get an email reminder with the viewing link one hour before each day of the event.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Mon, 17 May 2021 17:59:34 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Sarah Gooding";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:31;a:6:{s:4:"data";s:13:"
-	
-	
-	
-	
-	
-	
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:104:"Gutenberg Times: Template Editor, Theme.json and is a Universal theme possible? – Weekend Edition #169";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:35:"https://gutenbergtimes.com/?p=17824";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"https://gutenbergtimes.com/template-editor-theme-json-and-is-a-universal-theme-possible-weekend-edition-169/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:14325:"<p>Howdy, </p>
-
-
-
-
-
-<p>It&#8217;s not entirely Gutenberg related, but I am so happy that deputies at Global Community Team are <a href="https://make.wordpress.org/community/2021/04/26/discussing-the-path-to-in-person-wordcamps/">discussing conditions under which in-person meetings (WordCamp and Meetup) can start up again.</a> Just the fact, that in-person meetings are  talked about after 14 months &#8220;online only&#8221;, is already progress. It&#8217;ll still take months before the first in-person WordCamp organizers will be able to start planning. Your opinion counts, so don&#8217;t hesitate to <a href="https://make.wordpress.org/community/2021/04/26/discussing-the-path-to-in-person-wordcamps/">chime in the comments.</a> </p>
-
-
-
-<p>There was a lot of happening this week in the WordPress world.  You probably saw most of it on other WordPress news sites, so I dive in right into all the Gutenberg related updates.  Happy reading. </p>
-
-
-
-<p>Yours, 💕<br />Birgit</p>
-
-
-
-
-
-<h2>Gutenberg and WordPress Pre-release</h2>
-
-
-
-<p>It comes down to the wire for developers committing code before the WordPress 5.8 feature freeze coming up on May 25th, 2021. Gutenberg feature freeze is practically on May 19th when the Gutenberg 10.7 RC candidate is released. After those dates,  only bug fixes will make it into the first Beta release, scheduled for June 7, 2021. </p>
-
-
-
-<p>To keep all the dates straight I consult the full <a href="https://make.wordpress.org/core/5-8/">WordPress 5.8 Development Cycle</a> page. </p>
-
-
-
-<h3>Calls for Testing</h3>
-
-
-
-<p><strong><a href="https://profiles.wordpress.org/andraganescu/">Andre Draganescu</a></strong> posted <a href="https://make.wordpress.org/core/2021/05/12/help-test-the-widgets-editor-for-wordpress-5-8/"><strong>Help Test the Widgets Editor for WordPress 5.8</strong></a> with test instructions for three scenarios any user could test</p>
-
-
-
-<ul><li>Migrating from classic widgets</li><li>Adding blocks next to widgets</li><li>Opting out of the new widgets screen with the new plugin</li></ul>
-
-
-
-<p>He also urges Theme and Plugin developers <a href="https://github.com/WordPress/gutenberg/tree/trunk/docs/how-to-guides/widgets">to read the available documentation</a> and suggests to</p>
-
-
-
-<ul><li>Test upgrading classic widgets to blocks.</li><li>Test enabling and disabling theme support</li><li>Test 3rd party widgets compatibility.</li></ul>
-
-
-
-<hr class="wp-block-separator is-style-wide" />
-
-
-
-<p><strong><a href="https://profiles.wordpress.org/annezazu/">Anne McCarthy</a></strong>  in her post<a href="https://make.wordpress.org/test/2021/05/12/fse-program-testing-call-6-stick-the-landing-pages/"><strong> &#8220;Stick the Landing (pages)&#8221;</strong></a> ( 😁 nice pun!)* composed a real-life scenario for the various tests of the template editor and use it for landing pages. This goes to the heart of the new feature slated to be introduced to WordPress users with WordPress 5.8. </p>
-
-
-
-<p>The instructions come with a very nice demo of the template editor in a <em>silent movie</em>. Just follow the mouse pointer. </p>
-
-
-
-<div class="wp-block-embed__wrapper">
-<div class="toolbelt-video-wrapper"></div>
-</div>
-
-
-
-<p class="has-small-font-size">(* I had to look it up: Stick the landing &#8211; is an expression that comes from gymnastic or other athletic routine when the athlete <em>lands firmly and confidently on their feet. </em>Or an aviator executes a <em>flawless landing</em>. &#8211; all part of the service&#8230; )</p>
-
-
-
-<h2>Gutenberg 10.6</h2>
-
-
-
-<p>Gutenberg 10.6 was released and comes with a ton of create features! For the first time, volunteer contributor, <strong><a href="https://twitter.com/vdwijngaert">Koen Van den Wijngaert</a></strong> led this plugin release and published <a href="https://make.wordpress.org/core/2021/05/14/whats-new-in-gutenberg-10-6-12-may/"><strong>What’s new in Gutenberg 10.6?</strong></a>  It was one of the bigger releases with 216 commits.</p>
-
-
-
-<ul><li><strong>Duotone filters</strong> made it into this release now. Very cool highlight/shadow colors are already available. Theme developers can provide extend with theme specific colors. </li><li><strong>Padding</strong> is here! You might not need those spacer block anymore or at least not so often. </li><li><strong>Most used tags selector</strong> &#8211; many bloggers missed it for the last few years. It&#8217;s now also available in the block editor.</li><li><strong>Tables</strong> can now have colored borders. </li><li><strong>More blocks</strong> for Themes and modify Post list displays (Query blocks)</li><li><strong>Theme.json</strong>  is out of experimental and the <a href="https://github.com/WordPress/gutenberg/blob/trunk/docs/how-to-guides/themes/theme-json.md">documentation was updated</a> just a couple of days ago. </li><li><strong>Template Editor</strong> screen to create custom templates for landing pages. </li><li><strong>Block Editor Settings </strong>are now available via an endpoint of the REST API. This opens quite a few additional opportunities for plugins and themes to adjust features and controls. </li></ul>
-
-
-
-<p>I have had a fascination with the Query block ever since it started as a Latest Post block. In this version, the team added Block Patterns to the place holder, so you don&#8217;t have to start from scratch assembling. </p>
-
-
-
-<p><strong>Justin Tadlock</strong> tested a few new features and shares his findings in <strong><a href="https://wptavern.com/gutenberg-10-6-adds-duotone-filters-query-pattern-carousel-and-most-used-tags-selector#comments">Gutenberg 10.6 Adds Duotone Filters, Query Pattern Carousel, and Most-Used Tags Selector</a>.</strong></p>
-
-
-
-<hr class="wp-block-separator is-style-wide" />
-
-
-
-
-<p><strong><a href="https://gutenbergtimes.com/need-a-zip-from-master/">Need a plugin .zip from Gutenberg&#8217;s main (trunk) branch?</a></strong><br />Gutenberg Times provides daily build for testing and review. <br />Have you been using it? Hit reply and let me know.</p>
-
-
-
-<p><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/bph/gutenberg/total?style=for-the-badge" /></p>
-
-
-
-
-<p>The <strong>Gutenberg Changelog episode #44</strong> will be published later this weekend. <strong>Grzegorz (&#8220;Greg&#8221;) Ziolkowski</strong> and I had a great time diving into the details of this release, answered some General Gutenberg questions and also talked about what&#8217;s in the works even beyond 5.8. </p>
-
-
-
-<p><strong>Subscribe to the Gutenberg Changelog via your favorite podcast apps! </strong><br />🎙️ <a href="https://open.spotify.com/show/620NwVKQJGdTupy36zYxvg?mc_cid=4b6c9f88fe">Spotify</a> | <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9ndXRlbmJlcmd0aW1lcy5jb20vZmVlZC9wb2RjYXN0">Google</a> | <a href="https://podcasts.apple.com/us/podcast/gutenberg-changelog/id1469294475">iTunes</a> | <a href="https://pca.st/podcast/f8445ec0-7508-0137-f267-1d245fc5f9cf">PocketCasts</a> | <a href="https://www.stitcher.com/show/gutenberg-changelog">Stitcher</a> | <br />🎙️ <a href="https://www.podbean.com/podcast-detail/chi7j-9904a/Gutenberg-Changelog-Podcast">Pod Bean</a> | <a href="https://castbox.fm/channel/Gutenberg-Changelog-id2173375">CastBox</a> | <a href="https://www.podchaser.com/podcasts/gutenberg-changelog-878239/">Podchaser</a> | <a href="https://gutenbergtimes.com/feed/podcast">RSS Feed</a> </p>
-
-
-
-<h2>Full Site Editing and Themes</h2>
-
-
-
-<p><a href="https://twitter.com/kjellr"><strong>Kjell Reigstad</strong> </a>is back with the <a href="https://make.wordpress.org/themes/2021/05/14/gutenberg-themes-week-of-may-10-2021/"><strong>Gutenberg + Themes: Round up post</strong></a> from the Themes team.  Learn quickly what was released and fixed, what is pending as PR or still in discussion that could use your input. The list of overview issues is a great way to catch up on the latest development.</p>
-
-
-
-<hr class="wp-block-separator is-style-wide" />
-
-
-
-<p><strong><a href="https://twitter.com/jffng">Jeff Ong</a></strong> invited contributors and other theme developers to a <strong><a href="https://make.wordpress.org/themes/2021/05/10/friday-may-14th-at-14utc/">Upcoming “Universal Themes” Hallway Hangout</a></strong>, a theme that works as a classic theme as well as a block-based theme. The post has links to recording, the sticky boards as well as the Zoom chat transcripts. I have yet to watch the gathering of Theme wizards and their thoughts on how they might want to deal with the upcoming changes. The recording is <a href="https://www.youtube.com/watch?v=ymZZv3GjGPE">available on YouTube </a></p>
-
-
-
-<a href="https://www.youtube.com/watch?v=ymZZv3GjGPE"><img /></a><a href="https://www.youtube.com/watch?v=ymZZv3GjGPE">Hallway Hangout &#8211; Universal Theme</a>
-
-
-
-<p>The Second Call for Questions on Full Site Editing and their answers has ended, and <strong>Anne McCarthy</strong> published <a href="https://make.wordpress.org/test/2021/05/13/fse-program-answers-from-round-two-of-questions/"><strong>Answers from Round Two of Questions</strong></a>. Almost all answers have also reference to the GitHub discussion around a specific topic. The answer covering the differences and different use cases for the three entities that might cause confusion (#5): Reusable Block, Block Pattern and now Template.  Anne answer it comprehensible, has a real life example and a great set of links to dive deeper into the topic. </p>
-
-
-
-<h2 id="wpevents">Upcoming WordPress Events</h2>
-
-
-
-<p><strong>May 19th, 2021</strong><br /><strong><a href="https://www.meetup.com/Portsmouth-WordPress-Meetup/events/277849223/">Portsmouth WordPress Meetup</a></strong><br /><strong>Full-site Editing </strong>with <strong>Herb Miller</strong> core contributor and his block-based theme </p>
-
-
-
-<hr class="wp-block-separator is-style-wide" />
-
-
-
-<p><strong>&nbsp;May 22-23, 2021</strong><br /><strong><a href="https://neo.wordcamp.org/2021/">WordCamp Northeast Ohio Region</a></strong><br />Two sessions and a Lighting talk about Gutenberg are on the <a href="https://neo.wordcamp.org/2021/schedule/">schedule </a></p>
-
-
-
-<ul class="has-small-font-size"><li><strong>Anatomy of a Block Theme for Full Site Editing </strong>w/ Daisy Olson </li><li><strong>Web Components in WP, Gutenberg and as HTML plugins</strong> w/ Craig West </li><li><strong>Lightning Talk: The power of reusable blocks w/ Daisy Olson</strong> </li></ul>
-
-
-
-<hr class="wp-block-separator is-style-wide" />
-
-
-
-<p><strong>May 24-28, 2021</strong><br /><strong><a href="https://wordsesh.com/?uid=6471">WordSesh 2021</a></strong><br />The <a href="https://wordsesh.com/#schedule">session schedule</a> is now available, too. Here is the list of Gutenberg talks: </p>
-
-
-
-<ul class="has-small-font-size"><li><strong>Blazing Fast Block Development</strong> w/ Lee Shadle </li><li><strong>Building Custom Block</strong>s w/ Rob Stinson</li><li><strong>Block-Based Themes</strong> – <strong>The Future Of Full Site Editing In WordPress</strong> w/ Imran Sayed</li><li><strong>How the Block Editor Makes It Easier to Build Custom Websites</strong> w/ Danielle Zarcaro </li><li><strong>Build your own Block-Based Theme</strong> w/ Daisy Olsen (Workshop)</li></ul>
-
-
-
-<hr class="wp-block-separator is-style-wide" />
-
-
-
-<p><strong>June 7 &#8211; 9th, 2021</strong><br /><strong><a href="https://europe.wordcamp.org/2021/">WordCamp Europe</a></strong><br />A virtual event and contributor day. <a href="https://europe.wordcamp.org/2021/call-for-sponsors/">Call for sponsors is open.</a></p>
-
-
-
-<p><strong>🎉</strong>  Gutenberg Times is a media partner of WordCamp Europe 2021 </p>
-
-
-
-<p><strong>June 20 &#8211; 26</strong><br /><strong><a href="https://japan.wordcamp.org/2021/">WordCamp Japan</a></strong><br /><em>The schedule has been posted. Most sessions will be in Japanese, with exceptions, I think&#8230; </em></p>
-
-
-
-<p><strong>July 17 + 18th, 2021</strong><br /><strong><a href="https://santaclarita.wordcamp.org/2021/">WordCamp Santa Clarita</a></strong><br />Calls for speakers (May 30th), sponsors, volunteers and organizers are open. </p>
-
-
-
-<p><strong>June 24 &#8211; 26, 2021</strong><br /><strong><a href="https://cochabamba.wordcamp.org/2021/">WordCamp Cochabama</a></strong> (Colombia) </p>
-
-
-
-<p><strong>July 23, 2021</strong><br /><a href="https://www.wordfest.live/"><strong>WordFest Live </strong></a>&#8211; <em>The&nbsp;</em>festival of WordPress<br />Call for Speakers is now open and submissions are due on May 24th, 2021</p>
-
-
-
-<p><strong>September 21 + 22, 2021</strong><br /><a href="https://2021.wpcampus.org/"><strong>WPCampus 2021 Online</strong></a><br />&#8220;A free online conference for web accessibility and WordPress in higher education.&#8221; <a href="https://2021.wpcampus.org/proposals">Call for Proposal is up</a> and proposal are due May 26, 2021</p>
-
-
-
-<hr class="wp-block-separator is-style-wide" />
-
-
-
-<p>On the<a href="https://wpcalendar.io/online/"> <strong>Calendar for WordPress Online Events</strong> </a>you can browse a list of the upcoming WordPress Meetups, around the world, including WooCommerce, Elementor, Divi Builder and Beaver Builder meetups. </p>
-
-
-
-
-<hr class="wp-block-separator is-style-wide" />
-
-
-
-<p class="has-text-align-left"><strong>Don&#8217;t want to miss the next Weekend Edition? </strong></p>
-
-
-
-<form class="wp-block-newsletterglue-form ngl-form ngl-portrait" action="https://gutenbergtimes.com/feed/" method="post"><div class="ngl-form-container"><div class="ngl-form-field"><label class="ngl-form-label" for="ngl_email"><br />Type in your Email address to subscribe.</label><div class="ngl-form-input"><input type="email" class="ngl-form-input-text" name="ngl_email" id="ngl_email" /></div></div><button class="ngl-form-button">Subscribe</button><p class="ngl-form-text">We hate spam, too and won&#8217;t give your email address to anyone except Mailchimp to send out our Weekend Edition</p></div><div class="ngl-message-overlay"><div class="ngl-message-svg-wrap"></div><div class="ngl-message-overlay-text">Thanks for subscribing.</div></div><input type="hidden" name="ngl_list_id" id="ngl_list_id" value="26f81bd8ae" /><input type="hidden" name="ngl_double_optin" id="ngl_double_optin" value="yes" /></form>
-
-
-
-<hr class="wp-block-separator is-style-wide" />";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Sat, 15 May 2021 18:21:41 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:18:"Birgit Pauli-Haack";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:32;a:6:{s:4:"data";s:13:"
-	
-	
-	
-	
-	
-	
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:89:"WPTavern: FSE Outreach Round #6: Building a WordCamp Landing Page via the Template Editor";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=116612";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:219:"https://wptavern.com/fse-outreach-round-6-building-a-wordcamp-landing-page-via-the-template-editor?utm_source=rss&utm_medium=rss&utm_campaign=fse-outreach-round-6-building-a-wordcamp-landing-page-via-the-template-editor";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:5227:"<p class="has-drop-cap">As has almost become ritual at this point, I am always looking forward to the next testing round for Full Site Editing (FSE). Spearheaded by core contributor Anne McCarthy, the FSE Outreach Program&rsquo;s fortnightly user tests are usually fun and offer everyone a chance to get involved, regardless of their experience level.</p>
-
-
-
-<p>This <a href="https://make.wordpress.org/test/2021/05/12/fse-program-testing-call-6-stick-the-landing-pages/">latest testing round</a> is all about whether users can create a custom template on a per-post basis directly from the editor. The answer? <em>Why, yes, they absolutely can.</em></p>
-
-
-
-<p>Round #6 asks for volunteers to use the new template-editing mode, which is expected to land in WordPress 5.8, to build a WordCamp landing page. The goal is to offer a discount code and attract attendees from another event to join.</p>
-
-
-
-<p>Anyone interested in discovering issues and providing feedback should give this testing round a shot. There is a 36-step guide that will walk you through building a custom landing page. It should take no more than 15 minutes, maybe more if you are putting a unique spin on the design &mdash; <em>that is half the fun for me</em>.</p>
-
-
-
-<p>Feedback is open through May 26. Just follow the instructions and leave a comment on the post.</p>
-
-
-
-<p>The closest thing to a local WordCamp I have is <a href="https://birmingham.wordcamp.org/">Birmingham, AL</a>, known for its &ldquo;WP Y&rsquo;all&rdquo; name. I am hopeful that the WC Birmingham team would not mind me borrowing their logo for this experiment. The following is the WordCamp landing page I built with the TT1 Blocks theme:</p>
-
-
-
-<img />
-
-
-
-<p>Other than the known <a href="https://github.com/WordPress/gutenberg/issues/31562">Nav Menu block issue</a> noted in the post, I ran into no technical problems with any of the 36 steps. Everything worked as expected. However, that does not mean that everything was perfect.</p>
-
-
-
-<h2>Problems, Mostly Trivial</h2>
-
-
-
-<p class="has-drop-cap">Before diving into the actual user-experience issues with building templates, I noticed a problem with the custom template system. After finishing the testing round, I wanted to see what my template looked like with other themes. However, I could not do this. Upon activating another theme, my custom template seemed to disappear.</p>
-
-
-
-<p>The problem is that custom templates are tied to the theme. I see the logic in this. Certain aspects could be specific to the active theme (colors, fonts, etc.), and it is always how custom templates have worked. However, the block template system is different. From a user viewpoint, I feel like my custom-created templates belong to me rather than the theme.</p>
-
-
-
-<p>I can see a user switching themes after a couple of years and building a dozen or so templates having a poor experience in this situation. If the feature remains the same, there should be more clarity.</p>
-
-
-
-<p>One of the more frustrating aspects of the template editor is the lack of space at the bottom of the frame. I am accustomed to the post editor&rsquo;s extra whitespace, focusing the active workspace toward the top of the screen.</p>
-
-
-
-<img />Limited space at the bottom of template editor.
-
-
-
-<p>I just want to put the current piece of the layout I am working on higher up the page. I am not sure how this would look when dealing with a template editor because it needs to clearly mark the end of the document.</p>
-
-
-
-<p>The other issues were primarily around the TT1 Blocks theme or missing features with the current Gutenberg plugin.</p>
-
-
-
-<p>When adding a horizontal Buttons block, there is no space between individual buttons. Vertical alignment is better, but it could use a slight bump (on the front end, not in the editor).</p>
-
-
-
-<img />Buttons a little too close.
-
-
-
-<p><em>And, I feel like I cannot be the first to say this: I am ready for Button block padding controls so that I can adjust TT1 Blocks&rsquo; abnormally large button output.</em></p>
-
-
-
-<p>When inserting a full-width Columns block, the text on the left butted against the side of the page. Because neither the Columns nor the inner Column blocks currently have padding controls, the only way for users to &ldquo;fix&rdquo; this is to add a background color. Gutenberg automatically adds padding in that case.</p>
-
-
-
-<img />No horizontal spacing.
-
-
-
-<p>The last trivial fix I had to make was adding a Spacer block above the custom footer section. This was not included in the testing instructions. Without it, the footer had no spacing between it and the content above it.</p>
-
-
-
-<p>I did question one aspect of the testing instructions. Templates are generally a sort of wrapper or design layout. Content is a separate thing that typically lives independently. In this test, the content is housed within the template. There are scenarios where the test case makes sense. However, I would have preferred a flow where the content portion of the template was a part of the post and output via the Post Content block.</p>
-
-
-
-<p>That sort of moving back and forth between post and template editors may have opened up some more usability hangups that would be worth exploring.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Fri, 14 May 2021 23:56:28 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:14:"Justin Tadlock";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:33;a:6:{s:4:"data";s:13:"
-	
-	
-	
-	
-	
-	
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:107:"WPTavern: WordPress Community Team Discusses Adding Vaccination Status to In-Person Meetup Safety Checklist";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=116521";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:259:"https://wptavern.com/wordpress-community-team-discusses-adding-vaccination-status-to-in-person-meetup-safety-checklist?utm_source=rss&utm_medium=rss&utm_campaign=wordpress-community-team-discusses-adding-vaccination-status-to-in-person-meetup-safety-checklist";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:4613:"<p>The WordPress community is eager to return to in-person events and organizers are discussing a path to ensure the safety of resuming meetups as a first step before considering WordCamps. Previous discussions led to the creation of a <a href="https://make.wordpress.org/community/handbook/meetup-organizer/2021-returning-to-in-person-meetups/in-person-meetup-decision-checklist/">checklist</a> to assist local organizers in determining if their chapter is eligible to proceed. Noticeably absent from the checklist at the time was the requirement for widely distributed vaccines before resuming local events. </p>
-
-
-
-<p>This week, Andrea Middleton proposed <a href="https://make.wordpress.org/community/2021/05/12/proposal-adding-vaccination-status-to-the-in-person-meetup-safety-checklist/">adding vaccination status to the in-person meetup safety checklist</a>.</p>
-
-
-
-<p>&ldquo;When we created that checklist, COVID-19 vaccine rollout was still in very early stages, and the checklist did not account for vaccines,&rdquo; Middleton said. &ldquo;Vaccination efforts are&nbsp;still&nbsp;being rolled out across the world and many people do not have access to vaccines yet, but progress has reached a point where it seems wise to start incorporating it into the checklist, where possible.&rdquo;</p>
-
-
-
-<p>The proposal would allow places that don&rsquo;t currently pass the checklist to hold WordPress meetups for vaccinated attendees if vaccines are freely available in the area and local authorities are permitting gatherings.</p>
-
-
-
-<p>Local organizers would also be encouraged to continue holding online events or finding ways to livestream in-person meetups so that those who are not yet comfortable attending will still have access.</p>
-
-
-
-<p>&ldquo;It isn&rsquo;t practical (and, in some places, legal) to ask organizers to check the vaccination status of individuals,&rdquo; Middleton said. &ldquo;Therefore,&nbsp;I suggest we ask groups to use the honor system, trusting that people will only attend these events if they have been vaccinated.&rdquo;</p>
-
-
-
-<p>If meetup organizers move forward with the honor system, attendees will have to embrace some risk should people who are not fully vaccinated wish to break the meetup guidelines.</p>
-
-
-
-<p>WordPress community leadership has the challenging task of navigating this new territory with changing conditions all over the globe. The changing laws and recommendations in different areas make it nearly impossible to create a policy that will work across the board. This week, the US passed a major milestone when the Centers for Disease Control and Prevention&nbsp;(CDC) updated its <a href="https://www.cdc.gov/coronavirus/2019-ncov/vaccines/fully-vaccinated-guidance.html">interim public health recommendations for fully vaccinated people</a>, allowing them to discontinue mask wearing and physical distancing in most cases. However, governors in some states said that indoor mask mandates would remain in place while state health officials review the new recommendations. </p>
-
-
-
-<p>In the comments of the proposal, Mika Epstein asked if there will be repercussion if someone violates the honor code &ndash; otherwise &ldquo;what&rsquo;s the point in having a that proposal in the first place?&rdquo; A policy that isn&rsquo;t enforceable becomes more of an encouragement than a requirement.</p>
-
-
-
-<p>WordPress meetup organizers, just like retailers, restaurants, and other businesses, will have no way of knowing who is vaccinated and who is not. The CDC reports that only 36.2% of the US population is fully vaccinated. The share of people who have had at least one does of the COVID-19 vaccine varies greatly from one country to the next. </p>
-
-
-
-<div class="wp-block-image"><img />Source: <a href="https://ourworldindata.org/covid-vaccinations">Our World in Data</a></div>
-
-
-
-<p>While some countries are logging very low numbers for daily cases, despite having only small percentages of the population vaccinated, they pay the price with intermittent lockdowns, travel bans, and strict quarantine measures. In-person WordPress meetups may not be possible in these locations <a href="https://finance.yahoo.com/news/covid-zero-havens-reopening-harder-210000541.html">where vaccines are not widely available</a>, despite the local chapter being able to meet most of the requirements on the checklist.</p>
-
-
-
-<p>The <a href="https://make.wordpress.org/community/2021/05/12/proposal-adding-vaccination-status-to-the-in-person-meetup-safety-checklist/">discussion</a> is open until May 27, when Middleton plans to close comments on the proposal.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Fri, 14 May 2021 21:10:35 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Sarah Gooding";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:34;a:6:{s:4:"data";s:13:"
-	
-	
-	
-	
-	
-	
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:98:"WPTavern: Gutenberg 10.6 Adds Duotone Filters, Query Pattern Carousel, and Most-Used Tags Selector";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=116523";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:237:"https://wptavern.com/gutenberg-10-6-adds-duotone-filters-query-pattern-carousel-and-most-used-tags-selector?utm_source=rss&utm_medium=rss&utm_campaign=gutenberg-10-6-adds-duotone-filters-query-pattern-carousel-and-most-used-tags-selector";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:6283:"<p class="has-drop-cap">The Gutenberg development team has taken massive strides in the latest release. Version 10.6 of the plugin introduces several user-facing features and changes that upgrade the block-editing experience. The new duotone filter for images is just downright fun to play with. The UIs for the Query pattern selector and template-editing mode have been overhauled. Plus, the most-used tags feature from the pre-block era is making a return.</p>
-
-
-
-<p>There is a ton of ground to cover for this release and never enough time. The development team is racing toward a <a href="https://wptavern.com/full-site-editing-is-partly-a-go-for-wordpress-5-8">WordPress 5.8 deadline</a> that includes stabilizing theme-related blocks, <code>theme.json</code> integration, per-post templates, block-based widgets, and new block design controls.</p>
-
-
-
-<p>Much of the work on those features is still underway. However, some of them are starting to take shape, and it could make the upcoming WordPress 5.8 release in July an exciting one as they are integrated.</p>
-
-
-
-<h2>Duotone Image Filters</h2>
-
-
-
-<ul><li class="blocks-gallery-item"><img />No Duotone Filter</li><li class="blocks-gallery-item"><img />Dark Grayscale</li><li class="blocks-gallery-item"><img />Green and Red</li><li class="blocks-gallery-item"><img />Blue and Orange</li></ul>
-
-
-
-<p class="has-drop-cap">The new <a href="https://github.com/WordPress/gutenberg/pull/26752">duotone filter tool</a> is one of my favorite features to land in Gutenberg. If I am being honest, I have probably put in about two hours of tinkering with it in the past day. Some of that was building out custom duotone color palettes for a theme I have been building, but most of it was just playing around for fun.</p>
-
-
-
-<p>The feature works for both the Image and Cover blocks. However, it does not work for Covers with the &ldquo;Fixed Background&rdquo; setting enabled. There is currently an open <a href="https://github.com/WordPress/gutenberg/issues/31662">ticket to disable duotone</a> in this scenario.</p>
-
-
-
-<p>What makes duotone such an exciting feature is that drops a powerful color filtering tool into the hands of users. It allows them to change the mood of a story with a couple of clicks.</p>
-
-
-
-<h2>Query Block Improvements</h2>
-
-
-
-<img />Query pattern carousel.
-
-
-
-<p class="has-drop-cap">The new <a href="https://github.com/WordPress/gutenberg/pull/29602">carousel that launches</a> when first inserting a Query block is a much-needed improvement. It allows end-users to scroll through the various patterns. This view gives a more complete picture of what the output will actually look like before inserting it.</p>
-
-
-
-<p>For users who prefer the grid-style view, there is a button to switch over to it. It has improved over the previous grid, providing a larger preview of each pattern.</p>
-
-
-
-<p>On the theme side of things, developers can now choose between <code>&lt;div&gt;</code>, <code>&lt;main&gt;</code>, <code>&lt;section&gt;</code>, and <code>&lt;aside&gt;</code> elements for the <a href="https://github.com/WordPress/gutenberg/pull/31421">Query block wrapper</a>. This lets theme authors choose a more semantically correct tag when needed. Users have access to this via the &ldquo;Advanced&rdquo; tab.</p>
-
-
-
-<h2>Return of the Most-Used Tags Selector</h2>
-
-
-
-<img />Most-used tags selector.
-
-
-
-<p class="has-drop-cap">After three years, the Gutenberg project has finally addressed its missing <a href="https://github.com/WordPress/gutenberg/pull/30598">most-used tags feature</a>. For new WordPress users since the 5.0 launch or those of you who may have forgotten, the Tags list in WordPress 4.9 and earlier allowed end-users to select from a list of the site&rsquo;s most used tags when editing a post.</p>
-
-
-
-<p>The feature was dismissed for having no &ldquo;evidence right now of the user case&rdquo; before the Gutenberg 1.0 launch, and the <a href="https://github.com/WordPress/gutenberg/issues/1341">ticket asking for it</a> was closed. In 2018, a year later, a <a href="https://github.com/WordPress/gutenberg/issues/8867">new ticket popped up</a>. Without boring everyone with the technical details and almost three years of discussion, the community can now rejoice in its return.</p>
-
-
-
-<p>The Tags sidebar panel tab now lists the 10 most-used tags for the site. It should be a lot quicker to select them than typing each out. This is one of the few classic-editing features that I have longed for. I am happy to see it make a comeback, even after all this time.</p>
-
-
-
-<h2>Darker Background for the Template Editor</h2>
-
-
-
-<img />Template-editing mode.
-
-
-
-<p class="has-drop-cap">Template-editing mode now <a href="https://github.com/WordPress/gutenberg/pull/31044">has a darker background</a>, which makes the user experience far better. The feature is slated for a WordPress 5.8 release, which will allow users to create custom templates on the fly from the post-editing screen.</p>
-
-
-
-<p>Since I last did a <a href="https://wptavern.com/help-steer-the-future-of-wordpress-via-the-fse-outreach-program">deep dive into this mode</a>, it has jumped leaps and bounds. The darker background behind the framed template editor indicates that the user has left the post editor and entered into a new experience. In the past, it was tough to tell which mode one was in.</p>
-
-
-
-<h2>Border Settings for Tables</h2>
-
-
-
-<img />
-
-
-
-<p class="has-drop-cap">It is easy for me to forget which blocks support specific features. I have a mini plugin that I use to enable pretty much everything &mdash; <em>I get tired of waiting for things to land sometimes.</em></p>
-
-
-
-<p>For everyone else, you can now enjoy <a href="https://github.com/WordPress/gutenberg/pull/31265">border settings</a> for the Table block. Borders controls are not widespread just yet. However, for those who have yet to use them, they are relatively basic. The feature adds a new block options tab for selecting a border style (none, solid, dashed, and dotted), width, and color.</p>
-
-
-
-<p>Currently, there is no way to control individual sides. Border settings are applied to the top, right, bottom, and left sides equally. I am not one to complain too much, at least not all of the time, so this is a welcome addition to tables.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Fri, 14 May 2021 00:33:22 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:14:"Justin Tadlock";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:35;a:6:{s:4:"data";s:13:"
-	
-	
-	
-	
-	
-	
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:111:"WPTavern: Accessibility Advocates Sign Open Letter Urging People Not To Use AccesiBe and Other Overlay Products";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=116454";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:267:"https://wptavern.com/accessibility-advocates-sign-open-letter-urging-people-not-to-use-accesibe-and-other-overlay-products?utm_source=rss&utm_medium=rss&utm_campaign=accessibility-advocates-sign-open-letter-urging-people-not-to-use-accesibe-and-other-overlay-products";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:5569:"<p>AccessiBe and other similar tools are coming under fire after more than 400 accessibility advocates and developers signed an <a href="https://overlayfactsheet.com/">open letter</a> calling on the industry to unite against the use of accessibility overlay products. These overlay &ldquo;widgets&rdquo; are technologies that apply third-party code to the front end in an attempt to automate repairs after sites launch without having accessibility baked in from the design phase.</p>
-
-
-
-<p>A major part of the complaint is that these products are often marketed as quick-fix solutions that will make a website ADA compliant and immune from legal action. For example, the <a href="https://accessibe.com/">accessiBe</a> website advertises the product as: &ldquo;<em>The #1 Automated Web Accessibility Solution for ADA &amp; WCAG Compliance&hellip;A single line of code for 24/7 automated compliance.</em>&rdquo; Similarly, <a href="https://www.equalweb.com/">EqualWeb</a> advertises making sites accessible by inserting &ldquo;<em>one line of code</em>&rdquo; to gain &ldquo;compliance with WCAG 2.1, ADA, Section 508, AODA, EN 301549 and IS 5568.&rdquo;</p>
-
-
-
-<p>Sponsors and signatories have published a four-part statement condemning the use of these products as anything more than a temporary solution:</p>
-
-
-
-<ol><li><em>We will never advocate, recommend, or integrate an overlay which deceptively markets itself as providing automated compliance with laws or standards.</em></li><li><em>We will always advocate for the remediation of accessibility issues at the source of the original error.</em></li><li><em>We will refuse to stay silent when overlay vendors use deception to market their products.</em></li><li><em>More specifically, we hereby advocate for the removal of accessiBe, AudioEye, UserWay, User1st, MK-Sense, MaxAccess, FACIL&rsquo;iti, and all similar products and encourage the site owners who&rsquo;ve implemented these products to use more robust, independent, and permanent strategies to making their sites more accessible.</em></li></ol>
-
-
-
-<p>Accessibility practitioners are urging developers and site owners to abandon any overlay solutions they put in place, in favor of those that address inaccessibility at the root of the problem.</p>
-
-
-
-<p>The document lists numerous first-hand accounts of people with disabilities struggling to use websites that have implemented overlays. Although the letter includes various products like Userway, EqualWeb, AudioEye, User1st, MaxAccess, FACIL&rsquo;iti, and Purple Lens, nearly every struggling person cited accessiBe as the problem. </p>
-
-
-
-<div class="wp-block-embed__wrapper">
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I finally managed to gain access to my <a href="https://twitter.com/Namecheap?ref_src=twsrc%5Etfw">@NameCheap</a> account by blocking <a href="https://twitter.com/hashtag/AccessiBe?src=hash&ref_src=twsrc%5Etfw">#AccessiBe</a> in my Windows Hosts file. I should not need to do this to use the Internet. AccessiBe needs to AccessiBeGone</p>&mdash; Richie (@WilfSplodNokit) <a href="https://twitter.com/WilfSplodNokit/status/1365478393895153664?ref_src=twsrc%5Etfw">February 27, 2021</a></blockquote>
-</div>
-
-
-
-<div class="wp-block-embed__wrapper">
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">When <a href="https://twitter.com/hashtag/AccessiBe?src=hash&ref_src=twsrc%5Etfw">#AccessiBe</a> is enabled, the page is flooded with headings. Lots of heading level 2's. The title of each phone remains a heading in both versions of the page, but with it enabled, things like cost, display, and all the other components of the tables become headings as well.</p>&mdash; Holly Scott-Gardner (@CatchTheseWords) <a href="https://twitter.com/CatchTheseWords/status/1364915942157922308?ref_src=twsrc%5Etfw">February 25, 2021</a></blockquote>
-</div>
-
-
-
-<p>AccessiBe is one of the more widely known overlay products after the company <a href="https://techcrunch.com/2021/02/10/accessibility-overlay-startup-accessibe-closes-28m-series-a/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAI3aBA2flv0pwtdC8ROV6h2CMYU8Ntc9yjCSDKezmZ76_uBbU9Ed2zh4MiTZGzWZAygiGx-nb92T7hxm9zFaq7fjld66gAl44u0a42xVqTc8dvULqSnkjNMdYXUIKY68LqGfZPpwBTkWhuq0dRCiOqlPnBKLqPEZjpzW1uCBxPHm">raised $28 million</a> earlier this year. It is also the subject of a cogent exposition on the <a href="https://adrianroselli.com/2020/06/accessibe-will-get-you-sued.html">dangers of using overlay products and expecting not to get sued</a>, an article cited in the document. More recently, accessiBe gained notoriety in the WordPress world after <a href="https://wptavern.com/wordpress-org-removes-fake-reviews-for-acessibe-plugin">WordPress.org removed a collection of fake reviews</a> from the plugin&rsquo;s page. The plugin is currently installed on approximately 4,000 websites. Competitors UserWay and EqualWeb have 40,000 and 1,000 active installs of their WordPress plugins but don&rsquo;t seem to be as well known when compared to accessiBe&rsquo;s aggressive marketing.</p>
-
-
-
-<p>The creators of the document began adding signatures in March 2021. Several prominent WordPress accessibility contributors and experts are signatories on the document, including Joe Dolson, Rian Rietveld, Amanda Rush, Luc Poupard, and Gary Jones. Check out the full <a href="https://overlayfactsheet.com/">document</a> for a more in-depth history of web accessibility overlays and why experts believe they are negatively impacting user experience on websites that implement them.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 13 May 2021 20:51:10 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Sarah Gooding";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:36;a:6:{s:4:"data";s:13:"
-	
-	
-	
-	
-	
-	
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:52:"WordPress.org blog: WordPress 5.7.2 Security Release";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:35:"https://wordpress.org/news/?p=10334";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:68:"https://wordpress.org/news/2021/05/wordpress-5-7-2-security-release/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:2089:"<p>WordPress 5.7.2 is now available.</p>
-
-
-
-<p>This security release features one security fix. Because this is a security release, it is recommended that you update your sites immediately. All versions since WordPress 3.7 have also been updated.</p>
-
-
-
-<p>WordPress 5.7.2 is a short-cycle security release. The next major release will be version 5.8.</p>
-
-
-
-<p>You can update to WordPress 5.7.2 by downloading from WordPress.org, or visit your Dashboard → Updates and click Update Now.</p>
-
-
-
-<p>If you have sites that support automatic background updates, they’ve already started the update process.</p>
-
-
-
-<h3>Security Updates</h3>
-
-
-
-<p>One security issue affecting WordPress versions between 3.7 and 5.7. If you haven’t yet updated to 5.7, all WordPress versions since 3.7 have also been updated to fix the following security issue:</p>
-
-
-
-<ul><li>Object injection in PHPMailer, <a href="https://nvd.nist.gov/vuln/detail/CVE-2020-36326">CVE-2020-36326</a> and <a href="https://nvd.nist.gov/vuln/detail/CVE-2018-19296">CVE-2018-19296</a>.</li></ul>
-
-
-
-<p>Thank you to the members of the WordPress security team for implementing these fixes in WordPress.</p>
-
-
-
-<p>For more information refer to <a href="https://wordpress.org/support/wordpress-version/version-5-7-2/">the version 5.7.2 HelpHub documentation</a> page.</p>
-
-
-
-<h3>Thanks and props!</h3>
-
-
-
-<p>The 5.7.2 release was led by <a href="https://profiles.wordpress.org/peterwilsoncc/">@peterwilsoncc</a> and <a href="https://profiles.wordpress.org/audrasjb/">@audrasjb</a>.</p>
-
-
-
-<p>Thank you to everyone who helped make WordPress 5.7.2 happen: <a href="https://profiles.wordpress.org/audrasjb">@audrasjb</a>, <a href="https://profiles.wordpress.org/ayeshrajans">@ayeshrajans</a>, <a href="https://profiles.wordpress.org/desrosj">@desrosj</a>, <a href="https://profiles.wordpress.org/dd32">@dd32</a>, <a href="https://profiles.wordpress.org/peterwilsoncc">@peterwilsoncc</a>, <a href="https://profiles.wordpress.org/SergeyBiryukov">@SergeyBiryukov</a>, and <a href="https://profiles.wordpress.org/xknown">@xknown</a>.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 13 May 2021 01:04:30 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:12:"Peter Wilson";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:37;a:6:{s:4:"data";s:13:"
-	
-	
-	
-	
-	
-	
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:73:"WPTavern: Genesis Framework To Become Free, StudioPress Announces Changes";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=116458";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:189:"https://wptavern.com/genesis-framework-to-become-free-studiopress-announces-changes?utm_source=rss&utm_medium=rss&utm_campaign=genesis-framework-to-become-free-studiopress-announces-changes";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:4650:"<p class="has-drop-cap">Yesterday, StudioPress <a href="https://studiopress.blog/studiopress-big-changes/">announced several changes</a> to its themes and marketplace coming on or around June 8. For those outside its community, the company will be making its Genesis Framework available for free. The company is overhauling its marketplace, no longer selling individual themes.</p>
-
-
-
-<p>StudioPress&rsquo;s selection of themes will soon be available only through a Genesis Pro, WP Engine hosting, or Flywheel hosting account. The company&rsquo;s ProPlus customers will gain access to the Genesis Blocks Pro and Genesis Custom Blocks Pro plugins.</p>
-
-
-
-<p>The theme shop has been shifting gears since its <a href="https://wptavern.com/wp-engine-acquires-studiopress">acquisition in 2018</a> by WP Engine. While it still caters to freelancers and agencies, its audience has grown to include a more diverse user base. One year ago, WP Engine launched a <a href="https://wptavern.com/wp-engine-launches-genesis-pro-add-on-for-customers-more-features-in-the-works">Genesis Pro Add-On</a>, offering a suite of StudioPress&rsquo;s Genesis products to its customers.</p>
-
-
-
-<p>Chris Garret, the StudioPress Marketing Director at WP Engine, wrote in the article that one of the reasons for these changes was aimed at &ldquo;focusing our product and engineering efforts on preparing the Genesis community for Full Site Editing with the Gutenberg block editor in WordPress Core.&rdquo;</p>
-
-
-
-<p>Last fall, StudioPress launched an open beta of its upcoming <a href="https://wptavern.com/genesis-block-theme-beta-studiopress-pursuing-a-block-first-future">Genesis Block Theme</a>. While there has been little news of it lately, it is expected to land sometime this year alongside WordPress&rsquo;s block-based theming system. In 2020, the company also rebranded an earlier plugin acquisition, Atomic Blocks, to <a href="https://wptavern.com/atomic-blocks-rebranded-to-genesis-blocks-migration-path-to-new-plugin-coming-soon">Genesis Blocks</a>. It later released a developer-centric <a href="https://wptavern.com/build-editor-blocks-for-clients-with-the-genesis-custom-blocks-plugin">Genesis Custom Blocks</a> plugin.</p>
-
-
-
-<p>The company is also retiring all but its top 10 most popular child themes. Retired themes will be archived and still available to existing customers, and the development team will issue security updates if and when necessary.</p>
-
-
-
-<p>&ldquo;As we have discussed in the past, there are big changes coming to WordPress with the introduction of Full Site Editing themes,&rdquo; wrote Garret. &ldquo;While this new way of building themes will be optional (especially at first), we&rsquo;ve decided to focus most of our product and engineering efforts for Genesis related products on preparing to take advantage of these new capabilities.&rdquo;</p>
-
-
-
-<p>Releasing the Genesis theme for free will open a larger audience for StudioPress and ease some friction points.</p>
-
-
-
-<p>&ldquo;This has been one of the biggest asks in all of Genesis and beyond,&rdquo; wrote Garret. &ldquo;Gating Genesis Framework and Sample Theme behind a pay-wall causes confusion for people buying Genesis [child] themes from 3rd party theme providers and limits the number of people who can build with Genesis Framework.&rdquo;</p>
-
-
-
-<p>The team is also dropping its marketplace fees for third-party creators. Vendors, while still being listed, will need to handle payment processing on their own. The &ldquo;buy&rdquo; button on StudioPress will redirect customers to the vendor sites.</p>
-
-
-
-<p>In the past, the Genesis community has been a bit of a walled garden. While there are still commercial plans, these changes can potentially bring in fresh creative talent who might not have chosen to build on top of Genesis in the past &mdash; payments are always barriers to entry for some. Genesis has always been the foundation, but the value non-developer customers will see is in the child themes and plugin add-ons.</p>
-
-
-
-<p>With the <a href="https://wptavern.com/upcoming-changes-and-steps-for-an-overhauled-wordpress-theme-review-system">loosening of the review guidelines</a> in the coming months, I would like to see Genesis land in the free theme directory. It would not pass the current rules, but there may not be any holdups a bit down the road. If it will be free anyway, <em>why not?</em> It would be a gesture of goodwill toward the community while offering a robust and mature product into the directory. From the business end, it is sure to drive more customers to the StudioPress commercial offerings. It could be a win for everyone.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 13 May 2021 00:02:11 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:14:"Justin Tadlock";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:38;a:6:{s:4:"data";s:13:"
-	
-	
-	
-	
-	
-	
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:85:"WPTavern: ‘Universal’ WordPress Themes Virtual Hallway Hangout Planned for May 14";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=116376";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:203:"https://wptavern.com/universal-wordpress-themes-virtual-hallway-hangout-planned-for-may-14?utm_source=rss&utm_medium=rss&utm_campaign=universal-wordpress-themes-virtual-hallway-hangout-planned-for-may-14";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:4769:"<p class="has-drop-cap">Core contributor Jeff Ong <a href="https://make.wordpress.org/themes/2021/05/10/friday-may-14th-at-14utc/">announced an upcoming virtual hangout</a> around the concept of universal themes. The meeting could cover much ground for theme authors learning how new and upcoming tools will fit into their workflows, businesses, and more. For an invitation, attendees should leave a comment on the announcement post or message Ong directly.</p>
-
-
-
-<p>The hangout is slated for <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210514T1400">May 14 at 14:00 UTC</a>.</p>
-
-
-
-<p>The meeting agenda is loose, and the conversation could venture into various theme-related topics. However, the shortlist of possible discussion points covers:</p>
-
-
-
-<ul><li>Using new <a href="https://wptavern.com/themes-set-up-for-a-paradigm-shift-wordpress-5-8-will-unleash-tools-to-make-it-happen">theme tools in WordPress 5.8</a>.</li><li>Handling customization in block and classic themes.</li><li>Using block template parts within PHP templates.</li><li>Supporting block and classic nav menus.</li><li>Working with <code>theme.json</code> for theme styles.</li></ul>
-
-
-
-<p>The first order of business should be to define what a &ldquo;universal&rdquo; theme is. The terminology is new to the WordPress space, and it could change as the future of theming starts taking a more coherent shape.</p>
-
-
-
-<p>Ong left a short description in the announcement. &ldquo;A theme that aims to work in either classic (customizer) or FSE contexts,&rdquo; he called it.</p>
-
-
-
-<p>The definition seems to have been born out of <a href="https://github.com/WordPress/gutenberg/issues/29024">GitHub ticket around &ldquo;hybrid&rdquo; themes</a> &mdash; yet another new term. The goal was to discuss paths for any user to use the site or template editor to override traditional theme templates. For example, if a user wanted to create a block-based category archive template, they could do so without affecting their overall theme structure.</p>
-
-
-
-<p>WordPress users will get a sampling of <a href="https://wptavern.com/full-site-editing-is-partly-a-go-for-wordpress-5-8">this idea in version 5.8</a>. The post-editing screen has a new <a href="https://wptavern.com/first-round-of-the-fse-outreach-program-concludes-identifies-template-editing-mode-problems">template-editing mode</a>. Users will be able to switch to this mode to create a top-level template for that single post/page. It will live outside their theme structure, so it won&rsquo;t matter if the theme supports blocks.</p>
-
-
-
-<p>The Gutenberg development team and theme authors will be grappling with such questions in the coming months. Nothing is ever a perfect process. And, the transition to block-based theme templates is an overhaul unlike any we have seen in WordPress&rsquo;s history. So, we need new paths and terms for them.</p>
-
-
-
-<p>&ldquo;I&rsquo;ve been thinking about the notion of universal themes rather than hybrid,&rdquo; <a href="https://github.com/WordPress/gutenberg/issues/29024#issuecomment-792796711">wrote Mat&iacute;as Ventura</a>, the Gutenberg project lead, in the ticket. &ldquo;Universal themes would be themes that can be loaded in a classic context or block editor context without a problem. As a user, if I&rsquo;m running a WordPress capable of understanding block themes, that&rsquo;s the interface I get (and the one I can customize), otherwise, the regular theme files are used with its customizer integration. Hybrid would then be a tool for theme developers to gradually become universal themes if they want to.&rdquo;</p>
-
-
-
-<p>Hybrid themes seem to be designed to work with bits and pieces of FSE, giving developers time to move toward full support. However, universal themes cover everything from the traditional to the new era. They are meant to allow users to choose which bits of FSE to use.</p>
-
-
-
-<p>All this new terminology could muddy the waters a bit, and if that happens, users are the ones to lose out. There will potentially be four types of themes:</p>
-
-
-
-<ul><li>Block Only</li><li>Universal</li><li>Hybrid (with varying levels of support)</li><li>Classic Only</li></ul>
-
-
-
-<p>Most themes that have landed in the official directory over the past few months lack basic block-editor styles. It is hard to imagine too many universal themes &mdash; which will require far more of a time investment &mdash; in the next year or so. It is more likely that we will see a split between new block themes and a mashup of classic/hybrid themes making the rounds. Only the most dedicated or those who can foot the bill will go the universal route.</p>
-
-
-
-<p>For now, developers need to continue having these types of conversations and ironing out the details.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Tue, 11 May 2021 23:26:37 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:14:"Justin Tadlock";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:39;a:6:{s:4:"data";s:13:"
-	
-	
-	
-	
-	
-	
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:36:"WPTavern: Liquid Web Acquires GiveWP";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=116394";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:117:"https://wptavern.com/liquid-web-acquires-givewp?utm_source=rss&utm_medium=rss&utm_campaign=liquid-web-acquires-givewp";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:3716:"<p><a href="https://wordpress.org/plugins/give/">GiveWP</a>, one of the most popular donation and fundraising plugins with more than 100,000 active installs, has been acquired by <a href="https://www.liquidweb.com/">Liquid Web</a>. The team behind the plugin will be joining Liquid Web as part of the asset sale, which includes the whole company, products, and leadership.</p>
-
-
-
-<p>GiveWP made its <a href="https://wptavern.com/give-a-new-free-donations-plugin-for-wordpress">debut in 2015</a> with a 0% commission approach, its major differentiator from other third-party funding tools at the time. Sites using the plugin can collect 100% of the donations given. Its creators aimed to empower causes and non-profits to host their own donation forms. They built out the plugin to become a full donation platform with reporting and donor management. </p>
-
-
-
-<p>As of May 2021, GiveWP has helped its users raise more than $1 billion dollars in online fundraising.</p>
-
-
-
-<p>&ldquo;When we launched, we talked about forms with no reporting, or having to hack eCommerce tools to skip the cart and sales tax and shipping,&rdquo; GiveWP co-founder and former COO Matt Cromwell said. &ldquo;When users started basically saying exactly that back to us as the reasons they LOVED GiveWP, it was major validation &ndash; we&rsquo;d built exactly what we wished we&rsquo;d had when we were freelancing for nonprofits.&rdquo;</p>
-
-
-
-<p>The founders also found validation in their business ideas when large organizations like the Clinton Foundation or Habitat for Humanity reached out to GiveWP support and gave positive reports after receiving answers.</p>
-
-
-
-<p>&ldquo;It made us really amazed how we can bring solutions to organizations that are solving BIG world problems,&rdquo; Cromwell said. &ldquo;When we started having better telemetry and realized that we were literally helping organizations raise billions of dollars now&hellip;that was huge. It&rsquo;s been very humbling to be part of something so much bigger than any one person in our organization.&rdquo;</p>
-
-
-
-<p>Cromwell said his team was not actively &ldquo;shopping&rdquo; the company, but were looking for ways to accelerate growth of the team and product.</p>
-
-
-
-<p>&ldquo;GiveWP sales have been increasing annually year over year every year since our launch,&rdquo; he said. &ldquo;We were not looking for ways to save this product; it&rsquo;s been wildly successful.&rdquo;</p>
-
-
-
-<p>Devin Walker, GiveWP former-CEO and co-founder, said he appreciated Liquid Web&rsquo;s history of acquiring strong WordPress brands while keeping their teams in place. He referenced the company&rsquo;s 2017 acquisition of iThemes, and The Events Calendar acquisition in 2020.</p>
-
-
-
-<p>&ldquo;These two success stories gave us great confidence in Liquid Web and their desire to see GiveWP grow,&rdquo; Walker said.</p>
-
-
-
-<p>&ldquo;Liquid Web is building a whole software part of their business, they&rsquo;ve been acquiring WordPress shops for quite some time and they saw us as a good addition to their &lsquo;Family of Brands,'&rdquo; Cromwell commented on the sale. &ldquo;They are also leaders in the managed WordPress space, and we&rsquo;re already talking with them about opportunities for a more specifically nonprofit focused managed WordPress solution that includes GiveWP and all our addons.&rdquo;</p>
-
-
-
-<p>Cromwell said his team does not anticipate any branding or pricing changes in the future. Current users and customers who have questions or concerns are invited to attend the company&rsquo;s <a href="https://givewp.com/givewp-joins-liquidweb/#register">virtual Town Hall meeting</a> with Liquid Web CTO Joe Osterling on May 18, at 11am Pacific.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Tue, 11 May 2021 17:41:27 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Sarah Gooding";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:40;a:6:{s:4:"data";s:13:"
-	
-	
-	
-	
-	
-	
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:40:"WordPress.org blog: Welcome to Openverse";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:35:"https://wordpress.org/news/?p=10325";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:56:"https://wordpress.org/news/2021/05/welcome-to-openverse/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:2211:"<p>Following the <a href="https://ma.tt/2021/04/cc-search-to-join-wordpress-org/">recent statement by WordPress&#8217;s co-founder Matt Mullenweg</a> and the <a href="https://creativecommons.org/2021/05/03/cc-search-to-join-wordpress/">Creative Commons CEO, Catherine Stihler’s post</a>, I&#8217;m happy to formally announce that CC Search (with the new name Openverse) is now part of the WordPress open source project. Both Matt and I are long-time supporters of Creative Commons. I hope that this will provide a long-term, sustainable challenger to closed source photo libraries and further enhance the WordPress ecosystem.</p>
-
-
-
-<h3><strong>How Does This Affect Current Users?</strong></h3>
-
-
-
-<p>Current CC Search users will continue searching and using openly licensed images from around the internet. WordPress plans to continue the great work started by the Creative Commons project and expand search capabilities and features.</p>
-
-
-
-<h3><strong>What’s Next?</strong></h3>
-
-
-
-<p>We look forward to indexing and searching additional media, such as audio and video. As we expand our capabilities and grow the project, we look forward to integrating directly into WordPress and the media library. We hope to not only allow search and embeds of openly licensed media but pay it forward by additionally licensing and sharing your media back.</p>
-
-
-
-<h3><strong>How Can You Contribute?&nbsp;</strong></h3>
-
-
-
-<p>Stop by the Slack channel, <a href="https://wordpress.slack.com/archives/C02012JB00N">#openverse</a>, and take a look at the code repositories moved under the WordPress organization <a href="https://github.com/wordpress/?q=openverse">here on GitHub</a>. You can also follow along with the project on its own make page at: <a href="https://make.wordpress.org/openverse">https://make.wordpress.org/openverse</a>. We are working on setting up the new team, process, and procedures.<br /></p>
-
-
-
-<p>Join us in welcoming the team and community. As a treat, check out the most recent WP Briefing episode, <a href="https://wordpress.org/news/2021/05/the-commons-of-images/">The Commons of Images</a>, in which Matt and I discuss CC Search and our hopes for it as part of the WordPress community.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Tue, 11 May 2021 12:42:52 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:7:"Josepha";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:41;a:6:{s:4:"data";s:13:"
-	
-	
-	
-	
-	
-	
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:71:"WPTavern: Openverse: Why This Project Is Good for WordPress and the Web";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=115744";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:185:"https://wptavern.com/openverse-why-this-project-is-good-for-wordpress-and-the-web?utm_source=rss&utm_medium=rss&utm_campaign=openverse-why-this-project-is-good-for-wordpress-and-the-web";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:6602:"<p class="has-drop-cap">In today&rsquo;s WP Briefing podcast episode, <a href="https://wordpress.org/news/2021/05/the-commons-of-images/">The Commons of Images</a>, host Josepha Haden Chomphosy discussed the Openverse project with WordPress lead Matt Mullenweg. Automattic recently paid the non-profit Creative Commons organization for their Creative Commons Search engine. However, <a href="https://wptavern.com/creative-commons-search-to-relaunch-on-wordpress-org">WordPress.org will host it</a>, and there will be a community-run team. Openverse will be the name of the new project when it launches.</p>
-
-
-
-<p>A more official announcement of the Openverse project and team is expected shortly. However, it is an ideal time to begin exploring what this means for WordPress and the web.</p>
-
-
-
-<p>Over the past few years, theme authors have watched as their favored image services offered problematic license and terms changes. The domino effect of services not wanting competitors to build upon their collections of open-source media shifted the landscape. <a href="https://make.wordpress.org/themes/2018/11/29/pexels-images-are-no-more-allowed/">Pexels</a>, <a href="https://make.wordpress.org/themes/2019/01/13/pixabay-images-are-not-allowed/">Pixabay</a>, <a href="https://wptavern.com/unsplash-responds-to-image-licensing-concerns-clarifies-reasons-for-hotlinking-and-tracking">Unsplash</a>, and others began adding limitations to how their images could be used. Such limitations meant images from those services were not allowed in WordPress.org themes.</p>
-
-
-
-<p>For theme creators, this meant the pool of potential open-source images became smaller in a time when it should have been growing.</p>
-
-
-
-<p>&ldquo;What happens today is there&rsquo;s stock photography sites, some of which used to be Creative Commons-based, but many have moved away from that,&rdquo; said Mullenweg. &ldquo;So they essentially relicense their user contributions.&rdquo;</p>
-
-
-
-<p>It is not just an issue for creators on the theme directory. The burning question of where to find free images without fuzzy license agreements crosses the spectrum of the WordPress community. Even users should feel safe dropping a decorative or featured image into their post without digging through the legalese.</p>
-
-
-
-<img />Creative Commons Search for beach photos.
-
-
-
-<p>The web is full of content under Creative Commons licenses. However, it is often tough to find them. Mullenweg said that image, audio, and video files are each &ldquo;a little bit of an island&rdquo; in his description of the problem. That discoverability issue is part of what the Openverse project intends to solve.</p>
-
-
-
-<p>Sites that have changed their terms or licenses did so after becoming players in the stock photo space. However, their growth was on the back of the open-source world. They should have expected some backlash. And, WordPress is the ideal type of community to make a truly free alternative.</p>
-
-
-
-<h2>Potentially Revolutionary</h2>
-
-
-
-<p class="has-drop-cap">The Openverse project can be a game-changer in two regards. The first is the direct integration into the WordPress media library. The second is it provides another avenue for people, even those who are not developers or designers, to contribute to the open content of the web.</p>
-
-
-
-<p>The platform&rsquo;s built-in media library is due for an overhaul. Uploading and adding images to a post is a relatively simple affair &mdash; if you have them on hand. Going to a stock photo site and choosing an image is often the course of action when users need to find the perfect photo to plug into a post. However, this takes users outside of the WordPress experience, creating a blockage in the content-creation flow.</p>
-
-
-
-<p>The plan for Openverse is to integrate its search feature directly into the media library. This puts millions of media files into the hands of creators without ever leaving WordPress.</p>
-
-
-
-<p>Some plugins already do this for various stock photo sites. Automattic&rsquo;s Jetpack offers access to the Pexels collection.</p>
-
-
-
-<img />Pexels image search via Jetpack.
-
-
-
-<p>Pexels has its own license similar to Pixababy and Unsplash. However, it does distinguish between CC0 (public domain) and the Pexels License on a photo-by-photo basis. Unfortunately, that license info is not shown via the Jetpack integration. I hope the eventual integration of Openverse and WordPress is more robust, offering a clear view of what users are getting when they find an image they like.</p>
-
-
-
-<p>There are still some things to copy from Jetpack&rsquo;s Pexels integration. Automatic photo credits and alt text are welcome features that generally make the web a better experience. Adding the credit to the image caption is a nice nod to the creator, and the oft-forgotten alt text is necessary for users with screen readers.</p>
-
-
-
-<img />Inserting image with photo credits and alt text from Pexels.
-
-
-
-<p>One of the biggest takeaways from the podcast is what Openverse can be for the web. &ldquo;We&rsquo;re going to try to bring the WordPress philosophy to this space,&rdquo; said Mullenweg.</p>
-
-
-
-<p>He acknowledged that there is and should always be a market for professional media creators. There are sites aplenty for people who want to offer commercial access to their images and more.</p>
-
-
-
-<p>&ldquo;But we just want to make an alternative, so those who want to donate their work to the world, much like engineers, and designers, and translators of WordPress, donate their work some of that effort to the world, they can do so,&rdquo; he said.</p>
-
-
-
-<p>Openverse must become more than a media search engine. It needs to be a project where the Average Joe can upload a nice nature picture he took over the weekend barbecue. A place where Average Jane can share a video clip of the ocean waves hitting the shoreline from her beach trip. And a place where professionals can pay it forward to the world.</p>
-
-
-
-<p>My excitement is mostly about having a trusted place for theme authors and designers to grab free media. I am already imagining what this could mean for the upcoming block pattern directory, a place that will need quality images without restrictions.</p>
-
-
-
-<p>The project is 100% <a href="https://github.com/WordPress?q=openverse">open source too</a>. Developers can fork the search engine and create their own. Competing content management solutions will also have access to the public API, offering open-source media to their users.</p>
-
-
-
-<p>Bringing the WordPress philosophy into the stock media space is a plan I can get behind.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Mon, 10 May 2021 23:43:40 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:14:"Justin Tadlock";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:42;a:6:{s:4:"data";s:13:"
-	
-	
-	
-	
-	
-	
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:52:"WordPress.org blog: People of WordPress: Fike Komala";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:35:"https://wordpress.org/news/?p=10270";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:67:"https://wordpress.org/news/2021/05/people-of-wordpress-fike-komala/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:10375:"<p><em>WordPress is open source software, maintained by a global network of contributors. There are many examples of how WordPress has changed people’s lives for the better. In this monthly series, we share some of the amazing stories that are not as well known.</em><br /><br />Creating content with WordPress and blogging helped Fike Komala, from Indonesia, build a career where she can work remotely from different locations in the world. <br /></p>
-
-
-
-<p>In 2020, Fike joined a US-based company that specializes in form building to work as a content marketer. Using her experience as a freelancer and later a full time employee, she encourages others, particularly women in Asia, to consider remote work as a career option. She is so impressed by remote working benefits, that she is now considering writing about it for a thesis for her Master&#8217;s Degree, which she started this year in Europe.<br /></p>
-
-
-
-<img width="632" height="387" src="https://i0.wp.com/wordpress.org/news/files/2021/05/B5939AF2-DFFD-4471-B3F1-7738F82CEF8A.png?resize=632%2C387&ssl=1" alt="Fike pictured with a snow background" class="wp-image-10291" />
-
-
-
-<p>As a keen blogger, WordPress immediately impressed Fike. Her dad is a programmer, and he helped her create the first of many blogs starting when she was 10 years old. She had private and public blogs, and even an English language one to help her practice and improve her skills. </p>
-
-
-
-<blockquote><p><strong>“I got satisfaction and happiness from pouring my thoughts in writing and publishing them in my blog. Writing my thoughts and feelings often helped me process them, and does even now.”</strong></p><cite>Fike Komala</cite></blockquote>
-
-
-
-<p>With a natural talent and love for languages, Fike pursued an Information Systems degree after graduating from high school. Her course covered business learning Java, HTML, CSS, Javascript, and Android programming. She also took courses to learn Bootstrap and Ruby on Rails.&nbsp;</p>
-
-
-
-<h2>Earning Through Building With WordPress</h2>
-
-
-
-<p>Fike’s parents had a business building websites. She was drawn to this work and would help proofread and format the articles. This is how she first encountered WordPress, which was to play a pivotal role in her future career. <br /></p>
-
-
-
-<blockquote class="wp-block-quote"><p>“I saw WordPress as something more advanced than other platforms, with more themes and plugins to choose from. The default WordPress websites already looked more professional than others.”</p><cite>Fike Komala</cite></blockquote>
-
-
-
-<p>Throughout school, Fike’s experience with WordPress and blogging helped her earn extra money safely online, including translating texts from English to Indonesia, online surveys, and writing articles in English.</p>
-
-
-
-<h2>Discovering Work You Enjoy&nbsp;</h2>
-
-
-
-<p>The last year at University required a year-long full-time internship. Fike worked as an intern at a big general insurance company within the IT quality control staff. She enjoyed working with the people she met and learned a lot through this opportunity, but she declined the offer of a full-time position.&nbsp;</p>
-
-
-
-<p>Fike is a good student who loves learning and did well in her education. Through her traditional internship experience,  she found that programming in an office job did not fulfill her. It strengthened her belief in a finding a career where she could have the freedom and creativity of working remotely.</p>
-
-
-
-<p>“I was a good student, I love learning algorithms, but I didn’t love programming. I’m not that person who can stay calm finding errors in their codes, and then finding out that it’s only missing a character,” said Fike. She added: “I don’t really like the fact that I have to wake up at 6 AM and be back home at 7 PM, and do it all over again the next day.”</p>
-
-
-
-<h2>Adventure Into Remote Work&nbsp;</h2>
-
-
-
-<p>Fike spent time improving her freelance profile, revising it, and applying to jobs as a virtual assistant. She was willing to do any small website jobs such as formatting WordPress posts, designing social media posts, and processing orders for online shops. Through a freelance job submission site, she was able to work with people from across the globe, including Singapore, Australia, Europe, and America. Through the site, Fike was able to gain experience with remote working tools like Slack, Asana, Trello, and Google Suites, and the work gave her practice writing in English.&nbsp;</p>
-
-
-
-<p>It was through this site that Fike saw a job opportunity with a WordPress plugin company. She sent in her profile and blog.&nbsp;</p>
-
-
-
-<p>“This was my first time being interviewed via a video call. I was ecstatic but panicked. On the day, I woke up at 4 AM, got dressed, and opened my laptop. Weirdly, my wi-fi died that morning. So I went to the nearest cafe to get the interview done, and it went great!”</p>
-
-
-
-<p>She was hired to deliver consistency on the company’s blog.&nbsp;</p>
-
-
-
-<p>Through her job, Fike first began to contribute within the WordPress community and was able to attend her first WordCamp, WordCamp Jakarta 2018, sponsored by her firm. Through WordPress, Fike has met many generous, trusting, and helpful people. </p>
-
-
-
-<p>She said: “Because I’ve experienced the generosity of the WordPress people, I wanted to give back to the community.”</p>
-
-
-
-<img src="https://lh5.googleusercontent.com/ZDAmqCcebOQII99V2RMYmJikoQ3u-tjy6BcCT39QWsOUrAqq2_HeqJ1735UoxVyQHTO_S_V9lzZEJ7WayLb8kY3or78oqG4Xt5ujbNUpt7Vcz7r20lp9XopkPwh85imnvRxjpWTx" alt="WordCamp swag" />Swag from WordCamp Jakarta 2018, that’s Wapuu ondel-ondel!
-
-
-
-<blockquote><p><strong>“I got to know the amazing community behind WordPress. How people voluntarily contribute their time, energy, and skills to the community, from development, marketing to translating.</strong> <strong>It was really inspiring.”</strong></p><cite>Fike Komala</cite></blockquote>
-
-
-
-<h2>You Can Inspire Others Through Contributing</h2>
-
-
-
-<p>Fike has been an inspiration to people in her local community and globally within the WordPress community through her enthusiasm and energy.&nbsp;</p>
-
-
-
-<p>She <a href="https://www.youtube.com/watch?v=KHSAV_NJtTA">talks about her joy in contributing</a> during a live interview as part of WordPress Translation Day in 2020.&nbsp;</p>
-
-
-
-<p>So determined to encourage others to become translators of WordPress, she joined the Global Translation Day event with the Indonesian Community last year and took part in wider marketing of the event. She is pictured below with some of the Indonesian polyglots team.</p>
-
-
-
-<p>She continues to support the polyglots and is a General Translation Editor for the Indonesian language. Last year, she also voiced an <a href="https://youtu.be/Ifqabp-36_c">Indonesian translation of the onboarding video</a> for new contributors joining WordPress.org. She has been a regular contributor to the PerempuanWP, an initiative for Indonesian women working in the WordPress world. Working with a firm which uses the WordPress platform has strengthened her familiarity with projects in the community and encourages her interest in contributing.</p>
-
-
-
-<img src="https://lh4.googleusercontent.com/H-8VelQbbEb9f5MM-SUXNudVD9U1DNs546yt_cWGRU--GSLm-PCUunnHDNFmquv9w3rWOUadxkbYr9bYsRU1Ecmhb6Ee_Deg_paNEIyyqs91_3DjgtlmfgCA_P45GNA5nf5rmpCe" alt="Indonesian translation team " />
-
-
-
-<p>To learn more about contributing to WordPress, visit <a href="https://make.wordpress.org/">make.wordpress.org/</a> and follow the “get involved” link. You can join any of the weekly team meetings to get started, and there is a lot of help available.&nbsp;</p>
-
-
-
-<p>Fike says, “I want to represent Asian women. In the future, I hope I can inspire more women, especially Asians, to work remotely.” She is now studying in Europe for a Master&#8217;s in Digital Communication Leadership. She hopes to use her learning to help other women, particularly back in her home country of Indonesia.</p>
-
-
-
-<p>She continues to share her energy for learning and remote working. </p>
-
-
-
-<p>“<strong>Just learn things. As much as you can. From anywhere, about anything. Keep an open mind. Read books, listen to podcasts, and learn new skills.”</strong></p>
-
-
-
-<p><strong>She added: “If you’re working in the WordPress world, join the WordPress community. It’s a great place to learn from and connect with great people.”</strong></p>
-
-
-
-<h2>Contributors</h2>
-
-
-
-<p>Thanks to Abha Thakor (<a href="https://profiles.wordpress.org/webcommsat/">@webcommsat</a>) and Meg Phillips (<a href="https://profiles.wordpress.org/megphillips91/" class="mention"><span class="mentions-prefix">@</span>megphillips91</a>) for writing this feature, to Surendra Thakor (<a href="https://profiles.wordpress.org/sthakor/" class="mention"><span class="mentions-prefix">@</span>sthakor</a>), Meher Bala (<a href="https://profiles.wordpress.org/meher/" class="mention"><span class="mentions-prefix">@</span>meher</a>), Larissa Murillo (<a href="https://profiles.wordpress.org/lmurillom/" class="mention"><span class="mentions-prefix">@</span>lmurillom</a>), Josepha Haden (<a href="https://profiles.wordpress.org/chanthaboune/">@chanthaboune</a>), Chloé Bringmann (<a href="https://profiles.wordpress.org/cbringmann/" class="mention"><span class="mentions-prefix">@</span>cbringmann</a>) for additional support and graphics, and to Topher DeRosia (<a href="https://profiles.wordpress.org/topher1kenobe/">@topher1kenobe</a>) who created HeroPress. Thank you to Fike Komala (<a href="https://profiles.wordpress.org/fikekomala/" class="mention"><span class="mentions-prefix">@</span>fikekomala</a>) for sharing her #ContributorStory.</p>
-
-
-
-<img src="https://lh4.googleusercontent.com/FEZ2FQJ0vQ311YoPfh6ny15NXh8saTLH_RjyDO4pUOuEGBTa-Czk63PGoWL04FawKviRfNx0QXePx-goK04X12ry1BR_WXh-kVPIfsEeItPAX6reN5fHS96q6-8dUI506ZO38Z0G" alt="HeroPress logo" />
-
-
-
-<p><em>This post is based on an article originally published on HeroPress.com. It highlights people in the WordPress community who have overcome barriers and whose stories would otherwise go unheard.</em></p>
-
-
-
-<p><em>Meet more WordPress community members in our <a href="https://wordpress.org/news/category/heropress/">People of WordPress series</a>.</em></p>
-
-
-
-<p><em>#ContributorStory #HeroPress #WPTranslationDay</em></p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Mon, 10 May 2021 22:50:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:28:"webcommsat AbhaNonStopNewsUK";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:43;a:6:{s:4:"data";s:13:"
-	
-	
-	
-	
-	
-	
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:54:"WordPress.org blog: WP Briefing: The Commons of Images";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:53:"https://wordpress.org/news/?post_type=podcast&p=10266";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:57:"https://wordpress.org/news/2021/05/the-commons-of-images/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:24989:"<p>In this episode, Josepha is joined by the co-founder and project lead of WordPress, Matt Mullenweg. Tune in to hear Matt and Josepha discuss the relaunch of CC Search (Openverse) in WordPress and the facets of the open source ecosystem.&nbsp;</p>
-
-
-
-<p><em><strong>Have a question you&#8217;d like answered? You can submit them to <a href="mailto:wpbriefing@wordpress.org">wpbriefing@wordpress.org</a>, either written or as a voice recording.</strong></em></p>
-
-
-
-<h2>Credits</h2>
-
-
-
-<ul><li>Editor:<a href="https://profiles.wordpress.org/dustinhartzler/"> Dustin Hartzler</a></li><li>Logo:<a href="https://profiles.wordpress.org/beafialho/"> Beatriz Fialho</a></li><li>Production:<a href="https://profiles.wordpress.org/mkaz/"> </a><a href="https://profiles.wordpress.org/cbringmann/">Chloé Bringmann</a></li><li>Song: Fearless First by Kevin MacLeod</li></ul>
-
-
-
-<h2>References</h2>
-
-
-
-<p><strong>Openverse Repositories </strong></p>
-
-
-
-<ul><li>Catalog:&nbsp;<a rel="noreferrer noopener" target="_blank" href="https://github.com/wordpress/openverse-catalog">https://github.com/wordpress/openverse-catalog</a></li><li>API:&nbsp;<a rel="noreferrer noopener" target="_blank" href="https://github.com/wordpress/openverse-api">https://github.com/wordpress/openverse-api</a></li><li>Frontend:&nbsp;<a rel="noreferrer noopener" target="_blank" href="https://github.com/wordpress/openverse-frontend">https://github.com/wordpress/openverse-frontend</a></li></ul>
-
-
-
-<p><strong>Tech Stack Outline</strong></p>
-
-
-
-<ul><li><strong>Frontend</strong>&#8211; Languages: <ul><li>JavaScript, CSS/SCSS</li><li>Libraries/Services: Vue.js, Nuxt.js#&nbsp;</li></ul></li><li><strong>API</strong>&#8211; Languages: <ul><li>Python, PostgreSQL</li><li>Libraries/Services: Django, Elasticsearch, Redis</li></ul></li><li><strong>Catalogue</strong>&#8211; Languages: <ul><li>Python, PostgreSQL</li><li>Libraries/Services: Apache Airflow, PySpark</li></ul></li></ul>
-
-
-
-<p>Join the WordPress Slack instance, #openverse</p>
-
-
-
-<h2>Transcript</h2>
-
-
-
-<span id="more-10266"></span>
-
-
-
-<p><strong>Josepha Haden Chomphosy&nbsp; </strong>00:10</p>
-
-
-
-<p>Hello, everyone, and welcome to the WordPress Briefing. This is usually the podcast where you can catch quick explanations of some of the ideas is behind the WordPress open source project. Today, I have a little bit of a different topic. It&#8217;s still WordPress, it&#8217;s still open source, but it&#8217;s kind of peering into some stuff for the future as opposed to looking at where we are today or how we got to where we are today.</p>
-
-
-
-<p><strong>Josepha Haden Chomphosy&nbsp; </strong>00:36</p>
-
-
-
-<p>You might have recently seen an announcement from Matt that CC Search is joining the WordPress project. This is a really exciting thing for open source, for sure, and definitely, from my perspective, for WordPress. And so I invited Matt to join me today to take a look at what he had in mind with bringing that particular project into our project and what we have in mind for the future. And so, today, this is the WordPress Briefing with Matt and Josepha. And I hope you enjoy the conversation we had. Here we go!</p>
-
-
-
-<p><strong>Josepha Haden Chomphosy&nbsp; </strong>01:22</p>
-
-
-
-<p>So, we recently announced for WordPress that we essentially acquired CC Search, a project that&#8217;s been part of Creative Commons. And they recently chose a different kind of roadmap for the work they&#8217;re doing in the future. And so it seemed like a really great opportunity to bring this tool and this, I don&#8217;t know, this kind of experience for our users into the WordPress project. So Matt, what are your thoughts about how, like this commitment to images with CC licenses, with Creative Commons licenses, can impact WordPress and how we work in the open web.</p>
-
-
-
-<p><strong>Matt Mullenweg&nbsp; </strong>02:09</p>
-
-
-
-<p>I think it&#8217;s pretty exciting because Creative Commons exists to do for media, you know, images, audio, etc., what open source has done for code. And so for people who choose to want to donate their creative work under these licenses, much like anyone who contributes a plugin, or code or documentation or translations for WordPress, now people for whom their method of expression is, let&#8217;s say, photography, can put that into the comments like literally, I like why it&#8217;s called the Creative Commons, it&#8217;s such a good name. It can be accessed within everyone&#8217;s dashboard for WordPress. And those images can start to really be part of the fabric of the web the same way that code that runs WordPress or its plugins is part of the fabric of the web.</p>
-
-
-
-<p><strong>Josepha Haden Chomphosy&nbsp; </strong>02:57</p>
-
-
-
-<p>For anyone who&#8217;s listening who&#8217;s not actually already familiar with this concept of the tragedy of the commons, do you want to give us the elevator pitch of what that means and why it&#8217;s so important for WordPress to try to counterbalance that in our work?</p>
-
-
-
-<p><strong>Matt Mullenweg&nbsp; </strong>03:12</p>
-
-
-
-<p>Sure, the tragedy of the commons, you know, I think the canonical example is as a shared field in a town, and it doesn&#8217;t belong to anyone, so anyone can use it. And when too many farmers took their sheep there, they would overeat the grass, and then there was no more grass left because it was being overutilized, and there was no one owning the field to say, Hey, we need to practice a more sustainable amount of sheep. grass in</p>
-
-
-
-<p><strong>Josepha Haden Chomphosy&nbsp; </strong>03:39</p>
-
-
-
-<p>Put more grass in there.</p>
-
-
-
-<p><strong>Matt Mullenweg&nbsp; </strong>03:41</p>
-
-
-
-<p>So basically, the idea is like a shared resource that gets overused and then disappears. With software, we have the opportunity to have the opposite, which is a wealth of comments where every person using the thing actually has the opportunity to make it a little bit better. And that is really beauty of like Wikipedia, open source where every person using it might contribute a small fix, or a translation or a bug report or tell a friend about it, or basically be part of making this thing better, which you know, WordPress is history is very much an example of, and then as it gets better, more people want to use it. And the beautiful thing about software is you can have economics of abundance versus the economics of scarcity. There&#8217;s not one field used, but every additional incremental user of WordPress makes this community stronger and creates a larger market for the products inside it. So those types of dynamics can have the opposite of the tragedy of the commons.</p>
-
-
-
-<p><strong>Josepha Haden Chomphosy&nbsp; </strong>04:39</p>
-
-
-
-<p>Absolutely. I love this idea that you brought it up in your question, not your question, in your answer right at the top. I love this idea of acknowledging that code isn&#8217;t the only fabric available in open source and certainly not the only fabric of the internet as we know it. This idea of like, let&#8217;s bring Creative Commons licensed images into a more long-term space for WordPress. Do you think that that at some point can apply to videos and other sorts of audio files?</p>
-
-
-
-<p><strong>Matt Mullenweg&nbsp; </strong>05:21</p>
-
-
-
-<p>Absolutely. There already is a ton of Creative Commons licensed content out there that people can use. But there&#8217;s a discoverability problem, you know? Each individual image or audio file or video is, is a little bit of an island. So that&#8217;s why it&#8217;s so important that there&#8217;s the equivalent of a search engine that allows people to discover all the great stuff that&#8217;s out there. And what happens today is there&#8217;s stock photography sites, some of which used to be Creative Commons-based, but many have moved away from that. So they essentially relicense their user contributions. Or people, if we&#8217;re being real, people just go to Google images, and they might utilize images that they don&#8217;t actually have rights to. It&#8217;s not the end of the world, but it&#8217;s not ideal. And so we can create this really compelling directory experience of imagery, which people have chosen to share and want to be used. I think that&#8217;s a much better outcome than the equivalent of piracy.</p>
-
-
-
-<p><strong>Josepha Haden Chomphosy&nbsp; </strong>06:21</p>
-
-
-
-<p>Yeah, yeah, absolutely. So I leapt right into this and didn&#8217;t really give any context to what CC Search is or anything, but for anyone who is not familiar with this tool already, CC Search is, as Matt mentioned, a search engine that currently is focused specifically on images that use open licenses. The Creative Commons licenses are like the content-specific version of GPL for code, which is a really big deal, I think. If wishes were fishes, Matt, and you had your total hope ahead of you, what is your hope for the relaunch of this product and this tool in WordPress?</p>
-
-
-
-<p><strong>Matt Mullenweg&nbsp; </strong>07:15</p>
-
-
-
-<p>Well, first and foremost, I think we can improve the experience of designing and contributing themes and then modifying them with this really fantastic image directory if we&#8217;re able to build it in the media library. And lots of plugins like Jetpack do some version of this. I think that Jetpack uses Pexels or one of the proprietary, but open libraries. And so we can make it fully, like you said, the equivalent of GPL and open source, all the better. I think longer-term, I&#8217;d love to have a way for people who are adding media to the WordPress site to set it to be available under a Creative Commons license. So just to make it easy and built-in for people to create more Creative Commons license imagery. And then, you know, with the integration of Gutenberg and other things, we can make it easy for other people to use it and credit back the original author if they choose to. And what we find is that even though with CC0, which is essentially a kind of like putting something into the public domain, credit is not required. If you make it the default to link back to the original photographer, author, most people believe that because they like creating things that they use. So you get the best of both worlds; you have the freedom of use for any purpose, including not requiring the credit. But then, just by having it by default, when you insert one of these images, a lot of people are going to leave that and link back to the original author, which I think is also really cool. Like you&#8217;re not required to have a credit link on WordPress, but most people leave the Powered BY WordPress on there.&nbsp;</p>
-
-
-
-<p><strong>Josepha Haden Chomphosy&nbsp; </strong>08:45</p>
-
-
-
-<p>One of the interesting areas, you mentioned Pexels in this case. One of those interesting areas that we, as a project, can really explore here is how to make it so that the metadata gives you confidence in the origin of the image. Like I don&#8217;t believe that there are any set standards for that. I&#8217;ve just started my research, obviously, because they&#8217;re brand new to us, but I just don&#8217;t think there are any standards available there. And, I think that there is an opportunity for WordPress as a true supporter of the open web to help change the fact that we don&#8217;t have that’s one of the main competitive disadvantages that open source libraries have been trying to combat and especially with Unsplash, who eventually did get purchased by Getty Images. Still, I feel like part of what must have driven that decision to change the licensing terms had to be that they are up against that behemoth of Getty Images where people know where the things came from. They know where the images came from, and they can trust that lineage and model releases and all that stuff. I&#8217;m just really interested to see how we can; I don&#8217;t know; I hate to say dignify contributors who are offering their contributions to open source in this way. But, it also is kind of that there&#8217;s no sense in saying that just because you did not accept payment from getting images, your photos weren&#8217;t any good, or your images did not have an excellent path to where they are housed at that moment.</p>
-
-
-
-<p><strong>Matt Mullenweg&nbsp; </strong>10:39</p>
-
-
-
-<p>I mean, it&#8217;s really fun to contribute to something larger than yourself. And for many folks, you know, their gift, their craft is something like photography. And so there&#8217;s always going to be the sort of paid marketplaces and, and something like Shutterstock, I think really fantastic companies and services. I think a marketplace for paid content. But we just want to make an alternative, so those who want to donate their work to the world, much like engineers, and designers, and translators of WordPress, donate their work some of that effort to the world, they can do so. Right now, there are some places for that, but we&#8217;re going to try to create one that is fully open, has no advertising, has an open API. So other CMSs can access it too.&nbsp; You know, we&#8217;re going to try to bring the WordPress philosophy to this space.&nbsp;</p>
-
-
-
-<p><strong>Josepha Haden Chomphosy&nbsp; </strong>11:29</p>
-
-
-
-<p>Gosh, I just love that. While we&#8217;re on the question of contributing to something bigger than yourself, bringing the WordPress philosophy into this space, how do you think CC Search will impact the current media library and how WordPress handles media in general? Or do you have an idea about how it will impact that? Sometimes we don&#8217;t know until we get in?</p>
-
-
-
-<p><strong>Matt Mullenweg&nbsp; </strong>11:53</p>
-
-
-
-<p>Yeah, I think within Gutenberg, the idea of adding an image from an online library or a search is something we&#8217;ve wanted to do for a while. But either the licensing made it a little tricky, or, you know, some of the sites that did have open things, maybe the site itself had like a lot of advertising or pop-ups or things like that. So by having this hosted by wordpress.org, we&#8217;ll have a clean, open source, and ad-free place that people can access. I suppose it&#8217;s also worth saying that CC Search, which we&#8217;re rebranding as Openverse, is actually all the code behind is open source as well. So there is going to be a new project on WordPress&#8217;s GitHub that will be this open source search engine. So that&#8217;s also part of the contributions; we&#8217;ll be pointing this search engine to try to index and collect Creative Commons license media, but perhaps it could also provide a base for someone else wanting to build a different characters engine or just host Openverse themselves and run it themselves; that is totally fine.</p>
-
-
-
-<p><strong>Josepha Haden Chomphosy&nbsp; </strong>13:00</p>
-
-
-
-<p>I should probably mention, for any of the WP Briefing listeners who are contributing to the WordPress project itself, there is a brand new team that we&#8217;re working on building, and for one wander over and welcome everybody, we are welcoming in an open source community into our open source community. And so, of course, we want to make sure that they know how to get around and feel welcome in the space. But also, anything that you are interested in helping to contribute to that particular project, I think would be helpful. WordPress is big; we have a long history. And so I think I feel confident in saying that, if I were on that team that&#8217;s bringing in this new tool, I would hope that there were some OG WordPressers, who were available to help me discover the ins and outs of things, especially as its 18 years of us.</p>
-
-
-
-<p><strong>Matt Mullenweg&nbsp; </strong>14:04</p>
-
-
-
-<p>Yeah, it&#8217;s also a new technology stack. So let&#8217;s say you want to be involved in WordPress, but your expertise is more on the Python side, or Elastic Search or something like that. We now have a project where people who are into that or want to learn about it can get involved. Because, of course, you know, contributing and being involved with open source is probably the best way to learn a technology, better than any college degree.</p>
-
-
-
-<p><strong>Josepha Haden Chomphosy&nbsp; </strong>14:28</p>
-
-
-
-<p>I was just talking to some folks about that; our active learning opportunities and our passive learning opportunities get into a different balance as we get older. And active learning opportunities are for real in school, right? And our passive learning opportunities where you get to look at someone else&#8217;s code, you get to review proposals on user flows, and things are harder and harder to come by unless you happen to be in an open source project where we&#8217;re just working on that in the open all day, every day. And I&#8217;ll put a link to the repos in the show notes, and also, I&#8217;ll include a list of the tech stack that we&#8217;re looking at there, just so that no one has to like, chase it down. But yeah, I&#8217;m excited about this new integration, not only for the CMS but also for the community.</p>
-
-
-
-<p><strong>Matt Mullenweg&nbsp; </strong>15:26</p>
-
-
-
-<p>And the whole library will be available to any plug-in who wants to call to it. And like we said, even other CMSs, much like we designed Gutenberg to be able to be used by other CMSs, how cool would it be if Drupal or Joomla or others were also able to leverage this library and allow their users to contribute to it as well?</p>
-
-
-
-<p><strong>Josepha Haden Chomphosy&nbsp; </strong>15:47</p>
-
-
-
-<p>Yeah, absolutely. Absolutely. There is a burning question that I feel like we probably should just go ahead and answer here. I&#8217;ve been asked a few times, and I think you have been asked a few times whether this is an actual acquisition. And If yes, then what entity is it under? Is it under the WordPress Foundation? Is it under Automattic?</p>
-
-
-
-<p><strong>Matt Mullenweg&nbsp; </strong>16:10</p>
-
-
-
-<p>It&#8217;s a little complicated because, as you know, WordPress.org is not part of the Foundation. So basically, Automattic paid Creative Commons, the nonprofit. They will essentially redirect the old URL, so old links to Creative Commons Search won&#8217;t break. And we ended up hiring some of the people that they were parting ways with into Automattic. And then we put that open source code, and we&#8217;ll run the service on WordPress.org, and then those we hired, Automattic hired, will contribute to WordPress.org and the open source projects that power what we&#8217;re calling Openverse now.</p>
-
-
-
-<p><strong>Josepha Haden Chomphosy&nbsp; </strong>16:54</p>
-
-
-
-<p>I am.</p>
-
-
-
-<p><strong>Matt Mullenweg&nbsp; </strong>16:56</p>
-
-
-
-<p>That&#8217;s kind of an acquisition, but also from a nonprofit, and then going into something, which is not a nonprofit, but is open source and sort of freely available, which is WordPress.org, the website.</p>
-
-
-
-<p><strong>Josepha Haden Chomphosy&nbsp; </strong>17:06</p>
-
-
-
-<p>Yeah, that has been hard for me to answer because you&#8217;re right, it&#8217;s not like it was donated to WordPress or something. But everything that we&#8217;re doing is being donated back to the project, and of course, hopefully, really living into that WordPress ethos that we have of giving back to, to the project, something that made your work and your life better. So there&#8217;s some, some finger-crossing going on in there.</p>
-
-
-
-<p><strong>Matt Mullenweg&nbsp; </strong>17:37</p>
-
-
-
-<p>We could have skipped some of the steps because the code was open source; we could have just used it or something like that. But it was also a good opportunity, I think, to support the Creative Commons organization. And like we said, as part of that donation, there&#8217;ll be redirecting Creative Commons Search to WordPress.org. And honestly, we don&#8217;t need that, but it just from the point of view of keeping links workings, which is a big passion of mine. I like that none of the links will break or things to the Creative Commons Search, which I think has been around for&#8230; I don&#8217;t actually know the exact timeline, but a very long time. It&#8217;s been part of the internet for a long time. So we&#8217;re happy that it can now continue and be something that can plausibly be around for many decades to come.</p>
-
-
-
-<p><strong>Josepha Haden Chomphosy&nbsp; </strong>18:23</p>
-
-
-
-<p>Yeah, we&#8217;re going to build ourselves a little sustainable program around this project, and it&#8217;s going to be beautiful; I&#8217;m excited.</p>
-
-
-
-<p><strong>Josepha Haden Chomphosy&nbsp; </strong>18:31</p>
-
-
-
-<p>I did want to give everybody a cultural heads up. When I say crossing my fingers, I know that for some of our cultures, that means I was lying. That is not what I&#8217;m saying—crossing my fingers and moving forward on this with a lot of hope.</p>
-
-
-
-<p><strong>Josepha Haden Chomphosy&nbsp; </strong>18:51</p>
-
-
-
-<p>I tried to be careful about my local idioms when I&#8217;m talking to folks who don&#8217;t know that I&#8217;m from Arkansas, so I sometimes say weird things. But I&#8217;ve given up on y&#8217;all, for instance, like that has made its way right back into my language.&nbsp;</p>
-
-
-
-<p><strong>Matt Mullenweg&nbsp; </strong>19:09</p>
-
-
-
-<p>Y&#8217;all is great. In Texas, we had a funny thing, which maybe applies to you now, which is &#8220;more nervous than a long-tailed cat in a room full of rocking chairs.&#8221; I bet you haven&#8217;t heard that one.&nbsp;</p>
-
-
-
-<p><strong>Josepha Haden Chomphosy&nbsp; </strong>19:21</p>
-
-
-
-<p>I have not, but I love it, and I&#8217;m going to fold it into my personal vocabulary for later use.&nbsp;</p>
-
-
-
-<p><strong>Josepha Haden Chomphosy&nbsp; </strong>19:30</p>
-
-
-
-<p>The response to this has been overwhelmingly positive, and I know that I am incredibly positive. I just mentioned like I&#8217;m moving forward through this with hope, even though there&#8217;s a lot of stuff that I don&#8217;t actually know about how we can implement it. I have never brought an existing open source community into an open source community that I&#8217;m currently working with. So there&#8217;s a lot of learning to be done in there. But, from your side Matt, like, are there any things that you are feeling anxiously hopeful about for this? Anything that you hope is right, but you&#8217;re not sure about?</p>
-
-
-
-<p><strong>Matt Mullenweg&nbsp; </strong>20:14</p>
-
-
-
-<p>Oh, this is just the first step of many. So just having the search engine, is I think good to provide a service to the internet. But where we can really leverage it is those next steps we already talked about, which is really building out the API and integrating the API with the WordPress admin to make it easily accessible within people&#8217;s dashboards. And the Gutenberg blocks to embed these images, quickly and easily, and with all the proper credit and everything. And then the next step, which was probably the one I&#8217;m most excited about, which is enabling folks to contribute to the Creative Commons. And by that, I mean the Commons of Images, which have open licenses and are encouraged for reuse and remixing and all those sorts of great things. And I think that anything we can do to increase more of that stuff on the internet also enables a lot of creativity and innovation.</p>
-
-
-
-<p><strong>Josepha Haden Chomphosy&nbsp; </strong>21:10</p>
-
-
-
-<p>All right. Well, that was an excellent conversation. I am really excited about this. I want to, for my work, just say a huge welcome to the folks over at CC Search and our brand new group around Openverse, and a big thanks to the folks over at the Creative Commons group. Matt, do you have anything else you want to share with any of our audience?</p>
-
-
-
-<p><strong>Matt Mullenweg&nbsp; </strong>21:39</p>
-
-
-
-<p>No, I feel great that we could support the Creative Commons, keep this going for the open internet, and so excited to work alongside the folks who have been working on Openverse and take it to the next iterations and the next level.&nbsp;</p>
-
-
-
-<p><strong>Josepha Haden Chomphosy&nbsp; </strong>21:56</p>
-
-
-
-<p>Beautiful. Well, Matt, thank you so much for joining me today. This was a wonderful conversation. My friends, this has been Matt Mullenweg, WordPress project co-founder, and project lead.</p>
-
-
-
-<p><strong>Matt Mullenweg&nbsp; </strong>22:08</p>
-
-
-
-<p>Thank you so much for having me.</p>
-
-
-
-<p><strong>Josepha Haden Chomphosy&nbsp; </strong>22:17</p>
-
-
-
-<p>Thank you for tuning in today to the WordPress Briefing. I hope that conversation made you as excited as I am about this new adventure that we&#8217;re embarking on with CC Search and that whole team. I&#8217;m going to put in the show notes a few links to where you can find them, where they&#8217;re doing their work, what you can collaborate on, and also some notes about the tech stack that goes into it. I&#8217;m your host, Josepha Haden Chomphosy.Thanks again for joining me and I&#8217;ll see you in a couple of weeks.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Mon, 10 May 2021 12:00:42 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:15:"Chloe Bringmann";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:44;a:6:{s:4:"data";s:13:"
-	
-	
-	
-	
-	
-	
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:133:"Gutenberg Times: Introduction to Global Styles, Block-based Themes and Two weeks of virtual WordPress events – Weekend Edition #168";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:35:"https://gutenbergtimes.com/?p=17764";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:138:"https://gutenbergtimes.com/introduction-to-global-styles-block-based-themes-and-two-weeks-of-virtual-wordpress-events-weekend-edition-168/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:16152:"<p>Howdy,  my friends! </p>
-
-
-
-<p>Hope you are all well. This week was a little less hectic, nevertheless again lots of information to digest about the block-editor and the upcoming WordPress 5.8 release. </p>
-
-
-
-
-
-<p>Today, you&#8217;ll find some great actionable tutorial, articles and tools. Again, I marvel at the extraordinary generosity of the people in the WordPress community from around the World. If you find something that&#8217;s useful to you, please let the authors. Most of them have a Twitter account that&#8217;s linked with the link to their contribution. </p>
-
-
-
-<p>Be well, be safe! </p>
-
-
-
-<p>Yours, 💕 <br />Birgit </p>
-
-
-
-<h2>Updates from the Gutenberg and Core Teams</h2>
-
-
-
-<p><strong>Anne McCarthy</strong> posted the summary of finding of the <a href="https://make.wordpress.org/test/2021/05/06/fse-program-query-quest-summary/">Query Quest</a>. This time, a 3 or so dozen user from Japan took part in this call for testing.  Members on the Italian Polyglott team translated the call, too. The circle of people testing has expanded quite a bit. </p>
-
-
-
-<p>McCarthy also had two reminders for you: </p>
-
-
-
-<ul><li>The second round Call for questions is still open &#8211; <a href="https://make.wordpress.org/test/2021/04/28/fse-program-bring-your-questions-round-two/">send in your FSE question and concerns.</a> Deadline is May 12, 2021 </li><li>The next call for testing will be published on May 12, 2021 on the <a href="https://make.wordpress.org/test/">Make blog of the Test team,</a> so clear out an afternoon in your week and reserve it for the next WordPress testing round. You&#8217;d be helping improve software, used by many, many millions of users. </li></ul>
-
-
-
-<hr class="wp-block-separator is-style-wide" />
-
-
-
-<p><strong>Hector Pietro</strong>, technical lead on the Gutenberg project Phase 2, <a href="https://make.wordpress.org/core/2021/05/07/whats-next-in-gutenberg-may-2021/">published the focus post for the team for May 2021.</a> There are no particular surprises listed, as the focus is getting a few projects ready to be merged with Core, but this post also aims beyond the feature Freeze on May 19 for block-editor features, RC 10.7. For Theme builders and developers, he also has a section on what particularly we all need to be aware of. </p>
-
-
-
-<hr class="wp-block-separator is-style-wide" />
-
-
-
-<p>In anticipation, that the Widget block editor will land in WordPress Core, contributors <strong><a href="https://twitter.com/hellofromTonya">Tonya Mork</a></strong> and <strong>Andrew Ozz</strong> published the <strong><a href="https://wordpress.org/plugins/classic-widgets/">Classic Widget Screen plugin</a>,</strong> that allows you to opt-out of the new feature. Plugin and Theme developers can opt-out via this code snippet <code>remove_theme_support('widgets-block-editor')</code>.<a href="https://github.com/WordPress/classic-widgets"> Connect via GitHub</a> for issues and contributions. <strong>Justin Tadlock</strong> took the plugin for a spin and wrote a review: <a href="https://wptavern.com/classic-widgets-plugin-disables-wordpress-5-8s-upcoming-block-based-widgets-system">Classic Widgets Plugin Disables WordPress 5.8’s Upcoming Block-Based Widgets System</a>. </p>
-
-
-
-
-<p>🎙️ <a href="https://gutenbergtimes.com/podcast/changelog-43-block-patterns-directory/"><strong>Episode #43 is now available with Show notes and transcript</strong></a> Greg and I discussed Gutenberg 10.5, the Block Patterns Directory and a Call for Testing for WordPress 5.8 Release. </p>
-
-
-
-<hr class="wp-block-separator is-style-wide" />
-
-
-
-<p><strong>Subscribe to the Gutenberg Changelog via your favorite podcast apps! </strong><br />🎙️ <a href="https://open.spotify.com/show/620NwVKQJGdTupy36zYxvg?mc_cid=4b6c9f88fe">Spotify</a> | <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9ndXRlbmJlcmd0aW1lcy5jb20vZmVlZC9wb2RjYXN0">Google</a> | <a href="https://podcasts.apple.com/us/podcast/gutenberg-changelog/id1469294475">iTunes</a> | <a href="https://pca.st/podcast/f8445ec0-7508-0137-f267-1d245fc5f9cf">PocketCasts</a> | <a href="https://www.stitcher.com/show/gutenberg-changelog">Stitcher</a> | <br />🎙️ <a href="https://www.podbean.com/podcast-detail/chi7j-9904a/Gutenberg-Changelog-Podcast">Pod Bean</a> | <a href="https://castbox.fm/channel/Gutenberg-Changelog-id2173375">CastBox</a> | <a href="https://www.podchaser.com/podcasts/gutenberg-changelog-878239/">Podchaser</a> | <a href="https://gutenbergtimes.com/feed/podcast">RSS Feed</a>&nbsp;</p>
-
-
-
-<div class="wp-block-image"><img /></div>
-
-
-
-<p>If you have been a listener, please <a href="https://lovethepodcast.com/gutenbergchangelog">write a review </a>on iTunes, Stitcher, Podchaser or Castbox. We would love to read from you, and more reviews help with the distributions.</p>
-
-
-
-
-<p>Speaking of podcasts: Grzegorz (Greg) Ziokowski and I talked with <strong><a href="https://twitter.com/palmiak_fp">Maciek Palmowski</a></strong> of WP Owl, about <strong><a href="https://wpowls.co/podcast/contributing-to-wordpress/">Contributing to WordPress</a></strong>, the inaugural episode for the new podcast WP Owlcast. We talked about the ins and outs of contributing to WordPress &#8211; about the various teams, how to get started, how to pace yourself, Five For the Future and so much more. </p>
-
-
-
-
-<p><strong>&nbsp;<a href="https://make.wordpress.org/core/handbook/references/keeping-up-with-gutenberg-index/" target="_blank" rel="noreferrer noopener">&#8220;Keeping up with Gutenberg &#8211; Index 2021&#8221;</a>&nbsp;</strong><br />A chronological list of the WordPress Make Blog posts from various teams involved in Gutenberg development: Design, Theme Review Team, Core Editor, Core JS, Core CSS, Test and Meta team from Jan. 2021 on. <a href="https://make.wordpress.org/core/handbook/references/keeping-up-with-gutenberg-index/keeping-up-with-gutenberg-index-2020/">The index 2020 is here</a></p>
-
-
-
-
-<h2>Building block-based Themes</h2>
-
-
-
-<p><a href="https://twitter.com/Adelina_Tuca"><strong>Adelina Tuca</strong></a> of Themeisle interviewed <strong>Tammie Lister</strong>, design co-lead of Phase 1 of the block editor, now design lead at Extendify. <a href="https://themeisle.com/blog/tammie-lister-interview/">&#8220;We Made Themes Become Plugins by Forcing Them to Have Functionality That Shouldn’t Be There</a>&#8220;, Lister is quoted. It&#8217;s a great discussion around the reset on how themes are developed with the block-editor and how it will not only change the creativity and productivity, but also user experience for content creators.</p>
-
-
-
-<hr class="wp-block-separator is-style-wide" />
-
-
-
-<p><strong>Riad Benguella </strong>posted an <strong><a href="https://riad.blog/2021/05/05/introduction-to-wordpresss-global-styles-and-global-settings/">Introduction to WordPress’s Global Styles and Global Settings</a>.</strong> You can learn more about the thoughts behind the theme.json implementation for connecting your theme with all the block-editor features. For the first time in WordPress there is now a standard way for plugin block builders to be considerate about the theme developers design decisions and tap into its settings and styles. Be aware, although the theme.json implementation with come to WordPress core with 5.8, the Global Styles will still be experimental, so if you use them, they might change. </p>
-
-
-
-<p><strong><a href="https://twitter.com/carolinapoena">Carolina Nymark</a></strong><a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=CarolinaNymark.wordpress-block-markup" rel="noreferrer noopener"> </a>turned  <a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=CarolinaNymark.wordpress-block-markup" rel="noreferrer noopener"><strong>her block markup snippets into </strong></a><strong><a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=CarolinaNymark.wordpress-block-markup" rel="noreferrer noopener">VS Code</a> extension</strong> with it, you can add blocks to your full site editing templates faster by typing the name of the block and have VS Code auto-complete it for you. </p>
-
-
-
-
-<p><strong><a href="https://gutenbergtimes.com/need-a-zip-from-master/">Need a plugin .zip from Gutenberg&#8217;s main (trunk) branch?</a></strong><br />Gutenberg Times provides daily build for testing and review. <br />Have you been using it? Hit reply and let me know.</p>
-
-
-
-<p><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/bph/gutenberg/total?style=for-the-badge" /></p>
-
-
-
-
-<p> </p>
-
-
-
-<h2>Block Editor for Content Creators</h2>
-
-
-
-<p>If you are just now evaluating if the block editor is mature enough for your future client projects, or the right tool for your content production processes, <strong>Sam Wendland</strong> for WordPress VIP has some more in depth information:  <a href="https://wpvip.com/2021/04/09/how-the-wordpress-gutenberg-block-editor-empowers-enterprise-content-creators/"><strong>&#8220;How the WordPress Gutenberg Block Editor Empowers Enterprise Content Creators&#8221;</strong></a>.</p>
-
-
-
-<h2>Block building for Developers </h2>
-
-
-
-<p><a href="https://twitter.com/wpmark"><strong>Mark Wilkinson</strong> </a> of Highrise Digital share the <a href="https://www.youtube.com/watch?v=7HZ"><strong>10 lessons he learned from developing WordPress sites with the block editor</strong></a> in this video. He also posted a <a href="https://twitter.com/wpmark/status/1390594183271002112">Thread on Twitter</a> </p>
-
-
-
-<hr class="wp-block-separator is-style-wide" />
-
-
-
-<p><a href="https://twitter.com/kasparsdambis"><strong>Kaspars Dambis</strong> </a>from <strong>XWP</strong> describes how to manage dependencies when creating your Gutenberg blocks in his post: <a href="https://xwp.co/javascript-dependencies-wordpress-blocks/"><strong>Managing Javascript Dependencies for WordPress Blocks</strong></a></p>
-
-
-
-<hr class="wp-block-separator is-style-wide" />
-
-
-
-<p>In his tutorial <a href="https://millan.dev/2021/05/02/tutorial-convert-shortcodes-into-blocks"><strong>Convert Shortcodes into blocks</strong></a> <strong><a href="https://twitter.com/milangd">Milan Petrovic</a></strong> explains how to reuse shortcodes code and develop blocks for the block editor with support for sidebar settings</p>
-
-
-
-<h2 id="wpevents">Upcoming WordPress Events</h2>
-
-
-
-<p><strong>10 &#8211; 14 May 2021</strong><br /><a href="https://pagebuildersummit.com?rpid=2&rpr=161"><strong>Page Builder Summit 2021</strong></a><br />Gutenberg is part of it with the following sessions: </p>
-
-
-
-<ul class="has-small-font-size"><li><strong>How to turn Gutenberg into a Page Builder with Stackable</strong> w/ Benjamin Intal</li><li><strong>Don’t Compete with Gutenberg &#8211; Embrace It</strong> w/ Danielle Zarcaro</li><li><strong>Google&#8217;s Core Web Vitals &#8211; Get Green With Gutenberg</strong> w/ Jake Pfohl</li><li><strong>Creating newsletters in the Gutenberg block editor</strong> w/ Lesley Sim</li><li><strong>Building Fast, Block-Based Landing Pages</strong> w/ Mike Oliver</li><li><strong>Panel &#8211; Preparing for the future of WordPress </strong>&#8211; Supported by WordPress.com &#8211; Marjorie Asturias, Anne McCarthy and Donna Cavalier</li></ul>
-
-
-
-<hr class="wp-block-separator is-style-wide" />
-
-
-
-<p><strong>&nbsp;May 22-23, 2021</strong><br /><strong><a href="https://neo.wordcamp.org/2021/">WordCamp Northeast Ohio Region</a></strong><br />Two sessions and a Lighting talk about Gutenberg are on the <a href="https://neo.wordcamp.org/2021/schedule/">schedule </a></p>
-
-
-
-<ul class="has-small-font-size"><li><strong>Anatomy of a Block Theme for Full Site Editing </strong>w/ Daisy Olson </li><li><strong>Web Components in WP, Gutenberg and as HTML plugins</strong> w/ Craig West </li><li><strong>Lightning Talk: The power of reusable blocks w/ Daisy Olson</strong> </li></ul>
-
-
-
-<hr class="wp-block-separator is-style-wide" />
-
-
-
-<p><strong>May 24-28, 2021</strong><br /><strong><a href="https://wordsesh.com/?uid=6471">WordSesh 2021</a></strong><br />The <a href="https://wordsesh.com/#schedule">session schedule</a> is now available, too. Here is the list of Gutenberg talks: </p>
-
-
-
-<ul class="has-small-font-size"><li><strong>Blazing Fast Block Development</strong> w/ Lee Shadle </li><li><strong>Building Custom Block</strong>s w/ Rob Stinson</li><li><strong>Block-Based Themes</strong> – <strong>The Future Of Full Site Editing In WordPress</strong> w/ </li><li><strong>How the Block Editor Makes It Easier to Build Custom Websites</strong> w/ Danielle Zarcaro </li><li><strong>Build your own Block-Based&nbsp;Theme</strong> w/ Daisy Olsen (Workshop)</li></ul>
-
-
-
-<hr class="wp-block-separator is-style-wide" />
-
-
-
-<p><strong>June 7 &#8211; 9th, 2021</strong><br /><strong><a href="https://europe.wordcamp.org/2021/">WordCamp Europe</a></strong><br />A virtual event and contributor day. <a href="https://europe.wordcamp.org/2021/call-for-sponsors/">Call for sponsors is open.</a></p>
-
-
-
-<p><strong>June 20 &#8211; 26</strong><br /><strong><a href="https://japan.wordcamp.org/2021/">WordCamp Japan</a></strong><br /><em>The schedule has been posted. Most sessions will be in Japanese, with exceptions, I think&#8230; </em></p>
-
-
-
-<p><strong>July 17 + 18th, 2021</strong><br /><strong><a href="https://santaclarita.wordcamp.org/2021/">WordCamp Santa Clarita</a></strong><br />Calls for speakers (May 30th), sponsors, volunteers and organizers are open. </p>
-
-
-
-<p><strong>June 24 &#8211; 26, 2021</strong><br /><strong><a href="https://cochabamba.wordcamp.org/2021/">WordCamp Cochabama</a></strong> (Colombia) </p>
-
-
-
-<p><strong>July 23, 2021</strong><br /><a href="https://www.wordfest.live/"><strong>WordFest Live </strong></a>&#8211; <em>The&nbsp;</em>festival of WordPress<br />Call for Speakers is now open and submissions are due on May 24th, 2021</p>
-
-
-
-<p><strong>September 21 + 22, 2021</strong><br /><a href="https://2021.wpcampus.org/"><strong>WPCampus 2021 Online</strong></a><br />&#8220;A free online conference for web accessibility and WordPress in higher education.&#8221; <a href="https://2021.wpcampus.org/proposals">Call for Proposal is up</a> and proposal are due May 26, 2021</p>
-
-
-
-<hr class="wp-block-separator is-style-wide" />
-
-
-
-<p>On the<a href="https://wpcalendar.io/online/"> <strong>Calendar for WordPress Online Events</strong> </a>you can browse a list of the upcoming WordPress Meetups, around the world, including WooCommerce, Elementor, Divi Builder and Beaver Builder meetups. </p>
-
-
-
-
-<p><em>Featured image: <a target="_blank" rel="noreferrer noopener" href="https://www.flickr.com/photos/116417508@N06/32958126080">&#8220;Tiny City Block Building&#8221;</a>&nbsp;by&nbsp;<a href="https://www.flickr.com/photos/116417508@N06" target="_blank" rel="noreferrer noopener">Matt Henry photos</a>&nbsp;is licensed under&nbsp;<a href="https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich" target="_blank" rel="noreferrer noopener">CC BY 2.0</a></em></p>
-
-
-
-
-
-<hr class="wp-block-separator is-style-wide" />
-
-
-
-<p class="has-text-align-left"><strong>Don&#8217;t want to miss the next Weekend Edition? </strong></p>
-
-
-
-<form class="wp-block-newsletterglue-form ngl-form ngl-portrait" action="https://gutenbergtimes.com/feed/" method="post"><div class="ngl-form-container"><div class="ngl-form-field"><label class="ngl-form-label" for="ngl_email"><br />Type in your Email address to subscribe.</label><div class="ngl-form-input"><input type="email" class="ngl-form-input-text" name="ngl_email" id="ngl_email" /></div></div><button class="ngl-form-button">Subscribe</button><p class="ngl-form-text">We hate spam, too and won&#8217;t give your email address to anyone except Mailchimp to send out our Weekend Edition</p></div><div class="ngl-message-overlay"><div class="ngl-message-svg-wrap"></div><div class="ngl-message-overlay-text">Thanks for subscribing.</div></div><input type="hidden" name="ngl_list_id" id="ngl_list_id" value="26f81bd8ae" /><input type="hidden" name="ngl_double_optin" id="ngl_double_optin" value="yes" /></form>
-
-
-
-<hr class="wp-block-separator is-style-wide" />";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Sat, 08 May 2021 20:23:41 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:18:"Birgit Pauli-Haack";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:45;a:6:{s:4:"data";s:13:"
-	
-	
-	
-	
-	
-	
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:71:"WPTavern: A Laptop and a Dream: Your Home Office Should Meet Your Needs";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=116269";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:185:"https://wptavern.com/a-laptop-and-a-dream-your-home-office-should-meet-your-needs?utm_source=rss&utm_medium=rss&utm_campaign=a-laptop-and-a-dream-your-home-office-should-meet-your-needs";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:4142:"<img />
-
-
-
-<p class="has-drop-cap">I began my journey into remote work while teaching English as a Second Language (ESL) in South Korea. I was 23 years old at the time. By day, I spent my time wrangling elementary and middle-school kids. At night, I was writing tutorials, building themes and plugins, and taking any work that landed on my [figurative] desk.</p>
-
-
-
-<p>My home office was my entire home, a spartan, one-bedroom/living/kitchen apartment. My workstation was a bed with several pillows piled up for back support.</p>
-
-
-
-<p>My first client contract was signed, developed, and completed on that bed. I made a mere $300 for creating a per-post thumbnail system for a popular blog (yes, I way undervalued my work). This was long before WordPress launched its featured image system.</p>
-
-
-
-<p>I was living the dream. Young and hungry, I took whatever odd jobs I could in preparation for eventually running my own WordPress-related business. Some nights, I would put in eight hours or more. On the weekends, I rarely actually slept in that bed. It had become my office chair. My lap was my desk.</p>
-
-
-
-<p>In the back of my mind, I suppose I always thought I would get a <em>proper</em> office. It would have all the bells and whistles like separate monitors for different tasks instead of tabs on a single screen. I would have the best mic and speaker setup &mdash; including the kitchen sink.</p>
-
-
-
-<p>After nearly a decade and a half, I realized I never needed all of that stuff. My laptop and I got along just fine. Of course, like many people, I tend to get stuck in my ways, looking for any excuse to not change.</p>
-
-
-
-<p>When I see articles like &ldquo;<a href="https://www.cnn.com/2021/03/18/success/home-office-design-setup-remote-work/index.html">It&rsquo;s been a year. Here&rsquo;s what your home office should look like</a>,&rdquo; written by Kathryn Vasel for CNN Business, I tend to cringe before diving into it. There are some good takes in the article, such as getting natural light, taking breaks, and adjusting your posture.</p>
-
-
-
-<p>My idea of &ldquo;what your home office should look like&rdquo; is that it should be what makes you feel comfortable with the tools that allow you to do the job. For some folks, that is a laptop and a standing desk. For others, it includes specialized audio and video equipment.</p>
-
-
-
-<p>If you can afford it, I would at least recommend getting a good office chair. If you sit at a desk much of the day, skimp on the desk and other tools first.</p>
-
-
-
-<p>On the subject of affordability, it is also good to be mindful that a home office is a luxury, a privilege that few have. Like that small-town Alabama boy with his $400 Walmart computer in Korea, sometimes people just have to get by with what they have on hand.</p>
-
-
-
-<p>Now, 14 years later, I do have a home office. Like the first, it is spartan. It has the tools I need, and that is what I love about it. I do not spend all day in it. I prefer to move around from spot to spot.</p>
-
-
-
-<ul><li class="blocks-gallery-item"><img />Simple desk and chair.</li><li class="blocks-gallery-item"><img />Cats included.</li></ul>
-
-
-
-<p>On days like today, those with mid-70s temps (Fahrenheit for all the non-Americans) and a slight breeze in the air, I like to sit on the back patio. I enjoy the birds singing. It is a good time of the year to watch the little ones learn to forage their own food. I keep an eye on the squirrels, making sure their mischievousness is limited to sneaking a few nuts from the bird feeders.</p>
-
-
-
-<p>It is also another reason I have always preferred a laptop over a desktop. Its utility allows me to lug it from the couch or desk to a spot outside amid nature.</p>
-
-
-
-<p>While much of the world&rsquo;s workforce is still figuring this whole remote, work-from-home thing out, many in the WordPress community have this down to a science. Or, at least, they know what works for them. I would love to hear and see (share pics in the comments &mdash; <a href="https://wordpress.org/support/article/embeds/#okay-so-what-sites-can-i-embed-from">embeds are enabled</a>) what your home offices are like.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Fri, 07 May 2021 22:23:53 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:14:"Justin Tadlock";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:46;a:6:{s:4:"data";s:13:"
-	
-	
-	
-	
-	
-	
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:95:"WPTavern: Classic Widgets Plugin Disables WordPress 5.8’s Upcoming Block-Based Widgets System";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=116237";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:229:"https://wptavern.com/classic-widgets-plugin-disables-wordpress-5-8s-upcoming-block-based-widgets-system?utm_source=rss&utm_medium=rss&utm_campaign=classic-widgets-plugin-disables-wordpress-5-8s-upcoming-block-based-widgets-system";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:4042:"<p class="has-drop-cap">Yesterday, WordPress released a core plugin named <a href="https://wordpress.org/plugins/classic-widgets/">Classic Widgets</a>. Core contributors Tonya Mork and Andrew Ozz created the plugin under the WordPress Contributors account. It allows end-users to disable the upcoming block-based widgets system. Support is expected through 2022 or as long as necessary according to the plugin description.</p>
-
-
-
-<p>Decided last month by a small group of core leads following a demo, <a href="https://wptavern.com/full-site-editing-is-partly-a-go-for-wordpress-5-8">WordPress 5.8 will ship several sub-components</a> from its Full Site Editing project. FSE encompasses several self-contained parts that grant users broader control over the design and layout of their sites. One of those pieces is an overhaul of the widgets system.</p>
-
-
-
-<p>Widgets will one day become a legacy feature of the platform. However, they are not disappearing any time soon. During the transition from the pre-block era of WordPress to the eventual incorporation of all the sub-components of FSE, users and theme developers will sometimes need smaller stepping stones. Block-based widgets give users more ways to work with blocks outside of the post content area without diving head-first into an entire block-based experience.</p>
-
-
-
-<p>This is the first time many in the larger WordPress user community will be exposed to blocks in a new context. The editor that launched in WordPress 5.0 focused solely on the post content. The widgets system in 5.8 turns classic sidebars into block containers.</p>
-
-
-
-<p>In short, users will be able to stick any block in any sidebar.</p>
-
-
-
-<img />Block-based widgets screen.
-
-
-
-<p>This is a welcome step in transitioning users in the long run, especially those who use classic themes, which is still the majority of all users. However, there are cases where the Classic Widgets plugin will be necessary. The biggest will be:</p>
-
-
-
-<ul><li>Broken themes or quirky output.</li><li>Users simply preferring the old system.</li></ul>
-
-
-
-<p>Whatever the case may be, the plugin handles the switch.</p>
-
-
-
-<p>For those wondering why the core development team is not making sure block-based widgets work with all themes, it is because the two systems are not exactly alike. Plus, every theme design handles its sidebar output in its own way. There is no way to ensure 100% coverage.</p>
-
-
-
-<p>Many themes will have no issues at all. Some sidebars, depending on the design, could entirely break down. More likely than broken, custom sidebar and widget designs could simply look &ldquo;off&rdquo; on the front end.</p>
-
-
-
-<p>For example, compare a Heading block followed by the Archives block (first image) against the classic Archives widget (second image) when using the Twenty Fifteen theme:</p>
-
-
-
-<ul><li class="blocks-gallery-item"><img />Block &ldquo;widget&rdquo;</li><li class="blocks-gallery-item"><img />Classic widget</li></ul>
-
-
-
-<p>The typography of the Heading is different, and there is too much space below it. That is not an end-of-the-world scenario. It is the sort of quirk that may be common with many themes, at least until theme authors have had time to push out updates.</p>
-
-
-
-<h2>What Happens When Activating the Plugin?</h2>
-
-
-
-<img />Classic widgets screen.
-
-
-
-<p class="has-drop-cap">Classic Widgets has no settings screen or anything to configure. It is a set-it-and-forget-it plugin. Its goal is to simply return users to the traditional widgets system in which they are familiar.</p>
-
-
-
-<p>If you start using the new block-based widgets system, you will lose all of your widget blocks upon activating the plugin. There is no going back, so be sure this is what you want. The former blocks will not reappear if you change your mind and deactivate Classic Widgets.</p>
-
-
-
-<p>However, if you add traditional widgets to your theme&rsquo;s sidebars while the plugin is active, you will not lose them. They will still appear on both the front and back end if you deactivate the plugin.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 06 May 2021 21:39:24 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:14:"Justin Tadlock";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:47;a:6:{s:4:"data";s:13:"
-	
-	
-	
-	
-	
-	
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:101:"WPTavern: Dark Mode Plugin Repurposed and Renamed to WP Markdown Editor, Change Leaves Users Confused";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=116107";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:245:"https://wptavern.com/dark-mode-plugin-repurposed-and-renamed-to-wp-markdown-editor-change-leaves-users-confused?utm_source=rss&utm_medium=rss&utm_campaign=dark-mode-plugin-repurposed-and-renamed-to-wp-markdown-editor-change-leaves-users-confused";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:8671:"<p class="has-drop-cap">Last year, I asked Tavern readers if WordPress should <a href="https://wptavern.com/should-wordpress-notify-users-of-plugin-ownership-changes">notify end-users when a plugin&rsquo;s owner changes</a>. The post was not entirely based on theory. There have been some cases of real-world confusion. The consensus from the comments on that post seemed to be that, yes, such notifications would be welcome.</p>
-
-
-
-<p>When I wrote that post, there was already another plugin changing hands. <a href="https://wordpress.org/plugins/dark-mode/">Dark Mode</a>, which had grown in popularity in its earlier years, had a new owner, WPPool. There were no public notifications of this ownership change. A mere <a href="https://github.com/azizultex/Dark-Mode/issues/173">GitHub issue filed</a>, a corner of the web that few users venture.</p>
-
-
-
-<p>Fast forward a few months, and Dark Mode had not only changed owners, but it also had a new name and set of features unrelated to the plugin&rsquo;s original promise. The plugin is now named WP Markdown Editor and bundles at least part of the commercially available <a href="https://useiceberg.com/">Iceberg Editor plugin</a>. It is also a limited version in which users are prompted to upgrade for the complete feature set.</p>
-
-
-
-<img />WP Markdown Editor (formerly Dark Mode).
-
-
-
-<p>Iceberg is licensed under the GPL version 2, so it is legal for anyone to fork it. However, there does not seem to be any mention of the copyright, and only a few references to the original product remain in the source code.</p>
-
-
-
-<p>While I did not perform a line-by-line comparison, it is clearly a fork when examining both plugins. However, the company has also built upon it with new features.</p>
-
-
-
-<img />Iceberg Editor.
-
-
-
-<p>&ldquo;We have recently added productivity sounds, new fonts (more legibility and one for Dyslexic users), which we think definitely adds value to new users,&rdquo; said the WPPool Team<sup><a href="https://wptavern.com/feed#footnote-1">[1]</a></sup>.</p>
-
-
-
-<p>WPPool <a href="https://wppool.dev/introducing-wp-markdown-editor/">announced the WP Markdown Editor plugin</a> in November 2020. However, the post was written as if it was a new product. Technically, it was, but there was no mention of repurposing an existing plugin to launch the features.</p>
-
-
-
-<p>The company reached out to the Dark Mode plugin owner in August 2020, which seemed to have changed hands a couple of times, at least. &ldquo;The plugin was discontinued, lacking security updates, compatibility with latest PHP versions, and the project was abandoned,&rdquo; said the WP Pool Team.&rdquo; And, since the last few updates, it was apparent that Classic Editor is not going to stay the same. Gutenberg was the future, and we wanted to give users a Dark Mode for Gutenberg as well.&rdquo;</p>
-
-
-
-<p>WPPool was able to adopt the plugin. The company kept the Dark Mode feature original to the plugin. However, they eventually began tacking on new features.</p>
-
-
-
-<p>&ldquo;Our intention was to add more features on top of it,&rdquo; said the WPPool Team. &ldquo;Why not create a new plugin? Because the plugin was already being abandoned, and we thought why not add some more features, keep the old functionality intact as well, and put regular updates?&rdquo;</p>
-
-
-
-<p>The change clearly left some users frustrated and confused about what was happening with the plugin. Many had installed it in hopes of having a simple method of toggling on a dark mode for the WordPress admin interface.</p>
-
-
-
-<img /><a href="https://wordpress.org/support/plugin/dark-mode/reviews/">Reviews</a> after the change.
-
-
-
-<p>The plugin now has an &ldquo;Only Dark Mode&rdquo; setting, an option that users can enable to remove the additional features. It is disabled by default.</p>
-
-
-
-<p>When asked about whether the addition of seemingly unrelated features abused user trust, the WPPool Team replied, &ldquo;The problem was, since the last few updates of Gutenberg and Classic Editor &mdash; Classic Editor uses an iframe to load its content. It&rsquo;s not possible for the Dark Mode plugin to serve the Dark Mode in Classic Editor anymore. That&rsquo;s why some users were really frustrated. We really tried hard to restore that functionality to Classic Editor as well, but the way it is, we couldn&rsquo;t find a way to invoke Dark Mode on Classic Editor.&rdquo;</p>
-
-
-
-<p>While some support questions and reviews indicate the frustration with losing Classic Editor support, many others questioned the addition of features that make little sense as part of a dark-mode plugin.</p>
-
-
-
-<p>&ldquo;This used to be a dark mode feature plugin, but now it&rsquo;s been turned into a Markdown editor,&rdquo; <a href="https://wordpress.org/support/topic/markdown-editor-3/">wrote Derrick Tennant</a>, an earlier contributor to the plugin. &ldquo;A complete bait and switch.&rdquo;</p>
-
-
-
-<p>Another user named <em>rehoff</em> <a href="https://wordpress.org/support/topic/another-one-bites-the-dust-2/#post-14197364">had similar concerns</a>, stating, &ldquo;I still believe that it is not ok to so radically repurpose an otherwise popular plugin. I find it misleading.&rdquo;</p>
-
-
-
-<p>Back to the original question I posed last year, another user summed up the answer with a review titled &ldquo;<a href="https://wordpress.org/support/topic/this-plugin-has-been-sold-for-sure/">This plugin has been sold for sure</a>.&rdquo;</p>
-
-
-
-<p>In private, one person has said that it feels like the team is capitalizing on the plugin&rsquo;s active install base, which currently sits at 3,000+.</p>
-
-
-
-<p>Adding to the potential confusion, the company has a separate and unrelated plugin named <a href="https://wordpress.org/plugins/wp-dark-mode/">WP Dark Mode</a>. A <a href="https://wordpress.org/support/topic/do-not-install-deceptive-developer/">reviewer noted on that plugin</a>:</p>
-
-
-
-<blockquote class="wp-block-quote"><p>This same developer had another plugin called Dark Mode. They apparently sold the plugin to someone and now it&rsquo;s a random Markdown plugin with a terrible UI. All of a sudden, this random Markdown editor that I don&rsquo;t want or need is on my site.</p><p>Who knows what this plugin will become when they get enough users and decide to CA$H IN AGAIN??</p><p>If you like having random plugins installed on your site, give it a whirl. Otherwise it may be best to look for a different solution.</p></blockquote>
-
-
-
-<p>This case is unique because the Dark Mode plugin was once a <a href="https://wptavern.com/dark-mode-is-possibly-coming-to-a-wordpress-dashboard-near-you">feature proposal for core WordPress</a>. Daniel James, the original creator, started the process to make this a reality in 2018. There was support for the idea, but it never jumped the hurdles needed for inclusion or a more formal proposal.</p>
-
-
-
-<p>James put the plugin <a href="https://wptavern.com/dark-mode-wordpress-plugin-up-for-adoption">up for adoption in 2019</a>, stating that he was stepping back from plugin development but hoped that someone would pick it up. David Gwyer <a href="https://wptavern.com/dark-mode-wordpress-plugin-up-for-adoption#comment-282848">picked it up</a> shortly after, eventually making two updates to the plugin. The plugin&rsquo;s <a href="https://plugins.trac.wordpress.org/log/dark-mode/">commit history</a> shows that Tennant started contributing several months later before WPPool landed on the scene.</p>
-
-
-
-<p>While Dark Mode was never officially endorsed by WordPress or given the green light for merging into the core platform, there was still a level of trust that some might expect from a plugin that was at least proposed as a feature.</p>
-
-
-
-<p>Perhaps this is one of those cases where an ownership-change notification would have been warranted, but that notice would not have solved the issues that came months later.</p>
-
-
-
-<p>The developers did note the new Markdown editor in the plugin&rsquo;s change log: &ldquo;New: Write post/ page with markdown syntax (Markdown Editor).&rdquo; However, it is doubtful the average user read or understood what that meant. Maybe a more thorough disclosure system is necessary, and would such a system cover cases where plugins are repurposed?</p>
-
-
-
-<hr class="wp-block-separator" />
-
-
-
-<p id="footnote-1"><strong>1:</strong> I have attributed quotes to the &ldquo;WPPool Team&rdquo; throughout this article. I was able to reach the company through their Facebook chat. However, the team did not provide a person&rsquo;s name and role within the company for attribution. At the moment, I still do not know which employee(s) I spoke with directly.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 05 May 2021 22:51:13 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:14:"Justin Tadlock";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:48;a:6:{s:4:"data";s:13:"
-	
-	
-	
-	
-	
-	
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:87:"WPTavern: Jetpack 9.7 Makes More Features Available without Connecting to WordPress.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=116112";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:219:"https://wptavern.com/jetpack-9-7-makes-more-features-available-without-connecting-to-wordpress-com?utm_source=rss&utm_medium=rss&utm_campaign=jetpack-9-7-makes-more-features-available-without-connecting-to-wordpress-com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:2707:"<p><a href="https://jetpack.com/2021/05/04/97-improvements-for-your-site/">Jetpack 9.7</a> was released today with updates under the hood that ensure the plugin&rsquo;s blocks are compatible with the <a href="https://wordpress.org/news/2021/04/curious-about-full-site-editing/">full-site editing</a> features coming in WordPress 5.8. It also changes how sites access features that require the WordPress.com infrastructure.</p>
-
-
-
-<p>A <a href="https://github.com/Automattic/jetpack/pull/19637">pull request</a> merged in version 9.7 changes the connection flow to make Jetpack active as soon as the plugin enables a site level connection, instead of requiring a user to authenticate with WordPress.com in order for it to work. This is what the Jetpack team has been referring to as &ldquo;user-less&rdquo; in development.</p>
-
-
-
-<p>The <a href="https://github.com/Automattic/jetpack/pull/19614">copy has been updated</a> for this step so that after Jetpack is connected on a site level, it says, &ldquo;Jetpack is activated! Unlock more amazing features by connecting a user account.&rdquo; </p>
-
-
-
-<p>Jetpack users who connect their sites will immediately have access to Stats, Site Accelerator, most Jetpack blocks, widget visibility, SEO tools, Related Posts, Likes, and many more modules. Other features, such as Publicize, Activity Log, Monitor, and Backup require you to authorize Jetpack to perform these actions on your behalf.</p>
-
-
-
-<p>A new documentation <a href="https://jetpack.com/support/why-the-wordpress-com-connection-is-important-for-jetpack/">page</a> details why a WordPress.com connection is necessary for certain features, bringing more transparency to what has been a contentious topic in the past. The new page outlines which features are available for site connections versus authenticated WordPress.com accounts. These specific updates in 9.7 do not change any of the data or activity that Jetpack tracks or uses.</p>
-
-
-
-<p>The general public was not privy to the product discussion behind making more features immediately available to user-less accounts, but there are a few reasons this is a good business idea. It allows users to get started faster so they get hooked into using more features on their sites before being forced to connect to a WordPress.com account. This will likely reduce the number of users who install the plugin but decide not to move forward because of needing to connect an account.</p>
-
-
-
-<p>Jetpack 9.7 also brings performance improvements to the Carousel feature, several bug fixes for Instant Search, and more. The full list of enhancements and fixes can be found in the <a href="https://wordpress.org/plugins/jetpack/#developers">changelog</a>.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 05 May 2021 03:35:31 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Sarah Gooding";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:49;a:6:{s:4:"data";s:13:"
-	
-	
-	
-	
-	
-	
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:84:"WPTavern: It Is Time for WordPress Theme Authors To Step Up Their Block Pattern Game";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"https://wptavern.com/?p=116137";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:213:"https://wptavern.com/it-is-time-for-wordpress-theme-authors-to-step-up-their-block-pattern-game?utm_source=rss&utm_medium=rss&utm_campaign=it-is-time-for-wordpress-theme-authors-to-step-up-their-block-pattern-game";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:7703:"<p class="has-drop-cap">Going through my routine this week, I skimmed the latest WordPress theme releases and found a new project that supported the block editor.  It even shipped a few custom patterns. While the design was nothing extraordinary, it was a solid theme overall. However, after spending the better part of today writing about it, I did not think I could move forward with the story. Something was bugging me.</p>
-
-
-
-<p>It was the same thing I have felt with several others as of late. There were too many missed opportunities. The theme had the foundation, the underlying potential, to be more than it was.</p>
-
-
-
-<p>The theme had a commercial &ldquo;pro&rdquo; version that users could purchase. However, nearly every pro feature relied on old-school tactics of upselling extra theme options. The one exception was a block-related feature that will be free as part of the Global Styles component likely to ship with WordPress later this year.</p>
-
-
-
-<p>Where were the custom block styles? Where could a user snag some unique patterns? Extra nav menus, sidebars, color settings, and typography options are becoming less and less of a value-add for end-users. It is probably safe money right now, and I can understand the comfort of not taking too many chances.</p>
-
-
-
-<p>Theme authors need to start shifting gears. Upsells need to come in the form of features that will not be available from stock WordPress. Right now, that means building unique block patterns and styles.</p>
-
-
-
-<h2>Exploring Pattern Ideas</h2>
-
-
-
-<p class="has-drop-cap">In the last month, I have been tinkering with custom patterns. While I was in the design and development business for over a decade, what I was able to accomplish with the block editor alone &mdash; using no custom code &mdash; and a well-rounded block-ready theme is merely scratching the surface. We have far better talent in the WordPress community, and I want to see their artistry unleashed.</p>
-
-
-
-<p>It all started with the WP Tavern <a href="https://wptavern.com/podcast">Jukebox podcast</a> &mdash; you should check out episodes <a href="https://wptavern.com/podcast/1-josepha-haden-chomphosy-on-the-past-present-and-future-of-wordpress">#1</a> and <a href="https://wptavern.com/podcast/2-anne-mccarthy-on-how-full-site-editing-will-impact-wordpress">#2</a> if you have not heard them already. Nathan Wrigley, the new host, pushed me enough to put my design-and-dev cap back on to implement some features that he needed. Over the years, I have not worked much with podcasting or any type of audio. This was new territory for me. Ultimately, the podcast inspired me to think about audio patterns.</p>
-
-
-
-<p><em>What is possible with WordPress&rsquo;s editor today?</em></p>
-
-
-
-<p>I scoured the web for various layouts, looking for modern audio presentations. Numerous concepts were impossible for an end-user to implement from the editor alone. They would need extensive custom block styles from the themes themselves. And, there were several designs that I simply did not think could be done at all, but these typically had plugin-territory elements.</p>
-
-
-
-<p>However, I did find ideas that I could run with and make my own. I started with a simple audio file from <em>The Martian</em> soundtrack &mdash; I had re-watched the movie the night before and was on a David Bowie kick.</p>
-
-
-
-<img />Soundtrack single audio pattern.
-
-
-
-<p>It was simple. Just add Group, Columns, Image, Paragraph, Heading, Audio, and Social Icons blocks. I was happy with the result, and some of my Twitter followers <a href="https://twitter.com/justintadlock/status/1380199029955567623">responded positively</a>.</p>
-
-
-
-<p>Inspired by the support, I created an alternative layout. It was even simpler by adding Cover, Paragraph, Heading, Audio, and Social Icons blocks.</p>
-
-
-
-<img />Audio embed pattern nested in a Cover block.
-
-
-
-<p>Based on the original pattern, I built one that used a SoundCloud embed instead of the Audio block. I also created another with some alterations that catered more toward podcasters.</p>
-
-
-
-<ul><li class="blocks-gallery-item"><img /></li><li class="blocks-gallery-item"><img /></li></ul>SoundCloud audio and podcasting patterns.
-
-
-
-<p>As I dived deeper into this project, the more capable I became at creating layouts. I began to understand what some of the limitations were and piecing everything together around them.</p>
-
-
-
-<p>One of the most problematic areas with the editor is that it does not hand over enough spacing control. Therefore, I had to make liberal use of the Spacer block, something I prefer not to use because it relies on pixel units and puts an extra <code>&lt;div&gt;</code> into the markup. To build some patterns, I had to become a little less of a purist and just use the available tools.</p>
-
-
-
-<p>That change in mindset opened some more possibilities. I built a couple more audio-related block patterns. They were, again, simple layouts, but I wanted to make them stand out visually with imagery that end-users could add. The goal is to give users one-click access to pre-designed sections, starting points where people can showcase their own creativity.</p>
-
-
-
-<ul><li class="blocks-gallery-item"><img /></li><li class="blocks-gallery-item"><img /></li></ul>DJ and musician block patterns.
-
-
-
-<p>The next step was to start thinking beyond audio patterns. There is so much more others can do in that space. I wanted to venture out a bit more.</p>
-
-
-
-<p>I have since built several other patterns like the following news-type article header that I would love to use on the Tavern in the future:</p>
-
-
-
-<img />News or data-driven article header pattern.
-
-
-
-<p>I could share more concepts, but this seems like an ideal place to stop. The goal is not to showcase my portfolio of patterns. It is to inspire our theme design community in hopes that they build something far better. I also wanted to show how easy it was to pop out a few patterns. Instead of hours of development time, many ideas were cut down to mere minutes. That is the power the block system provides today.</p>
-
-
-
-<p>When I wrote about the block system creating <a href="https://wptavern.com/block-system-will-create-more-commercial-opportunities-for-wordpress-theme-authors">commercial opportunities for theme authors</a> in January, it was a theoretical post. This is a follow-up that puts it into a little more practice (without the actual selling, of course).</p>
-
-
-
-<p>Imagine, as a theme company, you are building a freemium theme for musicians. You might want to include a few base patterns for users to choose from. However, there is an endless number of alternatives you could offer as part of a pro package.</p>
-
-
-
-<p>I am sure there is already a theme author/company out there right now with a multi-purpose theme concept in mind that will eventually have hundreds of patterns. I can only hope that they have a solid categorization system or offer separate packages or imports.</p>
-
-
-
-<p>The <a href="https://wptavern.com/first-look-at-initial-designs-for-wordpress-block-pattern-directory">block pattern directory</a> is slated to land alongside WordPress 5.8. At first, it will primarily be core patterns. However, others will be encouraged to contribute over time. This is a welcome feature for the platform, but it will never match every theme design perfectly. Each theme has its own design nuances. Each has different methods of solving problems.</p>
-
-
-
-<p>The best patterns will come from theme authors themselves, especially when combined with custom block styles, packaged and marketed as part of their theme&rsquo;s experience. Developers can wait until the entire market catches up or jump ahead of the game.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Tue, 04 May 2021 23:08:02 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:14:"Justin Tadlock";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";O:42:"Requests_Utility_CaseInsensitiveDictionary":1:{s:7:" * data";a:8:{s:6:"server";s:5:"nginx";s:4:"date";s:29:"Sat, 29 May 2021 13:40:22 GMT";s:12:"content-type";s:8:"text/xml";s:4:"vary";s:15:"Accept-Encoding";s:13:"last-modified";s:29:"Sat, 29 May 2021 13:15:09 GMT";s:15:"x-frame-options";s:10:"SAMEORIGIN";s:4:"x-nc";s:9:"HIT ord 2";s:16:"content-encoding";s:4:"gzip";}}s:5:"build";s:14:"20201016172007";}}
+<p>Grab a slice of cake or festive beverage and give it a scroll!</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 27 May 2021 06:00:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:7:"Josepha";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";O:42:"Requests_Utility_CaseInsensitiveDictionary":1:{s:7:" * data";a:8:{s:6:"server";s:5:"nginx";s:4:"date";s:29:"Thu, 17 Jun 2021 00:50:17 GMT";s:12:"content-type";s:8:"text/xml";s:4:"vary";s:15:"Accept-Encoding";s:13:"last-modified";s:29:"Thu, 17 Jun 2021 00:30:09 GMT";s:15:"x-frame-options";s:10:"SAMEORIGIN";s:4:"x-nc";s:9:"HIT ord 2";s:16:"content-encoding";s:4:"gzip";}}s:5:"build";s:14:"20201016172007";}}
